@@ -1,0 +1,1205 @@
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/house-committee-demands-interviews-fema-employees-about-order-avoid-trump-supporters-houses
+Timestamp: 2024-11-18T15:52:05.537633
+{
+  "url": "https://www.foxnews.com/politics/house-committee-demands-interviews-fema-employees-about-order-avoid-trump-supporters-houses",
+  "timestamp": "2024-11-18T15:52:05.537633",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364841494112\" data-video-tags=\"on_air,on_air|big_weekend_show,personality,persona..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364841494112\" data-video-tags=\"on_air,on_air|big_weekend_show,personality,personality|lisa_boothe,personality|alicia_acuna,personality|tom_shillue,personality|sean_duffy,primary_politics\" data-video-title=\"Sean Duffy says FEMA director's congressional hearing is 'not going' to be 'pleasant'\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">5 mins ago</span>",
+      "text": "5 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">49 mins ago</span>",
+      "text": "49 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">54 mins ago</span>",
+      "text": "54 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/trump-allies-warn-biden-risking-world-war-iii-authorizing-long-range-missiles-ukraine
+Timestamp: 2024-11-18T15:52:06.190562
+{
+  "url": "https://www.foxnews.com/politics/trump-allies-warn-biden-risking-world-war-iii-authorizing-long-range-missiles-ukraine",
+  "timestamp": "2024-11-18T15:52:06.190562",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364864749112\" data-video-tags=\"on_air,on_air|faulkner_focus,personality,personali..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364864749112\" data-video-tags=\"on_air,on_air|faulkner_focus,personality,personality|harris_faulkner,primary_politics,politics|foreign_policy,world|conflicts|ukraine,politics|person|joe_biden\" data-video-title=\"Biden criticized for 'unusual' policy shifts in Ukraine: 'Not a good look'\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">6 mins ago</span>",
+      "text": "6 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">16 mins ago</span>",
+      "text": "16 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/dozens-state-financial-officials-warn-new-congress-national-security-implications-ignoring-us-debt
+Timestamp: 2024-11-18T15:52:06.292669
+{
+  "url": "https://www.foxnews.com/politics/dozens-state-financial-officials-warn-new-congress-national-security-implications-ignoring-us-debt",
+  "timestamp": "2024-11-18T15:52:06.292669",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6361962883112\" data-video-tags=\"on_air,on_air|cavuto_live,personality|neil_cavuto,..."
+    }
+  ],
+  "video_elements": [
+    "Found 2 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6361962883112\" data-video-tags=\"on_air,on_air|cavuto_live,personality|neil_cavuto,us|economy,us,primary_politics,primary_us\" data-video-title=\"‘Nobody’ is talking about the US’s rising debt: Steve Ballmer\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6361962883112\"><picture data-v-543741ec=\"\"><source...",
+      "duration_spans": [],
+      "time_displays": []
+    },
+    {
+      "container_number": 2,
+      "html": "<div class=\"video-container\"><div class=\"m video-player\" data-video-domain=\"foxnews\" data-video-id=\"6355800776112\" data-video-tags=\"on_air,politics,primary_us,us,politics|elections|presidential_debates\" data-video-title=\"Biden: Trump had the largest national debt\" data-video-type=\"CLIP\" data-widget-type=\"embed\" style=\"width: 100%; height: 100%;\"><a href=\"https://www.foxnews.com/video/6355800776112\" style=\"width: 100%; height: 100%; position: absolute;\"><img alt=\"Biden: Trump had the largest nati...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">11 mins ago</span>",
+      "text": "11 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">56 mins ago</span>",
+      "text": "56 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/republicans-file-12-pennsylvania-lawsuits-aggressive-push-end-recount
+Timestamp: 2024-11-18T15:52:06.429540
+{
+  "url": "https://www.foxnews.com/politics/republicans-file-12-pennsylvania-lawsuits-aggressive-push-end-recount",
+  "timestamp": "2024-11-18T15:52:06.429540",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364351936112\" data-video-tags=\"on_air,on_air|reporter_hit,personality,personality..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364351936112\" data-video-tags=\"on_air,on_air|reporter_hit,personality,personality|bryan_llenas,primary_politics,politics,politics|elections,politics|elections_states|pennsylvania\" data-video-title=\"Pennsylvania Senate race entering recount territory\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">5 mins ago</span>",
+      "text": "5 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">50 mins ago</span>",
+      "text": "50 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">54 mins ago</span>",
+      "text": "54 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/gop-cries-foul-dem-border-spending-bill-say-would-drag-out-migrant-crisis
+Timestamp: 2024-11-18T15:52:06.507472
+{
+  "url": "https://www.foxnews.com/politics/gop-cries-foul-dem-border-spending-bill-say-would-drag-out-migrant-crisis",
+  "timestamp": "2024-11-18T15:52:06.507472",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364676251112\" data-video-tags=\"primary_opinion,on_air,on_air|the_ingraham_angle,p..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364676251112\" data-video-tags=\"primary_opinion,on_air,on_air|the_ingraham_angle,personality|laura_ingraham\" data-video-title=\"Safety starts with border security, former border official says\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364676251112\"><picture data-v-543741ec=\"\"><source data-v-543741...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">3 mins ago</span>",
+      "text": "3 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">13 mins ago</span>",
+      "text": "13 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">58 mins ago</span>",
+      "text": "58 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/biden-asks-congress-98-billion-helene-milton-disaster-relief-funding
+Timestamp: 2024-11-18T15:52:06.594665
+{
+  "url": "https://www.foxnews.com/politics/biden-asks-congress-98-billion-helene-milton-disaster-relief-funding",
+  "timestamp": "2024-11-18T15:52:06.594665",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364742433112\" data-video-tags=\"on_air,on_air|fox_friends_first,personality,person..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364742433112\" data-video-tags=\"on_air,on_air|fox_friends_first,personality,personality|carley_shimkus,primary_us,us|disasters|hurricanes_typhoons\" data-video-title=\"NC family struggling to access FEMA resources after losing home to Hurricane Helene\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/63647...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">4 mins ago</span>",
+      "text": "4 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">14 mins ago</span>",
+      "text": "14 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">58 mins ago</span>",
+      "text": "58 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/hovde-concedes-12-days-after-wisconsin-senate-race-call-blames-dem-recruited-3rd-party-candidate
+Timestamp: 2024-11-18T15:52:07.060217
+{
+  "url": "https://www.foxnews.com/politics/hovde-concedes-12-days-after-wisconsin-senate-race-call-blames-dem-recruited-3rd-party-candidate",
+  "timestamp": "2024-11-18T15:52:07.060217",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364743320112\" data-video-tags=\"on_air,on_air|fox_friends_first,personality,person..."
+    }
+  ],
+  "video_elements": [
+    "Found 2 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364743320112\" data-video-tags=\"on_air,on_air|fox_friends_first,personality,personality|todd_piro,primary_politics,politics|trump_transition,politics|person|donald_trump\" data-video-title=\"RNC 'excited' about working with Senate Republicans to confirm Trump's Cabinet picks\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www...",
+      "duration_spans": [],
+      "time_displays": []
+    },
+    {
+      "container_number": 2,
+      "html": "<div class=\"video-container\"><div class=\"m video-player\" data-video-domain=\"foxnews\" data-video-id=\"6364308111112\" data-video-tags=\"primary_politics,on_air|america_reports,politics|elections\" data-video-title=\"Tammy Baldwin retains Wis. Senate seat, defeating Eric Hovde, Fox News projects\" data-video-type=\"CLIP\" data-widget-type=\"embed\" style=\"width: 100%; height: 100%;\"><a href=\"https://www.foxnews.com/video/6364308111112\" style=\"width: 100%; height: 100%; position: absolute;\"><img alt=\"Tammy B...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">44 mins ago</span>",
+      "text": "44 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">49 mins ago</span>",
+      "text": "49 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">57 mins ago</span>",
+      "text": "57 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/rubio-sets-timetable-naming-rubio-senate-successor-amid-calls-trump-fill-seat
+Timestamp: 2024-11-18T15:52:07.138541
+{
+  "url": "https://www.foxnews.com/politics/rubio-sets-timetable-naming-rubio-senate-successor-amid-calls-trump-fill-seat",
+  "timestamp": "2024-11-18T15:52:07.138541",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364664541112\" data-video-tags=\"on_air,on_air|the_story_with_martha_maccallum,pers..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364664541112\" data-video-tags=\"on_air,on_air|the_story_with_martha_maccallum,personality,personality|martha_maccallum,personality|aisah_hasnie,primary_politics,politics,politics|elections,politics|trump_transition,politics|person|donald_trump,politics|executive_branch|white_house,politics|executive_branch\" data-video-title=\"Trump picks Rubio for Secretary of ...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">43 mins ago</span>",
+      "text": "43 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">48 mins ago</span>",
+      "text": "48 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">56 mins ago</span>",
+      "text": "56 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/trump-declaring-national-emergency-border-would-not-lead-militarization-country-expert-says
+Timestamp: 2024-11-18T15:52:07.233215
+{
+  "url": "https://www.foxnews.com/politics/trump-declaring-national-emergency-border-would-not-lead-militarization-country-expert-says",
+  "timestamp": "2024-11-18T15:52:07.233215",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364769953112\" data-video-tags=\"primary_politics,on_air,on_air|america_reports,us|..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364769953112\" data-video-tags=\"primary_politics,on_air,on_air|america_reports,us|immigration,us|immigration|illegal_immigrants,politics|trump_transition,politics|person|donald_trump\" data-video-title=\"Trump's proposed policies will make border 'more secure' and 'protect' Americans, Texas sheriff says\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">46 mins ago</span>",
+      "text": "46 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">51 mins ago</span>",
+      "text": "51 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">59 mins ago</span>",
+      "text": "59 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/youngest-house-republican-elect-reveals-how-gop-won-back-americas-youth
+Timestamp: 2024-11-18T15:52:07.553906
+{
+  "url": "https://www.foxnews.com/politics/youngest-house-republican-elect-reveals-how-gop-won-back-americas-youth",
+  "timestamp": "2024-11-18T15:52:07.553906",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364864507112\" data-video-tags=\"fnd|original,web_exclusives,politics|house_represe..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364864507112\" data-video-tags=\"fnd|original,web_exclusives,politics|house_representatives,politics|elections|house,3play_processed\" data-video-title=\"30-year-old House Republican explains why young voters are moving to GOP\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364864507112\"><picture data-v-...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">46 mins ago</span>",
+      "text": "46 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">51 mins ago</span>",
+      "text": "51 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">59 mins ago</span>",
+      "text": "59 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/house-ethics-committee-meet-wednesday-after-postponing-gaetz-investigation-meeting
+Timestamp: 2024-11-18T15:52:07.733074
+{
+  "url": "https://www.foxnews.com/politics/house-ethics-committee-meet-wednesday-after-postponing-gaetz-investigation-meeting",
+  "timestamp": "2024-11-18T15:52:07.733074",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364842694112\" data-video-tags=\"on_air,on_air|sunday_night_in_america,personality,..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364842694112\" data-video-tags=\"on_air,on_air|sunday_night_in_america,personality,personality|trey_gowdy,personality|karl_rove,personality|guy_benson,primary_politics,primary_us\" data-video-title=\"Karl Rove says it's 'highly unlikely' Matt Gaetz gets confirmed\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">9 mins ago</span>",
+      "text": "9 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">54 mins ago</span>",
+      "text": "54 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">59 mins ago</span>",
+      "text": "59 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/democratic-effort-block-biden-weapons-sale-israel-gains-momentum-congress-must-step-up
+Timestamp: 2024-11-18T15:52:07.813595
+{
+  "url": "https://www.foxnews.com/politics/democratic-effort-block-biden-weapons-sale-israel-gains-momentum-congress-must-step-up",
+  "timestamp": "2024-11-18T15:52:07.813595",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364378538112\" data-video-tags=\"on_air,on_air|fox_news_@night,personality,personal..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364378538112\" data-video-tags=\"on_air,on_air|fox_news_@night,personality,personality|trace_gallager,primary_world\" data-video-title=\"Hamas is 'almost finished,' says Israeli Ambassador to the UN\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364378538112\"><picture data-v-543741ec=\"\"><source data-v-5...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">3 mins ago</span>",
+      "text": "3 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">48 mins ago</span>",
+      "text": "48 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">53 mins ago</span>",
+      "text": "53 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/absolute-lawlessness-gop-blasts-pa-dems-recount-effort-casey-senate-loss
+Timestamp: 2024-11-18T15:52:07.895618
+{
+  "url": "https://www.foxnews.com/politics/absolute-lawlessness-gop-blasts-pa-dems-recount-effort-casey-senate-loss",
+  "timestamp": "2024-11-18T15:52:07.895618",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364247266112\" data-video-tags=\"on_air,on_air|fox_friends,politics|elections_state..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364247266112\" data-video-tags=\"on_air,on_air|fox_friends,politics|elections_states|pennsylvania,politics|elections|presidential,politics|person|donald_trump,personality|bryan_llenas\" data-video-title=\"Republicans feeling good in Pennsylvania swing county\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">41 mins ago</span>",
+      "text": "41 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">46 mins ago</span>",
+      "text": "46 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">54 mins ago</span>",
+      "text": "54 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/spending-bill-trouble-brews-sen-mike-lee-warns-christmas-swampbus
+Timestamp: 2024-11-18T15:52:07.965091
+{
+  "url": "https://www.foxnews.com/politics/spending-bill-trouble-brews-sen-mike-lee-warns-christmas-swampbus",
+  "timestamp": "2024-11-18T15:52:07.965091",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364861696112\" data-video-tags=\"primary_politics,politics,politics|senate,politics..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364861696112\" data-video-tags=\"primary_politics,politics,politics|senate,politics|senate|republicans,politics|trump_transition,politics|executive_branch|cabinet,on_air,on_air|americas_newsroom,personality,personality|dana_perino\" data-video-title=\"Sen. Tom Cotton urges Senate to 'work promptly' to process Trump Cabinet picks\" data-video-type=\"CLIP\" data-widge...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">2 mins ago</span>",
+      "text": "2 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">47 mins ago</span>",
+      "text": "47 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">51 mins ago</span>",
+      "text": "51 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/homan-fires-back-after-congressional-hispanic-caucus-chair-says-group-oppose-mass-deportations-game-on
+Timestamp: 2024-11-18T15:52:08.085628
+{
+  "url": "https://www.foxnews.com/politics/homan-fires-back-after-congressional-hispanic-caucus-chair-says-group-oppose-mass-deportations-game-on",
+  "timestamp": "2024-11-18T15:52:08.085628",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364800761112\" data-video-tags=\"on_air,on_air|fox_news_live,personality,personalit..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364800761112\" data-video-tags=\"on_air,on_air|fox_news_live,personality,personality|griff_jenkins,primary_us,us,us|crime,us|immigration,politics,politics|trump_transition\" data-video-title=\"Tom Homan on Laken Riley trial: The Biden admin has ‘blood on their hands’\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews....",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">4 mins ago</span>",
+      "text": "4 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">14 mins ago</span>",
+      "text": "14 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">58 mins ago</span>",
+      "text": "58 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/harris-campaign-costs-star-studded-events-election-eve-ballooned-over-10m-report
+Timestamp: 2024-11-18T15:52:08.167293
+{
+  "url": "https://www.foxnews.com/politics/harris-campaign-costs-star-studded-events-election-eve-ballooned-over-10m-report",
+  "timestamp": "2024-11-18T15:52:08.167293",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364771985112\" data-video-tags=\"primary_politics,on_air|special_report,personality..."
+    }
+  ],
+  "video_elements": [
+    "Found 2 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364771985112\" data-video-tags=\"primary_politics,on_air|special_report,personality|peter_doocy,politics|person|kamala_harris\" data-video-title=\"Kamala Harris campaign reportedly spent millions on events and left Democrats with a bill\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364771985112\"><pictu...",
+      "duration_spans": [],
+      "time_displays": []
+    },
+    {
+      "container_number": 2,
+      "html": "<div class=\"video-container\"><div class=\"m video-player\" data-video-domain=\"foxnews\" data-video-id=\"6364695297112\" data-video-tags=\"on_air,on_air|fox_friends_first,personality,personality|carley_shimkus,personality|todd_piro,primary_politics,politics|person|kamala_harris\" data-video-title=\"Kamala Harris' campaign at odds with DNC after reportedly accruing $20 million in debt\" data-video-type=\"CLIP\" data-widget-type=\"embed\" style=\"width: 100%; height: 100%;\"><a href=\"https://www.foxnews.com/video...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">9 mins ago</span>",
+      "text": "9 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">53 mins ago</span>",
+      "text": "53 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">58 mins ago</span>",
+      "text": "58 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/biden-touts-six-fold-climate-funding-increase-under-his-administration-a-defining-cause-my-presidency
+Timestamp: 2024-11-18T15:52:08.366707
+{
+  "url": "https://www.foxnews.com/politics/biden-touts-six-fold-climate-funding-increase-under-his-administration-a-defining-cause-my-presidency",
+  "timestamp": "2024-11-18T15:52:08.366707",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364855716112\" data-video-tags=\"live_stream\" data-video-title=\"WATCH LIVE: Biden a..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364855716112\" data-video-tags=\"live_stream\" data-video-title=\"WATCH LIVE: Biden arrives in Rio for G20 summit of world’s top economies\" data-video-type=\"LIVE\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364855716112\"><picture data-v-543741ec=\"\"><source data-v-543741ec=\"\" media=\"(max-width: 767px)\" srcset=\"https://a57.fo...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">9 mins ago</span>",
+      "text": "9 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">53 mins ago</span>",
+      "text": "53 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">58 mins ago</span>",
+      "text": "58 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/trump-confirms-support-major-step-mass-deportation-push-reverse-biden-invasion
+Timestamp: 2024-11-18T15:52:08.462983
+{
+  "url": "https://www.foxnews.com/politics/trump-confirms-support-major-step-mass-deportation-push-reverse-biden-invasion",
+  "timestamp": "2024-11-18T15:52:08.462983",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364800761112\" data-video-tags=\"on_air,on_air|fox_news_live,personality,personalit..."
+    }
+  ],
+  "video_elements": [
+    "Found 2 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364800761112\" data-video-tags=\"on_air,on_air|fox_news_live,personality,personality|griff_jenkins,primary_us,us,us|crime,us|immigration,politics,politics|trump_transition\" data-video-title=\"Tom Homan on Laken Riley trial: The Biden admin has ‘blood on their hands’\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews....",
+      "duration_spans": [],
+      "time_displays": []
+    },
+    {
+      "container_number": 2,
+      "html": "<div class=\"video-container\"><div class=\"m video-player\" data-video-domain=\"foxnews\" data-video-id=\"6364824150112\" data-video-tags=\"on_air,on_air|fox_friends_weekend,personality|johnny_jones,primary_us,us,politics,politics|trump_transition,politics|executive_branch|cabinet,us|immigration,us|immigration|illegal_immigrants,us|immigration|enforcement,us|immigration|deportation,us|immigration|border_security\" data-video-title=\"Trump has an embarrassment of riches which he can choose from for key imm...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">44 mins ago</span>",
+      "text": "44 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">49 mins ago</span>",
+      "text": "49 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">57 mins ago</span>",
+      "text": "57 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/charity-leaders-slam-biden-admins-response-us-planes-shot-haiti-amid-chaos-what-we-doing
+Timestamp: 2024-11-18T15:52:08.538362
+{
+  "url": "https://www.foxnews.com/politics/charity-leaders-slam-biden-admins-response-us-planes-shot-haiti-amid-chaos-what-we-doing",
+  "timestamp": "2024-11-18T15:52:08.538362",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364718738112\" data-video-tags=\"fnd|original,web_exclusives,3play_processed\" data-..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364718738112\" data-video-tags=\"fnd|original,web_exclusives,3play_processed\" data-video-title=\"Jack Brewer speaks out on threats against Americans in Haiti\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364718738112\"><picture data-v-543741ec=\"\"><source data-v-543741ec=\"\" media=\"(max-width: 767px)\" sr...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">6 mins ago</span>",
+      "text": "6 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">51 mins ago</span>",
+      "text": "51 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">56 mins ago</span>",
+      "text": "56 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/trump-says-media-vital-making-america-great-again-vows-work-free-fair-open-press
+Timestamp: 2024-11-18T15:52:08.618442
+{
+  "url": "https://www.foxnews.com/politics/trump-says-media-vital-making-america-great-again-vows-work-free-fair-open-press",
+  "timestamp": "2024-11-18T15:52:08.618442",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364856380112\" data-video-tags=\"on_air,on_air|fox_friends_first,personality,person..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364856380112\" data-video-tags=\"on_air,on_air|fox_friends_first,personality,personality|carley_shimkus,primary_politics\" data-video-title=\"Trump urged to 'put parents back in the driver's seat' by abolishing Department of Education\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364856380112\"><picture...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">4 mins ago</span>",
+      "text": "4 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">14 mins ago</span>",
+      "text": "14 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">59 mins ago</span>",
+      "text": "59 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/size-slim-republican-house-majority-hangs-5-uncalled-races
+Timestamp: 2024-11-18T15:52:08.966727
+{
+  "url": "https://www.foxnews.com/politics/size-slim-republican-house-majority-hangs-5-uncalled-races",
+  "timestamp": "2024-11-18T15:52:08.966727",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364768398112\" data-video-tags=\"primary_politics,on_air|your_world,personality|nei..."
+    }
+  ],
+  "video_elements": [
+    "Found 2 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364768398112\" data-video-tags=\"primary_politics,on_air|your_world,personality|neil_cavuto,personality|chad_pergram,politics|trump_transition\" data-video-title=\"House Republicans nervous about their thin margin next year\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364768398112\"><picture data-v-543...",
+      "duration_spans": [],
+      "time_displays": []
+    },
+    {
+      "container_number": 2,
+      "html": "<div class=\"video-container\"><div class=\"m video-player\" data-video-domain=\"foxnews\" data-video-id=\"6364802103112\" data-video-tags=\"on_air,on_air|fox_news_live,personality,personality|chad_pergram,primary_politics,politics|person|donald_trump,politics|trump_transition,politics|house_representatives,politics\" data-video-title=\"Trump taps House Republicans for cabinet amid concerns over slim majority\" data-video-type=\"CLIP\" data-widget-type=\"embed\" style=\"width: 100%; height: 100%;\"><a href=\"https...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">5 mins ago</span>",
+      "text": "5 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">15 mins ago</span>",
+      "text": "15 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">59 mins ago</span>",
+      "text": "59 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/fetterman-calls-out-uns-rank-pervasive-antisemitism-says-he-looks-forward-confirming-elise-stefanik
+Timestamp: 2024-11-18T15:52:09.080779
+{
+  "url": "https://www.foxnews.com/politics/fetterman-calls-out-uns-rank-pervasive-antisemitism-says-he-looks-forward-confirming-elise-stefanik",
+  "timestamp": "2024-11-18T15:52:09.080779",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364676525112\" data-video-tags=\"media,fnd|vi,3play_processed\" data-video-title=\"Se..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364676525112\" data-video-tags=\"media,fnd|vi,3play_processed\" data-video-title=\"Sen. Fetterman calls Trump's Gaetz pick a 'God-tier' level of 'trolling just to trigger a meltdown'\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364676525112\"><picture data-v-543741ec=\"\"><source data-v-543741ec=\"\" media...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">2 mins ago</span>",
+      "text": "2 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">47 mins ago</span>",
+      "text": "47 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">51 mins ago</span>",
+      "text": "51 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/federal-complaint-targets-boston-school-district-teacher-training-racism
+Timestamp: 2024-11-18T15:52:09.183213
+{
+  "url": "https://www.foxnews.com/politics/federal-complaint-targets-boston-school-district-teacher-training-racism",
+  "timestamp": "2024-11-18T15:52:09.183213",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364761059112\" data-video-tags=\"fnd|original,web_exclusives,3play_processed\" data-..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364761059112\" data-video-tags=\"fnd|original,web_exclusives,3play_processed\" data-video-title=\"School district faces civil rights complaint over Whites-only 'affinity group' about how to be less racist\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364761059112\"><picture data-v-543741ec=\"\"><source da...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">10 mins ago</span>",
+      "text": "10 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">55 mins ago</span>",
+      "text": "55 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/trumps-choice-fcc-chairman-agency-will-end-its-promotion-dei-next-year
+Timestamp: 2024-11-18T15:52:09.276838
+{
+  "url": "https://www.foxnews.com/politics/trumps-choice-fcc-chairman-agency-will-end-its-promotion-dei-next-year",
+  "timestamp": "2024-11-18T15:52:09.276838",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6361671982112\" data-video-tags=\"primary_politics,personality|paul_gigot,politics\" ..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6361671982112\" data-video-tags=\"primary_politics,personality|paul_gigot,politics\" data-video-title=\"Business Backs Away From DEI\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6361671982112\"><picture data-v-543741ec=\"\"><source data-v-543741ec=\"\" media=\"(max-width: 767px)\" srcset=\"https://a57.foxnews.c...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">9 mins ago</span>",
+      "text": "9 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">53 mins ago</span>",
+      "text": "53 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">58 mins ago</span>",
+      "text": "58 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
+
+================================================================================
+Debug information for URL: https://www.foxnews.com/politics/dod-policy-changes
+Timestamp: 2024-11-18T15:52:09.376181
+{
+  "url": "https://www.foxnews.com/politics/dod-policy-changes",
+  "timestamp": "2024-11-18T15:52:09.376181",
+  "html_snippets": [
+    {
+      "section": "article_content",
+      "found": true,
+      "html": "<div class=\"article-body\"><div class=\"featured featured-video video-ct\" data-v-543741ec=\"\"><div class=\"contain\" data-v-543741ec=\"\"><div class=\"control\" data-v-543741ec=\"\"><a class=\"top\" data-v-543741ec=\"\" href=\"#\"></a> <a class=\"close\" data-v-543741ec=\"\" href=\"#\">close</a></div> <div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364664196112\" data-video-tags=\"personality|will_cain,on_air|the_will_cain_show\" d..."
+    }
+  ],
+  "video_elements": [
+    "Found 1 video containers",
+    {
+      "container_number": 1,
+      "html": "<div class=\"video-container\" data-v-543741ec=\"\"><div class=\"m video-player\" data-v-543741ec=\"\" data-video-domain=\"foxnews\" data-video-id=\"6364664196112\" data-video-tags=\"personality|will_cain,on_air|the_will_cain_show\" data-video-title=\"Pete Hegseth tapped for Secretary of Defense! Cancels On The Will Cain Show! | Will Cain Show\" data-video-type=\"CLIP\" data-widget-type=\"embed\"><a data-v-543741ec=\"\" href=\"https://www.foxnews.com/video/6364664196112\"><picture data-v-543741ec=\"\"><source data-v-5437...",
+      "duration_spans": [],
+      "time_displays": []
+    }
+  ],
+  "duration_parsing": [],
+  "other_video_elements": [
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">8 mins ago</span>",
+      "text": "8 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">52 mins ago</span>",
+      "text": "52 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">57 mins ago</span>",
+      "text": "57 mins ago"
+    },
+    {
+      "type": "time_class",
+      "html": "<span class=\"time\">1 hour ago</span>",
+      "text": "1 hour ago"
+    }
+  ]
+}
