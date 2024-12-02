@@ -38,7 +38,6 @@ def get_article_details(url):
         image_count = 0
         image_sizes = []
         video_count = 0
-        pdf_count = 0
 
         if article_content:
             # Count images and gather their sizes, excluding ghost images
@@ -66,15 +65,11 @@ def get_article_details(url):
             video_containers = soup.find_all('div', {'class': 'video-container'})
             video_count = len(video_containers)
 
-            # Count PDFs
-            pdf_sections = article_content.find_all('div', {'class': 'pdf-container'})
-            pdf_count = len(pdf_sections)
-
-        return word_count, image_count, image_sizes, video_count, pdf_count
+        return word_count, image_count, image_sizes, video_count
 
     except requests.RequestException as e:
         print(f"Failed to fetch {url}: {e}")
-        return 0, 0, [], 0, 0
+        return 0, 0, [], 0
 
 def save_article_data_to_file(articles, filename="fox_news_articles.txt"):
     existing_articles = set()
@@ -91,12 +86,12 @@ def save_article_data_to_file(articles, filename="fox_news_articles.txt"):
                 title = article['title']
                 url = article['url']
                 published_date = article['published_date']
-                word_count, image_count, image_sizes, video_count, pdf_count = get_article_details(url)
+                word_count, image_count, image_sizes, video_count = get_article_details(url)
 
                 file.write(f"Title: {title}\nURL: {url}\nDate: {published_date}\n"
                            f"Word Count: {word_count} words\n"
                            f"Images: {image_count} (Sizes: {', '.join(image_sizes)})\n"
-                           f"Videos: {video_count}\nPDFs: {pdf_count}\n\n")
+                           f"Videos: {video_count}\n\n")
                 print(f"Added article: {title}")
 
 # Example usage
