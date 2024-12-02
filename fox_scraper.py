@@ -3,10 +3,30 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
+# Custom RSS links for specific categories
+CUSTOM_RSS_LINKS = {
+    "latest": "https://moxie.foxnews.com/google-publisher/latest.xml",
+    "world": "https://moxie.foxnews.com/google-publisher/world.xml",
+    "politics": "https://moxie.foxnews.com/google-publisher/politics.xml",
+    "science": "https://moxie.foxnews.com/google-publisher/science.xml",
+    "health": "https://moxie.foxnews.com/google-publisher/health.xml",
+    "sports": "https://moxie.foxnews.com/google-publisher/sports.xml",
+    "travel": "https://moxie.foxnews.com/google-publisher/travel.xml",
+    "tech": "https://moxie.foxnews.com/google-publisher/tech.xml",
+    "opinion": "https://moxie.foxnews.com/google-publisher/opinion.xml",
+    "video": "https://moxie.foxnews.com/google-publisher/videos.xml",
+}
+
+# Default base URL for RSS feeds
+DEFAULT_BASE_URL = "https://feeds.foxnews.com/foxnews/"
+
+# List of categories to scrape
+CATEGORIES = ["latest", "world", "politics", "science", "health", "sports", "travel", "tech", "opinion", "video"]
+
 def fetch_fox_news_articles(rss_url):
     feed = feedparser.parse(rss_url)
     if feed.bozo:
-        print("Failed to parse RSS feed.")
+        print(f"Failed to parse RSS feed for {rss_url}.")
         return []
 
     articles = [
@@ -40,13 +60,11 @@ def get_article_details(url):
         video_count = 0
 
         if article_content:
-            # Count images and gather their sizes, excluding ghost images
             images = article_content.find_all('img')
             for img in images:
                 width = img.get('width')
                 height = img.get('height')
 
-                # Exclude images with width=896 and height=500
                 if width and height:
                     try:
                         width_int = int(width)
@@ -54,14 +72,11 @@ def get_article_details(url):
                         if width_int == 896 and height_int == 500:
                             continue  # Skip the ghost image
                     except ValueError:
-                        # If width or height is not an integer, skip filtering
                         pass
 
-                # If not excluded, count the image
                 image_count += 1
                 image_sizes.append(f"{width}x{height}")
 
-            # Count videos
             video_containers = soup.find_all('div', {'class': 'video-container'})
             video_count = len(video_containers)
 
@@ -71,7 +86,27 @@ def get_article_details(url):
         print(f"Failed to fetch {url}: {e}")
         return 0, 0, [], 0
 
-def save_article_data_to_file(articles, filename="fox_news_articles.txt"):
+def update_total_articles_count(filename):
+    """Updates the total number of articles at the top of the file."""
+    if not os.path.exists(filename):
+        return  # No file to update
+
+    with open(filename, "r", encoding='utf-8') as file:
+        lines = file.readlines()
+
+    # Count the number of articles in the file
+    article_count = sum(1 for line in lines if line.startswith("Category:"))
+
+    # Update or add the total articles line
+    if lines and lines[0].startswith("Total Articles:"):
+        lines[0] = f"Total Articles: {article_count}\n"
+    else:
+        lines.insert(0, f"Total Articles: {article_count}\n")
+
+    with open(filename, "w", encoding='utf-8') as file:
+        file.writelines(lines)
+
+def save_article_data_to_file(articles, category, filename="fox_news_articles.txt"):
     existing_articles = set()
     if os.path.exists(filename):
         with open(filename, "r", encoding='utf-8') as file:
@@ -80,6 +115,7 @@ def save_article_data_to_file(articles, filename="fox_news_articles.txt"):
                     url = line.split("URL: ")[1].strip()
                     existing_articles.add(url)
 
+    new_articles_added = 0
     with open(filename, "a", encoding='utf-8') as file:
         for article in articles:
             if article['url'] not in existing_articles:
@@ -88,14 +124,23 @@ def save_article_data_to_file(articles, filename="fox_news_articles.txt"):
                 published_date = article['published_date']
                 word_count, image_count, image_sizes, video_count = get_article_details(url)
 
-                file.write(f"Title: {title}\nURL: {url}\nDate: {published_date}\n"
+                file.write(f"Category: {category}\nTitle: {title}\nURL: {url}\nDate: {published_date}\n"
                            f"Word Count: {word_count} words\n"
                            f"Images: {image_count} (Sizes: {', '.join(image_sizes)})\n"
                            f"Videos: {video_count}\n\n")
-                print(f"Added article: {title}")
+                print(f"Added article from {category}: {title}")
+                new_articles_added += 1
 
-# Example usage
+    # Update the total articles count after adding new articles
+    if new_articles_added > 0:
+        update_total_articles_count(filename)
+
+def scrape_all_categories():
+    for category in CATEGORIES:
+        rss_url = CUSTOM_RSS_LINKS.get(category, f"{DEFAULT_BASE_URL}{category}")
+        print(f"Scraping category: {category}")
+        articles = fetch_fox_news_articles(rss_url)
+        save_article_data_to_file(articles, category)
+
 if __name__ == "__main__":
-    rss_url = "https://feeds.foxnews.com/foxnews/world"
-    articles = fetch_fox_news_articles(rss_url)
-    save_article_data_to_file(articles)
+    scrape_all_categories()
