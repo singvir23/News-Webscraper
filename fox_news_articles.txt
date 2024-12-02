@@ -1,4 +1,4 @@
-Total Articles: 234
+Total Articles: 211
 Category: latest
 Title: Hunter Biden's confident demeanor in unearthed video raises questions about dad's pardon plans
 URL: https://www.foxnews.com/politics/hunter-bidens-confident-demeanor-unearthed-video-raises-questions-dads-pardon-plans
@@ -1671,203 +1671,20 @@ Word Count: 958 words
 Images: 3 (Sizes: 1200x675, NonexNone, NonexNone)
 Videos: 3
 
-Category: video
-Title: Miranda Devine: "[President Biden] always knew he was going to pardon [Hunter Biden]" | Will Cain Show
-URL: https://www.foxnews.com/video/6365435975112
-Date: Mon, 02 Dec 2024 16:03:14 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
 
-Category: video
-Title: Brian Walshe returns to court in murder case
-URL: https://www.foxnews.com/video/6365436260112
-Date: Mon, 02 Dec 2024 16:02:00 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
+Category: latest
+Title: Cyber Monday deals on health and wellness gifts: Check out these hot products on sale
+URL: https://www.foxnews.com/health/cyber-monday-deals-health-wellness-gifts-check-out-hot-products-sale
+Date: Mon, 02 Dec 2024 16:24:59 -0500
+Word Count: 468 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
 
-Category: video
-Title: Biden pardoning Hunter is his last 'middle finger' to the Democrat Party: Tomi Lahren
-URL: https://www.foxnews.com/video/6365435688112
-Date: Mon, 02 Dec 2024 16:00:40 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Are the Chicago Bears giving Caleb Williams enough support? | The Herd
-URL: https://www.foxnews.com/video/6365436967112
-Date: Mon, 02 Dec 2024 16:00:30 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Hunter Biden was given a 'free pass,' American people should be most disappointed by pardon, IRS whistleblower says
-URL: https://www.foxnews.com/video/6365436863112
-Date: Mon, 02 Dec 2024 16:00:19 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: MD sheriff sounds off after mayor floats defense for immigrants against Trump plans
-URL: https://www.foxnews.com/video/6365437335112
-Date: Mon, 02 Dec 2024 15:54:32 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: 'CyberGuy': Robotic shorts give your legs a boost to walk farther and tire less
-URL: https://www.foxnews.com/video/6365434597112
-Date: Mon, 02 Dec 2024 15:44:16 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: President Biden's pardon of son Hunter is a 'breathtaking act of contempt' for Americans, Jonathan Turley says
-URL: https://www.foxnews.com/video/6365435653112
-Date: Mon, 02 Dec 2024 15:43:34 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: AI power demand drains US electrical grid
-URL: https://www.foxnews.com/video/6365435008112
-Date: Mon, 02 Dec 2024 15:43:02 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Unearthed video raises questions about Hunter Biden's pardon
-URL: https://www.foxnews.com/video/6365433694112
-Date: Mon, 02 Dec 2024 15:23:59 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: 'Fox & Friends' reveal the 'perfect stocking stuffer' this Christmas
-URL: https://www.foxnews.com/video/6365435250112
-Date: Mon, 02 Dec 2024 15:06:07 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Did Lamar Jackson lose his chance for a third MVP with Ravens loss vs. Eagles? | The Facility
-URL: https://www.foxnews.com/video/6365434716112
-Date: Mon, 02 Dec 2024 14:26:28 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Zelenskyy proposes ending war in exchange for NATO membership
-URL: https://www.foxnews.com/video/6365433379112
-Date: Mon, 02 Dec 2024 14:25:59 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Outnumbered - Monday, December 2
-URL: https://www.foxnews.com/video/6365433727112
-Date: Mon, 02 Dec 2024 14:22:16 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Lydia Moynihan: This Whole Hunter Biden Thing Is Wild From Start To Finish
-URL: https://www.foxnews.com/video/6365433543112
-Date: Mon, 02 Dec 2024 14:21:21 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Were the Chiefs lucky to defeat the Raiders on Black Friday? | The Facility
-URL: https://www.foxnews.com/video/6365433143112
-Date: Mon, 02 Dec 2024 13:59:49 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Did the Eagles prove they're the best team in the NFC? | The Facility
-URL: https://www.foxnews.com/video/6365432866112
-Date: Mon, 02 Dec 2024 13:59:24 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: 'Of course I support the pardon of my son': First Lady Jill Biden
-URL: https://www.foxnews.com/video/6365432852112
-Date: Mon, 02 Dec 2024 13:54:31 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Americans say they want Trump to address the border during first 100 days
-URL: https://www.foxnews.com/video/6365426553112
-Date: Mon, 02 Dec 2024 13:41:10 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Steelers beat Bengals 44-38, How far can Russell Wilson take the Steelers? | The Herd
-URL: https://www.foxnews.com/video/6365431804112
-Date: Mon, 02 Dec 2024 13:24:53 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Bills beat 49ers, Is this their year to win the Super Bowl? | The Herd
-URL: https://www.foxnews.com/video/6365431240112
-Date: Mon, 02 Dec 2024 13:24:29 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: President Biden Lies! Hunter Biden Pardoned! With Miranda Devine | Will Cain Show
-URL: https://www.foxnews.com/video/6365432993112
-Date: Mon, 02 Dec 2024 13:23:45 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Karine Jean-Pierre defends Hunter Biden pardon
-URL: https://www.foxnews.com/video/6365430043112
-Date: Mon, 02 Dec 2024 13:12:36 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: Vivek Ramaswamy rips NYC for taxpayer-funded hotel for migrants: 'This is nuts'
-URL: https://www.foxnews.com/video/6365429782112
-Date: Mon, 02 Dec 2024 12:53:47 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: video
-Title: President Biden pardons son Hunter, sparing him possible prison sentence
-URL: https://www.foxnews.com/video/6365429883112
-Date: Mon, 02 Dec 2024 12:51:30 -0500
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
+Category: latest
+Title: Harvey Weinstein hospitalized after 'alarming blood test' as rep confirms leukemia diagnosis
+URL: https://www.foxnews.com/entertainment/harvey-weinstein-hospitalized-after-alarming-blood-test-rep-confirms-leukemia-diagnosis
+Date: Mon, 02 Dec 2024 16:19:22 -0500
+Word Count: 574 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
 

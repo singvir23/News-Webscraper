@@ -14,14 +14,13 @@ CUSTOM_RSS_LINKS = {
     "travel": "https://moxie.foxnews.com/google-publisher/travel.xml",
     "tech": "https://moxie.foxnews.com/google-publisher/tech.xml",
     "opinion": "https://moxie.foxnews.com/google-publisher/opinion.xml",
-    "video": "https://moxie.foxnews.com/google-publisher/videos.xml",
 }
 
 # Default base URL for RSS feeds
 DEFAULT_BASE_URL = "https://feeds.foxnews.com/foxnews/"
 
 # List of categories to scrape
-CATEGORIES = ["latest", "world", "politics", "science", "health", "sports", "travel", "tech", "opinion", "video"]
+CATEGORIES = ["latest", "world", "politics", "science", "health", "sports", "travel", "tech", "opinion"]
 
 def fetch_fox_news_articles(rss_url):
     feed = feedparser.parse(rss_url)
