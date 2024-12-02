@@ -47,9 +47,6 @@ def get_article_details(url):
                 width = img.get('width')
                 height = img.get('height')
 
-                # Debugging: Print image attributes (optional)
-                # print(f"Image found with width: {width}, height: {height}")
-
                 # Exclude images with width=896 and height=500
                 if width and height:
                     try:
