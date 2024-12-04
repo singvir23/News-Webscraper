@@ -2,6 +2,7 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 import os
+import re
 
 # Custom RSS links for specific categories
 CUSTOM_RSS_LINKS = {
@@ -11,16 +12,14 @@ CUSTOM_RSS_LINKS = {
     "science": "https://moxie.foxnews.com/google-publisher/science.xml",
     "health": "https://moxie.foxnews.com/google-publisher/health.xml",
     "sports": "https://moxie.foxnews.com/google-publisher/sports.xml",
-    "travel": "https://moxie.foxnews.com/google-publisher/travel.xml",
     "tech": "https://moxie.foxnews.com/google-publisher/tech.xml",
-    "opinion": "https://moxie.foxnews.com/google-publisher/opinion.xml",
 }
 
 # Default base URL for RSS feeds
 DEFAULT_BASE_URL = "https://feeds.foxnews.com/foxnews/"
 
 # List of categories to scrape
-CATEGORIES = ["latest", "world", "politics", "science", "health", "sports", "travel", "tech", "opinion"]
+CATEGORIES = ["latest", "world", "politics", "science", "health", "sports", "tech"]
 
 def fetch_fox_news_articles(rss_url):
     feed = feedparser.parse(rss_url)
@@ -40,7 +39,7 @@ def fetch_fox_news_articles(rss_url):
 
 def get_article_details(url):
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -74,7 +73,7 @@ def get_article_details(url):
                         pass
 
                 image_count += 1
-                image_sizes.append(f"{width}x{height}")
+                image_sizes.append(f"{width}x{height}" if width and height else "Unknown Size")
 
             video_containers = soup.find_all('div', {'class': 'video-container'})
             video_count = len(video_containers)
@@ -83,6 +82,9 @@ def get_article_details(url):
 
     except requests.RequestException as e:
         print(f"Failed to fetch {url}: {e}")
+        return 0, 0, [], 0
+    except Exception as e:
+        print(f"An error occurred while processing {url}: {e}")
         return 0, 0, [], 0
 
 def update_total_articles_count(filename):
@@ -123,10 +125,21 @@ def save_article_data_to_file(articles, category, filename="fox_news_articles.tx
                 published_date = article['published_date']
                 word_count, image_count, image_sizes, video_count = get_article_details(url)
 
-                file.write(f"Category: {category}\nTitle: {title}\nURL: {url}\nDate: {published_date}\n"
-                           f"Word Count: {word_count} words\n"
-                           f"Images: {image_count} (Sizes: {', '.join(image_sizes)})\n"
-                           f"Videos: {video_count}\n\n")
+                # Format image sizes
+                if image_sizes:
+                    image_sizes_str = ", ".join(image_sizes)
+                else:
+                    image_sizes_str = "No Images"
+
+                file.write(
+                    f"Category: {category}\n"
+                    f"Title: {title}\n"
+                    f"URL: {url}\n"
+                    f"Date: {published_date}\n"
+                    f"Word Count: {word_count} words\n"
+                    f"Images: {image_count} (Sizes: {image_sizes_str})\n"
+                    f"Videos: {video_count}\n\n"
+                )
                 print(f"Added article from {category}: {title}")
                 new_articles_added += 1
 
@@ -139,7 +152,10 @@ def scrape_all_categories():
         rss_url = CUSTOM_RSS_LINKS.get(category, f"{DEFAULT_BASE_URL}{category}")
         print(f"Scraping category: {category}")
         articles = fetch_fox_news_articles(rss_url)
-        save_article_data_to_file(articles, category)
+        if articles:
+            save_article_data_to_file(articles, category)
+        else:
+            print(f"No articles found for category: {category}")
 
 if __name__ == "__main__":
     scrape_all_categories()

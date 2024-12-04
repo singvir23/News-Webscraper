@@ -3,10 +3,21 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
+# Define a dictionary mapping categories to their respective RSS feed URLs
+CATEGORY_RSS_FEEDS = {
+    'world': 'http://rss.cnn.com/rss/edition_world.rss',
+    'politics': 'http://rss.cnn.com/rss/edition_politics.rss',
+    'science': 'http://rss.cnn.com/rss/edition_science.rss',
+    'health': 'http://rss.cnn.com/rss/edition_health.rss',
+    'sports': 'http://rss.cnn.com/rss/edition_sport.rss',
+    'tech': 'http://rss.cnn.com/rss/edition_technology.rss'  # Assuming 'technology' is the correct RSS feed
+}
+
 def fetch_cnn_articles(rss_url):
+    """Fetch articles from a given CNN RSS feed URL."""
     feed = feedparser.parse(rss_url)
     if feed.bozo:
-        print("Failed to parse RSS feed.")
+        print(f"Failed to parse RSS feed: {rss_url}")
         return []
 
     articles = [
@@ -20,6 +31,7 @@ def fetch_cnn_articles(rss_url):
     return articles
 
 def get_article_details(url):
+    """Extract word count, image count, image sizes, and video count from an article URL."""
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -32,7 +44,6 @@ def get_article_details(url):
         video_count = 0
 
         # Extract article content
-        # Each story is under a div with classes 'live-story-post liveStoryPost'
         stories = soup.find_all('div', class_='article__content-container')
         if not stories:
             print(f"No stories found for URL: {url}")
@@ -49,9 +60,28 @@ def get_article_details(url):
                 text = p.get_text(separator=' ', strip=True)
                 word_count += len(text.split())
 
-            # Extract images
-            images = story.find_all('img', class_='image__dam-img')
-            for img in images:
+            # Extract images with class 'image__dam-img'
+            images_dam_img = story.find_all('img', class_='image__dam-img')
+
+            # Extract images inside divs with class 'image_inline-small__container'
+            image_small_containers = story.find_all('div', class_='image_inline-small__container')
+            images_small = []
+            for container in image_small_containers:
+                imgs = container.find_all('img')
+                images_small.extend(imgs)
+
+            # Combine both image lists
+            all_images = images_dam_img + images_small
+
+            # To avoid counting duplicate images, we'll keep track of image sources
+            seen_images = set()
+
+            for img in all_images:
+                img_src = img.get('src')
+                if img_src in seen_images:
+                    continue  # Skip duplicate images
+                seen_images.add(img_src)
+
                 width = img.get('width')
                 height = img.get('height')
 
@@ -71,8 +101,8 @@ def get_article_details(url):
                 image_sizes.append(f"{width}x{height}" if width and height else "Unknown Size")
 
             # Extract videos
-            video_containers = soup.find_all('div', {'class': 'video-resource__wrapper'})
-            video_count = len(video_containers)
+            video_containers = story.find_all('div', {'class': 'video-resource__wrapper'})
+            video_count += len(video_containers)
 
         return word_count, image_count, image_sizes, video_count
 
@@ -80,7 +110,8 @@ def get_article_details(url):
         print(f"Failed to fetch {url}: {e}")
         return 0, 0, [], 0
 
-def save_article_data_to_file(articles, filename="cnn_articles.txt"):
+def save_article_data_to_file(articles, category, filename="cnn_articles.txt"):
+    """Save fetched article data to a file, avoiding duplicates."""
     existing_articles = set()
     if os.path.exists(filename):
         with open(filename, "r", encoding='utf-8') as file:
@@ -97,22 +128,33 @@ def save_article_data_to_file(articles, filename="cnn_articles.txt"):
                 published_date = article['published_date']
                 word_count, image_count, image_sizes, video_count = get_article_details(url)
 
-                file.write(f"Title: {title}\nURL: {url}\nDate: {published_date}\n"
+                file.write(f"Category: {category}\n")
+                file.write(f"Title: {title}\n")
+                file.write(f"URL: {url}\n")
+                file.write(f"Date: {published_date}\n"
                            f"Word Count: {word_count} words\n"
                            f"Images: {image_count} (Sizes: {', '.join(image_sizes) if image_sizes else 'N/A'})\n"
                            f"Videos: {video_count}\n\n")
-                print(f"Added article: {title}")
+                print(f"Added article: {title} (Category: {category})")
 
-# Example usage
-if __name__ == "__main__":
-    # CNN RSS feed URL for World News
-    rss_url = "http://rss.cnn.com/rss/edition_world.rss"
-    
-    # Fetch articles from CNN RSS feed
-    articles = fetch_cnn_articles(rss_url)
-    
-    if articles:
-        # Save fetched article data to file
-        save_article_data_to_file(articles, filename="cnn_articles.txt")
+def main():
+    """Main function to fetch and save articles from all categories."""
+    all_articles_fetched = False
+
+    for category, rss_url in CATEGORY_RSS_FEEDS.items():
+        print(f"Fetching articles for category: {category}")
+        articles = fetch_cnn_articles(rss_url)
+
+        if articles:
+            save_article_data_to_file(articles, category, filename="cnn_articles.txt")
+            all_articles_fetched = True
+        else:
+            print(f"No articles fetched for category: {category}")
+
+    if all_articles_fetched:
+        print("All articles have been fetched and saved.")
     else:
-        print("No articles fetched.")
+        print("No articles were fetched from any category.")
+
+if __name__ == "__main__":
+    main()
