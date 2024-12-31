@@ -1,4 +1,4 @@
-#!/Users/viraajsingh/Desktop/News-Webscraper/myenv/bin/python3.12
+#!/Users/viraajsingh/Desktop/Viraaj's_Projects/News-Webscraper/myenv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys

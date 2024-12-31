@@ -1,4 +1,4 @@
-Total Articles: 160
+Total Articles: 299
 Category: latest
 Title: Reporter's Notebook: People are policy
 URL: https://www.foxnews.com/politics/reporters-notebook-people-policy
@@ -1278,4 +1278,1116 @@ Date: Mon, 25 Nov 2024 18:02:15 -0500
 Word Count: 513 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 Videos: 1
+
+Category: latest
+Title: Wisconsin police search for convicted felon after multiple children found dead
+URL: https://www.foxnews.com/us/wisconsin-police-search-convicted-felon-after-multiple-children-found-dead
+Date: Tue, 31 Dec 2024 17:53:06 -0500
+Word Count: 262 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Jimmy Carter carried out this travel ritual 'every time' he boarded a flight
+URL: https://www.foxnews.com/travel/jimmy-carter-carried-out-travel-ritual-every-time-he-boarded-flight
+Date: Tue, 31 Dec 2024 17:48:28 -0500
+Word Count: 348 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Gwyneth Paltrow reflects on what she 'let go of' in 2024: 'Some people who were not right for me'
+URL: https://www.foxnews.com/entertainment/gwyneth-paltrow-reflects-what-she-let-go-of-2024-some-people-who-were-not-right-me
+Date: Tue, 31 Dec 2024 17:42:07 -0500
+Word Count: 802 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: NFL teams doing 'extensive homework' on Jon Gruden since controversial emails as offseason approaches: report
+URL: https://www.foxnews.com/sports/nfl-teams-doing-extensive-homework-jon-gruden-since-controversial-emails-offseason-approaches-report
+Date: Tue, 31 Dec 2024 17:37:00 -0500
+Word Count: 368 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Michigan defense shines as Wolverines upset Alabama in ReliaQuest Bowl
+URL: https://www.foxnews.com/sports/michigan-defense-shines-wolverines-upset-alabama-reliaquest-bowl
+Date: Tue, 31 Dec 2024 17:22:05 -0500
+Word Count: 291 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: The biggest Wi-Fi mistake you didn’t know you were making
+URL: https://www.foxnews.com/tech/biggest-wi-fi-mistake-you-didnt-know-you-were-making
+Date: Tue, 31 Dec 2024 17:14:55 -0500
+Word Count: 561 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: New Year's Eve storm could make Northern Lights visible in US as Americans ring in 2025
+URL: https://www.foxnews.com/travel/new-years-eve-storm-could-make-northern-lights-visible-us-americans-ring-2025
+Date: Tue, 31 Dec 2024 16:56:17 -0500
+Word Count: 647 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: LeBron James, now 40, says he can play at 'high level' for nearly another decade
+URL: https://www.foxnews.com/sports/lebron-james-now-40-says-he-can-play-high-level-nearly-another-decade
+Date: Tue, 31 Dec 2024 16:50:09 -0500
+Word Count: 339 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: 'Flying naked' and 'seat squatters' among this year's viral travel trends
+URL: https://www.foxnews.com/lifestyle/flying-naked-seat-squatters-among-years-viral-travel-trends
+Date: Tue, 31 Dec 2024 16:38:07 -0500
+Word Count: 163 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 0
+
+Category: latest
+Title: Migrants accused of killing Mexican border agent after he asked for their IDs: officials
+URL: https://www.foxnews.com/world/migrants-accused-killing-mexican-border-agent-after-asked-them-id-officials
+Date: Tue, 31 Dec 2024 16:31:43 -0500
+Word Count: 382 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Fox News Politics Newsletter: Change of Heart Towards Trump
+URL: https://www.foxnews.com/politics/fox-news-politics-newsletter-change-heart-towards-trump
+Date: Tue, 31 Dec 2024 16:21:56 -0500
+Word Count: 397 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 0
+
+Category: latest
+Title: Trans athlete speaks out against colleges for not offering full scholarship to compete as women's runner
+URL: https://www.foxnews.com/sports/trans-athlete-speaks-out-against-colleges-not-offering-full-scholarship-compete-womens-runner
+Date: Tue, 31 Dec 2024 16:17:16 -0500
+Word Count: 740 words
+Images: 3 (Sizes: 1200x675, Unknown Size, 1200x675)
+Videos: 2
+
+Category: latest
+Title: Power outage leaves most of Puerto Rico in the dark on New Year's Eve
+URL: https://www.foxnews.com/us/power-outage-leaves-most-puerto-rico-dark-new-years-eve
+Date: Tue, 31 Dec 2024 15:56:17 -0500
+Word Count: 635 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Scott Jennings clashes with CNN host over criticism of Musk’s foreign dealings
+URL: https://www.foxnews.com/media/scott-jennings-clashes-cnn-host-over-criticism-musks-foreign-dealings
+Date: Tue, 31 Dec 2024 15:28:09 -0500
+Word Count: 520 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Top Republican demands 'costs' for China after it hacked Treasury Dept in year marked by CCP espionage
+URL: https://www.foxnews.com/politics/top-republican-demands-costs-china-after-hacked-treasury-dept-year-marked-ccp-espionage
+Date: Tue, 31 Dec 2024 15:11:34 -0500
+Word Count: 819 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: MSNBC analyst says 'hatred' has always been at heart of MAGA
+URL: https://www.foxnews.com/media/msnbc-analyst-says-hatred-has-always-been-heart-maga
+Date: Tue, 31 Dec 2024 15:05:46 -0500
+Word Count: 426 words
+Images: 2 (Sizes: 1200x675, Unknown Size)
+Videos: 2
+
+Category: latest
+Title: 'Star Wars' actor Angus MacInnes dead at 77
+URL: https://www.foxnews.com/entertainment/star-wars-actor-angus-macinnes-dead-77
+Date: Tue, 31 Dec 2024 14:53:35 -0500
+Word Count: 507 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Dems urge Biden to extend controversial immigrant program; Trump says he'll cut it
+URL: https://www.foxnews.com/politics/dems-urge-biden-extend-controversial-immigrant-program-trump-cut
+Date: Tue, 31 Dec 2024 14:44:43 -0500
+Word Count: 548 words
+Images: 3 (Sizes: 1200x675, 1200x675, Unknown Size)
+Videos: 2
+
+Category: latest
+Title: At least 66 people die after a truck plunges into a river in southern Ethiopia
+URL: https://www.foxnews.com/world/least-66-people-die-truck-plunges-river-southern-ethiopia
+Date: Tue, 31 Dec 2024 14:29:08 -0500
+Word Count: 292 words
+Images: 1 (Sizes: 1200x675)
+Videos: 1
+
+Category: latest
+Title: New Year's Eve celebrations across US include 4 'food drops'
+URL: https://www.foxnews.com/food-drink/new-years-eve-celebrations-us-4-food-drops
+Date: Tue, 31 Dec 2024 14:26:20 -0500
+Word Count: 530 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Airline says pre-flight inspection of South Korea plane showed 'no issues': report
+URL: https://www.foxnews.com/world/airline-says-pre-flight-inspection-south-korea-plane-showed-no-issues-report
+Date: Tue, 31 Dec 2024 14:25:26 -0500
+Word Count: 420 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Brad Pitt, Angelina Jolie reach divorce settlement after bitter 8-year legal battle
+URL: https://www.foxnews.com/entertainment/brad-pitt-angelina-jolie-reach-divorce-settlement-after-bitter-8-year-legal-battle
+Date: Tue, 31 Dec 2024 14:06:47 -0500
+Word Count: 816 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: The Atlantic snags Washington Post staffers as it prepares to 'rigorously' cover Trump
+URL: https://www.foxnews.com/media/atlantic-snags-washington-post-staffers-prepares-rigorously-cover-trump
+Date: Tue, 31 Dec 2024 14:06:36 -0500
+Word Count: 437 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: NHL fines Stars $100K for violating CBA agreement with practice during Christmas break
+URL: https://www.foxnews.com/sports/nhl-fines-stars-100000-violating-cba-agreement-practice-during-christmas-break
+Date: Tue, 31 Dec 2024 13:48:52 -0500
+Word Count: 298 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Military Appeals Court rules Defense Sec Austin cannot rescind 9/11 plea deals
+URL: https://www.foxnews.com/politics/military-appeals-court-rules-defense-sec-austin-cannot-rescind-911-plea-deals
+Date: Tue, 31 Dec 2024 13:44:47 -0500
+Word Count: 297 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Palestinian official predicts Trump will 'destroy' Iran, leading to breakdown of remaining Hamas cells: report
+URL: https://www.foxnews.com/world/palestine-official-predicts-trump-destroy-iran-resulting-breakdown-remaining-hamas-cells-report
+Date: Tue, 31 Dec 2024 11:35:12 -0500
+Word Count: 687 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Netanyahu goes against doctor’s orders, appears in Israeli parliament after surgery
+URL: https://www.foxnews.com/world/netanyahu-goes-against-doctors-orders-appears-israeli-parliament-after-surgery
+Date: Tue, 31 Dec 2024 10:47:42 -0500
+Word Count: 646 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Arrest warrant issued for impeached South Korean president as political crisis deepens
+URL: https://www.foxnews.com/world/arrest-warrant-issued-impeached-south-korean-president-political-crisis-deepens
+Date: Tue, 31 Dec 2024 09:07:50 -0500
+Word Count: 608 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Ukraine: How the war shifted in 2024
+URL: https://www.foxnews.com/world/ukraine-how-war-shifted-2024
+Date: Tue, 31 Dec 2024 06:00:46 -0500
+Word Count: 1503 words
+Images: 7 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Court issues arrest warrant for South Korea's President Yoon
+URL: https://www.foxnews.com/world/court-issues-arrest-warrant-south-koreas-president-yoon
+Date: Mon, 30 Dec 2024 20:48:47 -0500
+Word Count: 130 words
+Images: 1 (Sizes: 1200x675)
+Videos: 1
+
+Category: world
+Title: Russian foreign minister blasts Ukraine peace deal reportedly floated by Trump's team: 'Not happy'
+URL: https://www.foxnews.com/world/russian-foreign-minister-blasts-ukraine-peace-deal-reportedly-floated-trumps-team-not-happy
+Date: Mon, 30 Dec 2024 20:45:49 -0500
+Word Count: 487 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: National Guard soldier dies days after Christmas in 'non-combat' related incident in Iraq
+URL: https://www.foxnews.com/world/national-guard-soldier-dies-days-after-christmas-non-combat-related-incident-iraq
+Date: Mon, 30 Dec 2024 19:15:41 -0500
+Word Count: 381 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Putin offers to pay off debts as recruitment tool in war against Ukraine
+URL: https://www.foxnews.com/world/putin-offers-pay-off-debts-recruitment-tool-war-against-ukraine
+Date: Mon, 30 Dec 2024 18:07:03 -0500
+Word Count: 416 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Israeli spy network uncovers Hezbollah commander's plans to marry his 4 mistresses
+URL: https://www.foxnews.com/world/israeli-spy-network-uncovers-hezbollah-commanders-plans-marry-off-his-4-mistresses
+Date: Mon, 30 Dec 2024 11:31:19 -0500
+Word Count: 475 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Uncovering the atrocities of the Assad regime at its 'death factory' on the hill
+URL: https://www.foxnews.com/world/uncovering-atrocities-assad-regime-its-death-factory-hill
+Date: Mon, 30 Dec 2024 10:36:01 -0500
+Word Count: 1038 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: South Korea deadly plane crash: US sends investigators to country still reeling from disaster that killed 179
+URL: https://www.foxnews.com/world/south-korea-deadly-plane-crash-us-sends-investigators-country-still-reeling-from-disaster-killed-179
+Date: Mon, 30 Dec 2024 07:49:11 -0500
+Word Count: 1161 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Israeli PM Benjamin Netanyahu completes prostate surgery after UTI diagnosis
+URL: https://www.foxnews.com/world/israeli-pm-benjamin-netanyahu-completes-prostate-surgery-uti-diagnosis
+Date: Sun, 29 Dec 2024 16:51:11 -0500
+Word Count: 399 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Israeli official reveals how 'to truly defeat Hezbollah'
+URL: https://www.foxnews.com/world/israeli-official-reveals-how-to-truly-defeat-hezbollah
+Date: Sun, 29 Dec 2024 15:02:40 -0500
+Word Count: 368 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: South Korea plane's final moments captured on video before hitting concrete barrier, triggering explosion
+URL: https://www.foxnews.com/world/south-korea-planes-final-moments-captured-video-before-hitting-concrete-barrier-triggering-explosion
+Date: Sun, 29 Dec 2024 13:40:50 -0500
+Word Count: 477 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Azerbaijan president accuses Russia of 'absurd' plane crash cover-up, says flight was 'shot down'
+URL: https://www.foxnews.com/world/azerbaijan-president-accuses-russia-absurd-plane-crash-cover-up-says-flight-shot-down
+Date: Sun, 29 Dec 2024 09:49:15 -0500
+Word Count: 327 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: China directs largest military build-up since 1930s Nazi Germany, expert warns, citing Pentagon report
+URL: https://www.foxnews.com/world/china-directs-largest-military-build-up-since-1930s-nazi-germany-expert-warns-citing-pentagon-report
+Date: Sun, 29 Dec 2024 09:44:06 -0500
+Word Count: 720 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: North Korea vows 'toughest' US policy in vague announcement
+URL: https://www.foxnews.com/world/north-korea-vows-toughest-us-policy-vague-announcement
+Date: Sun, 29 Dec 2024 08:44:31 -0500
+Word Count: 306 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Netanyahu to undergo major surgery after UTI diagnosis
+URL: https://www.foxnews.com/world/netanyahu-undergo-major-surgery-after-uti-diagnosis
+Date: Sun, 29 Dec 2024 07:37:44 -0500
+Word Count: 383 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Eyewitnesses to South Korea plane crash recount sparks in engine, bird strike before collision
+URL: https://www.foxnews.com/world/eyewitnesses-south-korea-plane-crash-recount-sparks-engine-bird-strike-before-collision
+Date: Sun, 29 Dec 2024 05:38:07 -0500
+Word Count: 605 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: American teacher jailed in Russia is wrongfully detained, State Department formally says
+URL: https://www.foxnews.com/world/american-teacher-jailed-russia-wrongfully-detained-state-department-formally-says
+Date: Sun, 29 Dec 2024 03:27:58 -0500
+Word Count: 413 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Plane veers off airport runway in South Korea and crashes, killing 179: reports
+URL: https://www.foxnews.com/world/plane-veers-airport-runway-south-korea-deadly-crash
+Date: Sat, 28 Dec 2024 20:48:41 -0500
+Word Count: 376 words
+Images: 4 (Sizes: 1200x675, 1200x675, Unknown Size, Unknown Size)
+Videos: 1
+
+Category: world
+Title: IDF finds Hezbollah weapons cache in underground tunnel: video
+URL: https://www.foxnews.com/world/idf-finds-hezbollah-weapons-cache-underground-tunnel-video
+Date: Sat, 28 Dec 2024 08:44:03 -0500
+Word Count: 511 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Ukraine receives US natural gas shipment for the 1st time amid fresh supply fears
+URL: https://www.foxnews.com/politics/ukraine-receives-us-natural-gas-shipment-first-time-amid-fresh-supply-fears
+Date: Tue, 31 Dec 2024 12:37:57 -0500
+Word Count: 338 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Bernie Sanders plans to spearhead legislation on key Trump proposal
+URL: https://www.foxnews.com/politics/bernie-sanders-plans-spearhead-legislation-key-trump-proposal
+Date: Tue, 31 Dec 2024 12:33:34 -0500
+Word Count: 438 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: The Pentagon chief loses bid to reject 9/11 plea deals
+URL: https://www.foxnews.com/politics/pentagon-chief-loses-bid-reject-9-11-plea-deals
+Date: Tue, 31 Dec 2024 11:59:06 -0500
+Word Count: 658 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: GOP mocks Gavin Newsom’s ‘brag’ over modest increase in homelessness hike
+URL: https://www.foxnews.com/politics/gop-mocks-gavin-newsoms-brag-over-modest-increase-homelessness-hike
+Date: Tue, 31 Dec 2024 11:48:39 -0500
+Word Count: 912 words
+Images: 2 (Sizes: Unknown Size, 1200x675)
+Videos: 2
+
+Category: politics
+Title: Biden moving to ban oil and gas leases for 20 years in Nevada region, just weeks before Trump inauguration
+URL: https://www.foxnews.com/politics/biden-moving-ban-oil-gas-leases-20-years-nevada-region-just-weeks-before-trump-inauguration
+Date: Tue, 31 Dec 2024 10:42:40 -0500
+Word Count: 325 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Hochul's polluters pay bill could result in regressive costs for working families: economists
+URL: https://www.foxnews.com/politics/hochuls-polluters-pay-bill-regressive-costs-working-families-economists
+Date: Tue, 31 Dec 2024 09:19:44 -0500
+Word Count: 691 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: DC mayor reports 'great meeting' with Trump after past public feuds, touts 'common ground' on nation's capital
+URL: https://www.foxnews.com/politics/dc-mayor-reports-great-meeting-trump-after-past-public-feuds-touts-common-ground-nations-capital
+Date: Tue, 31 Dec 2024 07:41:36 -0500
+Word Count: 670 words
+Images: 3 (Sizes: 2024x12, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: North Dakota senator's son to serve 28 years in prison for crash that killed deputy
+URL: https://www.foxnews.com/politics/north-dakota-senators-son-sentenced-28-years-prison-crash-killed-deputy
+Date: Tue, 31 Dec 2024 06:01:25 -0500
+Word Count: 536 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Retiring House Democrat tells Fox News she's pushing generational change: 'Lead by example'
+URL: https://www.foxnews.com/politics/retiring-house-democrat-tells-fox-news-shes-pushing-generational-change-lead-example
+Date: Tue, 31 Dec 2024 04:00:46 -0500
+Word Count: 809 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: 10 rising stars in Democrat, Republican parties expected to emerge in 2025
+URL: https://www.foxnews.com/politics/10-rising-stars-in-democrat-and-republican-parties-expected-to-emerge-in-2025
+Date: Tue, 31 Dec 2024 04:00:27 -0500
+Word Count: 1620 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: How immigration and border security dominated 2024 and decided an election
+URL: https://www.foxnews.com/politics/how-immigration-border-security-dominated-2024-decided-election
+Date: Tue, 31 Dec 2024 04:00:02 -0500
+Word Count: 917 words
+Images: 3 (Sizes: 1200x675, 1200x675, Unknown Size)
+Videos: 2
+
+Category: politics
+Title: Learning Curve: The new players in Congress
+URL: https://www.foxnews.com/politics/learning-curve-new-players-congress
+Date: Mon, 30 Dec 2024 21:58:00 -0500
+Word Count: 1180 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: ICE shuts down programs offering services to illegal immigrants, citing ‘immense’ costs
+URL: https://www.foxnews.com/politics/ice-scraps-social-service-programs-illegal-immigrants-citing-immense-cost
+Date: Mon, 30 Dec 2024 19:57:14 -0500
+Word Count: 820 words
+Images: 3 (Sizes: 1200x675, 1200x675, Unknown Size)
+Videos: 2
+
+Category: politics
+Title: ‘Guardian Angels’ founder slams New York sanctuary city policies after woman set on fire
+URL: https://www.foxnews.com/politics/guardian-angels-founder-slams-new-york-sanctuary-city-policies-after-woman-set-fire
+Date: Mon, 30 Dec 2024 17:28:51 -0500
+Word Count: 929 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Biden closes government as 'mark of respect' for late former President Jimmy Carter
+URL: https://www.foxnews.com/politics/biden-closes-government-mark-respect-late-former-president-jimmy-carter
+Date: Mon, 30 Dec 2024 16:53:18 -0500
+Word Count: 366 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Fox News Politics Newsletter: Trump's Vote of Confidence
+URL: https://www.foxnews.com/politics/fox-news-politics-newsletter-trumps-vote-confidence
+Date: Mon, 30 Dec 2024 16:28:28 -0500
+Word Count: 440 words
+Images: 6 (Sizes: 1200x675, 2023x02, 2023x02, 1200x675, 1200x675, 1200x675)
+Videos: 0
+
+Category: politics
+Title: Elon Musk admits to taking controversial weight loss drug previously opposed by RFK Jr.
+URL: https://www.foxnews.com/politics/musk-admits-taking-controversial-weight-loss-drug-previously-opposed-rfk-jr
+Date: Mon, 30 Dec 2024 15:33:29 -0500
+Word Count: 643 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Biden admin suppressed intel officials' views that supported COVID-19 lab leak theory: report
+URL: https://www.foxnews.com/politics/biden-admin-suppressed-intel-officials-views-supported-covid-lab-leak-theory-report
+Date: Mon, 30 Dec 2024 15:14:32 -0500
+Word Count: 681 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Carter's death spurs outpouring of tributes from state leaders of both parties: 'A servant's heart'
+URL: https://www.foxnews.com/politics/carters-death-spurs-outpouring-tributes-from-state-leaders-both-parties-a-servants-heart
+Date: Mon, 30 Dec 2024 14:58:58 -0500
+Word Count: 923 words
+Images: 3 (Sizes: 2023x02, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Rep. Victoria Spartz demands 'assurances' Speaker Johnson 'won't sell us out to the swamp'
+URL: https://www.foxnews.com/politics/rep-victoria-spartz-demands-plan-commitment-from-johnson-he-wants-retain-speakers-gavel
+Date: Mon, 30 Dec 2024 13:42:01 -0500
+Word Count: 441 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Biden's Defense Department announces new multibillion-dollar aid packages for Ukraine
+URL: https://www.foxnews.com/politics/bidens-defense-department-announces-new-multi-billion-dollar-aid-packages-ukraine
+Date: Mon, 30 Dec 2024 13:19:28 -0500
+Word Count: 251 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: science
+Title: NASA finalizes strategy for human presence in space
+URL: https://www.foxnews.com/science/nasa-finalizes-strategy-human-presence-space
+Date: Fri, 20 Dec 2024 19:14:26 -0500
+Word Count: 923 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: science
+Title: Complete mastodon jaw found in New York homeowner's backyard: 'Remarkable discovery'
+URL: https://www.foxnews.com/science/complete-mastodon-jaw-found-new-york-homeowners-backyard-remarkable-discovery
+Date: Wed, 18 Dec 2024 07:33:13 -0500
+Word Count: 386 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Bird flu uptick in US has CDC on alert for pandemic 'red flags': report
+URL: https://www.foxnews.com/health/bird-flu-uptick-us-has-cdc-alert-pandemic-red-flags-report
+Date: Tue, 31 Dec 2024 08:24:46 -0500
+Word Count: 423 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: 22 health care predictions for 2025 from medical researchers
+URL: https://www.foxnews.com/health/22-health-care-predictions-2025-medical-researchers
+Date: Tue, 31 Dec 2024 04:30:51 -0500
+Word Count: 1750 words
+Images: 7 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Choking emergency? How to do the Heimlich maneuver — and when to avoid it
+URL: https://www.foxnews.com/health/choking-emergency-how-do-heimlich-maneuver-when-avoid
+Date: Mon, 30 Dec 2024 17:55:41 -0500
+Word Count: 753 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Bird flu patient had virus mutations, sparking concern about human spread
+URL: https://www.foxnews.com/health/bird-flu-patient-virus-mutations-sparking-concern-human-spread
+Date: Mon, 30 Dec 2024 15:02:58 -0500
+Word Count: 621 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Service dog helps boy with rare genetic disorder achieve ‘unbelievable’ progress
+URL: https://www.foxnews.com/health/service-dog-helps-boy-rare-genetic-disorder-achieve-unbelievable-progress
+Date: Mon, 30 Dec 2024 04:30:38 -0500
+Word Count: 952 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Jimmy Carter spent nearly 2 years in hospice care before his death at 100
+URL: https://www.foxnews.com/health/jimmy-carter-spent-nearly-2-years-hospice-care-before-death-100
+Date: Sun, 29 Dec 2024 17:53:43 -0500
+Word Count: 621 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: ‘Alcohol gene’ could predict how cocktails may affect you — and there’s a test for it
+URL: https://www.foxnews.com/health/alcohol-gene-could-predict-cocktails-affect-you-theres-test
+Date: Sun, 29 Dec 2024 04:30:13 -0500
+Word Count: 873 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Depression could be prevented with specific daily step count, study finds
+URL: https://www.foxnews.com/health/depression-could-prevented-specific-daily-step-count-study-finds
+Date: Sat, 28 Dec 2024 15:05:57 -0500
+Word Count: 571 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: New Year life lessons from country star: 'Never forget where you came from'
+URL: https://www.foxnews.com/health/new-year-life-lessons-country-star-never-forget-where-you-came-from
+Date: Sat, 28 Dec 2024 13:42:25 -0500
+Word Count: 673 words
+Images: 3 (Sizes: 1200x675, 1200x675, Unknown Size)
+Videos: 2
+
+Category: health
+Title: What is ‘toasted skin syndrome'? Heating pads and blankets can cause skin damage, experts warn
+URL: https://www.foxnews.com/health/what-toasted-skin-syndrome-heating-pads-blankets-can-cause-skin-damage-experts-warn
+Date: Sat, 28 Dec 2024 09:00:47 -0500
+Word Count: 519 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: 7 of Google’s most-searched health questions in 2024, with expert responses
+URL: https://www.foxnews.com/health/google-most-searched-health-questions-2024-expert-responses
+Date: Sat, 28 Dec 2024 04:30:54 -0500
+Word Count: 668 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: 5 major Alzheimer’s discoveries scientists made in 2024
+URL: https://www.foxnews.com/health/major-alzheimers-discoveries-scientists-made-2024
+Date: Fri, 27 Dec 2024 04:30:05 -0500
+Word Count: 742 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Holiday sleep trouble? 5 secrets of a better snooze
+URL: https://www.foxnews.com/health/holiday-sleep-trouble-secrets-better-snooze
+Date: Fri, 27 Dec 2024 00:00:35 -0500
+Word Count: 664 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: ‘I have a blood test coming up — how should I prepare?’: Ask a doctor
+URL: https://www.foxnews.com/health/have-blood-test-coming-how-should-prepare-ask-doctor
+Date: Thu, 26 Dec 2024 17:01:21 -0500
+Word Count: 812 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Dance eases depression symptoms in Parkinson's patients, new study suggests
+URL: https://www.foxnews.com/health/dance-eases-depression-symptoms-parkinsons-patients-study
+Date: Thu, 26 Dec 2024 09:44:30 -0500
+Word Count: 715 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: What is sunset anxiety? Here's how to know if you have late-day distress
+URL: https://www.foxnews.com/health/what-sunset-anxiety-heres-how-know-have-late-day-distress
+Date: Thu, 26 Dec 2024 04:30:16 -0500
+Word Count: 609 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: 'Miracle therapy' could correct heart failure in kids
+URL: https://www.foxnews.com/health/miracle-therapy-could-correct-heart-failure-kids
+Date: Wed, 25 Dec 2024 19:31:27 -0500
+Word Count: 108 words
+Images: 1 (Sizes: 1200x675)
+Videos: 0
+
+Category: health
+Title: Pregnant woman and baby saved after doctors find grapefruit-sized tumor: 'Extremely rare'
+URL: https://www.foxnews.com/health/pregnant-woman-baby-saved-doctors-find-grapefruit-sized-tumor-rare
+Date: Wed, 25 Dec 2024 04:30:27 -0500
+Word Count: 1062 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: FDA approves first medication for obstructive sleep apnea, which also promotes weight loss
+URL: https://www.foxnews.com/health/fda-approves-first-medication-obstructive-sleep-apnea-also-promotes-weight-loss
+Date: Tue, 24 Dec 2024 10:55:47 -0500
+Word Count: 700 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Stem cell therapy to correct heart failure in children could 'transform lives'
+URL: https://www.foxnews.com/health/stem-cell-therapy-correct-heart-failure-children-could-transform-lives
+Date: Tue, 24 Dec 2024 08:30:28 -0500
+Word Count: 781 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, Unknown Size, 1200x675, 1200x675)
+Videos: 2
+
+Category: health
+Title: First rare human case of bird flu reported in Los Angeles County
+URL: https://www.foxnews.com/health/first-rare-human-case-of-bird-flu-reported-in-los-angeles-county
+Date: Mon, 23 Dec 2024 21:42:52 -0500
+Word Count: 496 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Boy, 8, saves choking friend with Heimlich maneuver: See the video
+URL: https://www.foxnews.com/health/boy-saves-choking-friend-heimlich-maneuver-see-video
+Date: Mon, 23 Dec 2024 18:11:17 -0500
+Word Count: 571 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: The year in cancer: Advances made in 2024, predictions for 2025
+URL: https://www.foxnews.com/health/year-cancer-advances-made-2024-predictions-2025
+Date: Mon, 23 Dec 2024 04:30:51 -0500
+Word Count: 1557 words
+Images: 11 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: Traveling for Christmas? Stay healthy with these 7 tips
+URL: https://www.foxnews.com/health/traveling-christmas-stay-healthy-tips
+Date: Sun, 22 Dec 2024 14:10:13 -0500
+Word Count: 837 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: New skincare trend has people rubbing beef fat on their faces: Dermatologists react
+URL: https://www.foxnews.com/health/new-skincare-trend-has-people-rubbing-beef-fat-faces-dermatologists-react
+Date: Sun, 22 Dec 2024 04:30:11 -0500
+Word Count: 864 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Tennis star Gabriela Dabrowski reveals she played in Wimbledon, Olympics while battling breast cancer
+URL: https://www.foxnews.com/sports/tennis-star-gabriela-dabrowski-reveals-she-played-wimbledon-olympics-while-battling-breast-cancer
+Date: Tue, 31 Dec 2024 13:37:05 -0500
+Word Count: 595 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Quinn Ewers has massive offer to leave Texas, enter transfer portal after season: report
+URL: https://www.foxnews.com/sports/quinn-ewers-has-massive-offer-leave-texas-enter-transfer-portal-after-season-report
+Date: Tue, 31 Dec 2024 13:31:32 -0500
+Word Count: 337 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Colts' Shane Steichen gives head-scratching response to questions about culture issues on team
+URL: https://www.foxnews.com/sports/colts-shane-steichen-gives-head-scratching-response-questions-about-culture-issues-team
+Date: Tue, 31 Dec 2024 12:19:24 -0500
+Word Count: 345 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Chess grand master Magnus Carlsen sports jeans in return to championship following dress code controversy
+URL: https://www.foxnews.com/sports/chess-grand-master-magnus-carlsen-sports-jeans-return-championship-following-dress-code-controversy
+Date: Tue, 31 Dec 2024 12:14:51 -0500
+Word Count: 423 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Lions' Jake Bates sends fans into frenzy over sultry clip as he sets franchise record
+URL: https://www.foxnews.com/sports/lions-jake-bates-sends-fans-frenzy-over-sultry-clip-he-sets-franchise-record
+Date: Tue, 31 Dec 2024 11:40:10 -0500
+Word Count: 272 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Texans' Azeez Al-Shaair 'grateful' to get back to football after suspension for vicious hit
+URL: https://www.foxnews.com/sports/texans-azeez-al-shaair-grateful-get-back-football-after-suspension-vicious-hit
+Date: Tue, 31 Dec 2024 10:52:14 -0500
+Word Count: 388 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Lenny Randle, controversial former MLB infielder, dead at 75
+URL: https://www.foxnews.com/sports/lenny-randle-controversial-former-mlb-infielder-dead-75
+Date: Tue, 31 Dec 2024 10:23:07 -0500
+Word Count: 412 words
+Images: 1 (Sizes: 1200x675)
+Videos: 1
+
+Category: sports
+Title: How Caitlin Clark battled through culture wars en route to historic 2024
+URL: https://www.foxnews.com/sports/how-caitlin-clark-battled-through-culture-wars-en-route-historic-2024
+Date: Tue, 31 Dec 2024 10:00:22 -0500
+Word Count: 605 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Lions, 49ers players get into scuffle during hotly contested game
+URL: https://www.foxnews.com/sports/lions-49ers-players-get-scuffle-during-hotly-contested-game
+Date: Tue, 31 Dec 2024 09:05:31 -0500
+Word Count: 368 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Ohio State's Jeremiah Smith vows to be 'completely different player' vs Oregon in CFP matchup
+URL: https://www.foxnews.com/sports/ohio-states-jeremiah-smith-vows-completely-different-player-vs-oregon-cfp-matchup
+Date: Tue, 31 Dec 2024 08:37:20 -0500
+Word Count: 387 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Boise State leans into underdog role ahead of CFP game
+URL: https://www.foxnews.com/sports/boise-state-leans-underdog-role-ahead-cfp-game
+Date: Tue, 31 Dec 2024 08:10:00 -0500
+Word Count: 368 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Arizona State's Cam Skattebo exudes confidence ahead of CFP game: 'There’s nobody out there that can stop me'
+URL: https://www.foxnews.com/sports/arizona-states-cam-skattebo-exudes-confidence-ahead-cfp-game-theres-nobody-out-can-stop-me
+Date: Tue, 31 Dec 2024 07:36:48 -0500
+Word Count: 447 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Sports radio legend Mike Francesa scrutinizes Jimmy Carter while remembering of former president
+URL: https://www.foxnews.com/sports/sports-radio-legend-mike-francesa-scrutinizes-jimmy-carter-while-remembering-former-president
+Date: Tue, 31 Dec 2024 07:07:33 -0500
+Word Count: 544 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: 6 former Florida State basketball players sue legendary coach over unpaid NIL compensation
+URL: https://www.foxnews.com/sports/6-former-florida-state-basketball-players-suing-legendary-coach-over-unpaid-nil-compensation
+Date: Tue, 31 Dec 2024 06:41:27 -0500
+Word Count: 532 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Lions take down 49ers as Dan Campbell's 'full throttle' mindset saw starters play entire game
+URL: https://www.foxnews.com/sports/lions-take-down-49ers-dan-campbells-full-throttle-mindset-saw-starters-play-entire-game
+Date: Mon, 30 Dec 2024 23:46:17 -0500
+Word Count: 693 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Arkansas lineman accused of purposefully hurting Texas Tech player breaks silence after ridicule
+URL: https://www.foxnews.com/sports/arkansas-lineman-accused-purposefully-hurting-texas-tech-player-breaks-silence-after-ridicule
+Date: Mon, 30 Dec 2024 20:29:37 -0500
+Word Count: 318 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Deion Sanders takes aim at 'multiple IDIOTS' suggesting he will choose where his sons play in NFL
+URL: https://www.foxnews.com/sports/deion-sanders-takes-aim-multiple-idiots-suggesting-he-choose-where-his-sons-play-nfl
+Date: Mon, 30 Dec 2024 20:09:06 -0500
+Word Count: 540 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Bucs' Jalen McMillan no fan of duck that landed on field during game despite fan frenzy
+URL: https://www.foxnews.com/sports/bucs-jalen-mcmillan-no-fan-duck-landed-field-during-game-despite-fan-frenzy
+Date: Mon, 30 Dec 2024 19:00:38 -0500
+Word Count: 349 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Dak Prescott’s fianceé has $40,000 worth of goods stolen from car: report
+URL: https://www.foxnews.com/sports/dak-prescotts-fiancee-has-40000-worth-goods-stolen-from-car-report
+Date: Mon, 30 Dec 2024 18:28:15 -0500
+Word Count: 452 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Gonzaga men's basketball charter nearly collides with departing Delta flight in scary scene at LAX
+URL: https://www.foxnews.com/sports/gonzaga-mens-basketball-charter-nearly-collides-departing-delta-flight-scary-scene-lax
+Date: Mon, 30 Dec 2024 17:46:47 -0500
+Word Count: 464 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Is your VPN enough without antivirus protection?
+URL: https://www.foxnews.com/tech/your-vpn-enough-without-antivirus-protection
+Date: Tue, 31 Dec 2024 08:00:26 -0500
+Word Count: 769 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Revealed: The 10 most popular and worst passwords of 2024
+URL: https://www.foxnews.com/tech/revealed-10-most-popular-worst-passwords-2024
+Date: Tue, 31 Dec 2024 06:00:04 -0500
+Word Count: 749 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Windows Defender Security Center scam: How to protect your computer from fake pop-ups
+URL: https://www.foxnews.com/tech/windows-defender-security-center-scam-how-protect-your-computer-from-fake-pop-ups
+Date: Mon, 30 Dec 2024 08:00:40 -0500
+Word Count: 1029 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: How to restore deleted text messages on Android
+URL: https://www.foxnews.com/tech/how-restore-deleted-text-messages-android
+Date: Mon, 30 Dec 2024 06:00:24 -0500
+Word Count: 543 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Are your smart home cameras spying on you? Study reveals shocking data grabs
+URL: https://www.foxnews.com/tech/your-smart-home-cameras-spying-you-study-reveals-shocking-data-grabs
+Date: Sun, 29 Dec 2024 08:00:43 -0500
+Word Count: 1148 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Apple Mail app redesign introduces new categorization feature in iOS 18.2
+URL: https://www.foxnews.com/tech/apple-mail-app-redesign-introduces-new-categorization-feature-ios-18-2
+Date: Sun, 29 Dec 2024 06:00:07 -0500
+Word Count: 400 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Stuck behind a VPN wall? Let’s find a way around it
+URL: https://www.foxnews.com/tech/stuck-behind-vpn-wall-lets-find-way-around
+Date: Sat, 28 Dec 2024 08:00:33 -0500
+Word Count: 1221 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Android 15's new Private Space feature puts an end to app snooping
+URL: https://www.foxnews.com/tech/android-15s-new-private-space-feature-puts-end-app-snooping
+Date: Sat, 28 Dec 2024 06:00:48 -0500
+Word Count: 588 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Scammers are targeting teens with these nasty tricks
+URL: https://www.foxnews.com/tech/scammers-targeting-teens-nasty-tricks
+Date: Fri, 27 Dec 2024 16:03:33 -0500
+Word Count: 864 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Fox News AI Newsletter: DC air defense gets major upgrade
+URL: https://www.foxnews.com/tech/fox-news-ai-newsletter-dc-air-defense-gets-major-upgrade
+Date: Fri, 27 Dec 2024 11:40:05 -0500
+Word Count: 229 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 0
+
+Category: tech
+Title: AI-powered robot sinks seemingly impossible basketball hoops
+URL: https://www.foxnews.com/tech/ai-powered-robot-sinks-seemingly-impossible-basketball-hoops
+Date: Fri, 27 Dec 2024 08:00:01 -0500
+Word Count: 627 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Sign PDFs easily in Preview on Apple devices
+URL: https://www.foxnews.com/tech/sign-pdfs-easily-preview-apple-devices
+Date: Fri, 27 Dec 2024 06:00:19 -0500
+Word Count: 489 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Got new electronics for the holidays? Here's what to do first
+URL: https://www.foxnews.com/tech/got-new-electronics-holidays-heres-what-do-first
+Date: Thu, 26 Dec 2024 08:00:26 -0500
+Word Count: 1291 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: The life-changing benefits of Apple's Personal Voice and Live Speech
+URL: https://www.foxnews.com/tech/life-changing-benefits-apples-personal-voice-live-speech
+Date: Thu, 26 Dec 2024 06:00:40 -0500
+Word Count: 561 words
+Images: 12 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Google Maps is deleting location history soon, so act now to save your data
+URL: https://www.foxnews.com/tech/google-maps-deleting-location-history-soon-so-act-now-save-your-data
+Date: Wed, 25 Dec 2024 10:00:56 -0500
+Word Count: 1042 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: How iOS 18.2 now lets you share your AirTag's location with anyone
+URL: https://www.foxnews.com/tech/how-ios-18-2-now-lets-you-share-your-airtags-location-anyone
+Date: Wed, 25 Dec 2024 06:00:38 -0500
+Word Count: 556 words
+Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Timeshare terror leaves retired couple $50K in the hole after being scammed
+URL: https://www.foxnews.com/tech/timeshare-terror-leaves-retired-couple-50k-hole-after-being-scammed
+Date: Tue, 24 Dec 2024 10:00:30 -0500
+Word Count: 1378 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Ignoring router security settings puts millions at risk from hidden dangers
+URL: https://www.foxnews.com/tech/ignoring-router-security-settings-puts-millions-risk-from-hidden-dangers
+Date: Tue, 24 Dec 2024 06:00:33 -0500
+Word Count: 1122 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: More than 910,000 patients at risk after ConnectOnCall health data breach
+URL: https://www.foxnews.com/tech/more-than-910000-patients-risk-after-connectoncall-health-data-breach
+Date: Mon, 23 Dec 2024 10:00:03 -0500
+Word Count: 1137 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Scammers exploited mom’s fears to steal her entire life's savings
+URL: https://www.foxnews.com/tech/scammers-exploited-moms-fears-steal-her-entire-lifes-savings
+Date: Mon, 23 Dec 2024 06:00:57 -0500
+Word Count: 1071 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Top 5 mistakes that could expose your financial data to cybercriminals
+URL: https://www.foxnews.com/tech/top-5-mistakes-could-expose-your-financial-data-cybercriminals
+Date: Sun, 22 Dec 2024 10:00:02 -0500
+Word Count: 1395 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Food tracking just got lazy — in the best way possible — with this wearable
+URL: https://www.foxnews.com/tech/food-tracking-just-got-lazy-best-way-possible-wearable
+Date: Sun, 22 Dec 2024 06:00:53 -0500
+Word Count: 911 words
+Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Do you need a VPN at home? Here are 10 reasons you do
+URL: https://www.foxnews.com/tech/do-you-need-vpn-home-here-10-reasons-you-do
+Date: Sat, 21 Dec 2024 10:00:19 -0500
+Word Count: 1595 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: Fox News AI Newsletter: Cate Blanchett 'deeply concerned'
+URL: https://www.foxnews.com/tech/ai-newsletter-cate-blanchett-deeply-concerned
+Date: Sat, 21 Dec 2024 08:30:38 -0500
+Word Count: 311 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 0
 
