@@ -6,7 +6,6 @@ import re
 
 # Custom RSS links for specific categories
 CUSTOM_RSS_LINKS = {
-    "latest": "https://moxie.foxnews.com/google-publisher/latest.xml",
     "world": "https://moxie.foxnews.com/google-publisher/world.xml",
     "politics": "https://moxie.foxnews.com/google-publisher/politics.xml",
     "science": "https://moxie.foxnews.com/google-publisher/science.xml",

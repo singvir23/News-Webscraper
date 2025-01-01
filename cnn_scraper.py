@@ -1,160 +1,168 @@
-import feedparser
 import requests
 from bs4 import BeautifulSoup
-import os
+from datetime import datetime
+import time
+import re
+from urllib.parse import urljoin
 
-# Define a dictionary mapping categories to their respective RSS feed URLs
-CATEGORY_RSS_FEEDS = {
-    'world': 'http://rss.cnn.com/rss/edition_world.rss',
-    'politics': 'http://rss.cnn.com/rss/edition_politics.rss',
-    'science': 'http://rss.cnn.com/rss/edition_science.rss',
-    'health': 'http://rss.cnn.com/rss/edition_health.rss',
-    'sports': 'http://rss.cnn.com/rss/edition_sport.rss',
-    'tech': 'http://rss.cnn.com/rss/edition_technology.rss'  # Assuming 'technology' is the correct RSS feed
-}
+def get_category_from_url(url):
+    # Extract category from URL
+    if '/world' in url:
+        return 'world'
+    elif '/politics' in url:
+        return 'politics'
+    elif '/science' in url:
+        return 'science'
+    elif '/health' in url:
+        return 'health'
+    elif '/sport' in url:
+        return 'sport'
+    elif '/business/tech' in url:
+        return 'tech'
+    else:
+        return 'unknown'
 
-def fetch_cnn_articles(rss_url):
-    """Fetch articles from a given CNN RSS feed URL."""
-    feed = feedparser.parse(rss_url)
-    if feed.bozo:
-        print(f"Failed to parse RSS feed: {rss_url}")
-        return []
+def get_article_urls_from_zone(url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    # Find the specified zone div
+    zone_div = soup.find('div', class_='zone zone--t-light')
+    article_urls = []
+    
+    if zone_div:
+        # Find all article links within the zone
+        links = zone_div.find_all('a', href=True)
+        base_url = "https://www.cnn.com"
+        
+        for link in links:
+            href = link['href']
+            # Ensure we have complete URLs
+            if href.startswith('/'):
+                full_url = base_url + href
+            else:
+                full_url = href
+                
+            # Only include article URLs (avoid duplicates and non-article pages)
+            if '/2024/' in full_url or '/2023/' in full_url:
+                if full_url not in article_urls:
+                    article_urls.append(full_url)
+    
+    return article_urls
 
-    articles = [
-        {
-            'title': entry.title,
-            'url': entry.link,
-            'published_date': entry.published if 'published' in entry else 'No Date Available'
-        }
-        for entry in feed.entries
-    ]
-    return articles
-
-def get_article_details(url):
-    """Extract word count, image count, image sizes, and video count from an article URL."""
+def scrape_cnn_article(url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    
     try:
-        response = requests.get(url)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # Initialize counts
-        word_count = 0
-        image_count = 0
-        image_sizes = []
-        video_count = 0
-
-        # Extract article content
-        stories = soup.find_all('div', class_='article__content-container')
-        if not stories:
-            print(f"No stories found for URL: {url}")
-            return word_count, image_count, image_sizes, video_count
-
-        for story in stories:
-            # Extract title
-            title_tag = story.find('h2', class_='live-story-post__headline inline-placeholder')
-            title = title_tag.get_text(strip=True) if title_tag else "No Title"
-
-            # Extract text paragraphs
-            text_containers = story.find_all('p', class_='paragraph inline-placeholder vossi-paragraph')
-            for p in text_containers:
-                text = p.get_text(separator=' ', strip=True)
-                word_count += len(text.split())
-
-            # Extract images with class 'image__dam-img'
-            images_dam_img = story.find_all('img', class_='image__dam-img')
-
-            # Extract images inside divs with class 'image_inline-small__container'
-            image_small_containers = story.find_all('div', class_='image_inline-small__container')
-            images_small = []
-            for container in image_small_containers:
-                imgs = container.find_all('img')
-                images_small.extend(imgs)
-
-            # Combine both image lists
-            all_images = images_dam_img + images_small
-
-            # To avoid counting duplicate images, we'll keep track of image sources
-            seen_images = set()
-
-            for img in all_images:
-                img_src = img.get('src')
-                if img_src in seen_images:
-                    continue  # Skip duplicate images
-                seen_images.add(img_src)
-
-                width = img.get('width')
-                height = img.get('height')
-
-                # Exclude specific ghost images if applicable
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        result = {
+            'Category': get_category_from_url(url),
+            'Title': '',
+            'URL': url,
+            'Date': '',
+            'Word Count': 0,
+            'Images': [],
+            'Videos': 0
+        }
+        
+        # Extract title
+        title = soup.find('h1')
+        if title:
+            result['Title'] = title.text.strip()
+        
+        # Extract date
+        date_meta = soup.find('meta', property='article:published_time')
+        if date_meta:
+            date_str = date_meta.get('content')
+            if date_str:
+                date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                result['Date'] = date_obj.strftime('%a, %d %b %Y %H:%M:%S %z')
+        
+        # Count words in paragraphs
+        paragraphs = soup.find_all('p', class_='paragraph inline-placeholder vossi-paragraph')
+        total_words = 0
+        for p in paragraphs:
+            if p.text:
+                words = p.text.strip().split()
+                total_words += len(words)
+        result['Word Count'] = f"{total_words} words"
+        
+        # Find images excluding those in related-content
+        images = []
+        all_images = soup.find_all('img', class_=lambda x: x and 'image_' in x)
+        for img in all_images:
+            if not img.find_parent('div', class_='related-content'):
+                width = img.get('width', '')
+                height = img.get('height', '')
                 if width and height:
-                    try:
-                        width_int = int(width)
-                        height_int = int(height)
-                        if width_int == 896 and height_int == 500:
-                            continue  # Skip the ghost image
-                    except ValueError:
-                        # If width or height is not an integer, skip filtering
-                        pass
+                    images.append(f"{width}x{height}")
+        
+        result['Images'] = f"{len(images)} (Sizes: {', '.join(images)})"
+        
+        # Count videos with specific class and not in related-content
+        videos = soup.find_all('div', {
+            'data-component-name': 'video-player',
+            'class': 'video-resource'
+        })
+        # Filter out videos in related-content
+        videos = [v for v in videos if not v.find_parent('div', class_='related-content')]
+        result['Videos'] = len(videos)
+        
+        return result
+    
+    except Exception as e:
+        print(f"Error scraping {url}: {str(e)}")
+        return None
 
-                # If not excluded, count the image
-                image_count += 1
-                image_sizes.append(f"{width}x{height}" if width and height else "Unknown Size")
-
-            # Extract videos
-            video_containers = story.find_all('div', {'class': 'video-resource__wrapper'})
-            video_count += len(video_containers)
-
-        return word_count, image_count, image_sizes, video_count
-
-    except requests.RequestException as e:
-        print(f"Failed to fetch {url}: {e}")
-        return 0, 0, [], 0
-
-def save_article_data_to_file(articles, category, filename="cnn_articles.txt"):
-    """Save fetched article data to a file, avoiding duplicates."""
-    existing_articles = set()
-    if os.path.exists(filename):
-        with open(filename, "r", encoding='utf-8') as file:
-            for line in file:
-                if line.startswith("URL: "):
-                    url = line.split("URL: ")[1].strip()
-                    existing_articles.add(url)
-
-    with open(filename, "a", encoding='utf-8') as file:
-        for article in articles:
-            if article['url'] not in existing_articles:
-                title = article['title']
-                url = article['url']
-                published_date = article['published_date']
-                word_count, image_count, image_sizes, video_count = get_article_details(url)
-
-                file.write(f"Category: {category}\n")
-                file.write(f"Title: {title}\n")
-                file.write(f"URL: {url}\n")
-                file.write(f"Date: {published_date}\n"
-                           f"Word Count: {word_count} words\n"
-                           f"Images: {image_count} (Sizes: {', '.join(image_sizes) if image_sizes else 'N/A'})\n"
-                           f"Videos: {video_count}\n\n")
-                print(f"Added article: {title} (Category: {category})")
+def save_article_info(info, filename="cnn_articles.txt"):
+    """Save the article information to a file"""
+    with open(filename, 'a', encoding='utf-8') as f:
+        f.write(f"Category: {info['Category']}\n")
+        f.write(f"Title: {info['Title']}\n")
+        f.write(f"URL: {info['URL']}\n")
+        f.write(f"Date: {info['Date']}\n")
+        f.write(f"Word Count: {info['Word Count']}\n")
+        f.write(f"Images: {info['Images']}\n")
+        f.write(f"Videos: {info['Videos']}\n")
+        f.write("\n")
 
 def main():
-    """Main function to fetch and save articles from all categories."""
-    all_articles_fetched = False
-
-    for category, rss_url in CATEGORY_RSS_FEEDS.items():
-        print(f"Fetching articles for category: {category}")
-        articles = fetch_cnn_articles(rss_url)
-
-        if articles:
-            save_article_data_to_file(articles, category, filename="cnn_articles.txt")
-            all_articles_fetched = True
-        else:
-            print(f"No articles fetched for category: {category}")
-
-    if all_articles_fetched:
-        print("All articles have been fetched and saved.")
-    else:
-        print("No articles were fetched from any category.")
+    # List of CNN sections to scrape
+    sections = [
+        "https://www.cnn.com/world",
+        "https://www.cnn.com/politics",
+        "https://www.cnn.com/science",
+        "https://www.cnn.com/health",
+        "https://www.cnn.com/sport",
+        "https://www.cnn.com/business/tech"
+    ]
+    
+    # Clear the file before starting
+    open('cnn_articles.txt', 'w').close()
+    
+    # Process each section
+    for section_url in sections:
+        print(f"Processing section: {section_url}")
+        article_urls = get_article_urls_from_zone(section_url)
+        print(f"Found {len(article_urls)} articles in {section_url}")
+        
+        # Scrape each article
+        for url in article_urls:
+            print(f"Scraping: {url}")
+            article_info = scrape_cnn_article(url)
+            
+            if article_info:
+                save_article_info(article_info)
+    
+    print("Scraping completed. Results saved to cnn_articles.txt")
 
 if __name__ == "__main__":
     main()
