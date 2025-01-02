@@ -1,4 +1,4 @@
-Total Articles: 299
+Total Articles: 396
 Category: latest
 Title: Reporter's Notebook: People are policy
 URL: https://www.foxnews.com/politics/reporters-notebook-people-policy
@@ -2390,4 +2390,780 @@ Date: Sat, 21 Dec 2024 08:30:38 -0500
 Word Count: 311 words
 Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
 Videos: 0
+
+Category: latest
+Title: Comedian Jim Gaffigan regrets Trump supporters thinking he was attacking them: They 'will never forgive me'
+URL: https://www.foxnews.com/media/comedian-jim-gaffigan-regrets-trump-supporters-thinking-attacking-will-never-forgive
+Date: Wed, 01 Jan 2025 16:30:00 -0500
+Word Count: 636 words
+Images: 3 (Sizes: 1200x675, Unknown Size, 1200x675)
+Videos: 2
+
+Category: latest
+Title: Who is Shamsud Din Jabbar? What we know about the New Orleans New Years' terrorist suspect
+URL: https://www.foxnews.com/us/who-shamsud-din-jabbar-what-we-know-about-new-orleans-new-years-terrorist-suspect
+Date: Wed, 01 Jan 2025 16:16:44 -0500
+Word Count: 309 words
+Images: 4 (Sizes: 1200x675, 1200x675, Unknown Size, Unknown Size)
+Videos: 1
+
+Category: latest
+Title: Blake Lively files official federal lawsuit against Justin Baldoni, looks forward to day in court
+URL: https://www.foxnews.com/entertainment/blake-lively-files-official-federal-lawsuit-against-justin-baldoni-looks-forward-day-court
+Date: Wed, 01 Jan 2025 15:56:33 -0500
+Word Count: 760 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: 1 dead, 7 injured after Tesla Cybertruck catches fire outside Trump hotel in Las Vegas: Police
+URL: https://www.foxnews.com/us/las-vegas-police-investigate-tesla-cybertruck-fire-front-trump-towers-report
+Date: Wed, 01 Jan 2025 15:31:40 -0500
+Word Count: 430 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Officials postpone Sugar Bowl in the wake of apparent terror attack on Bourbon Street
+URL: https://www.foxnews.com/sports/officials-postpone-sugar-bowl-wake-apparent-terror-attack-bourbon-street
+Date: Wed, 01 Jan 2025 14:23:35 -0500
+Word Count: 495 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Warding off dementia means more reading, praying and listening to music: study
+URL: https://www.foxnews.com/health/warding-off-dementia-reading-praying-listening-music-study
+Date: Wed, 01 Jan 2025 14:22:52 -0500
+Word Count: 569 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Journalists who hid Biden's mental decline should be held accountable: NY Post editorial board
+URL: https://www.foxnews.com/media/journalists-who-hid-bidens-mental-decline-should-held-accountable-ny-post-editorial-board
+Date: Wed, 01 Jan 2025 14:00:58 -0500
+Word Count: 12 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Bourbon Street attack on New Year's revelers just the latest case of terrorists using trucks to kill
+URL: https://www.foxnews.com/us/new-orleans-terror-attack-new-years-revelers-draws-somber-reminder-past-truck-rammings-targeting-crowds
+Date: Wed, 01 Jan 2025 13:57:46 -0500
+Word Count: 977 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Democratic congressman urges his party to find compromise with Trump’s agenda: ‘Mistake’ to resist
+URL: https://www.foxnews.com/media/democratic-congressman-urges-his-party-find-compromise-trumps-agenda-mistake-resist
+Date: Wed, 01 Jan 2025 13:00:44 -0500
+Word Count: 556 words
+Images: 3 (Sizes: 1200x675, Unknown Size, 1200x675)
+Videos: 2
+
+Category: latest
+Title: Notre Dame calls on fans to 'join us in prayer’ following apparent terror attack ahead of Sugar Bowl
+URL: https://www.foxnews.com/sports/notre-dame-calls-fans-join-us-prayer-following-apparent-terror-attack-ahead-sugar-bowl
+Date: Wed, 01 Jan 2025 12:06:29 -0500
+Word Count: 363 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: CNN's viewership skewered by comedian Whitney Cummings during live New Year's broadcast
+URL: https://www.foxnews.com/media/cnns-viewership-skewered-comedian-whitney-cummings-live-new-years-broadcast
+Date: Wed, 01 Jan 2025 12:00:32 -0500
+Word Count: 446 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Supreme Court Chief Justice Roberts issues warning on 'judicial independence' weeks before Trump inauguration
+URL: https://www.foxnews.com/politics/supreme-court-chief-justice-roberts-issues-warning-judicial-independence-weeks-before-trump-inauguration
+Date: Wed, 01 Jan 2025 10:53:03 -0500
+Word Count: 811 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Sugar Bowl official speaks out after deadly Bourbon Street attack leaves at least 10 dead hours before kickoff
+URL: https://www.foxnews.com/sports/sugar-bowl-official-speaks-out-after-deadly-bourbon-street-attack-hours-before-kickoff
+Date: Wed, 01 Jan 2025 10:42:25 -0500
+Word Count: 397 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Actor Justin Baldoni files $250 million defamation suit against New York Times
+URL: https://www.foxnews.com/media/actor-justin-baldoni-files-250-million-defamation-suit-against-new-york-times
+Date: Wed, 01 Jan 2025 10:18:46 -0500
+Word Count: 567 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Babies born in 2025 will begin Gen Beta, a brand-new generation
+URL: https://www.foxnews.com/health/babies-born-2025-begin-gen-beta-brand-new-generation
+Date: Wed, 01 Jan 2025 10:00:34 -0500
+Word Count: 790 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: RICK McDANIEL: Here's how you can make 2025 a GREATER year
+URL: https://www.foxnews.com/opinion/rick-mcdaniel-heres-how-you-can-make-2025-greater-year
+Date: Wed, 01 Jan 2025 10:00:25 -0500
+Word Count: 750 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Trump, Musk go viral with 'Trump dance' to YMCA at New Year's party
+URL: https://www.foxnews.com/media/trump-musk-go-viral-trump-dance-ymca-new-years-party
+Date: Wed, 01 Jan 2025 08:56:15 -0500
+Word Count: 507 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Comedian roasts CNN over Don Lemon firing when offered a New Year's Eve shot
+URL: https://www.foxnews.com/media/comedian-roasts-cnn-over-don-lemon-firing-when-offered-new-years-eve-shot
+Date: Wed, 01 Jan 2025 08:13:54 -0500
+Word Count: 583 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Receiving unexpected international calls? What you need to know
+URL: https://www.foxnews.com/tech/receiving-unexpected-international-calls-what-you-need-know
+Date: Wed, 01 Jan 2025 08:00:25 -0500
+Word Count: 847 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: DR NICOLE SAPHIER: 5 ways to get healthier in the New Year
+URL: https://www.foxnews.com/opinion/5-ways-get-healthier-new-year
+Date: Wed, 01 Jan 2025 08:00:21 -0500
+Word Count: 968 words
+Images: 5 (Sizes: 1200x675, Unknown Size, 1200x675, Unknown Size, 1200x675)
+Videos: 3
+
+Category: latest
+Title: Kristin Cavallari wants to ‘live in the energy’; Paul McCartney eyes new album: 2025 New Year's resolutions
+URL: https://www.foxnews.com/entertainment/kristin-cavallari-wants-live-energy-paul-mccartney-eyeing-new-album-2025-new-years-resolutions
+Date: Wed, 01 Jan 2025 08:00:09 -0500
+Word Count: 912 words
+Images: 7 (Sizes: 1200x675, 1200x675, Unknown Size, 1200x675, Unknown Size, Unknown Size, 1200x675)
+Videos: 4
+
+Category: latest
+Title: 20 products that will help you get outside more this year
+URL: https://www.foxnews.com/lifestyle/amazon-outdoor-gear-products
+Date: Wed, 01 Jan 2025 08:00:03 -0500
+Word Count: 1023 words
+Images: 21 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 0
+
+Category: latest
+Title: Eagles head coach Nick Sirianni says he'll meet with staff, players about Saquon Barkley's chase for record
+URL: https://www.foxnews.com/sports/eagles-head-coach-nick-sirianni-says-hell-meet-staff-players-about-saquon-barkleys-chase-record
+Date: Wed, 01 Jan 2025 07:45:47 -0500
+Word Count: 473 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: JOHNSON, SCALISE, EMMER, McCLAIN: Congress must deliver President Trump's agenda quickly
+URL: https://www.foxnews.com/opinion/johnson-scalise-emmer-mcclain-congress-must-deliver-president-trumps-agenda-quickly
+Date: Wed, 01 Jan 2025 07:00:49 -0500
+Word Count: 739 words
+Images: 2 (Sizes: Unknown Size, Unknown Size)
+Videos: 3
+
+Category: latest
+Title: Global rise in antisemitism leaves Jewish community isolated, rabbi says world at 'a tipping point'
+URL: https://www.foxnews.com/world/global-rise-antisemitism-leaves-jewish-community-isolated-rabbi-says-world-a-tipping-point
+Date: Wed, 01 Jan 2025 07:00:40 -0500
+Word Count: 1436 words
+Images: 7 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Republican congressman calls on incoming administration to target 'The Axis of Aggressors'
+URL: https://www.foxnews.com/world/republican-congressman-calls-incoming-administration-target-axis-aggressors
+Date: Tue, 31 Dec 2024 20:07:28 -0500
+Word Count: 754 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Israel kills Hamas commander who led heinous Oct. 7 attack on Kibbutz Nir Oz killed in drone attack: IDF
+URL: https://www.foxnews.com/world/israel-kills-hamas-commander-who-led-heinous-oct-7-attack-kibbutz-nir-oz-killed-drone-attack-idf
+Date: Tue, 31 Dec 2024 20:02:51 -0500
+Word Count: 236 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Healthy living, party unity, and 'time to smell the roses': Congressional Republicans' New Year's resolutions
+URL: https://www.foxnews.com/politics/party-unity-congressional-republicans-new-years-resolutions
+Date: Wed, 01 Jan 2025 04:00:41 -0500
+Word Count: 480 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: 6 top winners and losers who emerged in politics in 2024
+URL: https://www.foxnews.com/politics/6-top-winners-and-losers-that-emerged-in-politics-in-2024
+Date: Wed, 01 Jan 2025 04:00:32 -0500
+Word Count: 1555 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: The top 5 political stories of 2024
+URL: https://www.foxnews.com/politics/top-5-political-stories-2024
+Date: Wed, 01 Jan 2025 04:00:15 -0500
+Word Count: 1828 words
+Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: US prepares to deorbit International Space Station amid China competition
+URL: https://www.foxnews.com/politics/u-s-prepares-deorbit-international-space-station-amid-china-competition
+Date: Tue, 31 Dec 2024 19:26:10 -0500
+Word Count: 1020 words
+Images: 3 (Sizes: Unknown Size, 1200x675, 1200x675)
+Videos: 2
+
+Category: health
+Title: 19 drug approvals in 2024 that had 'big clinical impact,' according to GoodRx
+URL: https://www.foxnews.com/health/drug-approvals-2024-big-clinical-impact-according-goodrx
+Date: Wed, 01 Jan 2025 04:30:22 -0500
+Word Count: 401 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Fox News Digital Sports NFL power rankings after Week 17 of the 2024 season
+URL: https://www.foxnews.com/sports/fox-news-digital-sports-nfl-power-rankings-after-week-17-2024-season
+Date: Wed, 01 Jan 2025 04:00:15 -0500
+Word Count: 1997 words
+Images: 32 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Penn State routs Boise State to advance to CFP semifinal; Ashton Jeanty comes up short of rushing record
+URL: https://www.foxnews.com/sports/penn-state-routs-boise-state-advance-cfp-semifinal-ashton-jeanty-comes-up-short-rushing-record
+Date: Wed, 01 Jan 2025 01:14:50 -0500
+Word Count: 454 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Travis Kelce receives most fan votes for 2025 Pro Bowl
+URL: https://www.foxnews.com/sports/travis-kelce-receives-most-fan-votes-2025-pro-bowl
+Date: Tue, 31 Dec 2024 21:42:15 -0500
+Word Count: 410 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Jordan Chiles flaunts Olympic medal in New Year's post amid ongoing appeal over losing bronze to Romania
+URL: https://www.foxnews.com/sports/jordan-chiles-flaunts-withdrawn-olympic-medal-new-years-post-amid-ongoing-appeal
+Date: Tue, 31 Dec 2024 21:36:40 -0500
+Word Count: 816 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Women's rights activists call for England to forfeit championship cricket match to Afghanistan
+URL: https://www.foxnews.com/sports/womens-rights-activists-call-england-forfeit-championship-cricket-match-afghanistan
+Date: Tue, 31 Dec 2024 20:32:56 -0500
+Word Count: 658 words
+Images: 3 (Sizes: 1200x675, Unknown Size, 1200x675)
+Videos: 2
+
+Category: sports
+Title: South Carolina's Shane Beamer separated from opposing coach in Citrus Bowl following taunt after injury
+URL: https://www.foxnews.com/sports/south-carolinas-shane-beamer-separated-opposing-coach-citrus-bowl-taunt-injury
+Date: Tue, 31 Dec 2024 19:21:13 -0500
+Word Count: 301 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Quinn Ewers' former Texas teammate posts cryptic message after rumor of $6 million offer for QB to transfer
+URL: https://www.foxnews.com/sports/quinn-ewers-former-texas-teammate-posts-cryptic-message-after-rumor-6-million-offer-qb-transfer
+Date: Tue, 31 Dec 2024 19:15:04 -0500
+Word Count: 370 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Lamar Jackson vs Josh Allen MVP debate divides NFL media
+URL: https://www.foxnews.com/sports/lamar-jackson-vs-josh-allen-mvp-debate-divides-nfl-media
+Date: Tue, 31 Dec 2024 19:09:15 -0500
+Word Count: 857 words
+Images: 3 (Sizes: Unknown Size, Unknown Size, Unknown Size)
+Videos: 4
+
+Category: sports
+Title: Matthew Gaudreau's wife announces the birth of their first child months after tragic death
+URL: https://www.foxnews.com/sports/matthew-gaudreaus-wife-announces-birth-first-child-months-after-tragic-death
+Date: Tue, 31 Dec 2024 18:28:34 -0500
+Word Count: 351 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: tech
+Title: 12 must-have apps to crush your New Year’s resolutions
+URL: https://www.foxnews.com/tech/12-must-have-apps-crush-your-new-years-resolutions
+Date: Wed, 01 Jan 2025 06:00:13 -0500
+Word Count: 2011 words
+Images: 14 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Dolly Parton says she's 'ready for a diet' after eating everything she wants for the holidays
+URL: https://www.foxnews.com/entertainment/dolly-parton-says-shes-ready-diet-after-eating-everything-she-wants-holidays
+Date: Thu, 02 Jan 2025 16:53:46 -0500
+Word Count: 497 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Saints, Pelicans announce member of video production team among those killed in New Orleans terrorist attack
+URL: https://www.foxnews.com/sports/saints-pelicans-announce-member-video-production-team-among-those-lost-new-orleans-terrorist-attack
+Date: Thu, 02 Jan 2025 16:50:38 -0500
+Word Count: 469 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: FLASHBACK: Biden downplays ISIS threat to US, repeatedly says white supremacy 'most lethal' danger
+URL: https://www.foxnews.com/politics/flashback-biden-downplays-isis-threat-us-repeatedly-says-white-supremacy-most-lethal-danger
+Date: Thu, 02 Jan 2025 16:48:58 -0500
+Word Count: 734 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Biden 'glad' Sugar Bowl being played after New Orleans terror attack
+URL: https://www.foxnews.com/sports/biden-glad-sugar-bowl-being-played-after-new-orleans-terror-attack
+Date: Thu, 02 Jan 2025 16:37:02 -0500
+Word Count: 315 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: US Army soldier charged over alleged hacking of Trump, Harris phone records
+URL: https://www.foxnews.com/politics/us-army-soldier-charged-over-alleged-hacking-trump-harris-phone-records
+Date: Thu, 02 Jan 2025 16:21:34 -0500
+Word Count: 253 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Investigators use tattoo, photos to identify suspect behind Cybertruck explosion at Trump hotel
+URL: https://www.foxnews.com/us/investigators-use-tattoo-photos-identify-suspect-cybertruck-explosion-trump-hotel
+Date: Thu, 02 Jan 2025 16:20:51 -0500
+Word Count: 638 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Sugar Bowl kicks off after New Orleans terror attack
+URL: https://www.foxnews.com/sports/sugar-bowl-kicks-off-after-new-orleans-terror-attack
+Date: Thu, 02 Jan 2025 16:11:38 -0500
+Word Count: 477 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Biden awards Liz Cheney, Jan 6 committee chairman a medal: US 'is better because of their dedication'
+URL: https://www.foxnews.com/politics/biden-awards-liz-cheney-jan-6-committee-chairman-medal-us-is-better-because-dedication
+Date: Thu, 02 Jan 2025 16:04:38 -0500
+Word Count: 978 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Easy internet sleuth tricks you’ll wish you knew sooner
+URL: https://www.foxnews.com/tech/easy-internet-sleuth-tricks-youll-wish-you-knew-sooner
+Date: Thu, 02 Jan 2025 16:04:35 -0500
+Word Count: 670 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: U.S. threat landscape, domestic extremism pose a daunting—but familiar— test for Trump's second term
+URL: https://www.foxnews.com/politics/u-s-threat-landscape-domestic-extremism-pose-daunting-but-familiar-test-trumps-second-term
+Date: Thu, 02 Jan 2025 16:01:22 -0500
+Word Count: 1110 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Ageless 'Dynasty' star Linda Evans shares plans for 2025 in inspiring New Year's message
+URL: https://www.foxnews.com/entertainment/ageless-dynasty-star-linda-evans-shares-plans-2025-inspiring-new-years-message
+Date: Thu, 02 Jan 2025 15:49:04 -0500
+Word Count: 582 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Lawmakers in Indiana, home of NCAA HQ, look to expand transgender sports ban to include college programs
+URL: https://www.foxnews.com/sports/lawmakers-indiana-home-ncaa-hq-look-expand-transgender-sports-ban-include-college-programs
+Date: Thu, 02 Jan 2025 15:38:12 -0500
+Word Count: 486 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Livvy Dunne, Paul Skenes celebrate New Year's in New Orleans hours before deadly terror attack
+URL: https://www.foxnews.com/sports/livvy-dunne-paul-skenes-celebrate-new-years-new-orleans-hours-before-deadly-terror-attack
+Date: Thu, 02 Jan 2025 15:26:57 -0500
+Word Count: 327 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: FBI found 150 bombs at Virginia home in December, prosecutors say
+URL: https://www.foxnews.com/us/fbi-found-150-bombs-virginia-home-december-prosecutors-say
+Date: Thu, 02 Jan 2025 15:19:01 -0500
+Word Count: 568 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: New Orleans, Las Vegas suspects latest in long line of military radicals
+URL: https://www.foxnews.com/politics/new-orleans-las-vegas-suspects-latest-long-line-military-radicals
+Date: Thu, 02 Jan 2025 15:01:01 -0500
+Word Count: 961 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Fox News Sports Huddle Newsletter: Sugar Bowl will be played after New Orleans terror attack
+URL: https://www.foxnews.com/sports/fox-news-sports-huddle-newsletter-sugar-bowl-played-after-new-orleans-terror-attack
+Date: Thu, 02 Jan 2025 14:45:41 -0500
+Word Count: 365 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 0
+
+Category: latest
+Title: NY Times reporter who interviewed New Orleans terror suspect years ago says he saw no 'red flags'
+URL: https://www.foxnews.com/media/ny-times-reporter-who-interviewed-new-orleans-terror-suspect-years-ago-says-he-saw-no-red-flags
+Date: Thu, 02 Jan 2025 14:36:40 -0500
+Word Count: 604 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: 'Lives depend on it': Republicans push for prompt Trump confirmations in wake of New Orleans attack
+URL: https://www.foxnews.com/politics/lives-depend-it-republicans-push-prompt-trump-confirmations-wake-new-orleans-attack
+Date: Thu, 02 Jan 2025 14:32:50 -0500
+Word Count: 548 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Superdome welcomes Sugar Bowl fans after New Orleans terror attack
+URL: https://www.foxnews.com/sports/superdome-welcomes-sugar-bowl-fans-after-new-orleans-terror-attack
+Date: Thu, 02 Jan 2025 14:31:03 -0500
+Word Count: 304 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: The 6 biggest FBI scandals under the Biden administration
+URL: https://www.foxnews.com/politics/6-biggest-fbi-scandals-under-biden-administration
+Date: Thu, 02 Jan 2025 14:19:03 -0500
+Word Count: 2640 words
+Images: 10 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: UFL releases 2025 schedule; Stallions look for another title
+URL: https://www.foxnews.com/sports/ufl-releases-2025-schedule-stallions-look-another-title
+Date: Thu, 02 Jan 2025 14:19:02 -0500
+Word Count: 348 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: 6 tips to ‘detox’ after excessive holiday eating and drinking
+URL: https://www.foxnews.com/health/6-tips-detox-excessive-holiday-eating-drinking
+Date: Thu, 02 Jan 2025 14:16:00 -0500
+Word Count: 993 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Tracking government spending, Part 2: Contractual services and supplies
+URL: https://www.foxnews.com/politics/tracking-government-spending-part-2-contractual-services-supplies
+Date: Thu, 02 Jan 2025 13:55:41 -0500
+Word Count: 1055 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: latest
+Title: Armie Hammer ‘well aware’ kids might ‘hate’ him after learning about cannibalism scandal
+URL: https://www.foxnews.com/entertainment/armie-hammer-well-aware-kids-might-hate-him-after-learning-about-cannibalism-scandal
+Date: Thu, 02 Jan 2025 13:55:00 -0500
+Word Count: 695 words
+Images: 5 (Sizes: 1200x675, 1200x675, Unknown Size, 1200x675, 1200x675)
+Videos: 2
+
+Category: latest
+Title: Biden national security adviser Jake Sullivan offered to resign over chaotic Afghanistan withdrawal: report
+URL: https://www.foxnews.com/media/biden-national-security-adviser-jake-sullivan-offered-resign-over-chaotic-afghanistan-withdrawal-report
+Date: Thu, 02 Jan 2025 13:44:34 -0500
+Word Count: 390 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: world
+Title: Israeli PM Benjamin Netanyahu leaves hospital after prostate surgery
+URL: https://www.foxnews.com/world/israeli-pm-benjamin-netanyahu-leaves-hospital-after-prostate-surgery
+Date: Thu, 02 Jan 2025 13:03:09 -0500
+Word Count: 69 words
+Images: 1 (Sizes: 1200x675)
+Videos: 1
+
+Category: world
+Title: New Zealand police officer killed in New Year's Day vehicle attack, another injured
+URL: https://www.foxnews.com/world/new-zealand-police-officer-killed-new-years-day-vehicle-attack-another-injured
+Date: Thu, 02 Jan 2025 09:46:44 -0500
+Word Count: 467 words
+Images: 1 (Sizes: 1200x675)
+Videos: 1
+
+Category: world
+Title: Christians increasingly persecuted worldwide as 'modern and historical factors converge'
+URL: https://www.foxnews.com/world/christians-increasingly-persecuted-worldwide-modern-historical-factors-converge
+Date: Thu, 02 Jan 2025 04:00:08 -0500
+Word Count: 829 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Hochul's Christmastime boast of safer subway came amid string of alarming violent attacks
+URL: https://www.foxnews.com/politics/hochuls-christmastime-boast-safer-subway-came-amid-string-alarming-violent-attacks
+Date: Thu, 02 Jan 2025 12:51:38 -0500
+Word Count: 1053 words
+Images: 3 (Sizes: Unknown Size, Unknown Size, 1200x675)
+Videos: 3
+
+Category: politics
+Title: Mike Johnson gets public GOP Senate support ahead of tight House speaker vote
+URL: https://www.foxnews.com/politics/mike-johnson-gets-public-gop-senate-support-ahead-tight-house-speaker-vote
+Date: Thu, 02 Jan 2025 12:31:15 -0500
+Word Count: 527 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Trump says he's not changed his mind on H-1B visas as debate rages within MAGA coalition
+URL: https://www.foxnews.com/politics/trump-says-hes-not-changed-his-mind-h-1b-visas-debate-rages-within-maga-coalition
+Date: Thu, 02 Jan 2025 12:09:33 -0500
+Word Count: 861 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, Unknown Size)
+Videos: 2
+
+Category: politics
+Title: 'When they fail, Americans die': Trump source blasts FBI, urges swift confirmation of Kash Patel as director
+URL: https://www.foxnews.com/politics/when-fail-americans-die-trump-source-blasts-fbi-urges-swift-confirmation-kash-patel-director
+Date: Thu, 02 Jan 2025 10:53:24 -0500
+Word Count: 1026 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Trump to headline 'victory rally' in nation's capital on eve of inauguration
+URL: https://www.foxnews.com/politics/trump-headline-victory-rally-nations-capital-eve-inauguration
+Date: Thu, 02 Jan 2025 10:07:49 -0500
+Word Count: 210 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: House Republicans move to change rules for vacating speakership 1 year after McCarthy's ousting
+URL: https://www.foxnews.com/politics/house-republicans-move-change-rules-vacating-speakership-1-year-after-mccarthys-ousting
+Date: Thu, 02 Jan 2025 09:57:11 -0500
+Word Count: 439 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: Derrick Van Orden targets Chip Roy over speakership vote: 'Chip is fighting to keep his brand marketable'
+URL: https://www.foxnews.com/politics/derrick-van-orden-targets-chip-roy-over-speakership-vote-chip-fighting-keep-his-brand-marketable
+Date: Thu, 02 Jan 2025 06:34:40 -0500
+Word Count: 507 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: What to know about race for speaker of the House
+URL: https://www.foxnews.com/politics/what-know-about-upcoming-race-speaker-house
+Date: Thu, 02 Jan 2025 04:00:28 -0500
+Word Count: 727 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: politics
+Title: The Speaker’s Lobby: The Hitchhiker’s Guide to electing a House Speaker
+URL: https://www.foxnews.com/politics/speakers-lobby-hitchhikers-guide-electing-house-speaker
+Date: Wed, 01 Jan 2025 20:57:55 -0500
+Word Count: 1298 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: health
+Title: 'I'm a psychologist — here's how to finally break your bad habits’
+URL: https://www.foxnews.com/health/psychologist-heres-how-finally-break-bad-habits
+Date: Thu, 02 Jan 2025 04:30:53 -0500
+Word Count: 862 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Notre Dame's Marcus Freeman talks team meeting after Sugar Bowl postponed following terror attack
+URL: https://www.foxnews.com/sports/notre-dames-marcus-freeman-talks-team-meeting-after-sugar-bowl-postponed-following-terror-attack
+Date: Thu, 02 Jan 2025 13:08:56 -0500
+Word Count: 301 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Caitlin Clark says she first started receiving college recruitment letters in 7th grade
+URL: https://www.foxnews.com/sports/caitlin-clark-says-she-first-started-receiving-college-recruitment-letters-seventh-grade
+Date: Thu, 02 Jan 2025 13:08:49 -0500
+Word Count: 694 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Ex-NFL star Antonio Brown launches fundraiser for New Orleans terror attack victims' families
+URL: https://www.foxnews.com/sports/ex-nfl-star-antonio-brown-launches-fundraiser-new-orleans-terror-attack-victims-families
+Date: Thu, 02 Jan 2025 11:41:14 -0500
+Word Count: 312 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Chiefs' Patrick Mahomes left off Pro Bowl roster for 1st time as starter
+URL: https://www.foxnews.com/sports/chiefs-patrick-mahomes-left-off-pro-bowl-roster-1st-time-starter
+Date: Thu, 02 Jan 2025 11:18:25 -0500
+Word Count: 271 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Brother of ex-college football player killed in New Orleans terror attack leads tributes
+URL: https://www.foxnews.com/sports/brother-ex-college-football-player-killed-new-orleans-terror-attack-leads-tributes
+Date: Thu, 02 Jan 2025 10:33:13 -0500
+Word Count: 384 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Travis Kelce, Taylor Swift highlighted year of NFL romances, growing football families
+URL: https://www.foxnews.com/sports/travis-kelce-taylor-swift-highlighted-year-nfl-romances-growing-football-families
+Date: Thu, 02 Jan 2025 10:00:18 -0500
+Word Count: 1329 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: New Orleans police official gives message to NFL fans on fence about attending Super Bowl LIX after attack
+URL: https://www.foxnews.com/sports/new-orleans-police-official-gives-message-nfl-fans-fence-about-attending-super-bowl-lix-after-attack
+Date: Thu, 02 Jan 2025 09:07:16 -0500
+Word Count: 383 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Saints' Cam Jordan donates $25K to New Orleans terror attack victims relief fund
+URL: https://www.foxnews.com/sports/saints-cam-jordan-donates-25000-new-orleans-terror-attack-victims-relief-fund
+Date: Thu, 02 Jan 2025 08:59:25 -0500
+Word Count: 291 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Louisiana gov will attend Sugar Bowl, vows Superdome is 'completely secure'
+URL: https://www.foxnews.com/sports/louisiana-gov-attend-sugar-bowl-vows-superdome-completely-secure
+Date: Thu, 02 Jan 2025 08:50:40 -0500
+Word Count: 322 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Sugar Bowl security beefed up to Super Bowl levels, official says
+URL: https://www.foxnews.com/sports/sugar-bowl-security-beefed-up-super-bowl-levels-official-says
+Date: Thu, 02 Jan 2025 08:08:42 -0500
+Word Count: 303 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Pelicans lament 'senseless act of violence' after New Orleans terror attack
+URL: https://www.foxnews.com/sports/pelicans-lament-senseless-act-violence-after-new-orleans-terror-attack
+Date: Thu, 02 Jan 2025 07:49:29 -0500
+Word Count: 496 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Georgia, Notre Dame fans make Sugar Bowl decision as game is postponed over terror attack
+URL: https://www.foxnews.com/sports/georgia-notre-dame-fans-make-sugar-bowl-decision-game-postponed-over-terror-attack
+Date: Thu, 02 Jan 2025 07:29:56 -0500
+Word Count: 845 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Aaron Rodgers says Jets' season finale vs. Dolphins could be his last NFL game
+URL: https://www.foxnews.com/sports/aaron-rodgers-says-jets-season-finale-vs-dolphins-could-his-last-nfl-game
+Date: Wed, 01 Jan 2025 22:26:07 -0500
+Word Count: 585 words
+Images: 3 (Sizes: Unknown Size, 1200x675, 1200x675)
+Videos: 2
+
+Category: sports
+Title: Ohio State stomps Oregon in Rose Bowl beatdown to advance to CFP semifinal
+URL: https://www.foxnews.com/sports/ohio-state-stomps-oregon-rose-bowl-beatdown-advance-cfp-semifinal
+Date: Wed, 01 Jan 2025 21:29:13 -0500
+Word Count: 511 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Louisiana attorney general says Sugar Bowl should be delayed to Friday after attack prompts postponement
+URL: https://www.foxnews.com/sports/louisiana-attorney-general-says-sugar-bowl-should-delayed-friday-after-attack-prompts-postponement
+Date: Wed, 01 Jan 2025 20:54:36 -0500
+Word Count: 881 words
+Images: 3 (Sizes: 1200x675, Unknown Size, 1200x675)
+Videos: 2
+
+Category: sports
+Title: Oregon quarterback Dillon Gabriel suggests football games should be played without bad weather
+URL: https://www.foxnews.com/sports/oregon-quarterback-dillon-gabriel-suggests-all-football-games-should-played-without-bad-weather
+Date: Wed, 01 Jan 2025 20:24:49 -0500
+Word Count: 459 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+Videos: 1
+
+Category: sports
+Title: Saquon Barkley and family react to Eagles sitting him with chance to break NFL rushing record
+URL: https://www.foxnews.com/sports/saquon-barkley-family-react-eagles-sitting-him-chance-break-nfl-rushing-record
+Date: Wed, 01 Jan 2025 18:51:18 -0500
+Word Count: 470 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+Videos: 1
 

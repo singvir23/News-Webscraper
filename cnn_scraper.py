@@ -5,8 +5,16 @@ import time
 import re
 from urllib.parse import urljoin
 
-def get_category_from_url(url):
-    # Extract category from URL
+def get_category_from_url(url, soup=None):
+    # Extract category from span if available
+    if soup:
+        category_span = soup.find('span', class_='brand-logo__theme brand-logo__section-text')
+        if category_span and category_span.text.strip().lower() == 'business':
+            return 'tech'
+        elif category_span:
+            return category_span.text.strip().lower()
+    
+    # Fallback to URL-based category
     if '/world' in url:
         return 'world'
     elif '/politics' in url:
@@ -19,8 +27,39 @@ def get_category_from_url(url):
         return 'sport'
     elif '/business/tech' in url:
         return 'tech'
+    elif '/business' in url:  # Add this to catch general business URLs
+        return 'tech'
     else:
         return 'unknown'
+
+def get_previously_scraped_urls(filename="cnn_articles.txt"):
+    """Extract all URLs that have already been scraped from the output file"""
+    scraped_urls = set()
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            content = f.read()
+            # Find all URLs in the file using regex
+            urls = re.findall(r'URL: (.*?)\n', content)
+            scraped_urls.update(urls)
+    except FileNotFoundError:
+        pass
+    return scraped_urls
+
+def update_total_articles(count, filename="cnn_articles.txt"):
+    """Update the total article count at the top of the file"""
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Remove old total if it exists
+        content = re.sub(r'Total Articles: \d+\n\n', '', content)
+        
+        # Write new content with updated total
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(f"Total Articles: {count}\n\n{content}")
+    except FileNotFoundError:
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(f"Total Articles: {count}\n\n")
 
 def get_article_urls_from_zone(url):
     headers = {
@@ -64,7 +103,7 @@ def scrape_cnn_article(url):
         soup = BeautifulSoup(response.text, 'html.parser')
         
         result = {
-            'Category': get_category_from_url(url),
+            'Category': get_category_from_url(url, soup),  # Pass soup to get_category_from_url
             'Title': '',
             'URL': url,
             'Date': '',
@@ -95,11 +134,13 @@ def scrape_cnn_article(url):
                 total_words += len(words)
         result['Word Count'] = f"{total_words} words"
         
-        # Find images excluding those in related-content
+        # Find images excluding those in related-content and video playlist
         images = []
         all_images = soup.find_all('img', class_=lambda x: x and 'image_' in x)
         for img in all_images:
-            if not img.find_parent('div', class_='related-content'):
+            # Check if image is in related-content or video playlist
+            if (not img.find_parent('div', class_='related-content') and 
+                not img.find_parent(class_=lambda x: x and 'video-playlist__items-container' in x)):
                 width = img.get('width', '')
                 height = img.get('height', '')
                 if width and height:
@@ -145,8 +186,9 @@ def main():
         "https://www.cnn.com/business/tech"
     ]
     
-    # Clear the file before starting
-    open('cnn_articles.txt', 'w').close()
+    # Get already processed URLs from existing file
+    scraped_urls = get_previously_scraped_urls()
+    print(f"Found {len(scraped_urls)} previously scraped articles")
     
     # Process each section
     for section_url in sections:
@@ -154,14 +196,18 @@ def main():
         article_urls = get_article_urls_from_zone(section_url)
         print(f"Found {len(article_urls)} articles in {section_url}")
         
-        # Scrape each article
+        # Scrape each article that hasn't been processed before
         for url in article_urls:
-            print(f"Scraping: {url}")
-            article_info = scrape_cnn_article(url)
-            
-            if article_info:
-                save_article_info(article_info)
+            if url not in scraped_urls:
+                print(f"Scraping: {url}")
+                article_info = scrape_cnn_article(url)
+                
+                if article_info:
+                    save_article_info(article_info)
+                    scraped_urls.add(url)
     
+    # Update total articles count at the top of the file
+    update_total_articles(len(scraped_urls))
     print("Scraping completed. Results saved to cnn_articles.txt")
 
 if __name__ == "__main__":
