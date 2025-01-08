@@ -1,4 +1,4 @@
-Total Articles: 81
+Total Articles: 82
 
 Category: world
 Title: Israel raid empties northern Gaza’s last functioning major hospital of all patients and detains its director
@@ -55,22 +55,6 @@ Date: Tue, 31 Dec 2024 05:01:42 +0000
 Word Count: 1057 words
 Images: 4 (Sizes: 2000x1361, 2000x1432, 2000x1333, 2000x1333)
 Videos: 1
-
-Category: unknown
-Title: How Gazaâs hospitals became battlegrounds
-URL: https://www.cnn.com/interactive/2024/01/middleeast/gaza-hospitals-destruction-investigation-intl-cmd/
-Date: 
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
-
-Category: world
-Title: How the climate crisis fuels gender inequality
-URL: https://www.cnn.com/interactive/2023/11/world/climate-gender-inequality-cnnphotos-as-equals-intl-cmd/
-Date: 
-Word Count: 0 words
-Images: 0 (Sizes: )
-Videos: 0
 
 Category: politics
 Title: What we know about funeral plans for former President Jimmy Carter
@@ -647,4 +631,15 @@ Date: Tue, 31 Dec 2024 16:11:23 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
 Videos: 1
+
+Category: health
+Title: Deck the halls (extra carefully): Common Christmas injuries, illustrated
+URL: https://www.cnn.com/2024/12/21/health/common-christmas-decoration-injuries-illustrated-dg/index.html
+Date: Sat, 21 Dec 2024 12:30:42 +0000
+Word Count: 721 words
+Images: 2 (Sizes: 1496x397, 4424x1789)
+Videos: 0
+
+
+
 

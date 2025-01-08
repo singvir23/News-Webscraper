@@ -18,7 +18,7 @@ CUSTOM_RSS_LINKS = {
 DEFAULT_BASE_URL = "https://feeds.foxnews.com/foxnews/"
 
 # List of categories to scrape
-CATEGORIES = ["latest", "world", "politics", "science", "health", "sports", "tech"]
+CATEGORIES = ["world", "politics", "science", "health", "sports", "tech"]
 
 def fetch_fox_news_articles(rss_url):
     feed = feedparser.parse(rss_url)
