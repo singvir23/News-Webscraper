@@ -1,4 +1,4 @@
-Total Articles: 509
+Total Articles: 546
 Category: world
 Title: Archaeologists in Denmark discover over 100 weapons from the Iron Age during excavations
 URL: https://www.foxnews.com/world/archaeologists-denmark-discover-over-100-weapons-from-iron-age-during-excavations
@@ -3561,4 +3561,263 @@ URL: https://www.foxnews.com/health/alcohol-linked-cancer-health-advisory-doctor
 Date: Wed, 08 Jan 2025 20:09:37 -0500
 Word Count: 87 words
 Images: 1 (Sizes: 1200x675)
+
+Category: world
+Title: Israel sends report to UN on 'brutal' treatment used by terrorists against hostages in Gaza
+URL: https://www.foxnews.com/world/israel-sends-report-un-brutal-treatment-used-terrorists-hostages-gaza
+Date: Thu, 09 Jan 2025 10:40:01 -0500
+Word Count: 949 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: world
+Title: The historic importance of Greenland for US national security as debate over island's future roars on
+URL: https://www.foxnews.com/world/historic-importance-greenland-us-national-security-debate-over-islands-future-roars
+Date: Thu, 09 Jan 2025 10:02:17 -0500
+Word Count: 809 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: world
+Title: Baby girl born on packed migrant boat heading for Spain's Canary Islands
+URL: https://www.foxnews.com/world/baby-girl-born-packed-migrant-boat-heading-spains-canary-islands
+Date: Thu, 09 Jan 2025 09:25:09 -0500
+Word Count: 441 words
+Images: 1 (Sizes: 1200x675)
+
+Category: politics
+Title: GOP firebrands Boebert, Burlison introduce bill to abolish ATF
+URL: https://www.foxnews.com/politics/gop-firebrands-boebert-burlison-introduce-bill-abolish-atf
+Date: Thu, 09 Jan 2025 11:30:54 -0500
+Word Count: 366 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Bernie Sanders takes heat for blaming California wildfires on climate change: 'Global warming ate my homework'
+URL: https://www.foxnews.com/politics/bernie-sanders-takes-heat-blaming-california-wildfires-climate-change-global-warming-ate-my-homework
+Date: Thu, 09 Jan 2025 11:06:35 -0500
+Word Count: 718 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Karen Bass' 2021 tweet comes back to haunt her as LA residents demand accountability
+URL: https://www.foxnews.com/politics/karen-bass-2021-tweet-comes-back-haunt-her-la-residents-demand-accountability
+Date: Thu, 09 Jan 2025 11:01:43 -0500
+Word Count: 400 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: House poised to pass bill that would sanction International Criminal Court for trying to arrest Netanyahu
+URL: https://www.foxnews.com/politics/house-pass-bill-sanction-international-criminal-court-arrest-netanyahu
+Date: Thu, 09 Jan 2025 10:27:50 -0500
+Word Count: 599 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: New GOP senator tears into Dems 'seeking to delay' Pete Hegseth DOD confirmation
+URL: https://www.foxnews.com/politics/new-gop-senator-tears-dems-seeking-delay-pete-hegseth-dod-confirmation
+Date: Thu, 09 Jan 2025 10:12:43 -0500
+Word Count: 569 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+
+Category: politics
+Title: Venezuelan opposition leader María Machado has urgent message for President-elect Donald Trump
+URL: https://www.foxnews.com/politics/venezuelan-opposition-leader-maria-machado-has-urgent-message-president-elect-donald-trump
+Date: Thu, 09 Jan 2025 09:03:15 -0500
+Word Count: 604 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Highly qualified': Former state AGs urge Senate to confirm Bondi to lead Justice Department
+URL: https://www.foxnews.com/politics/highly-qualified-former-state-ags-urge-senate-confirm-bondi-lead-justice-department
+Date: Thu, 09 Jan 2025 08:56:42 -0500
+Word Count: 475 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: ICE looking into expanding migrant detention facilities, ACLU says
+URL: https://www.foxnews.com/politics/ice-looking-expanding-migrant-detention-facilities-aclu-says
+Date: Thu, 09 Jan 2025 08:46:18 -0500
+Word Count: 569 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: MAGA Republicans defend TikTok as 'conservative platform' as fate hangs in balance with Supreme Court
+URL: https://www.foxnews.com/politics/maga-republicans-defend-tiktok-conservative-platform-fate-hangs-balance-supreme-court
+Date: Thu, 09 Jan 2025 08:39:02 -0500
+Word Count: 1399 words
+Images: 7 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: FBI informant who made up Biden bribe story gets 6 years in prison
+URL: https://www.foxnews.com/politics/fbi-informant-who-made-up-biden-bribe-story-gets-6-years-prison
+Date: Thu, 09 Jan 2025 08:15:26 -0500
+Word Count: 591 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Growing conservative movement in Canada is fighting back against 'California on steroids,' says strategist
+URL: https://www.foxnews.com/politics/growing-conservative-movement-canada-fighting-back-against-california-steroids-says-strategist
+Date: Thu, 09 Jan 2025 08:15:07 -0500
+Word Count: 805 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Biden approves $500M Ukraine security package 11 days before Trump takes office
+URL: https://www.foxnews.com/politics/biden-approves-500m-ukraine-security-package-11-days-before-trump-takes-office
+Date: Thu, 09 Jan 2025 07:33:25 -0500
+Word Count: 498 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Americans flock to the Capitol to pay respects to former President Carter ahead of funeral: 'Job well done'
+URL: https://www.foxnews.com/politics/americans-flock-capitol-pay-respects-former-president-carter-ahead-funeral-job-well-done
+Date: Thu, 09 Jan 2025 06:32:23 -0500
+Word Count: 542 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: ‘DOGE’ senator seeks to ensure feds can continue pursuing COVID fraudsters, debtors, as IG sounds alarm
+URL: https://www.foxnews.com/politics/doge-senator-seeks-ensure-feds-can-continue-pursuing-covid-fraudsters-debtors-ig-sounds-alarm
+Date: Thu, 09 Jan 2025 06:00:16 -0500
+Word Count: 559 words
+Images: 3 (Sizes: 1200x675, 1200x675, Unknown Size)
+
+Category: politics
+Title: America's newest governor looking forward 'to working with' Trump administration
+URL: https://www.foxnews.com/politics/americas-newest-governor-looking-forward-to-working-with-trump-administration
+Date: Thu, 09 Jan 2025 04:00:37 -0500
+Word Count: 615 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, Unknown Size)
+
+Category: politics
+Title: Trump's Remain in Mexico policy could be revived under new House GOP bill
+URL: https://www.foxnews.com/politics/trumps-remain-mexico-policy-could-revived-under-new-house-gop-bill
+Date: Thu, 09 Jan 2025 04:00:29 -0500
+Word Count: 485 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Jimmy Carter's funeral brings all five living presidents together in Washington, DC
+URL: https://www.foxnews.com/politics/jimmy-carters-funeral-set-bring-all-five-living-presidents-together-washington-dc
+Date: Thu, 09 Jan 2025 04:00:21 -0500
+Word Count: 876 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Justice Alito says he spoke with Trump about former clerk before hush-money filing to high court
+URL: https://www.foxnews.com/politics/justice-alito-says-he-spoke-trump-about-former-clerk-before-hush-money-filing-high-court
+Date: Thu, 09 Jan 2025 02:21:58 -0500
+Word Count: 427 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Newsom calls Trump's claims 'pure fiction' after president-elect points finger over California fire tragedy
+URL: https://www.foxnews.com/politics/newsom-calls-trumps-claims-pure-fiction-after-president-elect-points-finger-over-california-fire-tragedy
+Date: Thu, 09 Jan 2025 01:05:35 -0500
+Word Count: 659 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Trump details strategy to get necessary votes with one-bill approach to border, taxes
+URL: https://www.foxnews.com/politics/trump-details-strategy-get-necessary-votes-one-bill-approach-border-taxes
+Date: Wed, 08 Jan 2025 21:32:26 -0500
+Word Count: 560 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: 6 tips to reduce alcohol use and cancer risk after surgeon general's warning
+URL: https://www.foxnews.com/health/tips-reduce-alcohol-use-cancer-risk-surgeon-general-warning
+Date: Thu, 09 Jan 2025 04:30:18 -0500
+Word Count: 1059 words
+Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, Unknown Size, 1200x675, 1200x675)
+
+Category: sports
+Title: North Carolina lands top defensive transfer as rumors swirl around Bill Belichick's NFL interest: report
+URL: https://www.foxnews.com/sports/north-carolina-lands-top-defensive-transfer-rumors-swirl-around-bill-belichicks-nfl-interest-report
+Date: Thu, 09 Jan 2025 12:00:36 -0500
+Word Count: 271 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Browns' Myles Garrett has heartwarming moment with Ravens rookie after jersey swap ask
+URL: https://www.foxnews.com/sports/browns-myles-garrett-has-heartwarming-moment-ravens-rookie-after-jersey-swap-ask
+Date: Thu, 09 Jan 2025 11:31:55 -0500
+Word Count: 300 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Deion Sanders reveals only way he would coach in NFL
+URL: https://www.foxnews.com/sports/deion-sanders-reveals-only-way-he-would-coach-nfl
+Date: Thu, 09 Jan 2025 07:52:09 -0500
+Word Count: 412 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Ex-NASCAR star Danica Patrick questions water issues plaguing firefighters battling Los Angeles wildfires
+URL: https://www.foxnews.com/sports/ex-nascar-star-danica-patrick-questions-water-issues-plaguing-firefighters-battling-los-angeles-wildfires
+Date: Thu, 09 Jan 2025 07:26:25 -0500
+Word Count: 349 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Tommy Tuberville on why he's pushing trans athlete ban bill: 'There's been an attack on women'
+URL: https://www.foxnews.com/sports/tommy-tuberville-why-hes-pushing-trans-athlete-ban-bill-theres-been-attack-women
+Date: Thu, 09 Jan 2025 07:12:10 -0500
+Word Count: 873 words
+Images: 3 (Sizes: 1200x675, Unknown Size, 1200x675)
+
+Category: sports
+Title: Who is JuJu Watkins? Media-hyped teen trying to break Caitlin Clark's prized record
+URL: https://www.foxnews.com/sports/who-juju-watkins-media-hyped-teen-trying-break-caitlin-clarks-prized-record
+Date: Thu, 09 Jan 2025 07:03:50 -0500
+Word Count: 1727 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: 49ers' general manager drops the hammer on Brock Purdy's future after disappointing season
+URL: https://www.foxnews.com/sports/49ers-general-manager-drops-hammer-brock-purdys-future-after-disappointing-season
+Date: Wed, 08 Jan 2025 23:49:01 -0500
+Word Count: 375 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Penn State's James Franklin jabs at Notre Dame ahead of CFP matchup: 'Everybody should be in a conference'
+URL: https://www.foxnews.com/sports/penn-states-james-franklin-jabs-notre-dame-ahead-cfp-matchup-everybody-should-conference
+Date: Wed, 08 Jan 2025 20:48:03 -0500
+Word Count: 633 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Eagles' Jalen Hurts, dealing with concussion, takes step forward for potential playoffs return
+URL: https://www.foxnews.com/sports/eagles-jalen-hurts-dealing-concussion-takes-step-forward-potential-playoffs-return
+Date: Wed, 08 Jan 2025 20:41:06 -0500
+Word Count: 357 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: NFL announces contingency plan if SoFi Stadium can't be used for Rams-Vikings playoff game due to wildfires
+URL: https://www.foxnews.com/sports/nfl-announces-contingency-plan-sofi-stadium-cant-used-rams-vikings-playoff-game-due-wildfires
+Date: Wed, 08 Jan 2025 20:23:05 -0500
+Word Count: 454 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: tech
+Title: This fake app clone will steal everything you type on your Android
+URL: https://www.foxnews.com/tech/fake-app-clone-steal-everything-you-type-your-android
+Date: Thu, 09 Jan 2025 10:00:17 -0500
+Word Count: 965 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: tech
+Title: Meta makes major move back to free speech and ends 3rd-party fact-checking program
+URL: https://www.foxnews.com/tech/meta-makes-major-move-back-free-speech-ends-third-party-fact-checking-program
+Date: Thu, 09 Jan 2025 08:00:58 -0500
+Word Count: 787 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: tech
+Title: Solar device transforms used tires to help purify water so that it's drinkable
+URL: https://www.foxnews.com/tech/solar-device-transforms-used-tires-help-purify-water-so-its-drinkable
+Date: Thu, 09 Jan 2025 06:00:01 -0500
+Word Count: 713 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
 

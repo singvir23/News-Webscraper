@@ -1,4 +1,5 @@
-Total Articles: 134
+Total Articles: 151
+
 
 Category: tech
 Title: Elon Musk has met with politicians from at least 13 different countries: Here’s what he has talked about
@@ -1498,4 +1499,123 @@ Date: Mon, 06 Jan 2025 22:28:45 +0000
 Word Count: 525 words
 Images: 5 (Sizes: 3000x2107, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
+
+Category: world
+Title: Two men are vying to be inaugurated as Venezuela’s president this week. Here’s what we know
+URL: https://www.cnn.com/2025/01/09/americas/venezuela-maduro-inauguration-explainer-intl-latam/index.html
+Date: Thu, 09 Jan 2025 15:42:27 +0000
+Word Count: 683 words
+Images: 1 (Sizes: 2000x1125)
+
+Category: world
+Title: US-backed army chief elected Lebanon’s president, ending years-long stalemate
+URL: https://www.cnn.com/2025/01/09/middleeast/joseph-aoun-elected-lebanon-president-intl/index.html
+Date: Thu, 09 Jan 2025 12:42:07 +0000
+Word Count: 514 words
+Images: 3 (Sizes: 2000x1333, 1920x1080, 2000x1333)
+
+Category: world
+Title: Prince William praises ‘incredible wife and mother’ Kate as she celebrates 43rd birthday
+URL: https://www.cnn.com/2025/01/09/uk/princess-of-wales-birthday-photo-scli-intl/index.html
+Date: Thu, 09 Jan 2025 11:56:37 +0000
+Word Count: 275 words
+Images: 2 (Sizes: 2000x1389, 1506x2048)
+
+Category: world
+Title: Attack on Chad’s presidential palace leaves 19 dead
+URL: https://www.cnn.com/2025/01/09/africa/chads-presidential-palace-attacked-intl/index.html
+Date: Thu, 09 Jan 2025 11:33:36 +0000
+Word Count: 264 words
+Images: 1 (Sizes: 2000x1125)
+
+Category: world
+Title: Baby born at sea on migrant dinghy en route to Spain
+URL: https://www.cnn.com/2025/01/09/europe/baby-born-migrant-boat-spain-intl/index.html
+Date: Thu, 09 Jan 2025 14:49:30 +0000
+Word Count: 514 words
+Images: 2 (Sizes: 1600x1200, 2000x1282)
+
+Category: world
+Title: Migrants race against the clock to reach the US-Mexico border before Trump takes office
+URL: https://www.cnn.com/2025/01/09/americas/migrants-caravan-mexico-trump-intl-latam/index.html
+Date: Thu, 09 Jan 2025 11:00:42 +0000
+Word Count: 1148 words
+Images: 4 (Sizes: 3000x2001, 3000x2000, 3000x1997, 3000x1997)
+
+Category: politics
+Title: Trump’s inaugural committee has already raised a record $170 million in donations
+URL: https://www.cnn.com/2025/01/09/politics/trump-inaugural-committee-raised-170-million/index.html
+Date: Thu, 09 Jan 2025 16:42:17 +0000
+Word Count: 308 words
+Images: 1 (Sizes: 3000x1687)
+
+Category: politics
+Title: Biden confronts an ending with Carter’s funeral
+URL: https://www.cnn.com/2025/01/09/politics/biden-legacy-carter-funeral-pope-visit/index.html
+Date: Thu, 09 Jan 2025 09:00:42 +0000
+Word Count: 1795 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: Biden administration announces its final military aid package for Ukraine before leaving office
+URL: https://www.cnn.com/2025/01/09/politics/us-ukraine-aid-biden/index.html
+Date: Thu, 09 Jan 2025 10:00:42 +0000
+Word Count: 478 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: politics
+Title: Garland tells Congress he plans to make Jack Smith report on Trump cases available once courts allow
+URL: https://www.cnn.com/2025/01/09/politics/merrick-garland-special-counsel-report-trump/index.html
+Date: Thu, 09 Jan 2025 12:51:57 +0000
+Word Count: 441 words
+Images: 1 (Sizes: 2000x1125)
+
+Category: politics
+Title: Biden cancels Italy trip in final days of his presidency to focus on federal response to LA wildfires
+URL: https://www.cnn.com/2025/01/08/politics/biden-cancels-rome-italy-trip-wildfires-california/index.html
+Date: Thu, 09 Jan 2025 03:23:51 +0000
+Word Count: 576 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: politics
+Title: Fact check: As wildfires rage, Trump lashes out with false claims about FEMA and California water policy
+URL: https://www.cnn.com/2025/01/09/politics/fact-check-trump-california-wildfires-fema/index.html
+Date: Thu, 09 Jan 2025 16:09:30 +0000
+Word Count: 1153 words
+Images: 1 (Sizes: 7975x5319)
+
+Category: politics
+Title: Eyes on US Supreme Court as NY’s highest court rejects Trump’s bid to postpone sentencing in hush money case
+URL: https://www.cnn.com/2025/01/09/politics/hush-money-sentencing-donald-trump-supreme-court/index.html
+Date: Thu, 09 Jan 2025 15:12:15 +0000
+Word Count: 443 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: politics
+Title: Elon Musk now has a new, lower target number for DOGE’s budget cuts
+URL: https://www.cnn.com/2025/01/09/politics/elon-musk-backtracks-federal-budget-cuts/index.html
+Date: Thu, 09 Jan 2025 14:13:55 +0000
+Word Count: 510 words
+Images: 1 (Sizes: 2000x1334)
+
+Category: health
+Title: Norovirus cases are surging. A doctor explains what to look for
+URL: https://www.cnn.com/2024/12/31/health/norovirus-cases-increase-wellness/index.html
+Date: Tue, 31 Dec 2024 12:14:41 +0000
+Word Count: 1094 words
+Images: 2 (Sizes: 1920x1080, 3000x2001)
+
+Category: sports
+Title: Hope for old DC: The Washington Commanders return to the playoffs ready for a new era
+URL: https://www.cnn.com/2025/01/09/sport/washington-commanders-nfl-wild-card/index.html
+Date: Thu, 09 Jan 2025 12:00:42 +0000
+Word Count: 2983 words
+Images: 9 (Sizes: 1600x1067, 2500x1695, 2500x1667, 2321x1625, 2000x1383, 3000x2001, 3000x2151, 2400x1600, 1600x1059)
+
+Category: tech
+Title: ‘Shark Tank’s’ Kevin O’Leary and billionaire Frank McCourt want to buy TikTok. One problem: It’s not for sale
+URL: https://www.cnn.com/2025/01/09/tech/tiktok-ban-buy-frank-mccourt-kevin-oleary-bytedance/index.html
+Date: Thu, 09 Jan 2025 16:51:48 +0000
+Word Count: 537 words
+Images: 7 (Sizes: 1600x900, 3000x3000, 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
