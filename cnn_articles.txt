@@ -1,4 +1,6 @@
-Total Articles: 73
+Total Articles: 134
+
+
 
 Category: tech
 Title: Elon Musk has met with politicians from at least 13 different countries: Here’s what he has talked about
@@ -231,14 +233,14 @@ Date: Fri, 20 Dec 2024 13:01:32 +0000
 Word Count: 926 words
 Images: 4 (Sizes: 1600x900, 2400x1600, 1600x3220, 2400x1600)
 
-Category: sport
+Category: sports
 Title: Vinícius Jr. exclusive: Real Madrid squad will walk off the pitch in face of racist abuse
 URL: https://www.cnn.com/2024/08/28/sport/video/vinicius-jr-racism-real-madrid-spain-spt-intl
 Date: Wed, 28 Aug 2024 11:30:21 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 2120x1413)
 
-Category: sport
+Category: sports
 Title: Lewis Hamilton fulfills childhood dream, pilots fighter jet
 URL: https://www.cnn.com/2024/11/29/sport/video/hamilton-hosseini-f1-pilot-cnni-sports-fast
 Date: Fri, 29 Nov 2024 23:18:30 +0000
@@ -252,210 +254,210 @@ Date: Sat, 26 Oct 2024 02:32:12 +0000
 Word Count: 0 words
 Images: 63 (Sizes: 2399x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2399x1600, 2352x1600, 2400x1600, 2305x1600, 2400x1600, 2400x1600, 2401x1600, 2400x1600, 2000x1333, 2000x1345, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2000x1334, 2000x1333, 2000x1333, 1600x1067, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1334, 2400x1600, 2400x1600, 2402x1600, 2400x1600, 2400x1600, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 2400x1600, 2401x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2399x1600, 3000x2000, 2957x1971, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000)
 
-Category: sport
+Category: sports
 Title: Tiger Woods and son Charlie shine at PNC Championship in Woods’ return to competition
 URL: https://www.cnn.com/2024/12/21/sport/tiger-woods-son-pnc-championship-spt/index.html
 Date: Sat, 21 Dec 2024 14:23:24 +0000
 Word Count: 564 words
 Images: 2 (Sizes: 3000x2000, 3000x2000)
 
-Category: sport
+Category: sports
 Title: How Manchester City slumped from all-conquering champion to its worst run of form in 18 years
 URL: https://www.cnn.com/2024/12/23/sport/manchester-city-aston-villa-spt-intl/index.html
 Date: Mon, 23 Dec 2024 10:05:07 +0000
 Word Count: 656 words
 Images: 2 (Sizes: 1616x1032, 2482x1652)
 
-Category: sport
+Category: sports
 Title: ‘It’s a very different beast’: Rio Ferdinand calls for ‘long-term thinking’ amid turbulent times at Manchester United
 URL: https://www.cnn.com/2024/12/30/sport/rio-ferdinand-manchester-united-globe-soccer-spt/index.html
 Date: Mon, 30 Dec 2024 12:02:27 +0000
 Word Count: 1334 words
 Images: 4 (Sizes: 1920x1080, 3000x2000, 3000x2048, 1920x1080)
 
-Category: sport
+Category: sports
 Title: A doping free-for-all Enhanced Games calls itself the answer to doping in sports. Opponents say it poses a danger to health
 URL: https://www.cnn.com/2023/10/30/sport/enhanced-games-olympics-doping-spt-intl/index.html
 Date: Mon, 30 Oct 2023 08:43:12 +0000
 Word Count: 3315 words
 Images: 8 (Sizes: 1600x900, 1920x1080, 3000x1685, 3000x2178, 3000x2016, 3000x1851, 1920x1080, 1920x1080)
 
-Category: sport
+Category: sports
 Title: Lewandowski chimes in on former manager Guardiola’s woes
 URL: https://www.cnn.com/2024/12/17/sport/video/lewandowski-guardiola-cnni-sports-fast
 Date: Tue, 17 Dec 2024 23:46:49 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
 
-Category: sport
+Category: sports
 Title: ‘Money excuse must stop’: Thibaut Courtois urges soccer to use NBA as reference point in calendar congestion crisis
 URL: https://www.cnn.com/2024/12/31/sport/thibaut-courtois-calendar-congestion-real-madrid-spt/index.html
 Date: Tue, 31 Dec 2024 15:10:26 +0000
 Word Count: 1539 words
 Images: 4 (Sizes: 1920x1080, 3000x2000, 1600x1067, 3000x2000)
 
-Category: sport
+Category: sports
 Title: Novak Djokovic: Coach Andy Murray ‘bringing a fresh look to my game’
 URL: https://www.cnn.com/2024/12/30/sport/novak-djokovic-andy-murray-coach-spt/index.html
 Date: Mon, 30 Dec 2024 11:20:31 +0000
 Word Count: 558 words
 Images: 1 (Sizes: 1600x900)
 
-Category: sport
+Category: sports
 Title: Tiger Woods to compete for first time since back surgery at PNC Championship with son
 URL: https://www.cnn.com/2024/12/10/sport/tiger-and-charlie-woods-compete-pnc-championship-spt/index.html
 Date: Wed, 11 Dec 2024 01:45:35 +0000
 Word Count: 227 words
 Images: 1 (Sizes: 1600x1138)
 
-Category: sport
+Category: sports
 Title: Sinner & Alcaraz spearheading tennis’ charge into a new era
 URL: https://www.cnn.com/2024/11/12/sport/video/sinner-alcaraz-tennis-atp-cnni-sports-fast
 Date: Tue, 12 Nov 2024 13:17:00 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
 
-Category: sport
+Category: sports
 Title: Lily Yohannes: The 17-year-old star of the US women’s team, by those who know her best
 URL: https://www.cnn.com/2024/12/04/sport/lily-yohannes-uswnt-teenage-star-spt-intl/index.html
 Date: Wed, 04 Dec 2024 12:00:48 +0000
 Word Count: 1665 words
 Images: 4 (Sizes: 2400x1669, 750x1334, 480x640, 2400x1518)
 
-Category: sport
+Category: sports
 Title: ‘A whole different wiring system’: the extreme athletes who pushed limits in 2024 – and why they might not be crazy after all
 URL: https://www.cnn.com/2024/12/27/sport/extreme-athletes-achievements-2024-spt-intl/index.html
 Date: Fri, 27 Dec 2024 12:02:27 +0000
 Word Count: 1560 words
 Images: 9 (Sizes: 1600x900, 3000x1987, 3000x2000, 3000x2000, 2908x4363, 3000x2000, 3000x1935, 3000x2000, 3000x2000)
 
-Category: sport
+Category: sports
 Title: Cristiano Ronaldo backs Manchester City and Real Madrid to return to former glory
 URL: https://www.cnn.com/2024/12/27/sport/cristiano-ronaldo-globe-soccer-manchester-city-real-madrid-spt/index.html
 Date: Fri, 27 Dec 2024 18:01:56 +0000
 Word Count: 795 words
 Images: 2 (Sizes: 1920x1080, 2400x1600)
 
-Category: sport
+Category: sports
 Title: Jayden Daniels: The NFL’s No. 2 overall pick is showing the league that he’s much more than a consolation prize
 URL: https://www.cnn.com/2024/12/21/sport/jayden-daniels-washington-commanders-profile-spt-intl/index.html
 Date: Sat, 21 Dec 2024 17:00:43 +0000
 Word Count: 1447 words
 Images: 5 (Sizes: 1600x900, 2400x1600, 2400x1600, 2400x1600, 2400x1600)
 
-Category: sport
+Category: sports
 Title: The best photos from the 2024 NFL season
 URL: https://www.cnn.com/2024/09/09/sport/gallery/nfl-2024-season/index.html
 Date: Mon, 09 Sep 2024 04:01:32 +0000
 Word Count: 0 words
 Images: 132 (Sizes: 3000x2000, 3000x2143, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2174, 2000x1600, 2000x1334, 2399x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 2449x1633, 3000x2000, 3000x1999, 2545x1697, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2044, 3000x2000, 3000x1997, 2440x1627, 2399x1600, 3000x2000, 2655x1770, 3000x2000, 3000x2001, 3000x1999, 3000x2234, 4846x3231, 6536x4358, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x3584, 3000x2000, 3000x2000, 3000x3651, 2400x1600, 2239x1600, 3000x2000, 3000x2000, 2657x1771, 3000x1968, 3000x2000, 3000x2000, 2725x2717, 2777x1957, 2923x1948, 3000x2000, 3000x2000, 3000x2080, 3000x1999, 2400x1600, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x1990, 3000x2000, 3000x2000, 3000x1927, 3000x2000, 3000x2107, 3000x1964, 3000x2000, 3000x1996, 3000x2000, 3000x1997, 3000x2000, 3000x2000, 3000x2000, 2457x1638, 3000x2000, 3000x2000, 3000x2117, 3000x2000, 3000x2002, 2519x1679, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x1997, 2569x1982, 2648x1824, 3000x2000, 2632x1755, 3000x2001, 3000x2000, 3000x2000, 2926x3000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2184, 3000x2000)
 
-Category: sport
+Category: sports
 Title: Scottie Scheffler looks to put a bow on stellar year
 URL: https://www.cnn.com/2024/12/16/sport/video/scheffler-riddell-showdown-cnni-sports-fast-1216
 Date: Mon, 16 Dec 2024 23:51:50 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
 
-Category: sport
+Category: sports
 Title: Why Heisman Trophy winner Travis Hunter is ‘two players in one’ and such a rare talent in college football
 URL: https://www.cnn.com/2024/12/15/sport/travis-hunter-heisman-trophy-college-football-spt-intl/index.html
 Date: Sun, 15 Dec 2024 12:41:10 +0000
 Word Count: 1374 words
 Images: 4 (Sizes: 3000x2000, 3000x2036, 3000x2222, 3000x2159)
 
-Category: sport
+Category: sports
 Title: Saudi Arabia is trying to disrupt soccer’s world order. The reasons why might surprise you
 URL: https://www.cnn.com/2023/09/20/sport/saudi-arabia-soccer-spl-bin-salman-intl-spt-cmd-dg/index.html
 Date: Wed, 20 Sep 2023 07:33:34 +0000
 Word Count: 2764 words
 Images: 5 (Sizes: 1600x900, 2000x1333, 2000x1333, 2000x1333, 2000x1556)
 
-Category: sport
+Category: sports
 Title: Australian tennis icon Neale Fraser dies at 91
 URL: https://www.cnn.com/2024/12/03/sport/neale-fraser-dies-australia-tennis-spt/index.html
 Date: Tue, 03 Dec 2024 12:16:46 +0000
 Word Count: 389 words
 Images: 2 (Sizes: 2000x1125, 2000x1425)
 
-Category: sport
+Category: sports
 Title: The Showdown: Rory McIlroy and Scottie Scheffler cruise past Bryson DeChambeau and Brooks Koepka to claim $10M crypto prize
 URL: https://www.cnn.com/2024/12/18/sport/showdown-mcilroy-scheffler-pga-liv-golf-spt/index.html
 Date: Wed, 18 Dec 2024 10:46:06 +0000
 Word Count: 352 words
 Images: 1 (Sizes: 2845x1600)
 
-Category: sport
+Category: sports
 Title: ‘Special Ks’ set to reunite for doubles at the Australian Open
 URL: https://www.cnn.com/2024/12/13/sport/nick-kyrgios-thanasi-kokkinakis-australian-open-spt-intl/index.html
 Date: Fri, 13 Dec 2024 11:08:08 +0000
 Word Count: 348 words
 Images: 1 (Sizes: 4224x2832)
 
-Category: sport
+Category: sports
 Title: China sentences former Premier League soccer star to 20 years in prison for corruption
 URL: https://www.cnn.com/2024/12/13/sport/video/china-everton-corruption-tie-cnni-sports-fast
 Date: Fri, 13 Dec 2024 13:51:42 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
 
-Category: sport
+Category: sports
 Title: ‘He’s not a dad’: Trinity Rodman on strained relationship with Dennis Rodman
 URL: https://www.cnn.com/2024/12/18/sport/video/alex-cooper-trinity-dennis-rodman-call-her-daddy-podcast-digvid
 Date: Thu, 19 Dec 2024 01:04:03 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
 
-Category: sport
+Category: sports
 Title: Gabriela Dabrowski, who won an Olympic medal and the WTA Finals, reveals she played through breast cancer treatment in 2024
 URL: https://www.cnn.com/2024/12/31/sport/gabriela-dabrowski-played-through-breast-cancer-treatment-spt/index.html
 Date: Tue, 31 Dec 2024 16:33:16 +0000
 Word Count: 661 words
 Images: 3 (Sizes: 2500x1719, 2500x1664, 2500x1666)
 
-Category: sport
+Category: sports
 Title: These athletes suffered life-changing injuries. Then, they turned to psychedelics
 URL: https://www.cnn.com/2024/02/19/sport/psilocybin-athletes-life-changing-injuries-psychedelics-spt-intl/index.html
 Date: Mon, 19 Feb 2024 09:37:19 +0000
 Word Count: 2352 words
 Images: 7 (Sizes: 1600x900, 2000x1361, 2000x1333, 2000x1331, 2000x1500, 3000x2000, 3000x2000)
 
-Category: sport
+Category: sports
 Title: Lindsey Vonn set to return to competitive skiing
 URL: https://www.cnn.com/2024/12/19/sport/video/vonn-rebensburg-skiing-cnni-sports-fast
 Date: Thu, 19 Dec 2024 22:58:19 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
 
-Category: sport
+Category: sports
 Title: These young female athletes died by suicide. They all had head injuries in common
 URL: https://www.cnn.com/2023/02/05/sport/head-injury-suicide-female-athletes-intl-spt-cmd/index.html
 Date: Mon, 06 Feb 2023 01:20:00 +0000
 Word Count: 3409 words
 Images: 10 (Sizes: 1600x900, 1600x1200, 1600x1066, 1616x1080, 1600x1067, 2000x1125, 1600x901, 2000x1125, 1600x1067, 2000x1126)
 
-Category: sport
+Category: sports
 Title: Christmas dinner injury forces golf’s World No. 1 Scottie Scheffler to miss PGA Tour season opener
 URL: https://www.cnn.com/2024/12/27/sport/scottie-scheffler-injury-christmas-dinner-spt/index.html
 Date: Fri, 27 Dec 2024 23:07:57 +0000
 Word Count: 356 words
 Images: 2 (Sizes: 2500x1667, 3000x2000)
 
-Category: sport
+Category: sports
 Title: South Korean Olympian Kim Yeji shoots her way to stardom
 URL: https://www.cnn.com/2024/10/11/sport/video/south-korea-yeji-olympics-cnni-sports-fast
 Date: Fri, 11 Oct 2024 12:13:14 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
 
-Category: sport
+Category: sports
 Title: From $245 million bust to Super Bowl contender again: the redemption arc of ‘Mr. Unlimited’ Russell Wilson
 URL: https://www.cnn.com/2024/12/14/sport/russell-wilson-pittsburgh-steelers-redemption-spt-intl/index.html
 Date: Sat, 14 Dec 2024 12:21:56 +0000
 Word Count: 1215 words
 Images: 5 (Sizes: 1600x900, 2000x1333, 2000x1348, 2000x1258, 2000x1333)
 
-Category: sport
+Category: sports
 Title: Saudi Arabia officially announced as the 2034 World Cup host. Human rights groups warn of ‘unimaginable human cost’
 URL: https://www.cnn.com/2024/12/11/sport/saudi-arabia-2034-world-cup-fifa-bid-spt-intl/index.html
 Date: Wed, 11 Dec 2024 09:24:38 +0000
@@ -510,4 +512,992 @@ URL: https://www.cnn.com/2024/12/26/tech/ftx-ryan-salame-caroline-ellison-senten
 Date: Thu, 26 Dec 2024 13:42:45 +0000
 Word Count: 356 words
 Images: 5 (Sizes: 1600x900, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: science
+Title: Orca mom is carrying a dead calf for the second time, raising concerns among scientists
+URL: https://www.cnn.com/2025/01/07/science/orca-carrying-dead-calf-tahlequah/index.html
+Date: Tue, 07 Jan 2025 14:28:36 +0000
+Word Count: 653 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: science
+Title: Why ‘Kessler Syndrome’ could turn from a hypothetical to a space disaster reality
+URL: https://www.cnn.com/2025/01/04/science/kessler-syndrome-science-newsletter-wt/index.html
+Date: Sat, 04 Jan 2025 16:00:42 +0000
+Word Count: 823 words
+Images: 2 (Sizes: 1800x1199, 2000x1134)
+
+Category: science
+Title: Nearly 200 Jurassic footprints unearthed on ‘dinosaur highway’ in southern England
+URL: https://www.cnn.com/2025/01/08/science/jurassic-footprints-dinosaur-highway-uk/index.html
+Date: Wed, 08 Jan 2025 23:00:07 +0000
+Word Count: 978 words
+Images: 5 (Sizes: 1920x1080, 2000x1125, 2000x1333, 2000x2667, 2000x1500)
+
+Category: science
+Title: On a long-dormant pad in Florida, a rocket that could challenge SpaceX’s dominance is poised to launch
+URL: https://www.cnn.com/2025/01/04/science/bezos-blue-origin-musk-spacex/index.html
+Date: Sat, 04 Jan 2025 19:00:42 +0000
+Word Count: 1618 words
+Images: 4 (Sizes: 2000x1125, 1850x1234, 3227x3000, 1600x1067)
+
+Category: science
+Title: NASA collected potential evidence of life on Mars. Now it’s pitching new plans to retrieve the cache
+URL: https://www.cnn.com/2025/01/07/science/nasa-mars-sample-return-options/index.html
+Date: Tue, 07 Jan 2025 21:54:31 +0000
+Word Count: 1313 words
+Images: 3 (Sizes: 2000x1125, 1600x900, 1600x900)
+
+Category: health
+Title: Rising HMPV cases in China are ‘what we would expect to see’ in winter, health officials say
+URL: https://www.cnn.com/2025/01/07/health/human-metapneumovirus-hmpv-cases-china-us/index.html
+Date: Tue, 07 Jan 2025 22:10:00 +0000
+Word Count: 818 words
+Images: 1 (Sizes: 3000x2147)
+
+Category: health
+Title: Is bird flu the next pandemic? What to know after the first H5N1 death in the US
+URL: https://www.cnn.com/2025/01/08/health/bird-flu-h5n1-pandemic-risk-explained/index.html
+Date: Wed, 08 Jan 2025 15:25:38 +0000
+Word Count: 1651 words
+Images: 1 (Sizes: 2007x1600)
+
+Category: health
+Title: FDA issues draft guidance to improve accuracy of pulse oximeters for people with darker skin tones
+URL: https://www.cnn.com/2025/01/06/health/fda-pulse-oximeters-draft-guidance/index.html
+Date: Mon, 06 Jan 2025 21:16:34 +0000
+Word Count: 1220 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: health
+Title: More Popsicles, please: Your tonsils can grow back
+URL: https://www.cnn.com/2025/01/02/health/tonsils-regrow-sore-throat/index.html
+Date: Thu, 02 Jan 2025 11:28:32 +0000
+Word Count: 1154 words
+Images: 2 (Sizes: 3000x1687, 2320x3088)
+
+Category: health
+Title: To heal America’s ills, outgoing surgeon general offers ‘parting prescription’: stronger community
+URL: https://www.cnn.com/2025/01/07/health/surgeon-general-parting-prescription-community/index.html
+Date: Tue, 07 Jan 2025 12:00:42 +0000
+Word Count: 649 words
+Images: 1 (Sizes: 3000x2033)
+
+Category: health
+Title: US surgeon general sounds alarm about link between alcohol and cancer
+URL: https://www.cnn.com/2025/01/03/health/alcohol-cancer-surgeon-generals-advisory/index.html
+Date: Fri, 03 Jan 2025 12:42:03 +0000
+Word Count: 1628 words
+Images: 2 (Sizes: 1920x1080, 1920x1080)
+
+Category: sports
+Title: San Francisco 49ers receiver Ricky Pearsall forgives teenager who shot him in the chest
+URL: https://www.cnn.com/2025/01/07/sport/ricky-pearsall-san-francisco-49ers-forgive-teenager-spt/index.html
+Date: Tue, 07 Jan 2025 17:22:24 +0000
+Word Count: 434 words
+Images: 1 (Sizes: 3000x2247)
+
+Category: sports
+Title: The NHL goes ‘a little unusual’ by naming Miami and Tampa as winter hosts for marquee outdoor games in 2026
+URL: https://www.cnn.com/2025/01/08/sport/nhl-2026-winter-classic-florida-spt/index.html
+Date: Wed, 08 Jan 2025 21:13:24 +0000
+Word Count: 687 words
+Images: 3 (Sizes: 3000x1965, 3000x2000, 3000x2000)
+
+Category: sports
+Title: NBA coaches Steve Kerr and JJ Redick say family members evacuated their homes amid Pacific Palisades wildfires
+URL: https://www.cnn.com/2025/01/08/sport/steve-kerr-jj-redick-pacific-palisades-wildfires-spt-intl/index.html
+Date: Wed, 08 Jan 2025 11:03:38 +0000
+Word Count: 438 words
+Images: 2 (Sizes: 2000x1125, 2000x1333)
+
+Category: sports
+Title: Tiger Woods and Rory McIlroy watch on as The Bay Golf Club wins opening match of high-tech indoor TGL golf league
+URL: https://www.cnn.com/2025/01/08/sport/tgl-opening-match-woods-mcilroy-spt-intl/index.html
+Date: Wed, 08 Jan 2025 11:46:52 +0000
+Word Count: 562 words
+Images: 2 (Sizes: 2000x1333, 2000x1337)
+
+Category: sports
+Title: Trae Young hits wild game-winning buzzer-beater from beyond halfcourt to give the Atlanta Hawks the win over the Utah Jazz
+URL: https://www.cnn.com/2025/01/08/sport/trae-young-halfcourt-buzzer-beater-hawks-jazz-spt/index.html
+Date: Wed, 08 Jan 2025 11:21:05 +0000
+Word Count: 419 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: sports
+Title: Las Vegas Raiders fire first-year head coach Antonio Pierce
+URL: https://www.cnn.com/2025/01/07/sport/las-vegas-raiders-fire-antonio-pierce-spt/index.html
+Date: Tue, 07 Jan 2025 22:01:36 +0000
+Word Count: 344 words
+Images: 1 (Sizes: 1600x1066)
+
+Category: tech
+Title: US adds Chinese tech giants to list of companies allegedly working with China’s military
+URL: https://www.cnn.com/2025/01/07/tech/tencent-catl-us-list-china-military-companies-intl-hnk/index.html
+Date: Tue, 07 Jan 2025 05:02:27 +0000
+Word Count: 761 words
+Images: 6 (Sizes: 1600x1067, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: Calling women ‘household objects’ now permitted on Facebook after Meta updated its guidelines
+URL: https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html
+Date: Tue, 07 Jan 2025 20:36:11 +0000
+Word Count: 528 words
+Images: 5 (Sizes: 2000x1331, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: Microsoft plans to invest $80 billion on AI-enabled data centers in fiscal 2025
+URL: https://www.cnn.com/2025/01/03/tech/microsoft-ai-data-centers/index.html
+Date: Fri, 03 Jan 2025 21:50:44 +0000
+Word Count: 219 words
+Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: China proposes fresh export curbs on EV technology
+URL: https://www.cnn.com/2025/01/03/tech/china-ev-tech-export-controls-intl-hnk/index.html
+Date: Fri, 03 Jan 2025 07:27:24 +0000
+Word Count: 634 words
+Images: 6 (Sizes: 5038x3352, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: The New Orleans attacker wore Meta glasses. What can they be used for?
+URL: https://www.cnn.com/2025/01/06/tech/meta-glasses-new-orleans-attack/index.html
+Date: Mon, 06 Jan 2025 17:34:15 +0000
+Word Count: 739 words
+Images: 7 (Sizes: 3000x1997, 3000x2000, 1600x1817, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: Meta is getting rid of fact checkers. Zuckerberg acknowledged more harmful content will appear on the platforms now
+URL: https://www.cnn.com/2025/01/07/tech/meta-censorship-moderation/index.html
+Date: Tue, 07 Jan 2025 12:05:31 +0000
+Word Count: 1271 words
+Images: 5 (Sizes: 1920x1080, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: What to know about Turo, the app both trucks used in New Orleans and Las Vegas incidents came from
+URL: https://www.cnn.com/2025/01/02/tech/what-is-turo/index.html
+Date: Thu, 02 Jan 2025 19:05:48 +0000
+Word Count: 1121 words
+Images: 6 (Sizes: 2000x1333, 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: UFC head Dana White joins Meta’s board, Mark Zuckerberg’s second key right-wing appointment in a week
+URL: https://www.cnn.com/2025/01/06/tech/ufc-dana-white-joins-meta-board/index.html
+Date: Mon, 06 Jan 2025 22:28:45 +0000
+Word Count: 525 words
+Images: 5 (Sizes: 3000x2107, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: politics
+Title: Trump meets with GOP lawmakers in DC as Cabinet picks lobby for support
+URL: https://www.cnn.com/politics/live-news/donald-trump-president-office-inauguration-01-08-25/index.html
+Date: Wed, 08 Jan 2025 13:03:01 +0000
+Word Count: 5648 words
+Images: 21 (Sizes: 2000x1333, 2000x1334, 1920x1080, 2400x1600, 2400x1600, 2000x1335, 3000x2218, 2393x1600, 2000x1373, 2400x1600, 3000x2000, 2400x1600, 2400x1600, 8256x5504, 1600x1067, 3000x2000, 2399x1600, 3000x2000, 3000x1959, 3000x2000, 2399x1600)
+
+Category: politics
+Title: Alito spoke with Trump before president-elect asked Supreme Court to delay his sentencing
+URL: https://www.cnn.com/2025/01/08/politics/alito-trump-conversation/index.html
+Date: Wed, 08 Jan 2025 23:29:19 +0000
+Word Count: 542 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: Danish officials fear Trump is much more serious about acquiring Greenland than in first term
+URL: https://www.cnn.com/2025/01/08/politics/danish-officials-trump-greenland/index.html
+Date: Wed, 08 Jan 2025 21:14:37 +0000
+Word Count: 1060 words
+Images: 2 (Sizes: 1600x1067, 1600x1200)
+
+Category: politics
+Title: Ex-FBI informant behind fake Biden-Ukraine bribery allegations sentenced to 6 years in prison
+URL: https://www.cnn.com/2025/01/08/politics/ex-fbi-informant-fake-biden-ukraine-bribery-allegations-alexander-smirnov/index.html
+Date: Wed, 08 Jan 2025 23:46:32 +0000
+Word Count: 534 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: Trump asks Supreme Court to pause sentencing in hush money case
+URL: https://www.cnn.com/2025/01/08/politics/donald-trump-supreme-court-hush-money/index.html
+Date: Wed, 08 Jan 2025 13:48:33 +0000
+Word Count: 910 words
+Images: 1 (Sizes: 2399x1600)
+
+Category: politics
+Title: Johnson and GOP budget chief take first steps to unify Republicans behind passing Trump’s agenda
+URL: https://www.cnn.com/2025/01/08/politics/johnson-trump-agenda-gop-meeting/index.html
+Date: Wed, 08 Jan 2025 19:04:05 +0000
+Word Count: 544 words
+Images: 1 (Sizes: 2000x1334)
+
+Category: politics
+Title: Garland asks court for permission to release special counsel report on Jan. 6 insurrection before Trump takes office
+URL: https://www.cnn.com/2025/01/08/politics/special-counsel-trump-report-release-court-fight/index.html
+Date: Wed, 08 Jan 2025 15:21:02 +0000
+Word Count: 502 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: Biden pledges federal support for ‘astounding’ wildfires as natural disaster upends Los Angeles visit
+URL: https://www.cnn.com/2025/01/08/politics/joe-biden-wildfires-southern-california/index.html
+Date: Wed, 08 Jan 2025 16:59:18 +0000
+Word Count: 1116 words
+Images: 1 (Sizes: 3000x2060)
+
+Category: politics
+Title: Sen. Elizabeth Warren on Trump nominee hearings
+URL: https://www.cnn.com/2025/01/08/politics/video/the-lead-elizabeth-warren-trump-congress-cabinet-nominees-gop-democrats-jake-tapper
+Date: Thu, 09 Jan 2025 00:06:32 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: politics
+Title: Biden tells USA Today he believes he could have won re-election
+URL: https://www.cnn.com/2025/01/08/politics/video/biden-usa-today-interview-susan-page-lead-digvid
+Date: Wed, 08 Jan 2025 22:21:42 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1600x900)
+
+Category: science
+Title: ‘Mystery volcano’ that erupted and cooled Earth in 1831 has finally been identified
+URL: https://www.cnn.com/2025/01/03/science/mystery-volcano-1831-eruption-simushir/index.html
+Date: Fri, 03 Jan 2025 13:17:46 +0000
+Word Count: 1044 words
+Images: 3 (Sizes: 1800x1199, 2000x1333, 2000x1125)
+
+Category: science
+Title: Massive ‘space object’ fragment crashes into remote village in Kenya
+URL: https://www.cnn.com/2025/01/02/science/kenya-space-object-intl-latam/index.html
+Date: Fri, 03 Jan 2025 00:56:09 +0000
+Word Count: 255 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: health
+Title: Sniffling, sneezing, coughing: What infectious disease do you have?
+URL: https://www.cnn.com/2025/01/08/health/which-infectious-disease-wellness/index.html
+Date: Wed, 08 Jan 2025 12:05:00 +0000
+Word Count: 1375 words
+Images: 2 (Sizes: 1920x1080, 2000x1333)
+
+Category: health
+Title: Limit coffee-drinking to this time window to lower early death risk, study suggests
+URL: https://www.cnn.com/2025/01/07/health/coffee-drinking-timing-death-risk-wellness/index.html
+Date: Wed, 08 Jan 2025 00:07:01 +0000
+Word Count: 1108 words
+Images: 1 (Sizes: 2000x1334)
+
+Category: health
+Title: America’s first bird flu death reported in Louisiana
+URL: https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html
+Date: Mon, 06 Jan 2025 20:52:54 +0000
+Word Count: 769 words
+Images: 2 (Sizes: 3000x2000, 1920x1080)
+
+Category: health
+Title: There’s going to be even more harmful content on social media as Meta drops fact-checkers. What to tell your kids
+URL: https://www.cnn.com/2025/01/08/health/parents-kids-social-media-meta-wellness/index.html
+Date: Wed, 08 Jan 2025 18:39:41 +0000
+Word Count: 868 words
+Images: 2 (Sizes: 2584x1672, 2000x1394)
+
+Category: health
+Title: Health insurers limit coverage of prosthetic limbs, questioning their medical necessity
+URL: https://www.cnn.com/2025/01/08/health/health-insurers-prosthetic-limbs-coverage-kff-health-news-partner/index.html
+Date: Wed, 08 Jan 2025 11:00:46 +0000
+Word Count: 1175 words
+Images: 2 (Sizes: 2000x1333, 2448x3264)
+
+Category: health
+Title: Americans’ rage at insurers goes beyond health coverage – author of ‘Delay, Deny, Defend’ points to 3 reforms that could help
+URL: https://www.cnn.com/2025/01/07/health/health-care-reform-delay-deny-defend-author-conversation-partner/index.html
+Date: Tue, 07 Jan 2025 17:41:51 +0000
+Word Count: 1072 words
+Images: 3 (Sizes: 2000x1333, 2400x1600, 2000x1333)
+
+Category: sports
+Title: Huge clash decides NFC No. 1 seed, Broncos seal postseason ticket, star WR says he’s ‘out’: NFL Week 18 Sunday review
+URL: https://www.cnn.com/2025/01/06/sport/nfl-week-18-sunday-review-spt-intl/index.html
+Date: Mon, 06 Jan 2025 10:34:54 +0000
+Word Count: 1816 words
+Images: 7 (Sizes: 1600x1067, 1600x1067, 1600x1066, 2000x1333, 2000x1332, 2000x1333, 2000x1333)
+
+Category: sports
+Title: Sheel Seidler, wife of late Padres owner, sues in-laws for control of the team
+URL: https://www.cnn.com/2025/01/06/sport/san-diego-padres-seidler-ownership-lawsuit-spt/index.html
+Date: Tue, 07 Jan 2025 03:37:18 +0000
+Word Count: 819 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: sports
+Title: ‘MSN reunion? Football is full of surprises’: Neymar hints at revival of famed trio in CNN exclusive as he targets World Cup
+URL: https://www.cnn.com/2025/01/07/sport/neymar-msn-reunion-world-cup-brazil-spt/index.html
+Date: Tue, 07 Jan 2025 10:30:42 +0000
+Word Count: 1170 words
+Images: 5 (Sizes: 1600x900, 5136x3424, 5212x3474, 3000x2000, 3000x1791)
+
+Category: sports
+Title: ‘It’s golf, but it’s reimagined’: Everything to know about TGL, Tiger Woods’ and Rory McIlroy’s high-tech indoor golf league
+URL: https://www.cnn.com/2025/01/07/sport/tgl-explainer-tiger-woods-rory-mcilroy-spt-intl/index.html
+Date: Tue, 07 Jan 2025 10:51:33 +0000
+Word Count: 1007 words
+Images: 2 (Sizes: 1600x899, 2000x1333)
+
+Category: sports
+Title: British tennis player Cameron Norrie apologizes after accidentally hitting fan with racket
+URL: https://www.cnn.com/2025/01/07/sport/cameron-norrie-apologizes-racket-spt-intl/index.html
+Date: Tue, 07 Jan 2025 11:51:24 +0000
+Word Count: 347 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: sports
+Title: Coco Gauff earns statement win over Iga Świątek to lead the US to United Cup title
+URL: https://www.cnn.com/2025/01/06/sport/coco-gauff-iga-swiatek-united-cup-spt-intl/index.html
+Date: Mon, 06 Jan 2025 12:00:54 +0000
+Word Count: 631 words
+Images: 3 (Sizes: 2000x1333, 2000x1333, 2000x1333)
+
+Category: sports
+Title: Tampa Bay Buccaneers wide receiver Mike Evans makes NFL history, helps lead team to playoff berth
+URL: https://www.cnn.com/2025/01/05/sport/tampa-bay-buccaneers-mike-evans-spt/index.html
+Date: Mon, 06 Jan 2025 01:44:53 +0000
+Word Count: 433 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: sports
+Title: Rays commit to Tropicana Field repairs, but time is ticking for 2026 opener
+URL: https://www.cnn.com/2025/01/07/sport/tampa-bay-rays-tropicana-field-repairs/index.html
+Date: Tue, 07 Jan 2025 06:23:19 +0000
+Word Count: 547 words
+Images: 1 (Sizes: 1600x1019)
+
+Category: sports
+Title: ‘I wouldn’t even go to practice’: Why are elite-level athletes so into video games?
+URL: https://www.cnn.com/2025/01/06/sport/sportspeople-hooked-video-games-spt-intl/index.html
+Date: Mon, 06 Jan 2025 09:36:38 +0000
+Word Count: 2752 words
+Images: 5 (Sizes: 1600x900, 2400x1600, 5464x8192, 2400x1631, 2400x1620)
+
+Category: sports
+Title: Hideki Matsuyama makes PGA Tour history by shooting 35-under to win The Sentry
+URL: https://www.cnn.com/2025/01/06/sport/hideki-matsuyama-the-sentry-golf-record-spt-intl/index.html
+Date: Mon, 06 Jan 2025 11:46:52 +0000
+Word Count: 500 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: sports
+Title: ‘Barça is the club of my life’: In CNN exclusive Lamine Yamal pledges long-term future to Barcelona after historic 2024
+URL: https://www.cnn.com/2025/01/08/sport/lamine-yamal-barcelona-future-spt-intl/index.html
+Date: Wed, 08 Jan 2025 10:30:42 +0000
+Word Count: 1123 words
+Images: 4 (Sizes: 2597x1732, 4960x3307, 4591x3060, 4985x3323)
+
+Category: tech
+Title: Just before Trump takes office, Meta is replacing its top policy exec with a prominent Republican
+URL: https://www.cnn.com/2025/01/02/tech/meta-nick-clegg-stepping-down-joel-kaplan/index.html
+Date: Thu, 02 Jan 2025 23:06:48 +0000
+Word Count: 672 words
+Images: 5 (Sizes: 2000x1334, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: Net neutrality dealt a final defeat in a blow to Democrats
+URL: https://www.cnn.com/2025/01/02/tech/net-neutrality-defeat/index.html
+Date: Thu, 02 Jan 2025 22:58:36 +0000
+Word Count: 513 words
+Images: 5 (Sizes: 2227x1467, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: world
+Title: ChatGPT can be tricked into telling people how to commit crimes, a tech firm finds
+URL: https://www.cnn.com/2024/10/23/business/chatgpt-tricked-commit-crimes/index.html
+Date: Wed, 23 Oct 2024 15:06:50 +0000
+Word Count: 617 words
+Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: world
+Title: Potentially crippling port strike averted after dockworkers, ports and shipping companies reach a tentative deal
+URL: https://www.cnn.com/2025/01/08/business/us-dockworkers-port-employers-agreement/index.html
+Date: Thu, 09 Jan 2025 00:05:31 +0000
+Word Count: 609 words
+Images: 5 (Sizes: 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: world
+Title: X changed its terms of service to let its AI train on everyone’s posts. Now users are up in arms
+URL: https://www.cnn.com/2024/10/21/tech/x-twitter-terms-of-service/index.html
+Date: Mon, 21 Oct 2024 10:30:47 +0000
+Word Count: 559 words
+Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: world
+Title: Elon Musk has met with politicians from at least 13 different countries: Here’s what he has talked about
+URL: https://www.cnn.com/2024/10/25/tech/elon-musk-political-meetings-influence-dg/index.html
+Date: Fri, 25 Oct 2024 23:10:54 +0000
+Word Count: 1395 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: world
+Title: Raging wildfires in Los Angeles area kill at least 5 and destroy thousands of structures
+URL: https://www.cnn.com/weather/live-news/los-angeles-pacific-palisades-eaton-wildfires-01-08-25/index.html
+Date: Wed, 08 Jan 2025 09:19:33 +0000
+Word Count: 20074 words
+Images: 52 (Sizes: 2000x1333, 2000x1334, 1920x1080, 1600x900, 1600x900, 1600x1041, 1600x900, 1600x1067, 1762x998, 1920x1080, 4032x3024, 1920x1080, 1600x1067, 2500x1666, 1920x1080, 2500x1667, 1920x1080, 2500x1667, 1920x1080, 640x361, 2500x1611, 632x357, 1920x1080, 2500x1667, 2500x1667, 2500x3328, 2500x1667, 2500x1667, 2500x1667, 1920x1080, 3000x2001, 2500x1667, 1120x564, 480x320, 641x360, 2000x1334, 2000x1333, 2000x1338, 1912x1153, 2000x1333, 2000x1258, 2000x1333, 2000x1190, 2000x1316, 2000x1333, 1920x1080, 2000x1284, 1920x1080, 2000x1333, 1600x1067, 1600x1067, 2000x1333)
+
+Category: world
+Title: Alito spoke with Trump before president-elect asked Supreme Court to delay his sentencing
+URL: https://www.cnn.com/2025/01/08/politics/alito-trump-conversation/index.html
+Date: Wed, 08 Jan 2025 23:29:19 +0000
+Word Count: 542 words
+Images: 1 (Sizes: 1600x900)
+
+Category: world
+Title: For those seeking K-pop stardom, the path can be long and grueling
+URL: https://www.cnn.com/2025/01/05/style/kpop-whole-story-hnk-intl/index.html
+Date: Sun, 05 Jan 2025 10:00:48 +0000
+Word Count: 1638 words
+Images: 8 (Sizes: 1920x1080, 1920x1080, 1920x1080, 1920x1080, 1920x1080, 1920x1080, 2000x1333, 2000x1384)
+
+Category: world
+Title: Trump meets with GOP lawmakers in DC as Cabinet picks lobby for support
+URL: https://www.cnn.com/politics/live-news/donald-trump-president-office-inauguration-01-08-25/index.html
+Date: Wed, 08 Jan 2025 13:03:01 +0000
+Word Count: 5980 words
+Images: 21 (Sizes: 2000x1333, 2000x1334, 1920x1080, 2400x1600, 2400x1600, 2000x1335, 3000x2218, 2393x1600, 2000x1373, 2400x1600, 3000x2000, 2400x1600, 2400x1600, 8256x5504, 1600x1067, 3000x2000, 2399x1600, 3000x2000, 3000x1959, 3000x2000, 2399x1600)
+
+Category: world
+Title: Israel to conceal soldiers’ identities after Brazilian probe into war crimes allegations
+URL: https://www.cnn.com/2025/01/08/middleeast/israel-military-media-rules-intl-latam/index.html
+Date: Thu, 09 Jan 2025 00:53:10 +0000
+Word Count: 696 words
+Images: 2 (Sizes: 1600x1067, 1600x1067)
+
+Category: politics
+Title: Danish officials fear Trump is much more serious about acquiring Greenland than in first term
+URL: https://www.cnn.com/2025/01/08/politics/danish-officials-trump-greenland/index.html
+Date: Wed, 08 Jan 2025 21:14:37 +0000
+Word Count: 1060 words
+Images: 2 (Sizes: 1600x1067, 1600x1200)
+
+Category: politics
+Title: Trump asks Supreme Court to pause sentencing in hush money case
+URL: https://www.cnn.com/2025/01/08/politics/donald-trump-supreme-court-hush-money/index.html
+Date: Wed, 08 Jan 2025 13:48:33 +0000
+Word Count: 910 words
+Images: 1 (Sizes: 2399x1600)
+
+Category: politics
+Title: Johnson and GOP budget chief take first steps to unify Republicans behind passing Trump’s agenda
+URL: https://www.cnn.com/2025/01/08/politics/johnson-trump-agenda-gop-meeting/index.html
+Date: Wed, 08 Jan 2025 19:04:05 +0000
+Word Count: 544 words
+Images: 1 (Sizes: 2000x1334)
+
+Category: politics
+Title: Garland asks court for permission to release special counsel report on Jan. 6 insurrection before Trump takes office
+URL: https://www.cnn.com/2025/01/08/politics/special-counsel-trump-report-release-court-fight/index.html
+Date: Wed, 08 Jan 2025 15:21:02 +0000
+Word Count: 502 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: Alito spoke with Trump before president-elect asked Supreme Court to delay his sentencing
+URL: https://www.cnn.com/2025/01/08/politics/alito-trump-conversation/index.html
+Date: Wed, 08 Jan 2025 23:29:19 +0000
+Word Count: 542 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: Ex-FBI informant behind fake Biden-Ukraine bribery allegations sentenced to 6 years in prison
+URL: https://www.cnn.com/2025/01/08/politics/ex-fbi-informant-fake-biden-ukraine-bribery-allegations-alexander-smirnov/index.html
+Date: Wed, 08 Jan 2025 23:46:32 +0000
+Word Count: 534 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: What’s the history of the Panama Canal, and why is Trump threatening to retake control of it?
+URL: https://www.cnn.com/2024/12/23/politics/panama-canal-history-trump/index.html
+Date: Mon, 23 Dec 2024 20:53:34 +0000
+Word Count: 1179 words
+Images: 2 (Sizes: 4000x2661, 1920x1080)
+
+Category: politics
+Title: Biden pledges federal support for ‘astounding’ wildfires as natural disaster upends Los Angeles visit
+URL: https://www.cnn.com/2025/01/08/politics/joe-biden-wildfires-southern-california/index.html
+Date: Wed, 08 Jan 2025 16:59:18 +0000
+Word Count: 1116 words
+Images: 1 (Sizes: 3000x2060)
+
+Category: science
+Title: NASA collected potential evidence of life on Mars. Now it’s pitching new plans to retrieve the cache
+URL: https://www.cnn.com/2025/01/07/science/nasa-mars-sample-return-options/index.html
+Date: Tue, 07 Jan 2025 21:54:31 +0000
+Word Count: 1313 words
+Images: 3 (Sizes: 2000x1125, 1600x900, 1600x900)
+
+Category: science
+Title: Nearly 200 Jurassic footprints unearthed on ‘dinosaur highway’ in southern England
+URL: https://www.cnn.com/2025/01/08/science/jurassic-footprints-dinosaur-highway-uk/index.html
+Date: Wed, 08 Jan 2025 23:00:07 +0000
+Word Count: 978 words
+Images: 5 (Sizes: 1920x1080, 2000x1125, 2000x1333, 2000x2667, 2000x1500)
+
+Category: science
+Title: Orca mom is carrying a dead calf for the second time, raising concerns among scientists
+URL: https://www.cnn.com/2025/01/07/science/orca-carrying-dead-calf-tahlequah/index.html
+Date: Tue, 07 Jan 2025 14:28:36 +0000
+Word Count: 653 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: science
+Title: Why ‘Kessler Syndrome’ could turn from a hypothetical to a space disaster reality
+URL: https://www.cnn.com/2025/01/04/science/kessler-syndrome-science-newsletter-wt/index.html
+Date: Sat, 04 Jan 2025 16:00:42 +0000
+Word Count: 823 words
+Images: 2 (Sizes: 1800x1199, 2000x1134)
+
+Category: science
+Title: On a long-dormant pad in Florida, a rocket that could challenge SpaceX’s dominance is poised to launch
+URL: https://www.cnn.com/2025/01/04/science/bezos-blue-origin-musk-spacex/index.html
+Date: Sat, 04 Jan 2025 19:00:42 +0000
+Word Count: 1618 words
+Images: 4 (Sizes: 2000x1125, 1850x1234, 3227x3000, 1600x1067)
+
+Category: health
+Title: Sniffling, sneezing, coughing: What infectious disease do you have?
+URL: https://www.cnn.com/2025/01/08/health/which-infectious-disease-wellness/index.html
+Date: Wed, 08 Jan 2025 12:05:00 +0000
+Word Count: 1375 words
+Images: 2 (Sizes: 1920x1080, 2000x1333)
+
+Category: health
+Title: Americans’ rage at insurers goes beyond health coverage – author of ‘Delay, Deny, Defend’ points to 3 reforms that could help
+URL: https://www.cnn.com/2025/01/07/health/health-care-reform-delay-deny-defend-author-conversation-partner/index.html
+Date: Tue, 07 Jan 2025 17:41:51 +0000
+Word Count: 1072 words
+Images: 3 (Sizes: 2000x1333, 2400x1600, 2000x1333)
+
+Category: health
+Title: Health insurers limit coverage of prosthetic limbs, questioning their medical necessity
+URL: https://www.cnn.com/2025/01/08/health/health-insurers-prosthetic-limbs-coverage-kff-health-news-partner/index.html
+Date: Wed, 08 Jan 2025 11:00:46 +0000
+Word Count: 1175 words
+Images: 2 (Sizes: 2000x1333, 2448x3264)
+
+Category: health
+Title: America’s first bird flu death reported in Louisiana
+URL: https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html
+Date: Mon, 06 Jan 2025 20:52:54 +0000
+Word Count: 769 words
+Images: 2 (Sizes: 3000x2000, 1920x1080)
+
+Category: sports
+Title: Rays commit to Tropicana Field repairs, but time is ticking for 2026 opener
+URL: https://www.cnn.com/2025/01/07/sport/tampa-bay-rays-tropicana-field-repairs/index.html
+Date: Tue, 07 Jan 2025 06:23:19 +0000
+Word Count: 547 words
+Images: 1 (Sizes: 1600x1019)
+
+Category: sports
+Title: ‘It’s golf, but it’s reimagined’: Everything to know about TGL, Tiger Woods’ and Rory McIlroy’s high-tech indoor golf league
+URL: https://www.cnn.com/2025/01/07/sport/tgl-explainer-tiger-woods-rory-mcilroy-spt-intl/index.html
+Date: Tue, 07 Jan 2025 10:51:33 +0000
+Word Count: 1007 words
+Images: 2 (Sizes: 1600x899, 2000x1333)
+
+Category: sports
+Title: Coco Gauff earns statement win over Iga Świątek to lead the US to United Cup title
+URL: https://www.cnn.com/2025/01/06/sport/coco-gauff-iga-swiatek-united-cup-spt-intl/index.html
+Date: Mon, 06 Jan 2025 12:00:54 +0000
+Word Count: 631 words
+Images: 3 (Sizes: 2000x1333, 2000x1333, 2000x1333)
+
+Category: sports
+Title: ‘Barça is the club of my life’: In CNN exclusive Lamine Yamal pledges long-term future to Barcelona after historic 2024
+URL: https://www.cnn.com/2025/01/08/sport/lamine-yamal-barcelona-future-spt-intl/index.html
+Date: Wed, 08 Jan 2025 10:30:42 +0000
+Word Count: 1123 words
+Images: 4 (Sizes: 2597x1732, 4960x3307, 4591x3060, 4985x3323)
+
+Category: sports
+Title: British tennis player Cameron Norrie apologizes after accidentally hitting fan with racket
+URL: https://www.cnn.com/2025/01/07/sport/cameron-norrie-apologizes-racket-spt-intl/index.html
+Date: Tue, 07 Jan 2025 11:51:24 +0000
+Word Count: 347 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: sports
+Title: Huge clash decides NFC No. 1 seed, Broncos seal postseason ticket, star WR says he’s ‘out’: NFL Week 18 Sunday review
+URL: https://www.cnn.com/2025/01/06/sport/nfl-week-18-sunday-review-spt-intl/index.html
+Date: Mon, 06 Jan 2025 10:34:54 +0000
+Word Count: 1816 words
+Images: 7 (Sizes: 1600x1067, 1600x1067, 1600x1066, 2000x1333, 2000x1332, 2000x1333, 2000x1333)
+
+Category: sports
+Title: Sheel Seidler, wife of late Padres owner, sues in-laws for control of the team
+URL: https://www.cnn.com/2025/01/06/sport/san-diego-padres-seidler-ownership-lawsuit-spt/index.html
+Date: Tue, 07 Jan 2025 03:37:18 +0000
+Word Count: 819 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: sports
+Title: Hideki Matsuyama makes PGA Tour history by shooting 35-under to win The Sentry
+URL: https://www.cnn.com/2025/01/06/sport/hideki-matsuyama-the-sentry-golf-record-spt-intl/index.html
+Date: Mon, 06 Jan 2025 11:46:52 +0000
+Word Count: 500 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: sports
+Title: Tampa Bay Buccaneers wide receiver Mike Evans makes NFL history, helps lead team to playoff berth
+URL: https://www.cnn.com/2025/01/05/sport/tampa-bay-buccaneers-mike-evans-spt/index.html
+Date: Mon, 06 Jan 2025 01:44:53 +0000
+Word Count: 433 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: tech
+Title: What to know about Turo, the app both trucks used in New Orleans and Las Vegas incidents came from
+URL: https://www.cnn.com/2025/01/02/tech/what-is-turo/index.html
+Date: Thu, 02 Jan 2025 19:05:48 +0000
+Word Count: 1121 words
+Images: 6 (Sizes: 2000x1333, 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: Calling women ‘household objects’ now permitted on Facebook after Meta updated its guidelines
+URL: https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html
+Date: Tue, 07 Jan 2025 20:36:11 +0000
+Word Count: 528 words
+Images: 5 (Sizes: 2000x1331, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: China proposes fresh export curbs on EV technology
+URL: https://www.cnn.com/2025/01/03/tech/china-ev-tech-export-controls-intl-hnk/index.html
+Date: Fri, 03 Jan 2025 07:27:24 +0000
+Word Count: 634 words
+Images: 6 (Sizes: 5038x3352, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: US adds Chinese tech giants to list of companies allegedly working with China’s military
+URL: https://www.cnn.com/2025/01/07/tech/tencent-catl-us-list-china-military-companies-intl-hnk/index.html
+Date: Tue, 07 Jan 2025 05:02:27 +0000
+Word Count: 761 words
+Images: 6 (Sizes: 1600x1067, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: Meta is getting rid of fact checkers. Zuckerberg acknowledged more harmful content will appear on the platforms now
+URL: https://www.cnn.com/2025/01/07/tech/meta-censorship-moderation/index.html
+Date: Tue, 07 Jan 2025 12:05:31 +0000
+Word Count: 1271 words
+Images: 5 (Sizes: 1920x1080, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: The New Orleans attacker wore Meta glasses. What can they be used for?
+URL: https://www.cnn.com/2025/01/06/tech/meta-glasses-new-orleans-attack/index.html
+Date: Mon, 06 Jan 2025 17:34:15 +0000
+Word Count: 739 words
+Images: 7 (Sizes: 3000x1997, 3000x2000, 1600x1817, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: UFC head Dana White joins Meta’s board, Mark Zuckerberg’s second key right-wing appointment in a week
+URL: https://www.cnn.com/2025/01/06/tech/ufc-dana-white-joins-meta-board/index.html
+Date: Mon, 06 Jan 2025 22:28:45 +0000
+Word Count: 525 words
+Images: 5 (Sizes: 3000x2107, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: Microsoft plans to invest $80 billion on AI-enabled data centers in fiscal 2025
+URL: https://www.cnn.com/2025/01/03/tech/microsoft-ai-data-centers/index.html
+Date: Fri, 03 Jan 2025 21:50:44 +0000
+Word Count: 219 words
+Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: world
+Title: X changed its terms of service to let its AI train on everyone’s posts. Now users are up in arms
+URL: https://www.cnn.com/2024/10/21/tech/x-twitter-terms-of-service/index.html
+Date: Mon, 21 Oct 2024 10:30:47 +0000
+Word Count: 559 words
+Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: world
+Title: Trump meets with GOP lawmakers in DC as Cabinet picks lobby for support
+URL: https://www.cnn.com/politics/live-news/donald-trump-president-office-inauguration-01-08-25/index.html
+Date: Wed, 08 Jan 2025 13:03:01 +0000
+Word Count: 5980 words
+Images: 21 (Sizes: 2000x1333, 2000x1334, 1920x1080, 2400x1600, 2400x1600, 2000x1335, 3000x2218, 2393x1600, 2000x1373, 2400x1600, 3000x2000, 2400x1600, 2400x1600, 8256x5504, 1600x1067, 3000x2000, 2399x1600, 3000x2000, 3000x1959, 3000x2000, 2399x1600)
+
+Category: world
+Title: ChatGPT can be tricked into telling people how to commit crimes, a tech firm finds
+URL: https://www.cnn.com/2024/10/23/business/chatgpt-tricked-commit-crimes/index.html
+Date: Wed, 23 Oct 2024 15:06:50 +0000
+Word Count: 617 words
+Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: world
+Title: Alito spoke with Trump before president-elect asked Supreme Court to delay his sentencing
+URL: https://www.cnn.com/2025/01/08/politics/alito-trump-conversation/index.html
+Date: Wed, 08 Jan 2025 23:29:19 +0000
+Word Count: 542 words
+Images: 1 (Sizes: 1600x900)
+
+Category: world
+Title: Raging wildfires in Los Angeles area kill at least 5 and destroy thousands of structures
+URL: https://www.cnn.com/weather/live-news/los-angeles-pacific-palisades-eaton-wildfires-01-08-25/index.html
+Date: Wed, 08 Jan 2025 09:19:33 +0000
+Word Count: 20033 words
+Images: 52 (Sizes: 2000x1333, 2000x1334, 1920x1080, 1600x900, 1600x900, 1600x1041, 1600x900, 1600x1067, 1762x998, 1920x1080, 4032x3024, 1920x1080, 1600x1067, 2500x1666, 1920x1080, 2500x1667, 1920x1080, 2500x1667, 1920x1080, 640x361, 2500x1611, 632x357, 1920x1080, 2500x1667, 2500x1667, 2500x3328, 2500x1667, 2500x1667, 2500x1667, 1920x1080, 3000x2001, 2500x1667, 1120x564, 480x320, 641x360, 2000x1334, 2000x1333, 2000x1338, 1912x1153, 2000x1333, 2000x1258, 2000x1333, 2000x1190, 2000x1316, 2000x1333, 1920x1080, 2000x1284, 1920x1080, 2000x1333, 1600x1067, 1600x1067, 2000x1333)
+
+Category: world
+Title: For those seeking K-pop stardom, the path can be long and grueling
+URL: https://www.cnn.com/2025/01/05/style/kpop-whole-story-hnk-intl/index.html
+Date: Sun, 05 Jan 2025 10:00:48 +0000
+Word Count: 1638 words
+Images: 8 (Sizes: 1920x1080, 1920x1080, 1920x1080, 1920x1080, 1920x1080, 1920x1080, 2000x1333, 2000x1384)
+
+Category: world
+Title: Potentially crippling port strike averted after dockworkers, ports and shipping companies reach a tentative deal
+URL: https://www.cnn.com/2025/01/08/business/us-dockworkers-port-employers-agreement/index.html
+Date: Thu, 09 Jan 2025 00:05:31 +0000
+Word Count: 609 words
+Images: 5 (Sizes: 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: world
+Title: Elon Musk has met with politicians from at least 13 different countries: Here’s what he has talked about
+URL: https://www.cnn.com/2024/10/25/tech/elon-musk-political-meetings-influence-dg/index.html
+Date: Fri, 25 Oct 2024 23:10:54 +0000
+Word Count: 1395 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: world
+Title: Israel to conceal soldiers’ identities after Brazilian probe into war crimes allegations
+URL: https://www.cnn.com/2025/01/08/middleeast/israel-military-media-rules-intl-latam/index.html
+Date: Thu, 09 Jan 2025 00:53:10 +0000
+Word Count: 696 words
+Images: 2 (Sizes: 1600x1067, 1600x1067)
+
+Category: politics
+Title: Biden pledges federal support for ‘astounding’ wildfires as natural disaster upends Los Angeles visit
+URL: https://www.cnn.com/2025/01/08/politics/joe-biden-wildfires-southern-california/index.html
+Date: Wed, 08 Jan 2025 16:59:18 +0000
+Word Count: 1116 words
+Images: 1 (Sizes: 3000x2060)
+
+Category: politics
+Title: Trump asks Supreme Court to pause sentencing in hush money case
+URL: https://www.cnn.com/2025/01/08/politics/donald-trump-supreme-court-hush-money/index.html
+Date: Wed, 08 Jan 2025 13:48:33 +0000
+Word Count: 910 words
+Images: 1 (Sizes: 2399x1600)
+
+Category: politics
+Title: Alito spoke with Trump before president-elect asked Supreme Court to delay his sentencing
+URL: https://www.cnn.com/2025/01/08/politics/alito-trump-conversation/index.html
+Date: Wed, 08 Jan 2025 23:29:19 +0000
+Word Count: 542 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: Garland asks court for permission to release special counsel report on Jan. 6 insurrection before Trump takes office
+URL: https://www.cnn.com/2025/01/08/politics/special-counsel-trump-report-release-court-fight/index.html
+Date: Wed, 08 Jan 2025 15:21:02 +0000
+Word Count: 502 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: Danish officials fear Trump is much more serious about acquiring Greenland than in first term
+URL: https://www.cnn.com/2025/01/08/politics/danish-officials-trump-greenland/index.html
+Date: Wed, 08 Jan 2025 21:14:37 +0000
+Word Count: 1060 words
+Images: 2 (Sizes: 1600x1067, 1600x1200)
+
+Category: politics
+Title: Ex-FBI informant behind fake Biden-Ukraine bribery allegations sentenced to 6 years in prison
+URL: https://www.cnn.com/2025/01/08/politics/ex-fbi-informant-fake-biden-ukraine-bribery-allegations-alexander-smirnov/index.html
+Date: Wed, 08 Jan 2025 23:46:32 +0000
+Word Count: 534 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: Johnson and GOP budget chief take first steps to unify Republicans behind passing Trump’s agenda
+URL: https://www.cnn.com/2025/01/08/politics/johnson-trump-agenda-gop-meeting/index.html
+Date: Wed, 08 Jan 2025 19:04:05 +0000
+Word Count: 544 words
+Images: 1 (Sizes: 2000x1334)
+
+Category: politics
+Title: What’s the history of the Panama Canal, and why is Trump threatening to retake control of it?
+URL: https://www.cnn.com/2024/12/23/politics/panama-canal-history-trump/index.html
+Date: Mon, 23 Dec 2024 20:53:34 +0000
+Word Count: 1179 words
+Images: 2 (Sizes: 4000x2661, 1920x1080)
+
+Category: science
+Title: On a long-dormant pad in Florida, a rocket that could challenge SpaceX’s dominance is poised to launch
+URL: https://www.cnn.com/2025/01/04/science/bezos-blue-origin-musk-spacex/index.html
+Date: Sat, 04 Jan 2025 19:00:42 +0000
+Word Count: 1618 words
+Images: 4 (Sizes: 2000x1125, 1850x1234, 3227x3000, 1600x1067)
+
+Category: science
+Title: Nearly 200 Jurassic footprints unearthed on ‘dinosaur highway’ in southern England
+URL: https://www.cnn.com/2025/01/08/science/jurassic-footprints-dinosaur-highway-uk/index.html
+Date: Wed, 08 Jan 2025 23:00:07 +0000
+Word Count: 978 words
+Images: 5 (Sizes: 1920x1080, 2000x1125, 2000x1333, 2000x2667, 2000x1500)
+
+Category: science
+Title: Orca mom is carrying a dead calf for the second time, raising concerns among scientists
+URL: https://www.cnn.com/2025/01/07/science/orca-carrying-dead-calf-tahlequah/index.html
+Date: Tue, 07 Jan 2025 14:28:36 +0000
+Word Count: 653 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: science
+Title: Why ‘Kessler Syndrome’ could turn from a hypothetical to a space disaster reality
+URL: https://www.cnn.com/2025/01/04/science/kessler-syndrome-science-newsletter-wt/index.html
+Date: Sat, 04 Jan 2025 16:00:42 +0000
+Word Count: 823 words
+Images: 2 (Sizes: 1800x1199, 2000x1134)
+
+Category: science
+Title: NASA collected potential evidence of life on Mars. Now it’s pitching new plans to retrieve the cache
+URL: https://www.cnn.com/2025/01/07/science/nasa-mars-sample-return-options/index.html
+Date: Tue, 07 Jan 2025 21:54:31 +0000
+Word Count: 1313 words
+Images: 3 (Sizes: 2000x1125, 1600x900, 1600x900)
+
+Category: health
+Title: Americans’ rage at insurers goes beyond health coverage – author of ‘Delay, Deny, Defend’ points to 3 reforms that could help
+URL: https://www.cnn.com/2025/01/07/health/health-care-reform-delay-deny-defend-author-conversation-partner/index.html
+Date: Tue, 07 Jan 2025 17:41:51 +0000
+Word Count: 1072 words
+Images: 3 (Sizes: 2000x1333, 2400x1600, 2000x1333)
+
+Category: health
+Title: America’s first bird flu death reported in Louisiana
+URL: https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html
+Date: Mon, 06 Jan 2025 20:52:54 +0000
+Word Count: 769 words
+Images: 2 (Sizes: 3000x2000, 1920x1080)
+
+Category: health
+Title: Health insurers limit coverage of prosthetic limbs, questioning their medical necessity
+URL: https://www.cnn.com/2025/01/08/health/health-insurers-prosthetic-limbs-coverage-kff-health-news-partner/index.html
+Date: Wed, 08 Jan 2025 11:00:46 +0000
+Word Count: 1175 words
+Images: 2 (Sizes: 2000x1333, 2448x3264)
+
+Category: health
+Title: Sniffling, sneezing, coughing: What infectious disease do you have?
+URL: https://www.cnn.com/2025/01/08/health/which-infectious-disease-wellness/index.html
+Date: Wed, 08 Jan 2025 12:05:00 +0000
+Word Count: 1375 words
+Images: 2 (Sizes: 1920x1080, 2000x1333)
+
+Category: sports
+Title: Tampa Bay Buccaneers wide receiver Mike Evans makes NFL history, helps lead team to playoff berth
+URL: https://www.cnn.com/2025/01/05/sport/tampa-bay-buccaneers-mike-evans-spt/index.html
+Date: Mon, 06 Jan 2025 01:44:53 +0000
+Word Count: 433 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: sports
+Title: Rays commit to Tropicana Field repairs, but time is ticking for 2026 opener
+URL: https://www.cnn.com/2025/01/07/sport/tampa-bay-rays-tropicana-field-repairs/index.html
+Date: Tue, 07 Jan 2025 06:23:19 +0000
+Word Count: 547 words
+Images: 1 (Sizes: 1600x1019)
+
+Category: sports
+Title: Sheel Seidler, wife of late Padres owner, sues in-laws for control of the team
+URL: https://www.cnn.com/2025/01/06/sport/san-diego-padres-seidler-ownership-lawsuit-spt/index.html
+Date: Tue, 07 Jan 2025 03:37:18 +0000
+Word Count: 819 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: sports
+Title: Huge clash decides NFC No. 1 seed, Broncos seal postseason ticket, star WR says he’s ‘out’: NFL Week 18 Sunday review
+URL: https://www.cnn.com/2025/01/06/sport/nfl-week-18-sunday-review-spt-intl/index.html
+Date: Mon, 06 Jan 2025 10:34:54 +0000
+Word Count: 1816 words
+Images: 7 (Sizes: 1600x1067, 1600x1067, 1600x1066, 2000x1333, 2000x1332, 2000x1333, 2000x1333)
+
+Category: sports
+Title: Coco Gauff earns statement win over Iga Świątek to lead the US to United Cup title
+URL: https://www.cnn.com/2025/01/06/sport/coco-gauff-iga-swiatek-united-cup-spt-intl/index.html
+Date: Mon, 06 Jan 2025 12:00:54 +0000
+Word Count: 631 words
+Images: 3 (Sizes: 2000x1333, 2000x1333, 2000x1333)
+
+Category: sports
+Title: ‘Barça is the club of my life’: In CNN exclusive Lamine Yamal pledges long-term future to Barcelona after historic 2024
+URL: https://www.cnn.com/2025/01/08/sport/lamine-yamal-barcelona-future-spt-intl/index.html
+Date: Wed, 08 Jan 2025 10:30:42 +0000
+Word Count: 1123 words
+Images: 4 (Sizes: 2597x1732, 4960x3307, 4591x3060, 4985x3323)
+
+Category: sports
+Title: British tennis player Cameron Norrie apologizes after accidentally hitting fan with racket
+URL: https://www.cnn.com/2025/01/07/sport/cameron-norrie-apologizes-racket-spt-intl/index.html
+Date: Tue, 07 Jan 2025 11:51:24 +0000
+Word Count: 347 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: sports
+Title: Hideki Matsuyama makes PGA Tour history by shooting 35-under to win The Sentry
+URL: https://www.cnn.com/2025/01/06/sport/hideki-matsuyama-the-sentry-golf-record-spt-intl/index.html
+Date: Mon, 06 Jan 2025 11:46:52 +0000
+Word Count: 500 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: sports
+Title: ‘It’s golf, but it’s reimagined’: Everything to know about TGL, Tiger Woods’ and Rory McIlroy’s high-tech indoor golf league
+URL: https://www.cnn.com/2025/01/07/sport/tgl-explainer-tiger-woods-rory-mcilroy-spt-intl/index.html
+Date: Tue, 07 Jan 2025 10:51:33 +0000
+Word Count: 1007 words
+Images: 2 (Sizes: 1600x899, 2000x1333)
+
+Category: tech
+Title: Calling women ‘household objects’ now permitted on Facebook after Meta updated its guidelines
+URL: https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html
+Date: Tue, 07 Jan 2025 20:36:11 +0000
+Word Count: 528 words
+Images: 5 (Sizes: 2000x1331, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: Meta is getting rid of fact checkers. Zuckerberg acknowledged more harmful content will appear on the platforms now
+URL: https://www.cnn.com/2025/01/07/tech/meta-censorship-moderation/index.html
+Date: Tue, 07 Jan 2025 12:05:31 +0000
+Word Count: 1271 words
+Images: 5 (Sizes: 1920x1080, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: China proposes fresh export curbs on EV technology
+URL: https://www.cnn.com/2025/01/03/tech/china-ev-tech-export-controls-intl-hnk/index.html
+Date: Fri, 03 Jan 2025 07:27:24 +0000
+Word Count: 634 words
+Images: 6 (Sizes: 5038x3352, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: US adds Chinese tech giants to list of companies allegedly working with China’s military
+URL: https://www.cnn.com/2025/01/07/tech/tencent-catl-us-list-china-military-companies-intl-hnk/index.html
+Date: Tue, 07 Jan 2025 05:02:27 +0000
+Word Count: 761 words
+Images: 6 (Sizes: 1600x1067, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: Microsoft plans to invest $80 billion on AI-enabled data centers in fiscal 2025
+URL: https://www.cnn.com/2025/01/03/tech/microsoft-ai-data-centers/index.html
+Date: Fri, 03 Jan 2025 21:50:44 +0000
+Word Count: 219 words
+Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: The New Orleans attacker wore Meta glasses. What can they be used for?
+URL: https://www.cnn.com/2025/01/06/tech/meta-glasses-new-orleans-attack/index.html
+Date: Mon, 06 Jan 2025 17:34:15 +0000
+Word Count: 739 words
+Images: 7 (Sizes: 3000x1997, 3000x2000, 1600x1817, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: tech
+Title: UFC head Dana White joins Meta’s board, Mark Zuckerberg’s second key right-wing appointment in a week
+URL: https://www.cnn.com/2025/01/06/tech/ufc-dana-white-joins-meta-board/index.html
+Date: Mon, 06 Jan 2025 22:28:45 +0000
+Word Count: 525 words
+Images: 5 (Sizes: 3000x2107, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
 
