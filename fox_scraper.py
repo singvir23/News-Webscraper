@@ -4,21 +4,17 @@ from bs4 import BeautifulSoup
 import os
 import re
 
-# Custom RSS links for specific categories
 CUSTOM_RSS_LINKS = {
     "world": "https://moxie.foxnews.com/google-publisher/world.xml",
     "politics": "https://moxie.foxnews.com/google-publisher/politics.xml",
     "science": "https://moxie.foxnews.com/google-publisher/science.xml",
     "health": "https://moxie.foxnews.com/google-publisher/health.xml",
     "sports": "https://moxie.foxnews.com/google-publisher/sports.xml",
-    "tech": "https://moxie.foxnews.com/google-publisher/tech.xml",
 }
 
-# Default base URL for RSS feeds
 DEFAULT_BASE_URL = "https://feeds.foxnews.com/foxnews/"
 
-# List of categories to scrape
-CATEGORIES = ["world", "politics", "science", "health", "sports", "tech"]
+CATEGORIES = ["world", "politics", "science", "health", "sports"]
 
 def fetch_fox_news_articles(rss_url):
     feed = feedparser.parse(rss_url)
@@ -66,7 +62,7 @@ def get_article_details(url):
                         width_int = int(width)
                         height_int = int(height)
                         if width_int == 896 and height_int == 500:
-                            continue  # Skip the ghost image
+                            continue
                     except ValueError:
                         pass
 
@@ -83,17 +79,14 @@ def get_article_details(url):
         return 0, 0, []
 
 def update_total_articles_count(filename):
-    """Updates the total number of articles at the top of the file."""
     if not os.path.exists(filename):
-        return  # No file to update
+        return
 
     with open(filename, "r", encoding='utf-8') as file:
         lines = file.readlines()
 
-    # Count the number of articles in the file
     article_count = sum(1 for line in lines if line.startswith("Category:"))
 
-    # Update or add the total articles line
     if lines and lines[0].startswith("Total Articles:"):
         lines[0] = f"Total Articles: {article_count}\n"
     else:
@@ -120,11 +113,7 @@ def save_article_data_to_file(articles, category, filename="fox_news_articles.tx
                 published_date = article['published_date']
                 word_count, image_count, image_sizes = get_article_details(url)
 
-                # Format image sizes
-                if image_sizes:
-                    image_sizes_str = ", ".join(image_sizes)
-                else:
-                    image_sizes_str = "No Images"
+                image_sizes_str = ", ".join(image_sizes) if image_sizes else "No Images"
 
                 file.write(
                     f"Category: {category}\n"
@@ -137,7 +126,6 @@ def save_article_data_to_file(articles, category, filename="fox_news_articles.tx
                 print(f"Added article from {category}: {title}")
                 new_articles_added += 1
 
-    # Update the total articles count after adding new articles
     if new_articles_added > 0:
         update_total_articles_count(filename)
 

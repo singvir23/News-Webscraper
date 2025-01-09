@@ -1,4 +1,4 @@
-Total Articles: 546
+Total Articles: 478
 Category: world
 Title: Archaeologists in Denmark discover over 100 weapons from the Iron Age during excavations
 URL: https://www.foxnews.com/world/archaeologists-denmark-discover-over-100-weapons-from-iron-age-during-excavations
@@ -769,181 +769,6 @@ Date: Tue, 03 Dec 2024 18:19:12 -0500
 Word Count: 717 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
-Category: tech
-Title: Fox News AI Newsletter: AI catches cancer that mammogram misses
-URL: https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-catches-cancer-mammogram-missed
-Date: Wed, 04 Dec 2024 11:57:22 -0500
-Word Count: 261 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Malicious Play Store apps put 8 million Android users at risk
-URL: https://www.foxnews.com/tech/malicious-play-store-apps-put-8-million-android-users-risk
-Date: Wed, 04 Dec 2024 10:00:24 -0500
-Word Count: 1070 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: How to bulk delete spam and old text messages on iPhone
-URL: https://www.foxnews.com/tech/how-bulk-delete-spam-old-text-messages-iphone
-Date: Wed, 04 Dec 2024 06:00:08 -0500
-Word Count: 431 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Windows 7 in 2024: The hidden dangers of clinging to the past
-URL: https://www.foxnews.com/tech/windows-7-2024-hidden-dangers-clinging-past
-Date: Tue, 03 Dec 2024 10:00:40 -0500
-Word Count: 1044 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Robotic shorts give your legs a boost to walk farther and tire less
-URL: https://www.foxnews.com/tech/robotic-shorts-give-your-legs-boost-walk-farther-tire-less
-Date: Tue, 03 Dec 2024 06:00:51 -0500
-Word Count: 1018 words
-Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: This crime shot up 400% — how to protect yourself
-URL: https://www.foxnews.com/tech/crime-shot-up-400-how-protect-yourself
-Date: Mon, 02 Dec 2024 15:31:25 -0500
-Word Count: 436 words
-Images: 2 (Sizes: 1200x675, 1200x675)
-
-Category: tech
-Title: Data broker blunder: More than 600,000 sensitive files exposed in data services leak
-URL: https://www.foxnews.com/tech/data-broker-blunder-more-than-600000-sensitive-files-exposed-data-services-leak
-Date: Mon, 02 Dec 2024 10:00:38 -0500
-Word Count: 1162 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Is your friend's phone number compromised? Here's what to look for
-URL: https://www.foxnews.com/tech/your-friends-phone-number-compromised-heres-what-look
-Date: Mon, 02 Dec 2024 06:00:29 -0500
-Word Count: 746 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: 9 ways scammers can use your phone number to try to trick you
-URL: https://www.foxnews.com/tech/9-ways-scammers-can-use-your-phone-number-try-trick-you
-Date: Sun, 01 Dec 2024 10:00:05 -0500
-Word Count: 1801 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: No tennis partner? No worries with this AI robot
-URL: https://www.foxnews.com/tech/no-tennis-partner-no-worries-ai-robot
-Date: Sun, 01 Dec 2024 06:00:24 -0500
-Word Count: 700 words
-Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Helpful Hack: Siri's new tricks, photo magic and writing help with iOS 18.1's new AI features
-URL: https://www.foxnews.com/tech/helpful-hack-siris-new-tricks-photo-magic-writing-help-ios-18-1s-new-ai-features
-Date: Sat, 30 Nov 2024 10:00:02 -0500
-Word Count: 1115 words
-Images: 10 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Robots perform like human surgeons by just watching videos
-URL: https://www.foxnews.com/tech/robots-perform-like-human-surgeons-just-watching-videos
-Date: Sat, 30 Nov 2024 06:00:56 -0500
-Word Count: 690 words
-Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Artificial intelligence changes across the US
-URL: https://www.foxnews.com/tech/artificial-intelligence-changes-across-us
-Date: Fri, 29 Nov 2024 19:21:28 -0500
-Word Count: 1113 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Siberia's 'Gateway to Hell' crater fuels new fears
-URL: https://www.foxnews.com/tech/siberias-gateway-hell-crater-fuels-new-fears
-Date: Fri, 29 Nov 2024 06:00:36 -0500
-Word Count: 828 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: US agriculture industry tests artificial intelligence: 'A lot of potential'
-URL: https://www.foxnews.com/tech/us-agriculture-industry-tests-artificial-intelligence-potential
-Date: Thu, 28 Nov 2024 19:25:08 -0500
-Word Count: 971 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Spotify playlists are being hijacked to promote pirated software and scams
-URL: https://www.foxnews.com/tech/spotify-playlists-being-hijacked-promote-pirated-software-scams
-Date: Thu, 28 Nov 2024 10:00:53 -0500
-Word Count: 1076 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Amazon’s VP explains how to protect yourself from holiday impersonation scams
-URL: https://www.foxnews.com/tech/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams
-Date: Thu, 28 Nov 2024 06:00:14 -0500
-Word Count: 1584 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Sharing is not always caring: 7 dangerous things to post online
-URL: https://www.foxnews.com/tech/sharing-not-always-caring-7-dangerous-things-post-online
-Date: Wed, 27 Nov 2024 17:27:30 -0500
-Word Count: 700 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Fox News AI Newsletter: Amazon's $4B bet on an AI startup
-URL: https://www.foxnews.com/tech/fox-news-ai-newsletter-amazons-4b-bet-ai-startup
-Date: Wed, 27 Nov 2024 12:14:37 -0500
-Word Count: 202 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: 6 sneaky gift card scams to watch out for this holiday season
-URL: https://www.foxnews.com/tech/6-sneaky-gift-card-scams-watch-out-holiday-season
-Date: Wed, 27 Nov 2024 10:00:47 -0500
-Word Count: 1771 words
-Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Talk in 2 languages with Apple Watch's real-time translation
-URL: https://www.foxnews.com/tech/talk-two-languages-apple-watchs-real-time-translation
-Date: Wed, 27 Nov 2024 06:00:17 -0500
-Word Count: 472 words
-Images: 7 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: How to (kindly) ask people not to post your kids' photos on social media
-URL: https://www.foxnews.com/tech/how-kindly-ask-people-not-post-your-kids-social
-Date: Tue, 26 Nov 2024 16:18:07 -0500
-Word Count: 530 words
-Images: 3 (Sizes: 1200x675, 1200x675, 2023x11)
-
-Category: tech
-Title: Lost access? Here’s how to reclaim your Facebook account
-URL: https://www.foxnews.com/tech/lost-access-heres-how-reclaim-your-facebook-account
-Date: Tue, 26 Nov 2024 10:00:41 -0500
-Word Count: 896 words
-Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Don't chance it. Secure your retirement accounts with a VPN and protect your future
-URL: https://www.foxnews.com/tech/dont-chance-it-secure-your-retirement-accounts-vpn-protect-your-future
-Date: Tue, 26 Nov 2024 06:00:31 -0500
-Word Count: 1025 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Free travel planner? Use AI for your next trip
-URL: https://www.foxnews.com/tech/free-travel-planner-use-ai-your-next-trip
-Date: Mon, 25 Nov 2024 18:02:15 -0500
-Word Count: 513 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
 Category: world
 Title: Palestinian official predicts Trump will 'destroy' Iran, leading to breakdown of remaining Hamas cells: report
 URL: https://www.foxnews.com/world/palestine-official-predicts-trump-destroy-iran-resulting-breakdown-remaining-hamas-cells-report
@@ -1574,174 +1399,6 @@ Date: Mon, 30 Dec 2024 17:46:47 -0500
 Word Count: 464 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
-Category: tech
-Title: Is your VPN enough without antivirus protection?
-URL: https://www.foxnews.com/tech/your-vpn-enough-without-antivirus-protection
-Date: Tue, 31 Dec 2024 08:00:26 -0500
-Word Count: 769 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Revealed: The 10 most popular and worst passwords of 2024
-URL: https://www.foxnews.com/tech/revealed-10-most-popular-worst-passwords-2024
-Date: Tue, 31 Dec 2024 06:00:04 -0500
-Word Count: 749 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Windows Defender Security Center scam: How to protect your computer from fake pop-ups
-URL: https://www.foxnews.com/tech/windows-defender-security-center-scam-how-protect-your-computer-from-fake-pop-ups
-Date: Mon, 30 Dec 2024 08:00:40 -0500
-Word Count: 1029 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: How to restore deleted text messages on Android
-URL: https://www.foxnews.com/tech/how-restore-deleted-text-messages-android
-Date: Mon, 30 Dec 2024 06:00:24 -0500
-Word Count: 543 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Are your smart home cameras spying on you? Study reveals shocking data grabs
-URL: https://www.foxnews.com/tech/your-smart-home-cameras-spying-you-study-reveals-shocking-data-grabs
-Date: Sun, 29 Dec 2024 08:00:43 -0500
-Word Count: 1148 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Apple Mail app redesign introduces new categorization feature in iOS 18.2
-URL: https://www.foxnews.com/tech/apple-mail-app-redesign-introduces-new-categorization-feature-ios-18-2
-Date: Sun, 29 Dec 2024 06:00:07 -0500
-Word Count: 400 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Stuck behind a VPN wall? Let’s find a way around it
-URL: https://www.foxnews.com/tech/stuck-behind-vpn-wall-lets-find-way-around
-Date: Sat, 28 Dec 2024 08:00:33 -0500
-Word Count: 1221 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Android 15's new Private Space feature puts an end to app snooping
-URL: https://www.foxnews.com/tech/android-15s-new-private-space-feature-puts-end-app-snooping
-Date: Sat, 28 Dec 2024 06:00:48 -0500
-Word Count: 588 words
-Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Scammers are targeting teens with these nasty tricks
-URL: https://www.foxnews.com/tech/scammers-targeting-teens-nasty-tricks
-Date: Fri, 27 Dec 2024 16:03:33 -0500
-Word Count: 864 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Fox News AI Newsletter: DC air defense gets major upgrade
-URL: https://www.foxnews.com/tech/fox-news-ai-newsletter-dc-air-defense-gets-major-upgrade
-Date: Fri, 27 Dec 2024 11:40:05 -0500
-Word Count: 229 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: AI-powered robot sinks seemingly impossible basketball hoops
-URL: https://www.foxnews.com/tech/ai-powered-robot-sinks-seemingly-impossible-basketball-hoops
-Date: Fri, 27 Dec 2024 08:00:01 -0500
-Word Count: 627 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Sign PDFs easily in Preview on Apple devices
-URL: https://www.foxnews.com/tech/sign-pdfs-easily-preview-apple-devices
-Date: Fri, 27 Dec 2024 06:00:19 -0500
-Word Count: 489 words
-Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Got new electronics for the holidays? Here's what to do first
-URL: https://www.foxnews.com/tech/got-new-electronics-holidays-heres-what-do-first
-Date: Thu, 26 Dec 2024 08:00:26 -0500
-Word Count: 1291 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: The life-changing benefits of Apple's Personal Voice and Live Speech
-URL: https://www.foxnews.com/tech/life-changing-benefits-apples-personal-voice-live-speech
-Date: Thu, 26 Dec 2024 06:00:40 -0500
-Word Count: 561 words
-Images: 12 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Google Maps is deleting location history soon, so act now to save your data
-URL: https://www.foxnews.com/tech/google-maps-deleting-location-history-soon-so-act-now-save-your-data
-Date: Wed, 25 Dec 2024 10:00:56 -0500
-Word Count: 1042 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: How iOS 18.2 now lets you share your AirTag's location with anyone
-URL: https://www.foxnews.com/tech/how-ios-18-2-now-lets-you-share-your-airtags-location-anyone
-Date: Wed, 25 Dec 2024 06:00:38 -0500
-Word Count: 556 words
-Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Timeshare terror leaves retired couple $50K in the hole after being scammed
-URL: https://www.foxnews.com/tech/timeshare-terror-leaves-retired-couple-50k-hole-after-being-scammed
-Date: Tue, 24 Dec 2024 10:00:30 -0500
-Word Count: 1378 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Ignoring router security settings puts millions at risk from hidden dangers
-URL: https://www.foxnews.com/tech/ignoring-router-security-settings-puts-millions-risk-from-hidden-dangers
-Date: Tue, 24 Dec 2024 06:00:33 -0500
-Word Count: 1122 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: More than 910,000 patients at risk after ConnectOnCall health data breach
-URL: https://www.foxnews.com/tech/more-than-910000-patients-risk-after-connectoncall-health-data-breach
-Date: Mon, 23 Dec 2024 10:00:03 -0500
-Word Count: 1137 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Scammers exploited mom’s fears to steal her entire life's savings
-URL: https://www.foxnews.com/tech/scammers-exploited-moms-fears-steal-her-entire-lifes-savings
-Date: Mon, 23 Dec 2024 06:00:57 -0500
-Word Count: 1071 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Top 5 mistakes that could expose your financial data to cybercriminals
-URL: https://www.foxnews.com/tech/top-5-mistakes-could-expose-your-financial-data-cybercriminals
-Date: Sun, 22 Dec 2024 10:00:02 -0500
-Word Count: 1395 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Food tracking just got lazy — in the best way possible — with this wearable
-URL: https://www.foxnews.com/tech/food-tracking-just-got-lazy-best-way-possible-wearable
-Date: Sun, 22 Dec 2024 06:00:53 -0500
-Word Count: 911 words
-Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Do you need a VPN at home? Here are 10 reasons you do
-URL: https://www.foxnews.com/tech/do-you-need-vpn-home-here-10-reasons-you-do
-Date: Sat, 21 Dec 2024 10:00:19 -0500
-Word Count: 1595 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Fox News AI Newsletter: Cate Blanchett 'deeply concerned'
-URL: https://www.foxnews.com/tech/ai-newsletter-cate-blanchett-deeply-concerned
-Date: Sat, 21 Dec 2024 08:30:38 -0500
-Word Count: 311 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
 Category: world
 Title: Republican congressman calls on incoming administration to target 'The Axis of Aggressors'
 URL: https://www.foxnews.com/world/republican-congressman-calls-incoming-administration-target-axis-aggressors
@@ -1853,13 +1510,6 @@ URL: https://www.foxnews.com/sports/matthew-gaudreaus-wife-announces-birth-first
 Date: Tue, 31 Dec 2024 18:28:34 -0500
 Word Count: 351 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: 12 must-have apps to crush your New Year’s resolutions
-URL: https://www.foxnews.com/tech/12-must-have-apps-crush-your-new-years-resolutions
-Date: Wed, 01 Jan 2025 06:00:13 -0500
-Word Count: 2011 words
-Images: 14 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
 
 Category: world
 Title: Israeli PM Benjamin Netanyahu leaves hospital after prostate surgery
@@ -2393,34 +2043,6 @@ Date: Thu, 02 Jan 2025 17:16:40 -0500
 Word Count: 796 words
 Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
 
-Category: tech
-Title: The step I take to clear my inbox every January
-URL: https://www.foxnews.com/tech/step-take-clear-inbox-every-january
-Date: Fri, 03 Jan 2025 14:09:22 -0500
-Word Count: 464 words
-Images: 2 (Sizes: 1200x675, 1200x675)
-
-Category: tech
-Title: Are data brokers endangering your retirement security?
-URL: https://www.foxnews.com/tech/data-brokers-endangering-your-retirement-security
-Date: Fri, 03 Jan 2025 08:00:28 -0500
-Word Count: 1102 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Turo rentals emerge as common thread in Las Vegas Cybertruck and New Orleans deadly incidents
-URL: https://www.foxnews.com/tech/turo-rentals-emerge-common-thread-las-vegas-cybertruck-new-orleans-deadly-incidents
-Date: Fri, 03 Jan 2025 07:00:16 -0500
-Word Count: 881 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: China rolls out its crime-fighting ball to chase down criminals
-URL: https://www.foxnews.com/tech/china-rolls-out-its-crime-fighting-ball-chase-down-criminals
-Date: Fri, 03 Jan 2025 06:00:16 -0500
-Word Count: 665 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
 Category: world
 Title: Earthquake 50 miles from Mount Everest leaves at least 126 dead in Tibet
 URL: https://www.foxnews.com/world/earthquake-50-miles-from-mount-everest-leaves-least-95-dead-tibet
@@ -2918,69 +2540,6 @@ Date: Mon, 06 Jan 2025 07:21:26 -0500
 Word Count: 560 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
-Category: tech
-Title: FBI's new warning about AI-driven scams that are after your cash
-URL: https://www.foxnews.com/tech/fbis-new-warning-about-ai-driven-scams-after-your-cash
-Date: Tue, 07 Jan 2025 06:00:28 -0500
-Word Count: 1356 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Hacked Chrome extensions put 2.6 million users at risk of data leak
-URL: https://www.foxnews.com/tech/hacked-chrome-extensions-put-2-6-million-users-risk-data-leak
-Date: Mon, 06 Jan 2025 09:00:53 -0500
-Word Count: 1064 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: It is easier than ever to disable Location Sharing on your Android phone
-URL: https://www.foxnews.com/tech/easier-than-ever-disable-location-sharing-your-android-phone
-Date: Mon, 06 Jan 2025 06:00:25 -0500
-Word Count: 718 words
-Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Malicious apps posing as VPNs can turn your device into a tool for cyberattacks
-URL: https://www.foxnews.com/tech/malicious-apps-posing-vpns-can-turn-your-device-tool-cyberattacks
-Date: Sun, 05 Jan 2025 08:00:51 -0500
-Word Count: 950 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Create custom visuals on your iPhone with Image Playground in iOS 18.2
-URL: https://www.foxnews.com/tech/create-custom-visuals-your-iphone-image-playground-ios-18-2
-Date: Sun, 05 Jan 2025 06:00:34 -0500
-Word Count: 325 words
-Images: 7 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: NASA's Martian helicopter promises unprecedented views of the red planet
-URL: https://www.foxnews.com/tech/nasas-martian-helicopter-promises-unprecedented-views-red-planet
-Date: Sat, 04 Jan 2025 19:07:03 -0500
-Word Count: 735 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Fox News AI Newsletter: Will your job survive Trump’s Gen AI revolution?
-URL: https://www.foxnews.com/tech/fox-news-ai-newsletter-your-job-survive-trumps-gen-ai-revolution
-Date: Sat, 04 Jan 2025 08:00:29 -0500
-Word Count: 310 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Can I outsmart thieves with a hidden AirTag in RFID wallet?
-URL: https://www.foxnews.com/tech/can-i-outsmart-thieves-hidden-airtag-rfid-wallet
-Date: Sat, 04 Jan 2025 08:00:23 -0500
-Word Count: 701 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Ditch boring emoji and create your own unique versions with Genmoji on iPhone
-URL: https://www.foxnews.com/tech/ditch-boring-emoji-create-your-own-unique-ones-genmoji-iphone
-Date: Sat, 04 Jan 2025 06:00:11 -0500
-Word Count: 503 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
 Category: world
 Title: UK lawmakers vote against inquiry into 'rape gang scandal' as Musk keeps up pressure
 URL: https://www.foxnews.com/world/uk-lawmakers-vote-against-inquiry-rape-gang-scandal-musk-keeps-up-pressure
@@ -3443,27 +3002,6 @@ Date: Wed, 08 Jan 2025 08:18:58 -0500
 Word Count: 338 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
-Category: tech
-Title: Fox News AI Newsletter: FBI's new warning about AI-driven scams that are after your cash
-URL: https://www.foxnews.com/tech/fox-news-ai-newsletter-fbis-new-warning-about-ai-driven-scams-after-your-cash
-Date: Wed, 08 Jan 2025 12:27:34 -0500
-Word Count: 282 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Preventing this insidious email forwarding scam that will drain your bank account
-URL: https://www.foxnews.com/tech/preventing-insidious-email-forwarding-scam-drain-your-bank-account
-Date: Wed, 08 Jan 2025 09:00:06 -0500
-Word Count: 1382 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Top tech stealing the show at CES 2025
-URL: https://www.foxnews.com/tech/top-tech-stealing-show-ces-2025
-Date: Wed, 08 Jan 2025 06:00:47 -0500
-Word Count: 1476 words
-Images: 11 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
 Category: world
 Title: Who could replace Trudeau as Canadian prime minister, with Trump threatening tariffs?
 URL: https://www.foxnews.com/world/who-could-replace-trudeau-canadian-prime-minister-trump-threatening-tariffs
@@ -3505,34 +3043,6 @@ URL: https://www.foxnews.com/health/babies-born-2025-begin-gen-beta-brand-new-ge
 Date: Wed, 01 Jan 2025 10:00:34 -0500
 Word Count: 790 words
 Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Lost your contacts on your phone? Here's how to get them back
-URL: https://www.foxnews.com/tech/lost-your-contacts-your-phone-heres-how-get-them-back
-Date: Tue, 07 Jan 2025 09:00:46 -0500
-Word Count: 583 words
-Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Easy internet sleuth tricks you’ll wish you knew sooner
-URL: https://www.foxnews.com/tech/easy-internet-sleuth-tricks-youll-wish-you-knew-sooner
-Date: Thu, 02 Jan 2025 16:04:35 -0500
-Word Count: 670 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: Receiving unexpected international calls? What you need to know
-URL: https://www.foxnews.com/tech/receiving-unexpected-international-calls-what-you-need-know
-Date: Wed, 01 Jan 2025 08:00:25 -0500
-Word Count: 846 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: tech
-Title: The biggest Wi-Fi mistake you didn’t know you were making
-URL: https://www.foxnews.com/tech/biggest-wi-fi-mistake-you-didnt-know-you-were-making
-Date: Tue, 31 Dec 2024 17:14:55 -0500
-Word Count: 561 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
 Category: health
 Title: Texas officials say dead birds found in early January tested positive for bird flu
@@ -3798,26 +3308,45 @@ Title: NFL announces contingency plan if SoFi Stadium can't be used for Rams-Vik
 URL: https://www.foxnews.com/sports/nfl-announces-contingency-plan-sofi-stadium-cant-used-rams-vikings-playoff-game-due-wildfires
 Date: Wed, 08 Jan 2025 20:23:05 -0500
 Word Count: 454 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)Category: politics
+Title: 'Get back to work': House Oversight to take on government telework in 1st hearing of new Congress
+URL: https://www.foxnews.com/politics/get-back-work-house-oversight-take-government-telework-first-hearing-new-congress
+Date: Thu, 09 Jan 2025 12:45:28 -0500
+Word Count: 406 words
+Images: 3 (Sizes: 1200x675, 1200x675, Unknown Size)
+
+Category: politics
+Title: Trump chats up Obama while Clintons, Harris, ignore president-elect at Jimmy Carter funeral
+URL: https://www.foxnews.com/politics/trump-chats-up-obama-while-clintons-harris-ignore-president-elect-jimmy-carter-funeral
+Date: Thu, 09 Jan 2025 12:32:43 -0500
+Word Count: 622 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Biden's HHS secretary warns against implications of preemptive pardon for Fauci, others
+URL: https://www.foxnews.com/politics/bidens-hhs-secretary-warns-against-implications-preemptive-pardon-fauci-others
+Date: Thu, 09 Jan 2025 12:30:37 -0500
+Word Count: 602 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
-Category: tech
-Title: This fake app clone will steal everything you type on your Android
-URL: https://www.foxnews.com/tech/fake-app-clone-steal-everything-you-type-your-android
-Date: Thu, 09 Jan 2025 10:00:17 -0500
-Word Count: 965 words
+Category: politics
+Title: Michelle Obama, Dick Cheney among notable absences at Carter funeral
+URL: https://www.foxnews.com/politics/michelle-obama-dick-cheney-among-notable-absences-carter-funeral
+Date: Thu, 09 Jan 2025 12:24:00 -0500
+Word Count: 393 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
-Category: tech
-Title: Meta makes major move back to free speech and ends 3rd-party fact-checking program
-URL: https://www.foxnews.com/tech/meta-makes-major-move-back-free-speech-ends-third-party-fact-checking-program
-Date: Thu, 09 Jan 2025 08:00:58 -0500
-Word Count: 787 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Category: sports
+Title: Bills' Josh Allen jokes teams should 'stay away' from offensive coordinator amid head coaching interest
+URL: https://www.foxnews.com/sports/bills-josh-allen-jokes-teams-should-stay-away-from-offensive-coordinator-amid-head-coaching-interest
+Date: Thu, 09 Jan 2025 12:37:04 -0500
+Word Count: 453 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
-Category: tech
-Title: Solar device transforms used tires to help purify water so that it's drinkable
-URL: https://www.foxnews.com/tech/solar-device-transforms-used-tires-help-purify-water-so-its-drinkable
-Date: Thu, 09 Jan 2025 06:00:01 -0500
-Word Count: 713 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+Category: sports
+Title: American tennis star Frances Tiafoe dishes on 'crazy' hangouts with Taylor Swift, Travis Kelce
+URL: https://www.foxnews.com/sports/american-tennis-star-frances-tiafoe-dishes-crazy-hangouts-taylor-swift-travis-kelce
+Date: Thu, 09 Jan 2025 12:31:15 -0500
+Word Count: 362 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 

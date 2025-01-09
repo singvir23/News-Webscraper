@@ -14,10 +14,6 @@ def get_category_from_url(url):
         return 'health'
     elif '/sport' in url:
         return 'sports'
-    elif '/business/tech' in url:
-        return 'tech'
-    elif '/tech' in url:
-        return 'tech'
     return 'unknown'
 
 def get_previously_scraped_urls(filename="cnn_articles.txt"):
@@ -38,25 +34,20 @@ def update_total_articles(count, filename="cnn_articles.txt"):
         with open(filename, 'r', encoding='utf-8') as f:
             content = f.readlines()
 
-        # Remove the existing 'Total Articles' line if it exists
         if content and content[0].startswith("Total Articles:"):
             content.pop(0)
 
-        # Prepend the new total articles line
         content.insert(0, f"Total Articles: {count}\n\n")
 
         with open(filename, 'w', encoding='utf-8') as f:
             f.writelines(content)
 
     except FileNotFoundError:
-        # If the file doesn't exist, create it with the total articles count
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(f"Total Articles: {count}\n\n")
 
 def get_article_urls_from_containers(url, containers):
-    """
-    Extract article URLs from the specified containers on the page.
-    """
+    """Extract article URLs from the specified containers on the page."""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
                       '(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -104,12 +95,10 @@ def scrape_cnn_article(url, override_category=None):
             'Images': []
         }
 
-        # Extract title
         title = soup.find('h1')
         if title:
             result['Title'] = title.text.strip()
 
-        # Extract date
         date_meta = soup.find('meta', property='article:published_time')
         if date_meta:
             date_str = date_meta.get('content')
@@ -117,25 +106,24 @@ def scrape_cnn_article(url, override_category=None):
                 date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
                 result['Date'] = date_obj.strftime('%a, %d %b %Y %H:%M:%S %z')
 
-        # Count words in paragraphs
         paragraphs = soup.find_all(['p', 'div'], class_=lambda x: x and 'paragraph' in x.lower())
         total_words = sum(len(p.text.split()) for p in paragraphs if p.text)
         result['Word Count'] = f"{total_words} words"
 
-        # Find images
         images = []
         all_images = soup.find_all('img', class_=lambda x: x and ('image' in x.lower() or 'photo' in x.lower()))
         for img in all_images:
             if not img.find_parent(class_=lambda x: x and ('related' in x.lower() or 'playlist' in x.lower())) \
                and not img.find_parent(class_="byline__images") \
-               and not img.find_parent(class_="series-banner__logo-heading"):
+               and not img.find_parent(class_="series-banner__logo-heading") \
+               and not img.find_parent(class_="container_list-headlines-with-images__cards-wrapper") \
+               and not img.find_parent(class_="container__item-media  container_list-headlines-with-images__item-media"):
                 width = img.get('width', '')
                 height = img.get('height', '')
                 if width and height:
                     images.append(f"{width}x{height}")
         result['Images'] = f"{len(images)} (Sizes: {', '.join(images)})"
 
-        # Exclude articles with missing data
         if not result['Title'] or not result['Date'] or total_words == 0:
             print(f"Skipping incomplete article: {url}")
             return None
@@ -176,9 +164,6 @@ def main():
         ],
         "https://www.cnn.com/sport": [
             'container__field-links container_lead-plus-headlines__field-links'
-        ],
-        "https://www.cnn.com/business/tech": [
-            'container__field-links container_lead-plus-headlines-with-images__field-links'
         ]
     }
 

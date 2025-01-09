@@ -1,12 +1,4 @@
-Total Articles: 151
-
-
-Category: tech
-Title: Elon Musk has met with politicians from at least 13 different countries: Here’s what he has talked about
-URL: https://www.cnn.com/2024/10/25/tech/elon-musk-political-meetings-influence-dg/index.html
-Date: Fri, 25 Oct 2024 23:10:54 +0000
-Word Count: 1395 words
-Images: 1 (Sizes: 2400x1600)
+Total Articles: 135
 
 Category: world
 Title: New Year’s celebrations around the world
@@ -14,13 +6,6 @@ URL: https://www.cnn.com/2024/12/31/world/gallery/2025-new-year-celebrations/ind
 Date: Tue, 31 Dec 2024 15:16:43 +0000
 Word Count: 0 words
 Images: 24 (Sizes: 2375x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2449x1600, 3000x2000, 3000x2001, 3000x2000, 3000x2431, 3000x2000, 2500x1665, 3000x2000, 2500x1667, 2500x1668, 2500x1667, 2500x1666, 2500x1667, 2500x1667, 3000x2000, 2500x1700, 2500x1667, 2500x1667, 2500x1575)
-
-Category: tech
-Title: X changed its terms of service to let its AI train on everyone’s posts. Now users are up in arms
-URL: https://www.cnn.com/2024/10/21/tech/x-twitter-terms-of-service/index.html
-Date: Mon, 21 Oct 2024 10:30:47 +0000
-Word Count: 559 words
-Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
 Category: world
 Title: People we’ve lost in 2024
@@ -463,13 +448,6 @@ Date: Wed, 11 Dec 2024 09:24:38 +0000
 Word Count: 1830 words
 Images: 4 (Sizes: 1920x1080, 2000x1299, 2000x1333, 2000x1333)
 
-Category: tech
-Title: MAGA opponents of Elon Musk claim he stripped them of their X badges
-URL: https://www.cnn.com/2024/12/27/tech/maga-musk-x-visas/index.html
-Date: Sat, 28 Dec 2024 02:03:22 +0000
-Word Count: 395 words
-Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
 Category: health
 Title: I don’t have diabetes, but I wore a glucose monitor for six weeks. Here’s what I learned about food (and anxiety)
 URL: https://www.cnn.com/2024/11/29/health/continuous-glucose-monitor-tirrell-wellness/index.html
@@ -477,40 +455,12 @@ Date: Fri, 29 Nov 2024 12:00:50 +0000
 Word Count: 2176 words
 Images: 3 (Sizes: 1920x1080, 1284x1913, 3000x2001)
 
-Category: tech
-Title: Snapchat’s new AI chatbot is already raising alarms among teens and parents
-URL: https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html
-Date: Thu, 27 Apr 2023 15:43:45 +0000
-Word Count: 1147 words
-Images: 6 (Sizes: 2437x1625, 2000x1125, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: AI bigwigs want to go all-in on nuclear. They also happen to be behind nuclear companies
-URL: https://www.cnn.com/2024/12/24/tech/nuclear-energy-ai-leaders/index.html
-Date: Tue, 24 Dec 2024 11:00:43 +0000
-Word Count: 1722 words
-Images: 7 (Sizes: 1600x900, 2000x1125, 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
 Category: science
 Title: Microplastics are choking our waters. Could a sponge made of squid bones help remove them?
 URL: https://www.cnn.com/2024/12/17/science/microplastics-sponge-wuhan-china-scn-intl-hnk/index.html
 Date: Wed, 18 Dec 2024 04:00:46 +0000
 Word Count: 586 words
 Images: 2 (Sizes: 2400x1600, 2551x1600)
-
-Category: tech
-Title: Iran lifts ban on WhatsApp and Google Play, state media says
-URL: https://www.cnn.com/2024/12/24/tech/iran-lifts-ban-on-whatsapp-and-google-play-state-media-says-intl/index.html
-Date: Tue, 24 Dec 2024 17:42:48 +0000
-Word Count: 171 words
-Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: FTX executives shave serious time off their sentences
-URL: https://www.cnn.com/2024/12/26/tech/ftx-ryan-salame-caroline-ellison-sentences/index.html
-Date: Thu, 26 Dec 2024 13:42:45 +0000
-Word Count: 356 words
-Images: 5 (Sizes: 1600x900, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
 Category: science
 Title: Orca mom is carrying a dead calf for the second time, raising concerns among scientists
@@ -630,62 +580,6 @@ URL: https://www.cnn.com/2025/01/07/sport/las-vegas-raiders-fire-antonio-pierce-
 Date: Tue, 07 Jan 2025 22:01:36 +0000
 Word Count: 344 words
 Images: 1 (Sizes: 1600x1066)
-
-Category: tech
-Title: US adds Chinese tech giants to list of companies allegedly working with China’s military
-URL: https://www.cnn.com/2025/01/07/tech/tencent-catl-us-list-china-military-companies-intl-hnk/index.html
-Date: Tue, 07 Jan 2025 05:02:27 +0000
-Word Count: 761 words
-Images: 6 (Sizes: 1600x1067, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: Calling women ‘household objects’ now permitted on Facebook after Meta updated its guidelines
-URL: https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html
-Date: Tue, 07 Jan 2025 20:36:11 +0000
-Word Count: 528 words
-Images: 5 (Sizes: 2000x1331, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: Microsoft plans to invest $80 billion on AI-enabled data centers in fiscal 2025
-URL: https://www.cnn.com/2025/01/03/tech/microsoft-ai-data-centers/index.html
-Date: Fri, 03 Jan 2025 21:50:44 +0000
-Word Count: 219 words
-Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: China proposes fresh export curbs on EV technology
-URL: https://www.cnn.com/2025/01/03/tech/china-ev-tech-export-controls-intl-hnk/index.html
-Date: Fri, 03 Jan 2025 07:27:24 +0000
-Word Count: 634 words
-Images: 6 (Sizes: 5038x3352, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: The New Orleans attacker wore Meta glasses. What can they be used for?
-URL: https://www.cnn.com/2025/01/06/tech/meta-glasses-new-orleans-attack/index.html
-Date: Mon, 06 Jan 2025 17:34:15 +0000
-Word Count: 739 words
-Images: 7 (Sizes: 3000x1997, 3000x2000, 1600x1817, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: Meta is getting rid of fact checkers. Zuckerberg acknowledged more harmful content will appear on the platforms now
-URL: https://www.cnn.com/2025/01/07/tech/meta-censorship-moderation/index.html
-Date: Tue, 07 Jan 2025 12:05:31 +0000
-Word Count: 1271 words
-Images: 5 (Sizes: 1920x1080, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: What to know about Turo, the app both trucks used in New Orleans and Las Vegas incidents came from
-URL: https://www.cnn.com/2025/01/02/tech/what-is-turo/index.html
-Date: Thu, 02 Jan 2025 19:05:48 +0000
-Word Count: 1121 words
-Images: 6 (Sizes: 2000x1333, 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: UFC head Dana White joins Meta’s board, Mark Zuckerberg’s second key right-wing appointment in a week
-URL: https://www.cnn.com/2025/01/06/tech/ufc-dana-white-joins-meta-board/index.html
-Date: Mon, 06 Jan 2025 22:28:45 +0000
-Word Count: 525 words
-Images: 5 (Sizes: 3000x2107, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
 Category: politics
 Title: Trump meets with GOP lawmakers in DC as Cabinet picks lobby for support
@@ -890,20 +784,6 @@ Date: Wed, 08 Jan 2025 10:30:42 +0000
 Word Count: 1123 words
 Images: 4 (Sizes: 2597x1732, 4960x3307, 4591x3060, 4985x3323)
 
-Category: tech
-Title: Just before Trump takes office, Meta is replacing its top policy exec with a prominent Republican
-URL: https://www.cnn.com/2025/01/02/tech/meta-nick-clegg-stepping-down-joel-kaplan/index.html
-Date: Thu, 02 Jan 2025 23:06:48 +0000
-Word Count: 672 words
-Images: 5 (Sizes: 2000x1334, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: Net neutrality dealt a final defeat in a blow to Democrats
-URL: https://www.cnn.com/2025/01/02/tech/net-neutrality-defeat/index.html
-Date: Thu, 02 Jan 2025 22:58:36 +0000
-Word Count: 513 words
-Images: 5 (Sizes: 2227x1467, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
 Category: world
 Title: ChatGPT can be tricked into telling people how to commit crimes, a tech firm finds
 URL: https://www.cnn.com/2024/10/23/business/chatgpt-tricked-commit-crimes/index.html
@@ -917,13 +797,6 @@ URL: https://www.cnn.com/2025/01/08/business/us-dockworkers-port-employers-agree
 Date: Thu, 09 Jan 2025 00:05:31 +0000
 Word Count: 609 words
 Images: 5 (Sizes: 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: world
-Title: X changed its terms of service to let its AI train on everyone’s posts. Now users are up in arms
-URL: https://www.cnn.com/2024/10/21/tech/x-twitter-terms-of-service/index.html
-Date: Mon, 21 Oct 2024 10:30:47 +0000
-Word Count: 559 words
-Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
 Category: world
 Title: Elon Musk has met with politicians from at least 13 different countries: Here’s what he has talked about
@@ -1148,62 +1021,6 @@ URL: https://www.cnn.com/2025/01/05/sport/tampa-bay-buccaneers-mike-evans-spt/in
 Date: Mon, 06 Jan 2025 01:44:53 +0000
 Word Count: 433 words
 Images: 1 (Sizes: 3000x2000)
-
-Category: tech
-Title: What to know about Turo, the app both trucks used in New Orleans and Las Vegas incidents came from
-URL: https://www.cnn.com/2025/01/02/tech/what-is-turo/index.html
-Date: Thu, 02 Jan 2025 19:05:48 +0000
-Word Count: 1121 words
-Images: 6 (Sizes: 2000x1333, 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: Calling women ‘household objects’ now permitted on Facebook after Meta updated its guidelines
-URL: https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html
-Date: Tue, 07 Jan 2025 20:36:11 +0000
-Word Count: 528 words
-Images: 5 (Sizes: 2000x1331, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: China proposes fresh export curbs on EV technology
-URL: https://www.cnn.com/2025/01/03/tech/china-ev-tech-export-controls-intl-hnk/index.html
-Date: Fri, 03 Jan 2025 07:27:24 +0000
-Word Count: 634 words
-Images: 6 (Sizes: 5038x3352, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: US adds Chinese tech giants to list of companies allegedly working with China’s military
-URL: https://www.cnn.com/2025/01/07/tech/tencent-catl-us-list-china-military-companies-intl-hnk/index.html
-Date: Tue, 07 Jan 2025 05:02:27 +0000
-Word Count: 761 words
-Images: 6 (Sizes: 1600x1067, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: Meta is getting rid of fact checkers. Zuckerberg acknowledged more harmful content will appear on the platforms now
-URL: https://www.cnn.com/2025/01/07/tech/meta-censorship-moderation/index.html
-Date: Tue, 07 Jan 2025 12:05:31 +0000
-Word Count: 1271 words
-Images: 5 (Sizes: 1920x1080, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: The New Orleans attacker wore Meta glasses. What can they be used for?
-URL: https://www.cnn.com/2025/01/06/tech/meta-glasses-new-orleans-attack/index.html
-Date: Mon, 06 Jan 2025 17:34:15 +0000
-Word Count: 739 words
-Images: 7 (Sizes: 3000x1997, 3000x2000, 1600x1817, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: UFC head Dana White joins Meta’s board, Mark Zuckerberg’s second key right-wing appointment in a week
-URL: https://www.cnn.com/2025/01/06/tech/ufc-dana-white-joins-meta-board/index.html
-Date: Mon, 06 Jan 2025 22:28:45 +0000
-Word Count: 525 words
-Images: 5 (Sizes: 3000x2107, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: Microsoft plans to invest $80 billion on AI-enabled data centers in fiscal 2025
-URL: https://www.cnn.com/2025/01/03/tech/microsoft-ai-data-centers/index.html
-Date: Fri, 03 Jan 2025 21:50:44 +0000
-Word Count: 219 words
-Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
 Category: world
 Title: X changed its terms of service to let its AI train on everyone’s posts. Now users are up in arms
@@ -1450,56 +1267,6 @@ Date: Tue, 07 Jan 2025 10:51:33 +0000
 Word Count: 1007 words
 Images: 2 (Sizes: 1600x899, 2000x1333)
 
-Category: tech
-Title: Calling women ‘household objects’ now permitted on Facebook after Meta updated its guidelines
-URL: https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html
-Date: Tue, 07 Jan 2025 20:36:11 +0000
-Word Count: 528 words
-Images: 5 (Sizes: 2000x1331, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: Meta is getting rid of fact checkers. Zuckerberg acknowledged more harmful content will appear on the platforms now
-URL: https://www.cnn.com/2025/01/07/tech/meta-censorship-moderation/index.html
-Date: Tue, 07 Jan 2025 12:05:31 +0000
-Word Count: 1271 words
-Images: 5 (Sizes: 1920x1080, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: China proposes fresh export curbs on EV technology
-URL: https://www.cnn.com/2025/01/03/tech/china-ev-tech-export-controls-intl-hnk/index.html
-Date: Fri, 03 Jan 2025 07:27:24 +0000
-Word Count: 634 words
-Images: 6 (Sizes: 5038x3352, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: US adds Chinese tech giants to list of companies allegedly working with China’s military
-URL: https://www.cnn.com/2025/01/07/tech/tencent-catl-us-list-china-military-companies-intl-hnk/index.html
-Date: Tue, 07 Jan 2025 05:02:27 +0000
-Word Count: 761 words
-Images: 6 (Sizes: 1600x1067, 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: Microsoft plans to invest $80 billion on AI-enabled data centers in fiscal 2025
-URL: https://www.cnn.com/2025/01/03/tech/microsoft-ai-data-centers/index.html
-Date: Fri, 03 Jan 2025 21:50:44 +0000
-Word Count: 219 words
-Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: The New Orleans attacker wore Meta glasses. What can they be used for?
-URL: https://www.cnn.com/2025/01/06/tech/meta-glasses-new-orleans-attack/index.html
-Date: Mon, 06 Jan 2025 17:34:15 +0000
-Word Count: 739 words
-Images: 7 (Sizes: 3000x1997, 3000x2000, 1600x1817, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: tech
-Title: UFC head Dana White joins Meta’s board, Mark Zuckerberg’s second key right-wing appointment in a week
-URL: https://www.cnn.com/2025/01/06/tech/ufc-dana-white-joins-meta-board/index.html
-Date: Mon, 06 Jan 2025 22:28:45 +0000
-Word Count: 525 words
-Images: 5 (Sizes: 3000x2107, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-
 Category: world
 Title: Two men are vying to be inaugurated as Venezuela’s president this week. Here’s what we know
 URL: https://www.cnn.com/2025/01/09/americas/venezuela-maduro-inauguration-explainer-intl-latam/index.html
@@ -1515,11 +1282,11 @@ Word Count: 514 words
 Images: 3 (Sizes: 2000x1333, 1920x1080, 2000x1333)
 
 Category: world
-Title: Prince William praises ‘incredible wife and mother’ Kate as she celebrates 43rd birthday
-URL: https://www.cnn.com/2025/01/09/uk/princess-of-wales-birthday-photo-scli-intl/index.html
-Date: Thu, 09 Jan 2025 11:56:37 +0000
-Word Count: 275 words
-Images: 2 (Sizes: 2000x1389, 1506x2048)
+Title: Baby born at sea on migrant dinghy en route to Spain
+URL: https://www.cnn.com/2025/01/09/europe/baby-born-migrant-boat-spain-intl/index.html
+Date: Thu, 09 Jan 2025 14:49:30 +0000
+Word Count: 514 words
+Images: 2 (Sizes: 1600x1200, 2000x1282)
 
 Category: world
 Title: Attack on Chad’s presidential palace leaves 19 dead
@@ -1529,11 +1296,11 @@ Word Count: 264 words
 Images: 1 (Sizes: 2000x1125)
 
 Category: world
-Title: Baby born at sea on migrant dinghy en route to Spain
-URL: https://www.cnn.com/2025/01/09/europe/baby-born-migrant-boat-spain-intl/index.html
-Date: Thu, 09 Jan 2025 14:49:30 +0000
-Word Count: 514 words
-Images: 2 (Sizes: 1600x1200, 2000x1282)
+Title: Prince William praises ‘incredible wife and mother’ Kate as she celebrates 43rd birthday
+URL: https://www.cnn.com/2025/01/09/uk/princess-of-wales-birthday-photo-scli-intl/index.html
+Date: Thu, 09 Jan 2025 11:56:37 +0000
+Word Count: 275 words
+Images: 2 (Sizes: 2000x1389, 1506x2048)
 
 Category: world
 Title: Migrants race against the clock to reach the US-Mexico border before Trump takes office
@@ -1541,13 +1308,6 @@ URL: https://www.cnn.com/2025/01/09/americas/migrants-caravan-mexico-trump-intl-
 Date: Thu, 09 Jan 2025 11:00:42 +0000
 Word Count: 1148 words
 Images: 4 (Sizes: 3000x2001, 3000x2000, 3000x1997, 3000x1997)
-
-Category: politics
-Title: Trump’s inaugural committee has already raised a record $170 million in donations
-URL: https://www.cnn.com/2025/01/09/politics/trump-inaugural-committee-raised-170-million/index.html
-Date: Thu, 09 Jan 2025 16:42:17 +0000
-Word Count: 308 words
-Images: 1 (Sizes: 3000x1687)
 
 Category: politics
 Title: Biden confronts an ending with Carter’s funeral
@@ -1564,18 +1324,11 @@ Word Count: 478 words
 Images: 1 (Sizes: 3000x2000)
 
 Category: politics
-Title: Garland tells Congress he plans to make Jack Smith report on Trump cases available once courts allow
-URL: https://www.cnn.com/2025/01/09/politics/merrick-garland-special-counsel-report-trump/index.html
-Date: Thu, 09 Jan 2025 12:51:57 +0000
-Word Count: 441 words
-Images: 1 (Sizes: 2000x1125)
-
-Category: politics
-Title: Biden cancels Italy trip in final days of his presidency to focus on federal response to LA wildfires
-URL: https://www.cnn.com/2025/01/08/politics/biden-cancels-rome-italy-trip-wildfires-california/index.html
-Date: Thu, 09 Jan 2025 03:23:51 +0000
-Word Count: 576 words
-Images: 1 (Sizes: 1600x1067)
+Title: Elon Musk now has a new, lower target number for DOGE’s budget cuts
+URL: https://www.cnn.com/2025/01/09/politics/elon-musk-backtracks-federal-budget-cuts/index.html
+Date: Thu, 09 Jan 2025 14:13:55 +0000
+Word Count: 510 words
+Images: 1 (Sizes: 2000x1334)
 
 Category: politics
 Title: Fact check: As wildfires rage, Trump lashes out with false claims about FEMA and California water policy
@@ -1585,6 +1338,20 @@ Word Count: 1153 words
 Images: 1 (Sizes: 7975x5319)
 
 Category: politics
+Title: Trump’s inaugural committee has already raised a record $170 million in donations
+URL: https://www.cnn.com/2025/01/09/politics/trump-inaugural-committee-raised-170-million/index.html
+Date: Thu, 09 Jan 2025 16:42:17 +0000
+Word Count: 308 words
+Images: 1 (Sizes: 3000x1687)
+
+Category: politics
+Title: Biden cancels Italy trip in final days of his presidency to focus on federal response to LA wildfires
+URL: https://www.cnn.com/2025/01/08/politics/biden-cancels-rome-italy-trip-wildfires-california/index.html
+Date: Thu, 09 Jan 2025 03:23:51 +0000
+Word Count: 576 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: politics
 Title: Eyes on US Supreme Court as NY’s highest court rejects Trump’s bid to postpone sentencing in hush money case
 URL: https://www.cnn.com/2025/01/09/politics/hush-money-sentencing-donald-trump-supreme-court/index.html
 Date: Thu, 09 Jan 2025 15:12:15 +0000
@@ -1592,11 +1359,11 @@ Word Count: 443 words
 Images: 1 (Sizes: 3000x2000)
 
 Category: politics
-Title: Elon Musk now has a new, lower target number for DOGE’s budget cuts
-URL: https://www.cnn.com/2025/01/09/politics/elon-musk-backtracks-federal-budget-cuts/index.html
-Date: Thu, 09 Jan 2025 14:13:55 +0000
-Word Count: 510 words
-Images: 1 (Sizes: 2000x1334)
+Title: Garland tells Congress he plans to make Jack Smith report on Trump cases available once courts allow
+URL: https://www.cnn.com/2025/01/09/politics/merrick-garland-special-counsel-report-trump/index.html
+Date: Thu, 09 Jan 2025 12:51:57 +0000
+Word Count: 441 words
+Images: 1 (Sizes: 2000x1125)
 
 Category: health
 Title: Norovirus cases are surging. A doctor explains what to look for
@@ -1611,11 +1378,3 @@ URL: https://www.cnn.com/2025/01/09/sport/washington-commanders-nfl-wild-card/in
 Date: Thu, 09 Jan 2025 12:00:42 +0000
 Word Count: 2983 words
 Images: 9 (Sizes: 1600x1067, 2500x1695, 2500x1667, 2321x1625, 2000x1383, 3000x2001, 3000x2151, 2400x1600, 1600x1059)
-
-Category: tech
-Title: ‘Shark Tank’s’ Kevin O’Leary and billionaire Frank McCourt want to buy TikTok. One problem: It’s not for sale
-URL: https://www.cnn.com/2025/01/09/tech/tiktok-ban-buy-frank-mccourt-kevin-oleary-bytedance/index.html
-Date: Thu, 09 Jan 2025 16:51:48 +0000
-Word Count: 537 words
-Images: 7 (Sizes: 1600x900, 3000x3000, 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
