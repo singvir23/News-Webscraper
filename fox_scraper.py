@@ -54,7 +54,6 @@ def get_article_details(url):
 
         image_count = 0
         image_sizes = []
-        video_count = 0
 
         if article_content:
             images = article_content.find_all('img')
@@ -74,17 +73,14 @@ def get_article_details(url):
                 image_count += 1
                 image_sizes.append(f"{width}x{height}" if width and height else "Unknown Size")
 
-            video_containers = soup.find_all('div', {'class': 'video-container'})
-            video_count = len(video_containers)
-
-        return word_count, image_count, image_sizes, video_count
+        return word_count, image_count, image_sizes
 
     except requests.RequestException as e:
         print(f"Failed to fetch {url}: {e}")
-        return 0, 0, [], 0
+        return 0, 0, []
     except Exception as e:
         print(f"An error occurred while processing {url}: {e}")
-        return 0, 0, [], 0
+        return 0, 0, []
 
 def update_total_articles_count(filename):
     """Updates the total number of articles at the top of the file."""
@@ -122,7 +118,7 @@ def save_article_data_to_file(articles, category, filename="fox_news_articles.tx
                 title = article['title']
                 url = article['url']
                 published_date = article['published_date']
-                word_count, image_count, image_sizes, video_count = get_article_details(url)
+                word_count, image_count, image_sizes = get_article_details(url)
 
                 # Format image sizes
                 if image_sizes:
@@ -136,8 +132,7 @@ def save_article_data_to_file(articles, category, filename="fox_news_articles.tx
                     f"URL: {url}\n"
                     f"Date: {published_date}\n"
                     f"Word Count: {word_count} words\n"
-                    f"Images: {image_count} (Sizes: {image_sizes_str})\n"
-                    f"Videos: {video_count}\n\n"
+                    f"Images: {image_count} (Sizes: {image_sizes_str})\n\n"
                 )
                 print(f"Added article from {category}: {title}")
                 new_articles_added += 1

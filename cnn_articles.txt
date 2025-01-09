@@ -1,212 +1,165 @@
-Total Articles: 82
+Total Articles: 73
 
-Category: world
-Title: Israel raid empties northern Gaza’s last functioning major hospital of all patients and detains its director
-URL: https://www.cnn.com/2024/12/30/middleeast/last-hospital-north-gaza-israel-raid-intl/index.html
-Date: Mon, 30 Dec 2024 13:17:09 +0000
-Word Count: 947 words
-Images: 3 (Sizes: 2500x1667, 2500x1406, 2500x1667)
-Videos: 0
-
-Category: world
-Title: Spike in Russian flights from Syria to Libyan desert base as Moscow eyes new Mediterranean hub
-URL: https://www.cnn.com/2024/12/31/middleeast/spike-russian-flights-libya-desert-base-intl/index.html
-Date: Tue, 31 Dec 2024 12:18:39 +0000
-Word Count: 1037 words
-Images: 4 (Sizes: 3000x2177, 3000x2001, 3000x1599, 3000x2464)
-Videos: 0
-
-Category: world
-Title: Israeli strike kills five journalists in Gaza, hospital says
-URL: https://www.cnn.com/2024/12/25/middleeast/journalists-death-israeli-strike-gaza-intl-hnk/index.html
-Date: Thu, 26 Dec 2024 02:38:09 +0000
-Word Count: 566 words
-Images: 1 (Sizes: 2000x1120)
-Videos: 0
-
-Category: world
-Title: South Korean court issues arrest warrant for embattled President Yoon Suk Yeol
-URL: https://www.cnn.com/2024/12/30/asia/arrest-warrant-south-korea-president-yoon-suk-yeol-intl-hnk/index.html
-Date: Tue, 31 Dec 2024 01:48:34 +0000
-Word Count: 1040 words
-Images: 1 (Sizes: 1920x1080)
-Videos: 1
-
-Category: world
-Title: WHO urges China to share Covid origins data, five years on from pandemic’s emergence
-URL: https://www.cnn.com/2024/12/31/china/who-china-covid-origin-data-five-years-intl-hnk/index.html
-Date: Tue, 31 Dec 2024 05:06:29 +0000
-Word Count: 748 words
-Images: 1 (Sizes: 2000x1326)
-Videos: 0
-
-Category: world
-Title: Building homes, eradicating disease: President Carter’s humanitarian impact around the world
-URL: https://www.cnn.com/2024/12/31/world/president-carters-impact-around-the-world/index.html
-Date: Tue, 31 Dec 2024 08:00:42 +0000
-Word Count: 681 words
-Images: 11 (Sizes: 3939x2616, 2000x1125, 1920x1080, 3072x2048, 874x1481, 1618x2467, 2065x1381, 2187x1458, 3955x2637, 3000x2307, 3000x1997)
-Videos: 1
-
-Category: world
-Title: After a quarter-century in power, Putin faces a new test: The return of Trump
-URL: https://www.cnn.com/2024/12/31/europe/putin-test-trump-return-analysis-intl/index.html
-Date: Tue, 31 Dec 2024 05:01:42 +0000
-Word Count: 1057 words
-Images: 4 (Sizes: 2000x1361, 2000x1432, 2000x1333, 2000x1333)
-Videos: 1
-
-Category: politics
-Title: What we know about funeral plans for former President Jimmy Carter
-URL: https://www.cnn.com/2024/12/30/politics/jimmy-carter-funeral-plans/index.html
-Date: Mon, 30 Dec 2024 14:05:56 +0000
-Word Count: 890 words
-Images: 75 (Sizes: 2400x1600, 2000x1247, 1600x2454, 1600x2103, 1600x1835, 1600x1294, 3000x1981, 2968x1983, 1901x2868, 3072x1995, 2997x1949, 3672x2943, 3500x2302, 4420x3537, 3361x2572, 1600x1085, 3000x1991, 2682x1765, 3000x1984, 2400x1556, 2000x1419, 2998x2196, 1708x2500, 2400x1838, 3164x2125, 2997x1977, 3000x2116, 4000x2667, 1600x2406, 3032x2008, 2980x1990, 3000x1962, 3126x2512, 1840x1980, 3000x1969, 1600x2685, 3000x1944, 2048x1493, 2048x1546, 3000x2250, 2421x1622, 3000x2100, 2000x1125, 3000x2006, 2048x1365, 3000x2000, 3614x2400, 3000x2583, 3000x2000, 3000x2000, 3120x1740, 2840x2120, 4313x3100, 1868x2464, 3000x2000, 3000x2037, 3000x1792, 3000x1963, 3000x2000, 2400x1607, 4200x2967, 4928x3280, 2400x1600, 4928x3280, 4183x2789, 2097x1398, 2400x1600, 3000x2000, 3575x2379, 2437x1625, 3000x1997, 1600x1069, 3000x2000, 2546x1600, 2399x1600)
-Videos: 0
-
-Category: politics
-Title: Prosecutors say 150 pipe bombs found at Virginia man’s home in what could be FBI’s largest-ever seizure of explosive devices
-URL: https://www.cnn.com/2024/12/31/politics/fbi-explosives-seized-virginia-man/index.html
-Date: Wed, 01 Jan 2025 00:14:45 +0000
-Word Count: 422 words
-Images: 2 (Sizes: 3000x2001, 1444x1076)
-Videos: 0
-
-Category: politics
-Title: Roberts warns against ignoring Supreme Court rulings as tension with Trump looms
-URL: https://www.cnn.com/2024/12/31/politics/john-roberts-year-end-report-supreme-court-rulings/index.html
-Date: Tue, 31 Dec 2024 23:01:53 +0000
-Word Count: 752 words
-Images: 1 (Sizes: 3000x2000)
-Videos: 0
-
-Category: politics
-Title: Johnson faces tough fight ahead in speaker’s race even after Trump endorsement
-URL: https://www.cnn.com/2024/12/30/politics/trump-endorses-johnson-in-speakers-race/index.html
-Date: Mon, 30 Dec 2024 15:22:22 +0000
-Word Count: 1346 words
-Images: 1 (Sizes: 1920x1080)
-Videos: 1
-
-Category: politics
-Title: Pentagon chief loses bid to reject 9/11 plea deals
-URL: https://www.cnn.com/2024/12/31/politics/9-11-plea-deals-appeals-court/index.html
-Date: Tue, 31 Dec 2024 15:17:16 +0000
-Word Count: 408 words
+Category: tech
+Title: Elon Musk has met with politicians from at least 13 different countries: Here’s what he has talked about
+URL: https://www.cnn.com/2024/10/25/tech/elon-musk-political-meetings-influence-dg/index.html
+Date: Fri, 25 Oct 2024 23:10:54 +0000
+Word Count: 1395 words
 Images: 1 (Sizes: 2400x1600)
-Videos: 0
+
+Category: world
+Title: New Year’s celebrations around the world
+URL: https://www.cnn.com/2024/12/31/world/gallery/2025-new-year-celebrations/index.html
+Date: Tue, 31 Dec 2024 15:16:43 +0000
+Word Count: 0 words
+Images: 24 (Sizes: 2375x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2449x1600, 3000x2000, 3000x2001, 3000x2000, 3000x2431, 3000x2000, 2500x1665, 3000x2000, 2500x1667, 2500x1668, 2500x1667, 2500x1666, 2500x1667, 2500x1667, 3000x2000, 2500x1700, 2500x1667, 2500x1667, 2500x1575)
+
+Category: tech
+Title: X changed its terms of service to let its AI train on everyone’s posts. Now users are up in arms
+URL: https://www.cnn.com/2024/10/21/tech/x-twitter-terms-of-service/index.html
+Date: Mon, 21 Oct 2024 10:30:47 +0000
+Word Count: 559 words
+Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: world
+Title: People we’ve lost in 2024
+URL: https://www.cnn.com/2024/01/08/world/gallery/people-we-lost-2024/index.html
+Date: Mon, 08 Jan 2024 17:11:33 +0000
+Word Count: 0 words
+Images: 162 (Sizes: 2000x1401, 3000x2000, 2000x1331, 1731x2389, 2400x1600, 3000x2000, 3000x2000, 2400x2463, 2000x1341, 2000x1254, 3000x2143, 3000x2111, 2000x1333, 1600x1209, 2400x1600, 2400x1600, 1600x1028, 2400x1600, 2394x1600, 1600x2002, 3000x2000, 3000x1948, 1012x675, 1600x2400, 2000x1333, 3000x2482, 2000x1125, 3000x2172, 1800x2700, 2000x1333, 1600x1074, 2451x1661, 3000x1994, 3000x1996, 2000x1334, 2000x1335, 3000x2993, 2000x1333, 2400x2021, 1600x1067, 2000x3005, 1600x1073, 3000x2190, 3598x2141, 2400x3000, 2056x1552, 2400x1600, 3000x2047, 1803x2067, 3000x2117, 2000x1235, 3000x2001, 1816x1125, 2000x1409, 2500x1406, 1600x1092, 2000x1333, 1933x1521, 3000x2143, 3000x1997, 3908x2539, 1600x1720, 3000x4500, 2000x1361, 2111x1600, 3000x2000, 3000x2000, 3000x1995, 2397x1600, 2417x1600, 3072x2040, 3000x2000, 2000x1333, 2400x1600, 1600x1215, 2000x1334, 2841x2030, 1600x900, 2000x1263, 2000x1584, 2275x1279, 2400x1577, 3000x2143, 1621x1131, 3000x2204, 2500x1735, 1600x1067, 3000x2000, 3000x2400, 3000x2008, 3060x2040, 3000x1870, 3526x3463, 2104x1454, 3265x2331, 1600x1084, 3000x2000, 2500x1667, 3102x1881, 3000x2000, 2907x1909, 3000x2000, 2464x1648, 1600x1064, 3000x2310, 1850x1173, 2500x1782, 3000x1925, 3000x2000, 3000x1992, 3000x2029, 2000x1974, 2124x1600, 2000x1465, 2394x1600, 3000x2091, 3000x2000, 2500x1407, 2500x1670, 3600x2430, 2000x1200, 2400x3600, 3000x2000, 2000x1337, 3000x2000, 1600x1067, 2000x1333, 2456x1637, 1600x1067, 1816x1125, 3000x1997, 2500x1667, 1600x1159, 2000x1450, 2000x1337, 2143x1759, 1600x1067, 3565x2574, 2500x1875, 3000x1924, 2000x1429, 2220x1409, 3000x1937, 2000x1407, 2000x1334, 3000x2017, 3000x2000, 1600x1161, 2211x2805, 2400x1921, 3000x4500, 3000x2067, 1984x1444, 3000x1961, 1600x2083, 3000x2069, 1989x1316, 2500x1667, 2000x1333, 1600x1090, 3000x2093, 2000x1334)
 
 Category: politics
-Title: Seniors won’t pay more than $2,000 for drugs at the pharmacy starting in January
-URL: https://www.cnn.com/2024/12/31/politics/medicare-drug-spending-cap/index.html
-Date: Tue, 31 Dec 2024 12:00:44 +0000
-Word Count: 652 words
-Images: 1 (Sizes: 2000x1333)
-Videos: 0
-
-Category: politics
-Title: Carter’s presidency holds foreign policy lessons for Trump
-URL: https://www.cnn.com/2024/12/31/politics/carter-trump-foreign-policy-analysis/index.html
-Date: Tue, 31 Dec 2024 05:00:43 +0000
-Word Count: 1691 words
-Images: 3 (Sizes: 1600x900, 3000x1992, 3000x2000)
-Videos: 1
-
-Category: politics
-Title: What the visa feud says about the coming Trump administration
-URL: https://www.cnn.com/2024/12/30/politics/trump-musk-h1b-visa-analysis/index.html
-Date: Mon, 30 Dec 2024 10:00:43 +0000
-Word Count: 1530 words
-Images: 1 (Sizes: 1600x900)
-Videos: 1
-
-Category: us
-Title: Jimmy Carter, a one-term president who became a globe-trotting elder statesman, dies at 100
-URL: https://www.cnn.com/2024/12/29/us/former-president-jimmy-carter-death/index.html
-Date: Sun, 29 Dec 2024 21:21:53 +0000
-Word Count: 3539 words
-Images: 80 (Sizes: 3000x2176, 2000x1247, 1600x2454, 1600x2103, 1600x1835, 1600x1294, 3000x1981, 2968x1983, 1901x2868, 3072x1995, 2997x1949, 3672x2943, 3500x2302, 4420x3537, 3361x2572, 1600x1085, 3000x1991, 2682x1765, 3000x1984, 2400x1556, 2000x1419, 2998x2196, 1708x2500, 2400x1838, 3164x2125, 2997x1977, 3000x2116, 4000x2667, 1600x2406, 3032x2008, 2980x1990, 3000x1962, 3126x2512, 1840x1980, 3000x1969, 1600x2685, 3000x1944, 2048x1493, 2048x1546, 3000x2250, 2421x1622, 3000x2100, 2000x1125, 3000x2006, 2048x1365, 3000x2000, 3614x2400, 3000x2583, 3000x2000, 3000x2000, 3120x1740, 2840x2120, 4313x3100, 1868x2464, 3000x2000, 3000x2037, 3000x1792, 3000x1963, 3000x2000, 2400x1607, 4200x2967, 4928x3280, 2400x1600, 4928x3280, 4183x2789, 2097x1398, 2400x1600, 3000x2000, 3575x2379, 2437x1625, 3000x1997, 1600x1069, 3000x2000, 2546x1600, 2399x1600, 3672x2943, 2913x1862, 2000x1125, 2048x1493, 2400x1600)
-Videos: 1
-
-Category: politics
-Title: Bonds forged during a wartime Christmas 83 years ago could soon be at risk
-URL: https://www.cnn.com/2024/12/24/politics/fdr-churchill-christmas-1941-analysis/index.html
-Date: Tue, 24 Dec 2024 05:00:42 +0000
-Word Count: 946 words
-Images: 2 (Sizes: 2000x1545, 5100x4036)
-Videos: 0
-
-Category: politics
-Title: Trump bristles at Musk’s rocketing profile as Democrats play on the president-elect’s vanity
-URL: https://www.cnn.com/2024/12/23/politics/president-musk-trump-analysis/index.html
-Date: Mon, 23 Dec 2024 05:00:42 +0000
-Word Count: 1681 words
-Images: 5 (Sizes: 3000x2000, 1920x1080, 1920x1080, 1600x900, 1920x1080)
-Videos: 5
-
-Category: politics
-Title: Trump would abolish the debt ceiling. Here’s what’s going on
-URL: https://www.cnn.com/2024/12/20/politics/trump-debt-ceiling/index.html
-Date: Fri, 20 Dec 2024 13:51:19 +0000
-Word Count: 944 words
+Title: KFile: Pete Hegseth spread baseless conspiracy theories that January 6 attack was carried out by leftist groups
+URL: https://www.cnn.com/2024/12/17/politics/kfile-pete-hegseth-conspiracy-theories-january-6/index.html
+Date: Tue, 17 Dec 2024 10:00:42 +0000
+Word Count: 1280 words
 Images: 1 (Sizes: 2400x1600)
-Videos: 0
 
 Category: politics
-Title: A farce before Christmas could send the government into a Trump-Musk shutdown
-URL: https://www.cnn.com/2024/12/20/politics/trump-musk-shutdown-analysis/index.html
-Date: Fri, 20 Dec 2024 09:00:43 +0000
-Word Count: 1614 words
-Images: 1 (Sizes: 3000x1802)
-Videos: 1
+Title: How these older voters who backed Harris are engaging in ‘quiet resistance’
+URL: https://www.cnn.com/2024/11/26/politics/pennsylvania-older-voters-trump-resistance/index.html
+Date: Tue, 26 Nov 2024 11:00:54 +0000
+Word Count: 1597 words
+Images: 4 (Sizes: 1920x1080, 2400x1600, 2400x1545, 2400x1600)
 
 Category: politics
-Title: Here’s how Congress is supposed to fund the US government, but never does
-URL: https://www.cnn.com/2024/12/19/politics/government-funding-spending-bills-what-matters/index.html
-Date: Thu, 19 Dec 2024 21:19:46 +0000
-Word Count: 1244 words
-Images: 2 (Sizes: 1436x738, 2400x1600)
-Videos: 0
-
-Category: politics
-Title: Trump and Musk unleash a new kind of chaos on Washington
-URL: https://www.cnn.com/2024/12/19/politics/trump-musk-capitol-chaos-analysis/index.html
-Date: Thu, 19 Dec 2024 05:00:42 +0000
-Word Count: 1761 words
-Images: 1 (Sizes: 1920x1080)
-Videos: 1
-
-Category: politics
-Title: Trump endorsed Johnson, but his fate as Speaker is still unclear
-URL: https://www.cnn.com/2024/12/31/politics/video/speaker-mike-johnson-gop-house-trump-digvid
-Date: Tue, 31 Dec 2024 20:09:18 +0000
+Title: In pictures: Harris running mate Tim Walz
+URL: https://www.cnn.com/2024/08/06/politics/gallery/tim-walz/index.html
+Date: Tue, 06 Aug 2024 14:47:50 +0000
 Word Count: 0 words
-Images: 1 (Sizes: 1920x1080)
-Videos: 1
+Images: 27 (Sizes: 3600x2400, 1600x1202, 1600x2310, 1600x1203, 2784x2072, 3369x2336, 2000x1455, 5272x3516, 4920x3324, 4896x3264, 5184x3456, 4492x3143, 3600x2400, 3000x2250, 3500x2230, 6720x4480, 2499x1666, 4032x3024, 5031x3354, 4463x2976, 5500x3722, 3600x2400, 2500x1667, 2400x1600, 800x533, 2500x1667, 3000x2000)
 
 Category: politics
-Title: Hear why Jimmy Carter’s grandson thinks he lived so long
-URL: https://www.cnn.com/2024/12/31/politics/video/jason-carter-jimmy-carter-life-legacy-nc-digvid
-Date: Tue, 31 Dec 2024 19:52:49 +0000
+Title: Many Trump voters still have doubts about him. Can he hold them?
+URL: https://www.cnn.com/2024/12/17/politics/trump-voter-doubts-analysis/index.html
+Date: Tue, 17 Dec 2024 11:00:42 +0000
+Word Count: 2722 words
+Images: 3 (Sizes: 2400x1705, 2400x1600, 2400x1600)
+
+Category: politics
+Title: Even Iowa Republicans who initially wanted to move on from Trump see hope — and a mandate — in his win
+URL: https://www.cnn.com/2024/11/19/politics/iowa-voters-trump-mandate/index.html
+Date: Tue, 19 Nov 2024 18:54:11 +0000
+Word Count: 1386 words
+Images: 3 (Sizes: 1920x1080, 2400x1800, 2400x1799)
+
+Category: politics
+Title: Electoral College: How it’s changed this year
+URL: https://www.cnn.com/2024/12/17/politics/electoral-college-votes-what-matters/index.html
+Date: Tue, 17 Dec 2024 11:00:45 +0000
+Word Count: 1003 words
+Images: 1 (Sizes: 2000x1334)
+
+Category: politics
+Title: In pictures: Trump wins back the presidency
+URL: https://www.cnn.com/2024/11/05/politics/gallery/america-votes-2024-election/index.html
+Date: Tue, 05 Nov 2024 05:54:43 +0000
 Word Count: 0 words
-Images: 1 (Sizes: 1600x900)
-Videos: 1
+Images: 89 (Sizes: 2843x1896, 8256x5504, 2400x1600, 5472x3648, 5500x3667, 8256x5504, 3000x1999, 5616x3744, 5500x3659, 6000x4002, 7696x5131, 3000x1996, 4000x2667, 8256x5504, 4000x2667, 3000x2000, 2135x1421, 2400x1600, 5843x3895, 5500x3667, 2702x1802, 7869x5252, 2000x1125, 8256x5504, 3000x2000, 4000x2666, 5577x3718, 4500x3000, 6671x4447, 4850x3233, 6127x4085, 4813x3238, 1190x1105, 2000x1334, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1084, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1334, 2000x1333, 2000x1334, 2000x1333, 3000x2001, 2000x1333, 3000x2004, 3000x1998, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x1999, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 5500x3668, 3000x2000, 5568x3712, 6619x4790, 5184x3456, 6609x4406, 8401x5760, 3000x1688, 6500x4335, 3000x2000, 4000x2667, 4000x2667, 5000x3333, 4000x2662, 8640x5760, 2500x1667, 3000x2000, 5000x3334, 5000x3332, 2400x1597, 5585x3723, 6000x4000, 5900x3933, 4000x2722)
+
+Category: politics
+Title: What’s the history of the Panama Canal, and why is Trump threatening to retake control of it?
+URL: https://www.cnn.com/2024/12/23/politics/panama-canal-history-trump/index.html
+Date: Mon, 23 Dec 2024 20:53:34 +0000
+Word Count: 1179 words
+Images: 2 (Sizes: 4000x2661, 1920x1080)
+
+Category: politics
+Title: Hardline activist who raised the idea of jailing women for abortions gets top policy job in Trump administration
+URL: https://www.cnn.com/2024/12/12/politics/kfile-ed-martin-omb-trump-administration-raised-idea-jailing-women-for-abortions/index.html
+Date: Thu, 12 Dec 2024 21:50:07 +0000
+Word Count: 835 words
+Images: 1 (Sizes: 1600x1067)
 
 Category: science
-Title: Scientists have identified an estimated 10% of all species on Earth. Here’s what they found in 2024
-URL: https://www.cnn.com/2024/12/31/science/new-species-named-in-2024/index.html
-Date: Tue, 31 Dec 2024 14:38:02 +0000
-Word Count: 769 words
-Images: 14 (Sizes: 1600x1287, 2000x1334, 2000x1134, 1680x2000, 1850x1387, 2000x1333, 2000x3000, 2000x1500, 2000x1500, 2000x1388, 2000x1333, 1600x901, 1850x1266, 2000x1191)
-Videos: 0
+Title: The bird at the center of the worst single-species mortality event in modern history isn’t recovering, scientists say
+URL: https://www.cnn.com/2024/12/26/science/alaska-heat-wave-murres-global-warming/index.html
+Date: Thu, 26 Dec 2024 15:37:46 +0000
+Word Count: 946 words
+Images: 3 (Sizes: 2000x1333, 2000x1333, 2000x1333)
+
+Category: science
+Title: Fossilized poop reveals secrets of how dinosaurs came to dominate Earth
+URL: https://www.cnn.com/2024/11/27/science/fossilized-poop-dinosaurs/index.html
+Date: Wed, 27 Nov 2024 18:16:52 +0000
+Word Count: 1090 words
+Images: 3 (Sizes: 2000x1333, 2000x3000, 2000x3000)
+
+Category: science
+Title: Scientists think they know why Stonehenge was rebuilt thousands of years ago
+URL: https://www.cnn.com/2024/12/19/science/stonehenge-monument-early-farmers/index.html
+Date: Fri, 20 Dec 2024 00:01:30 +0000
+Word Count: 1647 words
+Images: 4 (Sizes: 2968x1834, 6000x4000, 1600x1069, 1600x2133)
 
 Category: science
 Title: The comb jelly, one of the oldest animals on Earth, can fuse with another
 URL: https://www.cnn.com/2024/12/30/science/comb-jellies-fuse-single-organism/index.html
 Date: Mon, 30 Dec 2024 14:18:49 +0000
-Word Count: 932 words
-Images: 4 (Sizes: 2000x1125, 2000x1413, 1850x1233, 1850x1266)
-Videos: 0
+Word Count: 941 words
+Images: 1 (Sizes: 2000x1125)
+
+Category: science
+Title: Ancient saber-toothed predator found in Spain is the oldest of its kind
+URL: https://www.cnn.com/2024/12/19/science/gorgonopsian-fossil-mallorca-saber-tooth/index.html
+Date: Thu, 19 Dec 2024 12:51:10 +0000
+Word Count: 1028 words
+Images: 3 (Sizes: 1600x1131, 1600x1016, 1600x1200)
+
+Category: science
+Title: What is ‘Kessler Syndrome’ — and why do some scientists think the space disaster scenario has already started?
+URL: https://www.cnn.com/2024/12/27/science/space-junk-earth-kessler-syndrome/index.html
+Date: Fri, 27 Dec 2024 11:00:43 +0000
+Word Count: 2128 words
+Images: 3 (Sizes: 3000x2000, 2302x1535, 700x800)
+
+Category: science
+Title: Why scientists say we need to send clocks to the moon — soon
+URL: https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html
+Date: Thu, 30 May 2024 12:31:08 +0000
+Word Count: 2075 words
+Images: 6 (Sizes: 3000x1687, 1850x1233, 3000x3644, 1850x1234, 1850x1366, 1600x1600)
+
+Category: science
+Title: Ancient ‘terror birds’ were giant apex predators. Suspected new species is among the largest ever known
+URL: https://www.cnn.com/2024/11/08/science/terror-bird-fossil-la-venta-colombia/index.html
+Date: Fri, 08 Nov 2024 23:46:38 +0000
+Word Count: 843 words
+Images: 3 (Sizes: 2000x1333, 1600x2133, 1900x2137)
+
+Category: science
+Title: ‘Dyson spheres’ were theorized as a way to detect alien life. Scientists say they’ve found potential evidence
+URL: https://www.cnn.com/2024/06/13/science/dyson-spheres-alien-life-evidence-scn/index.html
+Date: Thu, 13 Jun 2024 11:00:27 +0000
+Word Count: 1895 words
+Images: 3 (Sizes: 5287x2974, 1850x2658, 1600x900)
+
+Category: world
+Title: Once celebrated, an inventor’s breakthroughs are now viewed as disasters — and the world is still recovering
+URL: https://www.cnn.com/2024/05/24/world/thomas-midgley-jr-leaded-gas-freon-scn/index.html
+Date: Fri, 24 May 2024 12:57:29 +0000
+Word Count: 1650 words
+Images: 5 (Sizes: 1600x900, 2440x3229, 3000x2950, 3000x1989, 3000x3868)
 
 Category: science
 Title: History-making probe achieves closest-ever approach to the sun
@@ -214,432 +167,347 @@ URL: https://www.cnn.com/2024/12/23/science/parker-solar-probe-sun-close-approac
 Date: Mon, 23 Dec 2024 15:52:02 +0000
 Word Count: 1302 words
 Images: 1 (Sizes: 3000x2000)
-Videos: 0
 
 Category: science
-Title: What is ‘Kessler Syndrome’ — and why do some scientists think the space disaster scenario has already started?
-URL: https://www.cnn.com/2024/12/27/science/space-junk-earth-kessler-syndrome/index.html
-Date: Fri, 27 Dec 2024 11:00:43 +0000
-Word Count: 2128 words
-Images: 7 (Sizes: 3000x2000, 2000x1333, 2302x1535, 910x512, 700x800, 3000x1687, 2000x1333)
-Videos: 0
+Title: ‘Bizarre’ blob-headed fish and amphibious mouse among 27 new species found in Peru
+URL: https://www.cnn.com/2024/12/20/science/blob-headed-fish-new-species-peru-intl-scli/index.html
+Date: Fri, 20 Dec 2024 15:57:40 +0000
+Word Count: 618 words
+Images: 5 (Sizes: 1600x900, 2000x1125, 2000x1333, 2000x1500, 2000x1333)
 
 Category: science
-Title: The bird at the center of the worst single-species mortality event in modern history isn’t recovering, scientists say
-URL: https://www.cnn.com/2024/12/26/science/alaska-heat-wave-murres-global-warming/index.html
-Date: Thu, 26 Dec 2024 15:37:46 +0000
-Word Count: 946 words
-Images: 6 (Sizes: 2000x1333, 2400x1595, 2000x1333, 2000x1333, 3762x2906, 2000x1277)
-Videos: 0
+Title: Grisly remains point to a bleak, ancient chapter in British history
+URL: https://www.cnn.com/2024/12/16/science/bronze-age-britain-massacre/index.html
+Date: Mon, 16 Dec 2024 23:13:43 +0000
+Word Count: 1521 words
+Images: 4 (Sizes: 1600x981, 1600x632, 1600x1776, 1600x1454)
 
 Category: science
-Title: Historical mysteries solved by science in 2024
-URL: https://www.cnn.com/2024/12/25/science/historical-figures-mysteries-2024/index.html
-Date: Wed, 25 Dec 2024 13:01:58 +0000
-Word Count: 1675 words
-Images: 8 (Sizes: 2000x1125, 1850x2312, 3000x1876, 2968x1834, 2000x1333, 1850x1289, 2000x1333, 1850x1041)
-Videos: 0
+Title: California squirrels are eating another rodent for the first time, new study finds
+URL: https://www.cnn.com/2024/12/18/science/california-squirrels-carnivorous-eating-voles/index.html
+Date: Wed, 18 Dec 2024 16:09:55 +0000
+Word Count: 863 words
+Images: 3 (Sizes: 3762x2906, 4029x2686, 3322x2215)
+
+Category: science
+Title: Cannons abandoned by doomed Spanish expedition are thought to be oldest firearms found in US
+URL: https://www.cnn.com/2024/12/18/science/oldest-firearm-cannon-scli-intl/index.html
+Date: Wed, 18 Dec 2024 15:09:24 +0000
+Word Count: 503 words
+Images: 1 (Sizes: 2000x1125)
+
+Category: science
+Title: Baby saber-toothed cat mummy found in Siberia with intact skin, fur and toes is ‘mind-blowing,’ scientists say
+URL: https://www.cnn.com/2024/11/18/science/mummified-sabre-toothed-cat-cub/index.html
+Date: Mon, 18 Nov 2024 17:45:12 +0000
+Word Count: 1004 words
+Images: 4 (Sizes: 2475x1161, 1131x1569, 2346x1646, 2008x1290)
+
+Category: science
+Title: Scientists have identified an estimated 10% of all species on Earth. Here’s what they found in 2024
+URL: https://www.cnn.com/2024/12/31/science/new-species-named-in-2024/index.html
+Date: Tue, 31 Dec 2024 14:38:02 +0000
+Word Count: 769 words
+Images: 11 (Sizes: 1600x1287, 2000x1334, 2000x1134, 1680x2000, 1850x1387, 2000x1333, 2000x3000, 2000x1500, 2000x1500, 2000x1388, 2000x1333)
+
+Category: science
+Title: How to see the Ursids, the final meteor shower that peaks in 2024
+URL: https://www.cnn.com/2024/12/21/science/ursid-meteor-shower-december-2024/index.html
+Date: Sat, 21 Dec 2024 14:00:26 +0000
+Word Count: 617 words
+Images: 1 (Sizes: 2000x1334)
 
 Category: science
 Title: Why sonic booms from the most powerful rocket ever built have some scientists worried
 URL: https://www.cnn.com/2024/12/24/science/spacex-starship-sonic-boom/index.html
 Date: Tue, 24 Dec 2024 12:40:14 +0000
 Word Count: 2428 words
-Images: 9 (Sizes: 2000x1312, 2400x1600, 3000x2000, 2000x3000, 2000x1335, 2000x1334, 2000x1333, 2000x1334, 2000x3000)
-Videos: 0
+Images: 7 (Sizes: 2000x1312, 2000x3000, 2000x1335, 2000x1334, 2000x1333, 2000x1334, 2000x3000)
 
 Category: science
-Title: ‘A sort of superpower’: Unexpected revelations made possible by AI in 2024
-URL: https://www.cnn.com/2024/12/21/science/artificial-intelligence-ai-science-2024/index.html
-Date: Sat, 21 Dec 2024 12:12:42 +0000
-Word Count: 1573 words
-Images: 8 (Sizes: 650x161, 2000x1019, 2000x3053, 2000x1291, 2000x1333, 1600x900, 1722x919, 1600x900)
-Videos: 0
+Title: Silver amulet discovered in Germany could rewrite Christian history in Europe
+URL: https://www.cnn.com/2024/12/20/science/silver-amulet-germany-christianity-scli-intl/index.html
+Date: Fri, 20 Dec 2024 13:01:32 +0000
+Word Count: 926 words
+Images: 4 (Sizes: 1600x900, 2400x1600, 1600x3220, 2400x1600)
 
-Category: science
-Title: Bronze Age mass grave reveals grisly massacre in which victims were likely eaten
-URL: https://www.cnn.com/2024/12/21/science/britain-bronze-age-killings-science-newsletter-wt/index.html
-Date: Sat, 21 Dec 2024 16:00:42 +0000
-Word Count: 813 words
-Images: 5 (Sizes: 1600x609, 1600x981, 2000x1445, 2000x1335, 1600x1131)
-Videos: 0
-
-Category: health
-Title: Bird poop may be the key to stopping the next flu pandemic. Here’s why.
-URL: https://www.cnn.com/2024/12/27/health/bird-poop-stopping-the-next-flu-pandemic/index.html
-Date: Fri, 27 Dec 2024 12:06:36 +0000
-Word Count: 2139 words
-Images: 4 (Sizes: 1920x1080, 1756x1080, 1920x1080, 1920x1080)
-Videos: 0
-
-Category: health
-Title: We ‘have our head in the sand’: Health experts warn US isn’t reacting fast enough to threat of bird flu
-URL: https://www.cnn.com/2024/12/27/health/cdc-bird-flu-virus-mutations-analysis/index.html
-Date: Fri, 27 Dec 2024 11:57:29 +0000
-Word Count: 1293 words
-Images: 1 (Sizes: 1920x1080)
-Videos: 1
-
-Category: health
-Title: US FDA proposes standardized testing to detect asbestos in talc products
-URL: https://www.cnn.com/2024/12/26/health/fda-asbestos-talc-products-reuters/index.html
-Date: Fri, 27 Dec 2024 02:20:28 +0000
-Word Count: 249 words
-Images: 1 (Sizes: 3000x2143)
-Videos: 0
-
-Category: health
-Title: An experimental drug drove people to lose 23% of their body weight. It’s still seen as a disappointment
-URL: https://www.cnn.com/2024/12/20/health/novo-nordisk-cagrisema-weight-loss/index.html
-Date: Fri, 20 Dec 2024 12:05:13 +0000
-Word Count: 1499 words
-Images: 1 (Sizes: 3000x2000)
-Videos: 0
-
-Category: health
-Title: Some patients want to take a holiday pause on diabetes or weight-loss drugs. Here’s what doctors say they need to know
-URL: https://www.cnn.com/2024/12/23/health/ozempic-holiday-pause-weight-loss-wellness/index.html
-Date: Mon, 23 Dec 2024 12:16:57 +0000
-Word Count: 1296 words
-Images: 1 (Sizes: 3000x2000)
-Videos: 1
-
-Category: health
-Title: Whooping cough cases in the US are the highest they’ve been in a decade
-URL: https://www.cnn.com/2024/12/25/health/whooping-cough-cases-surging-united-states/index.html
-Date: Wed, 25 Dec 2024 11:43:47 +0000
-Word Count: 494 words
-Images: 1 (Sizes: 2550x2310)
-Videos: 0
-
-Category: health
-Title: ‘An insatiable itch’: Why some people are turning to weight-loss medications to help quiet food noise
-URL: https://www.cnn.com/2024/12/26/health/food-noise-glp1-medications-wellness/index.html
-Date: Thu, 26 Dec 2024 11:00:43 +0000
-Word Count: 1998 words
-Images: 5 (Sizes: 3200x1800, 1158x1544, 1242x1656, 3000x4000, 1620x2139)
-Videos: 0
-
-Category: health
-Title: Got the holiday blues? You’re not alone. Here are some tips to cope
-URL: https://www.cnn.com/2024/12/25/health/video/holiday-blues-tips-cnc-cprog-digvid
-Date: Wed, 25 Dec 2024 15:24:58 +0000
+Category: sport
+Title: Vinícius Jr. exclusive: Real Madrid squad will walk off the pitch in face of racist abuse
+URL: https://www.cnn.com/2024/08/28/sport/video/vinicius-jr-racism-real-madrid-spain-spt-intl
+Date: Wed, 28 Aug 2024 11:30:21 +0000
 Word Count: 0 words
-Images: 1 (Sizes: 2500x1668)
-Videos: 1
+Images: 1 (Sizes: 2120x1413)
 
-Category: health
-Title: As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu
-URL: https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html
-Date: Tue, 31 Dec 2024 22:12:24 +0000
-Word Count: 964 words
-Images: 1 (Sizes: 3000x1998)
-Videos: 0
+Category: sport
+Title: Lewis Hamilton fulfills childhood dream, pilots fighter jet
+URL: https://www.cnn.com/2024/11/29/sport/video/hamilton-hosseini-f1-pilot-cnni-sports-fast
+Date: Fri, 29 Nov 2024 23:18:30 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1920x1080)
 
-Category: health
-Title: Norovirus cases are surging. A doctor explains what to look for
-URL: https://www.cnn.com/2024/12/31/health/norovirus-cases-increase-wellness/index.html
-Date: Tue, 31 Dec 2024 12:14:41 +0000
-Word Count: 1094 words
-Images: 7 (Sizes: 3000x2001, 3000x2000, 2500x1406, 3000x1687, 3000x1937, 2930x1953, 7360x4912)
-Videos: 0
+Category: world
+Title: The best photos from the 2024 World Series
+URL: https://www.cnn.com/2024/10/25/sport/gallery/world-series-dodgers-yankees/index.html
+Date: Sat, 26 Oct 2024 02:32:12 +0000
+Word Count: 0 words
+Images: 63 (Sizes: 2399x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2399x1600, 2352x1600, 2400x1600, 2305x1600, 2400x1600, 2400x1600, 2401x1600, 2400x1600, 2000x1333, 2000x1345, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2000x1334, 2000x1333, 2000x1333, 1600x1067, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1334, 2400x1600, 2400x1600, 2402x1600, 2400x1600, 2400x1600, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 2400x1600, 2401x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2399x1600, 3000x2000, 2957x1971, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000)
 
-Category: health
-Title: After a long lull, Covid-19 levels are surging in the US
-URL: https://www.cnn.com/2024/12/31/health/covid-holiday-surge-us/index.html
-Date: Tue, 31 Dec 2024 11:30:03 +0000
-Word Count: 829 words
-Images: 1 (Sizes: 3000x2000)
-Videos: 0
+Category: sport
+Title: Tiger Woods and son Charlie shine at PNC Championship in Woods’ return to competition
+URL: https://www.cnn.com/2024/12/21/sport/tiger-woods-son-pnc-championship-spt/index.html
+Date: Sat, 21 Dec 2024 14:23:24 +0000
+Word Count: 564 words
+Images: 2 (Sizes: 3000x2000, 3000x2000)
 
-Category: health
-Title: The ancient origins of New Year’s resolutions and how the tradition has changed
-URL: https://www.cnn.com/2024/12/31/health/new-years-resolutions-history-wellness/index.html
-Date: Tue, 31 Dec 2024 15:55:56 +0000
-Word Count: 1103 words
-Images: 5 (Sizes: 650x224, 3000x2000, 1600x900, 3000x1830, 3000x2000)
-Videos: 0
+Category: sport
+Title: How Manchester City slumped from all-conquering champion to its worst run of form in 18 years
+URL: https://www.cnn.com/2024/12/23/sport/manchester-city-aston-villa-spt-intl/index.html
+Date: Mon, 23 Dec 2024 10:05:07 +0000
+Word Count: 656 words
+Images: 2 (Sizes: 1616x1032, 2482x1652)
 
-Category: sports
-Title: Blues pile outdoor misery on Blackhawks as St. Louis beats Chicago 6-2 in NHL’s Winter Classic
-URL: https://www.cnn.com/2024/12/31/sport/blues-blackhawks-nhl-winter-classic-spt/index.html
-Date: Wed, 01 Jan 2025 03:14:39 +0000
-Word Count: 996 words
-Images: 4 (Sizes: 3000x2000, 3000x4427, 3000x1985, 3000x2000)
-Videos: 0
+Category: sport
+Title: ‘It’s a very different beast’: Rio Ferdinand calls for ‘long-term thinking’ amid turbulent times at Manchester United
+URL: https://www.cnn.com/2024/12/30/sport/rio-ferdinand-manchester-united-globe-soccer-spt/index.html
+Date: Mon, 30 Dec 2024 12:02:27 +0000
+Word Count: 1334 words
+Images: 4 (Sizes: 1920x1080, 3000x2000, 3000x2048, 1920x1080)
 
-Category: sports
-Title: 2024 NFL playoff picture: Who’s clinched and who is still fighting to reach the postseason after Week 17
-URL: https://www.cnn.com/2024/12/31/sport/nfl-playoff-picture-week-17-spt-intl/index.html
-Date: Tue, 31 Dec 2024 16:47:41 +0000
-Word Count: 930 words
-Images: 6 (Sizes: 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2184, 3000x2000)
-Videos: 0
+Category: sport
+Title: A doping free-for-all Enhanced Games calls itself the answer to doping in sports. Opponents say it poses a danger to health
+URL: https://www.cnn.com/2023/10/30/sport/enhanced-games-olympics-doping-spt-intl/index.html
+Date: Mon, 30 Oct 2023 08:43:12 +0000
+Word Count: 3315 words
+Images: 8 (Sizes: 1600x900, 1920x1080, 3000x1685, 3000x2178, 3000x2016, 3000x1851, 1920x1080, 1920x1080)
 
-Category: sports
-Title: Gabriela Dabrowski, who won an Olympic medal and the WTA Finals, reveals she played through breast cancer treatment in 2024
-URL: https://www.cnn.com/2024/12/31/sport/gabriela-dabrowski-played-through-breast-cancer-treatment-spt/index.html
-Date: Tue, 31 Dec 2024 16:33:16 +0000
-Word Count: 661 words
-Images: 3 (Sizes: 2500x1719, 2500x1664, 2500x1666)
-Videos: 0
+Category: sport
+Title: Lewandowski chimes in on former manager Guardiola’s woes
+URL: https://www.cnn.com/2024/12/17/sport/video/lewandowski-guardiola-cnni-sports-fast
+Date: Tue, 17 Dec 2024 23:46:49 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1920x1080)
 
-Category: sports
-Title: College Football Playoff: The biggest names look ahead to the quarterfinals
-URL: https://www.cnn.com/2024/12/31/sport/college-football-playoff-quarterfinals-walkup-spt-intl/index.html
-Date: Tue, 31 Dec 2024 11:39:26 +0000
-Word Count: 2135 words
-Images: 4 (Sizes: 2500x1667, 2500x1666, 2500x1667, 2500x1731)
-Videos: 0
+Category: sport
+Title: ‘Money excuse must stop’: Thibaut Courtois urges soccer to use NBA as reference point in calendar congestion crisis
+URL: https://www.cnn.com/2024/12/31/sport/thibaut-courtois-calendar-congestion-real-madrid-spt/index.html
+Date: Tue, 31 Dec 2024 15:10:26 +0000
+Word Count: 1539 words
+Images: 4 (Sizes: 1920x1080, 3000x2000, 1600x1067, 3000x2000)
 
-Category: sports
-Title: Magnus Carlsen plays in World Blitz Chess Championship after resolving jeans controversy
-URL: https://www.cnn.com/2024/12/30/sport/magnus-carlsen-rejoin-chess-championships-spt/index.html
-Date: Mon, 30 Dec 2024 11:52:19 +0000
-Word Count: 601 words
-Images: 1 (Sizes: 3000x1996)
-Videos: 0
-
-Category: sports
-Title: Detroit Lions’ Monday Night Football win sets the stage for a historic Week 18 showdown
-URL: https://www.cnn.com/2024/12/31/sport/detroit-lions-win-sets-up-historic-week-18-showdown-spt/index.html
-Date: Tue, 31 Dec 2024 06:11:14 +0000
-Word Count: 525 words
-Images: 1 (Sizes: 2000x1334)
-Videos: 0
-
-Category: sports
-Title: Five of the top viral moments in sport in 2024
-URL: https://www.cnn.com/2024/12/31/sport/sport-top-five-viral-moments-2024-spt/index.html
-Date: Tue, 31 Dec 2024 10:22:47 +0000
-Word Count: 1575 words
-Images: 5 (Sizes: 3000x2000, 3000x2000, 3000x1960, 3000x1884, 3000x1976)
-Videos: 0
-
-Category: sports
-Title: The key to getting to (or winning) the Super Bowl: the No. 1 seed
-URL: https://www.cnn.com/2024/12/30/sport/nfl-super-bowl-win-secret-no1-seed-spt/index.html
-Date: Mon, 30 Dec 2024 15:58:02 +0000
-Word Count: 1210 words
-Images: 3 (Sizes: 2500x1667, 2500x1649, 2500x1808)
-Videos: 0
-
-Category: sports
-Title: Six former Florida State players suing coach Leonard Hamilton over failed NIL payments
-URL: https://www.cnn.com/2024/12/30/sport/six-former-florida-state-players-suing-coach-leonard-hamilton-spt/index.html
-Date: Mon, 30 Dec 2024 16:16:58 +0000
-Word Count: 331 words
-Images: 1 (Sizes: 2500x1667)
-Videos: 0
-
-Category: sports
-Title: Washington Commanders safety Jeremy Reaves proposes to girlfriend after team reaches first playoff berth since 2020
-URL: https://www.cnn.com/2024/12/30/sport/jayden-daniels-commanders-falcons-spt/index.html
-Date: Mon, 30 Dec 2024 09:51:48 +0000
-Word Count: 837 words
-Images: 126 (Sizes: 2500x1667, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2174, 2000x1600, 2000x1334, 2399x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 2449x1633, 3000x2000, 3000x1999, 2545x1697, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2044, 3000x2000, 3000x1997, 2440x1627, 2399x1600, 3000x2000, 2655x1770, 3000x2000, 3000x2001, 3000x1999, 3000x2234, 4846x3231, 6536x4358, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x3584, 3000x2000, 3000x2000, 3000x3651, 2400x1600, 2239x1600, 3000x2000, 3000x2000, 2657x1771, 3000x1968, 3000x2000, 3000x2000, 2725x2717, 2777x1957, 2923x1948, 3000x2000, 3000x2000, 3000x2080, 3000x1999, 2400x1600, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x1990, 3000x2000, 3000x2000, 3000x1927, 3000x2000, 3000x2107, 3000x1964, 3000x2000, 3000x1996, 3000x2000, 3000x1997, 3000x2000, 3000x2000, 3000x2000, 2457x1638, 3000x2000, 3000x2000, 3000x2117, 3000x2000, 3000x2002, 2519x1679, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x1997, 2569x1982, 2648x1824, 3000x2000, 2632x1755, 3000x2001, 3000x2000, 3000x2000, 2926x3000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2184, 3000x2000)
-Videos: 0
-
-Category: sports
+Category: sport
 Title: Novak Djokovic: Coach Andy Murray ‘bringing a fresh look to my game’
 URL: https://www.cnn.com/2024/12/30/sport/novak-djokovic-andy-murray-coach-spt/index.html
 Date: Mon, 30 Dec 2024 11:20:31 +0000
 Word Count: 558 words
 Images: 1 (Sizes: 1600x900)
-Videos: 0
 
-Category: sports
-Title: Eagles’ Saquon Barkley reaches 2,000-yard milestone as Philadelphia clinches NFC East
-URL: https://www.cnn.com/2024/12/29/sport/philadelphia-eagles-saquon-barkley-2000-yards-milestone-spt/index.html
-Date: Sun, 29 Dec 2024 23:12:31 +0000
-Word Count: 690 words
-Images: 2 (Sizes: 3000x2000, 3000x2000)
-Videos: 0
+Category: sport
+Title: Tiger Woods to compete for first time since back surgery at PNC Championship with son
+URL: https://www.cnn.com/2024/12/10/sport/tiger-and-charlie-woods-compete-pnc-championship-spt/index.html
+Date: Wed, 11 Dec 2024 01:45:35 +0000
+Word Count: 227 words
+Images: 1 (Sizes: 1600x1138)
 
-Category: sports
-Title: Paralympic medalists receive hundreds of thousands of dollars less than Olympic medalists
-URL: https://www.cnn.com/2024/12/29/sport/paralympics-reward-disparity-olympics-2024-spt/index.html
-Date: Sun, 29 Dec 2024 09:39:28 +0000
-Word Count: 1810 words
-Images: 3 (Sizes: 3000x2000, 3000x2031, 3000x1999)
-Videos: 0
+Category: sport
+Title: Sinner & Alcaraz spearheading tennis’ charge into a new era
+URL: https://www.cnn.com/2024/11/12/sport/video/sinner-alcaraz-tennis-atp-cnni-sports-fast
+Date: Tue, 12 Nov 2024 13:17:00 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1920x1080)
 
-Category: sports
-Title: ‘Money excuse must stop’: Thibaut Courtois urges soccer to use NBA as reference point in calendar congestion crisis
-URL: https://www.cnn.com/2024/12/31/sport/thibaut-courtois-calendar-congestion-real-madrid-spt/index.html
-Date: Tue, 31 Dec 2024 15:10:26 +0000
-Word Count: 1541 words
-Images: 4 (Sizes: 1920x1080, 3000x2000, 1600x1067, 3000x2000)
-Videos: 1
+Category: sport
+Title: Lily Yohannes: The 17-year-old star of the US women’s team, by those who know her best
+URL: https://www.cnn.com/2024/12/04/sport/lily-yohannes-uswnt-teenage-star-spt-intl/index.html
+Date: Wed, 04 Dec 2024 12:00:48 +0000
+Word Count: 1665 words
+Images: 4 (Sizes: 2400x1669, 750x1334, 480x640, 2400x1518)
 
-Category: sports
-Title: ‘It’s a very different beast’: Rio Ferdinand calls for ‘long-term thinking’ amid turbulent times at Manchester United
-URL: https://www.cnn.com/2024/12/30/sport/rio-ferdinand-manchester-united-globe-soccer-spt/index.html
-Date: Mon, 30 Dec 2024 12:02:27 +0000
-Word Count: 1336 words
-Images: 4 (Sizes: 1920x1080, 3000x2000, 3000x2048, 1920x1080)
-Videos: 2
+Category: sport
+Title: ‘A whole different wiring system’: the extreme athletes who pushed limits in 2024 – and why they might not be crazy after all
+URL: https://www.cnn.com/2024/12/27/sport/extreme-athletes-achievements-2024-spt-intl/index.html
+Date: Fri, 27 Dec 2024 12:02:27 +0000
+Word Count: 1560 words
+Images: 9 (Sizes: 1600x900, 3000x1987, 3000x2000, 3000x2000, 2908x4363, 3000x2000, 3000x1935, 3000x2000, 3000x2000)
+
+Category: sport
+Title: Cristiano Ronaldo backs Manchester City and Real Madrid to return to former glory
+URL: https://www.cnn.com/2024/12/27/sport/cristiano-ronaldo-globe-soccer-manchester-city-real-madrid-spt/index.html
+Date: Fri, 27 Dec 2024 18:01:56 +0000
+Word Count: 795 words
+Images: 2 (Sizes: 1920x1080, 2400x1600)
+
+Category: sport
+Title: Jayden Daniels: The NFL’s No. 2 overall pick is showing the league that he’s much more than a consolation prize
+URL: https://www.cnn.com/2024/12/21/sport/jayden-daniels-washington-commanders-profile-spt-intl/index.html
+Date: Sat, 21 Dec 2024 17:00:43 +0000
+Word Count: 1447 words
+Images: 5 (Sizes: 1600x900, 2400x1600, 2400x1600, 2400x1600, 2400x1600)
+
+Category: sport
+Title: The best photos from the 2024 NFL season
+URL: https://www.cnn.com/2024/09/09/sport/gallery/nfl-2024-season/index.html
+Date: Mon, 09 Sep 2024 04:01:32 +0000
+Word Count: 0 words
+Images: 132 (Sizes: 3000x2000, 3000x2143, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2174, 2000x1600, 2000x1334, 2399x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 2449x1633, 3000x2000, 3000x1999, 2545x1697, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2044, 3000x2000, 3000x1997, 2440x1627, 2399x1600, 3000x2000, 2655x1770, 3000x2000, 3000x2001, 3000x1999, 3000x2234, 4846x3231, 6536x4358, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x3584, 3000x2000, 3000x2000, 3000x3651, 2400x1600, 2239x1600, 3000x2000, 3000x2000, 2657x1771, 3000x1968, 3000x2000, 3000x2000, 2725x2717, 2777x1957, 2923x1948, 3000x2000, 3000x2000, 3000x2080, 3000x1999, 2400x1600, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x1990, 3000x2000, 3000x2000, 3000x1927, 3000x2000, 3000x2107, 3000x1964, 3000x2000, 3000x1996, 3000x2000, 3000x1997, 3000x2000, 3000x2000, 3000x2000, 2457x1638, 3000x2000, 3000x2000, 3000x2117, 3000x2000, 3000x2002, 2519x1679, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x1997, 2569x1982, 2648x1824, 3000x2000, 2632x1755, 3000x2001, 3000x2000, 3000x2000, 2926x3000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2184, 3000x2000)
+
+Category: sport
+Title: Scottie Scheffler looks to put a bow on stellar year
+URL: https://www.cnn.com/2024/12/16/sport/video/scheffler-riddell-showdown-cnni-sports-fast-1216
+Date: Mon, 16 Dec 2024 23:51:50 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: sport
+Title: Why Heisman Trophy winner Travis Hunter is ‘two players in one’ and such a rare talent in college football
+URL: https://www.cnn.com/2024/12/15/sport/travis-hunter-heisman-trophy-college-football-spt-intl/index.html
+Date: Sun, 15 Dec 2024 12:41:10 +0000
+Word Count: 1374 words
+Images: 4 (Sizes: 3000x2000, 3000x2036, 3000x2222, 3000x2159)
+
+Category: sport
+Title: Saudi Arabia is trying to disrupt soccer’s world order. The reasons why might surprise you
+URL: https://www.cnn.com/2023/09/20/sport/saudi-arabia-soccer-spl-bin-salman-intl-spt-cmd-dg/index.html
+Date: Wed, 20 Sep 2023 07:33:34 +0000
+Word Count: 2764 words
+Images: 5 (Sizes: 1600x900, 2000x1333, 2000x1333, 2000x1333, 2000x1556)
+
+Category: sport
+Title: Australian tennis icon Neale Fraser dies at 91
+URL: https://www.cnn.com/2024/12/03/sport/neale-fraser-dies-australia-tennis-spt/index.html
+Date: Tue, 03 Dec 2024 12:16:46 +0000
+Word Count: 389 words
+Images: 2 (Sizes: 2000x1125, 2000x1425)
+
+Category: sport
+Title: The Showdown: Rory McIlroy and Scottie Scheffler cruise past Bryson DeChambeau and Brooks Koepka to claim $10M crypto prize
+URL: https://www.cnn.com/2024/12/18/sport/showdown-mcilroy-scheffler-pga-liv-golf-spt/index.html
+Date: Wed, 18 Dec 2024 10:46:06 +0000
+Word Count: 352 words
+Images: 1 (Sizes: 2845x1600)
+
+Category: sport
+Title: ‘Special Ks’ set to reunite for doubles at the Australian Open
+URL: https://www.cnn.com/2024/12/13/sport/nick-kyrgios-thanasi-kokkinakis-australian-open-spt-intl/index.html
+Date: Fri, 13 Dec 2024 11:08:08 +0000
+Word Count: 348 words
+Images: 1 (Sizes: 4224x2832)
+
+Category: sport
+Title: China sentences former Premier League soccer star to 20 years in prison for corruption
+URL: https://www.cnn.com/2024/12/13/sport/video/china-everton-corruption-tie-cnni-sports-fast
+Date: Fri, 13 Dec 2024 13:51:42 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: sport
+Title: ‘He’s not a dad’: Trinity Rodman on strained relationship with Dennis Rodman
+URL: https://www.cnn.com/2024/12/18/sport/video/alex-cooper-trinity-dennis-rodman-call-her-daddy-podcast-digvid
+Date: Thu, 19 Dec 2024 01:04:03 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: sport
+Title: Gabriela Dabrowski, who won an Olympic medal and the WTA Finals, reveals she played through breast cancer treatment in 2024
+URL: https://www.cnn.com/2024/12/31/sport/gabriela-dabrowski-played-through-breast-cancer-treatment-spt/index.html
+Date: Tue, 31 Dec 2024 16:33:16 +0000
+Word Count: 661 words
+Images: 3 (Sizes: 2500x1719, 2500x1664, 2500x1666)
+
+Category: sport
+Title: These athletes suffered life-changing injuries. Then, they turned to psychedelics
+URL: https://www.cnn.com/2024/02/19/sport/psilocybin-athletes-life-changing-injuries-psychedelics-spt-intl/index.html
+Date: Mon, 19 Feb 2024 09:37:19 +0000
+Word Count: 2352 words
+Images: 7 (Sizes: 1600x900, 2000x1361, 2000x1333, 2000x1331, 2000x1500, 3000x2000, 3000x2000)
+
+Category: sport
+Title: Lindsey Vonn set to return to competitive skiing
+URL: https://www.cnn.com/2024/12/19/sport/video/vonn-rebensburg-skiing-cnni-sports-fast
+Date: Thu, 19 Dec 2024 22:58:19 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: sport
+Title: These young female athletes died by suicide. They all had head injuries in common
+URL: https://www.cnn.com/2023/02/05/sport/head-injury-suicide-female-athletes-intl-spt-cmd/index.html
+Date: Mon, 06 Feb 2023 01:20:00 +0000
+Word Count: 3409 words
+Images: 10 (Sizes: 1600x900, 1600x1200, 1600x1066, 1616x1080, 1600x1067, 2000x1125, 1600x901, 2000x1125, 1600x1067, 2000x1126)
+
+Category: sport
+Title: Christmas dinner injury forces golf’s World No. 1 Scottie Scheffler to miss PGA Tour season opener
+URL: https://www.cnn.com/2024/12/27/sport/scottie-scheffler-injury-christmas-dinner-spt/index.html
+Date: Fri, 27 Dec 2024 23:07:57 +0000
+Word Count: 356 words
+Images: 2 (Sizes: 2500x1667, 3000x2000)
+
+Category: sport
+Title: South Korean Olympian Kim Yeji shoots her way to stardom
+URL: https://www.cnn.com/2024/10/11/sport/video/south-korea-yeji-olympics-cnni-sports-fast
+Date: Fri, 11 Oct 2024 12:13:14 +0000
+Word Count: 0 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: sport
+Title: From $245 million bust to Super Bowl contender again: the redemption arc of ‘Mr. Unlimited’ Russell Wilson
+URL: https://www.cnn.com/2024/12/14/sport/russell-wilson-pittsburgh-steelers-redemption-spt-intl/index.html
+Date: Sat, 14 Dec 2024 12:21:56 +0000
+Word Count: 1215 words
+Images: 5 (Sizes: 1600x900, 2000x1333, 2000x1348, 2000x1258, 2000x1333)
+
+Category: sport
+Title: Saudi Arabia officially announced as the 2034 World Cup host. Human rights groups warn of ‘unimaginable human cost’
+URL: https://www.cnn.com/2024/12/11/sport/saudi-arabia-2034-world-cup-fifa-bid-spt-intl/index.html
+Date: Wed, 11 Dec 2024 09:24:38 +0000
+Word Count: 1830 words
+Images: 4 (Sizes: 1920x1080, 2000x1299, 2000x1333, 2000x1333)
 
 Category: tech
 Title: MAGA opponents of Elon Musk claim he stripped them of their X badges
 URL: https://www.cnn.com/2024/12/27/tech/maga-musk-x-visas/index.html
 Date: Sat, 28 Dec 2024 02:03:22 +0000
 Word Count: 395 words
-Images: 5 (Sizes: 3000x2000, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 1
+Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
+
+Category: health
+Title: I don’t have diabetes, but I wore a glucose monitor for six weeks. Here’s what I learned about food (and anxiety)
+URL: https://www.cnn.com/2024/11/29/health/continuous-glucose-monitor-tirrell-wellness/index.html
+Date: Fri, 29 Nov 2024 12:00:50 +0000
+Word Count: 2176 words
+Images: 3 (Sizes: 1920x1080, 1284x1913, 3000x2001)
+
+Category: tech
+Title: Snapchat’s new AI chatbot is already raising alarms among teens and parents
+URL: https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html
+Date: Thu, 27 Apr 2023 15:43:45 +0000
+Word Count: 1147 words
+Images: 6 (Sizes: 2437x1625, 2000x1125, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
 Category: tech
 Title: AI bigwigs want to go all-in on nuclear. They also happen to be behind nuclear companies
 URL: https://www.cnn.com/2024/12/24/tech/nuclear-energy-ai-leaders/index.html
 Date: Tue, 24 Dec 2024 11:00:43 +0000
 Word Count: 1722 words
-Images: 7 (Sizes: 1600x900, 2000x1125, 2000x1333, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
+Images: 7 (Sizes: 1600x900, 2000x1125, 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
-Category: tech
-Title: FTX executives shave serious time off their sentences
-URL: https://www.cnn.com/2024/12/26/tech/ftx-ryan-salame-caroline-ellison-sentences/index.html
-Date: Thu, 26 Dec 2024 13:42:45 +0000
-Word Count: 356 words
-Images: 5 (Sizes: 1600x900, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
+Category: science
+Title: Microplastics are choking our waters. Could a sponge made of squid bones help remove them?
+URL: https://www.cnn.com/2024/12/17/science/microplastics-sponge-wuhan-china-scn-intl-hnk/index.html
+Date: Wed, 18 Dec 2024 04:00:46 +0000
+Word Count: 586 words
+Images: 2 (Sizes: 2400x1600, 2551x1600)
 
 Category: tech
 Title: Iran lifts ban on WhatsApp and Google Play, state media says
 URL: https://www.cnn.com/2024/12/24/tech/iran-lifts-ban-on-whatsapp-and-google-play-state-media-says-intl/index.html
 Date: Tue, 24 Dec 2024 17:42:48 +0000
 Word Count: 171 words
-Images: 5 (Sizes: 3000x2000, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
+Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
 Category: tech
-Title: A billion laser points helped bring Notre Dame back to life
-URL: https://www.cnn.com/2024/12/23/tech/ai-models-tech-notre-dame-cathedral/index.html
-Date: Mon, 23 Dec 2024 09:00:44 +0000
-Word Count: 884 words
-Images: 9 (Sizes: 650x161, 3000x2000, 2000x1234, 1720x1457, 2000x1333, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
-
-Category: tech
-Title: Judge rules Israeli firm NSO Group liable for damages in WhatsApp hacking case
-URL: https://www.cnn.com/2024/12/20/tech/whatsapp-nso-group-pegasus/index.html
-Date: Sat, 21 Dec 2024 03:30:31 +0000
-Word Count: 444 words
-Images: 5 (Sizes: 1600x1065, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
-
-Category: tech
-Title: We dialed 1-800-ChatGPT. Here’s what happened
-URL: https://www.cnn.com/2024/12/19/tech/openai-chatgpt-phone-call/index.html
-Date: Thu, 19 Dec 2024 10:00:44 +0000
-Word Count: 439 words
-Images: 7 (Sizes: 650x161, 1920x1080, 1920x1080, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
-
-Category: tech
-Title: Online dating is about to radically change
-URL: https://www.cnn.com/2024/12/19/tech/why-dating-may-look-radically-different-in-5-years/index.html
-Date: Thu, 19 Dec 2024 11:30:42 +0000
-Word Count: 1109 words
-Images: 8 (Sizes: 650x161, 2000x1334, 2000x1333, 2000x1334, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
-
-Category: tech
-Title: Humanoid robot that can do laundry and make coffee could be yours next year
-URL: https://www.cnn.com/2024/12/19/business/video/neo-robots-ai-coffee-digvid
-Date: Thu, 19 Dec 2024 13:15:45 +0000
-Word Count: 0 words
-Images: 2 (Sizes: 650x161, 1920x1080)
-Videos: 1
-
-Category: tech
-Title: Europe opens probe into TikTok over election interference following Romanian election
-URL: https://www.cnn.com/2024/12/17/tech/eu-tiktok-investigation-romanian-election-intl/index.html
-Date: Tue, 17 Dec 2024 12:57:36 +0000
-Word Count: 283 words
-Images: 5 (Sizes: 3000x2000, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
-
-Category: tech
-Title: Trump meets with TikTok CEO at Mar-a-Lago as company asks Supreme Court to intervene in fight over federal ban
-URL: https://www.cnn.com/2024/12/16/tech/tiktok-ceo-trump-supreme-court/index.html
-Date: Mon, 16 Dec 2024 22:14:11 +0000
-Word Count: 912 words
-Images: 5 (Sizes: 2000x1333, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
-
-Category: tech
-Title: Why the COO of one of the world’s foremost AI companies spent 50 hours interviewing for her job
-URL: https://www.cnn.com/2024/12/16/business/video/lila-ibrahim-50-hours-google-deepmind-spc
-Date: Mon, 16 Dec 2024 10:29:07 +0000
-Word Count: 0 words
-Images: 2 (Sizes: 346x80, 1920x1080)
-Videos: 1
-
-Category: tech
-Title: Want to know what’s flying overhead? There’s an app for that
-URL: https://www.cnn.com/2024/12/14/tech/aircraft-drone-identifier-apps/index.html
-Date: Sat, 14 Dec 2024 09:30:42 +0000
-Word Count: 377 words
-Images: 6 (Sizes: 650x161, 3000x1724, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
-
-Category: tech
-Title: Sony hasn’t been this hot since it made the Walkman
-URL: https://www.cnn.com/2024/12/14/tech/sony-stock-record/index.html
-Date: Sat, 14 Dec 2024 05:30:42 +0000
-Word Count: 1330 words
-Images: 13 (Sizes: 2000x1333, 1920x1280, 2000x1358, 2000x1393, 2000x1334, 2000x1269, 2000x1333, 2000x1331, 2000x1333, 1600x900, 2000x1335, 3000x2003, 1920x1080)
-Videos: 0
-
-Category: world
-Title: Nobel Peace Prize awarded to Japan’s Nihon Hidankyo for efforts to rid world of nuclear weapons
-URL: https://www.cnn.com/2024/10/11/world/nobel-peace-prize-2024-nihon-hidankyo-nuclear-free-intl/index.html
-Date: Fri, 11 Oct 2024 09:03:55 +0000
-Word Count: 953 words
-Images: 3 (Sizes: 2000x1278, 1600x1238, 2000x1333)
-Videos: 0
-
-Category: world
-Title: Thousands march in Bangladesh to mark student-led uprising that ousted Prime Minister Hasina
-URL: https://www.cnn.com/2024/12/31/asia/bangladesh-march-hasina-student-protests-intl-hnk/index.html
-Date: Wed, 01 Jan 2025 02:16:14 +0000
-Word Count: 348 words
-Images: 1 (Sizes: 3000x2001)
-Videos: 0
-
-Category: world
-Title: ‘We’re dying from the cold’: Displaced Palestinians battle winter in Gaza
-URL: https://www.cnn.com/2024/12/31/middleeast/gaza-winter-palestinians-intl-latam/index.html
-Date: Wed, 01 Jan 2025 00:43:48 +0000
-Word Count: 623 words
-Images: 2 (Sizes: 1920x1080, 3000x2000)
-Videos: 0
-
-Category: politics
-Title: Electoral College: How it’s changed this year
-URL: https://www.cnn.com/2024/12/17/politics/electoral-college-votes-what-matters/index.html
-Date: Tue, 17 Dec 2024 11:00:45 +0000
-Word Count: 1003 words
-Images: 2 (Sizes: 1436x738, 2000x1334)
-Videos: 0
-
-Category: health
-Title: Dr. Gupta counts down the top 10 health stories of 2024
-URL: https://www.cnn.com/2024/12/31/health/video/gupta-top-ten-health-stories-2024-digvid
-Date: Tue, 31 Dec 2024 16:11:23 +0000
-Word Count: 0 words
-Images: 1 (Sizes: 1920x1080)
-Videos: 1
-
-Category: health
-Title: Deck the halls (extra carefully): Common Christmas injuries, illustrated
-URL: https://www.cnn.com/2024/12/21/health/common-christmas-decoration-injuries-illustrated-dg/index.html
-Date: Sat, 21 Dec 2024 12:30:42 +0000
-Word Count: 721 words
-Images: 2 (Sizes: 1496x397, 4424x1789)
-Videos: 0
-
-
-
+Title: FTX executives shave serious time off their sentences
+URL: https://www.cnn.com/2024/12/26/tech/ftx-ryan-salame-caroline-ellison-sentences/index.html
+Date: Thu, 26 Dec 2024 13:42:45 +0000
+Word Count: 356 words
+Images: 5 (Sizes: 1600x900, 1920x1080, 780x438, 2584x1672, 3000x1980)
 
