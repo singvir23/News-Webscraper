@@ -1,4 +1,4 @@
-Total Articles: 478
+Total Articles: 542
 Category: world
 Title: Archaeologists in Denmark discover over 100 weapons from the Iron Age during excavations
 URL: https://www.foxnews.com/world/archaeologists-denmark-discover-over-100-weapons-from-iron-age-during-excavations
@@ -3348,5 +3348,453 @@ Title: American tennis star Frances Tiafoe dishes on 'crazy' hangouts with Taylo
 URL: https://www.foxnews.com/sports/american-tennis-star-frances-tiafoe-dishes-crazy-hangouts-taylor-swift-travis-kelce
 Date: Thu, 09 Jan 2025 12:31:15 -0500
 Word Count: 362 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: world
+Title: Trump issues warning to Maduro as Venezuelan leader enters third term, US expands sanctions
+URL: https://www.foxnews.com/world/trump-issues-warning-maduro-venezuelan-leader-enters-third-term-us-expands-sanctions
+Date: Fri, 10 Jan 2025 12:40:23 -0500
+Word Count: 563 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: world
+Title: Trump setting up meeting with Putin, in communication with Xi
+URL: https://www.foxnews.com/world/trump-setting-up-meeting-putin-communication-xi
+Date: Fri, 10 Jan 2025 11:04:47 -0500
+Word Count: 599 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: world
+Title: Lebanon's new president strikes a nationalistic tone amid regional shifts, further weakening of Hezbollah
+URL: https://www.foxnews.com/world/lebanons-new-president-strikes-nationalistic-tone-amid-regional-shifts-further-weakening-hezbollah
+Date: Fri, 10 Jan 2025 06:21:17 -0500
+Word Count: 995 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: world
+Title: Taiwan FM hails importance of US relationship, says group visits 'contribute to peace and stability'
+URL: https://www.foxnews.com/world/taiwan-fm-hails-importance-us-relationship-says-group-visits-contribute-peace-stability
+Date: Fri, 10 Jan 2025 06:13:37 -0500
+Word Count: 1057 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: world
+Title: Trump's victory could give boost to Brazil's Bolsonaro's re-election hopes amid court ban on him running
+URL: https://www.foxnews.com/world/trumps-victory-could-give-boost-brazils-bolsonaros-re-election-hopes-amid-court-ban-him-running
+Date: Fri, 10 Jan 2025 04:00:14 -0500
+Word Count: 972 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 2022x10)
+
+Category: world
+Title: Details of Venezuelan opposition leader's possible arrest remain unclear amid Maduro inauguration resistance
+URL: https://www.foxnews.com/world/details-venezuelan-opposition-leaders-possible-arrest-remain-unclear-maduro-inauguration-resistance
+Date: Thu, 09 Jan 2025 18:10:18 -0500
+Word Count: 979 words
+Images: 1 (Sizes: 1200x675)
+
+Category: world
+Title: Thousands of Venezuelan opposition supporters take to the streets ahead of Maduro's third inauguration
+URL: https://www.foxnews.com/world/thousands-venezuelan-opposition-supporters-take-streets-ahead-maduros-third-inauguration
+Date: Thu, 09 Jan 2025 15:54:47 -0500
+Word Count: 900 words
+Images: 1 (Sizes: 1200x675)
+
+Category: world
+Title: Poland adopts resolution protecting Netanyahu from arrest if he attends Auschwitz liberation commemoration
+URL: https://www.foxnews.com/world/poland-adopts-resolution-protecting-netanyahu-from-arrest-he-attends-auschwitz-liberation-commemoration
+Date: Thu, 09 Jan 2025 15:21:19 -0500
+Word Count: 548 words
+Images: 1 (Sizes: 1200x675)
+
+Category: world
+Title: Russia monitoring Trump’s ‘dramatic’ comments on Greenland acquisition
+URL: https://www.foxnews.com/world/russia-monitoring-trumps-dramatic-comments-greenland-acquisition
+Date: Thu, 09 Jan 2025 14:32:51 -0500
+Word Count: 690 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: world
+Title: 'Dinosaur highway' footprints dating back 166 million years discovered in England
+URL: https://www.foxnews.com/world/dinosaur-highway-footprints-dating-back-166-million-years-discovered-england
+Date: Thu, 09 Jan 2025 13:23:13 -0500
+Word Count: 455 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: world
+Title: Panama Canal CEO denies Trump claim that China in control, says end of Carter neutrality treaty means 'chaos'
+URL: https://www.foxnews.com/world/panama-canal-ceo-trump-claim-china-in-control-says-end-carter-neutrality-treaty-means-chaos
+Date: Thu, 09 Jan 2025 13:17:31 -0500
+Word Count: 710 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Deeply disgusted': GOP senator shreds Biden admin in scathing letter on new immigrant deportation shield
+URL: https://www.foxnews.com/politics/deeply-disgusted-gop-senator-shreds-biden-admin-scathing-letter-immigrant-deportation-shield
+Date: Fri, 10 Jan 2025 17:52:03 -0500
+Word Count: 821 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+
+Category: politics
+Title: LA County cut fire budget while spending heavily on DEI, woke items: 'Midnight Stroll Transgender Cafe'
+URL: https://www.foxnews.com/politics/la-county-cut-fire-budget-while-spending-heavily-dei-woke-items-midnight-stroll-transgender-cafe
+Date: Fri, 10 Jan 2025 17:48:34 -0500
+Word Count: 490 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Weaponized migration': US faces deadly consequences with Maduro in power, Venezuelan opposition warns
+URL: https://www.foxnews.com/politics/weaponized-migration-us-faces-deadly-consequences-maduro-in-power-venezuelan-opposition-warns
+Date: Fri, 10 Jan 2025 17:35:14 -0500
+Word Count: 886 words
+Images: 4 (Sizes: Unknown Size, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Biden claim about empty hydrants undermined by LA water utility's lack of common wildfire safety protocol
+URL: https://www.foxnews.com/politics/biden-claim-about-empty-hydrants-undermined-la-water-utilitys-lack-common-wildfire-safety-protocol
+Date: Fri, 10 Jan 2025 17:05:04 -0500
+Word Count: 815 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Montana AG asks Supreme Court to uphold law requiring parental consent for a minor's abortion
+URL: https://www.foxnews.com/politics/montana-ag-asks-supreme-court-uphold-law-requiring-parental-consent-minors-abortion
+Date: Fri, 10 Jan 2025 16:42:54 -0500
+Word Count: 405 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: DOGE reps launch meetings with federal staffers in effort to cut government waste: report
+URL: https://www.foxnews.com/politics/doge-reps-launch-meetings-federal-staffers-effort-cut-government-waste-report
+Date: Fri, 10 Jan 2025 16:31:48 -0500
+Word Count: 540 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Tulsi Gabbard changes tune on controversial intelligence tool following GOP lobbying
+URL: https://www.foxnews.com/politics/tulsi-gabbard-changes-tune-controversial-intelligence-tool-following-gop-lobbying
+Date: Fri, 10 Jan 2025 16:29:27 -0500
+Word Count: 774 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: NY lawmakers demand subway chief's ouster after comment dismissive of crime issue: 'In people's heads'
+URL: https://www.foxnews.com/politics/ny-lawmakers-demand-subway-chiefs-ouster-after-comment-dismissive-crime-issue-in-peoples-heads
+Date: Fri, 10 Jan 2025 15:57:52 -0500
+Word Count: 818 words
+Images: 4 (Sizes: 1200x675, 1200x675, Unknown Size, 1200x675)
+
+Category: politics
+Title: Dems eerily silent on Trump sentencing as they prepare for Republican trifecta in Washington
+URL: https://www.foxnews.com/politics/dems-eerily-silent-trump-sentencing-prepare-republican-trifecta-washington
+Date: Fri, 10 Jan 2025 15:12:11 -0500
+Word Count: 443 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Mayorkas extends deportation shield for eye-popping number of immigrants ahead of Trump admin
+URL: https://www.foxnews.com/politics/mayorkas-extends-deportation-shield-eye-popping-number-immigrants-ahead-trump-admin
+Date: Fri, 10 Jan 2025 15:01:15 -0500
+Word Count: 539 words
+Images: 3 (Sizes: 1200x675, Unknown Size, 1200x675)
+
+Category: politics
+Title: 'Delaying and obstructing': Top Senate Republican hits back as Dem calls foul on Trump confirmation hearings
+URL: https://www.foxnews.com/politics/delaying-obstructing-top-senate-republican-hits-back-dem-calls-foul-trump-confirmation-hearings
+Date: Fri, 10 Jan 2025 14:34:11 -0500
+Word Count: 714 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Anything but ordinary': Legal experts shred NY v. Trump as 'one of the worst' cases in history
+URL: https://www.foxnews.com/politics/legal-experts-shred-ny-trump-one-of-worst-cases-history
+Date: Fri, 10 Jan 2025 14:17:03 -0500
+Word Count: 1404 words
+Images: 7 (Sizes: 1200x675, Unknown Size, Unknown Size, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Trump's viral 'Gulf of America' name-change spurs a Texas-sized suggestion: Gulf of Buc-ee's
+URL: https://www.foxnews.com/politics/gulf-bucees-crenshaw-texas-sized-compromise-gulf-america-bid
+Date: Fri, 10 Jan 2025 13:55:08 -0500
+Word Count: 403 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Is now the right time ... to fight Donald Trump?': CA House speaker dodges fiery questioning from reporter
+URL: https://www.foxnews.com/politics/is-now-right-time-fight-donald-trump-ca-house-speaker-dodges-fiery-questioning-from-reporter
+Date: Fri, 10 Jan 2025 13:35:56 -0500
+Word Count: 724 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+
+Category: politics
+Title: 'Great embarrassment': Hear Trump's courtroom response to Judge Merchan's 'political witch hunt' trial
+URL: https://www.foxnews.com/politics/great-embarrassment-hear-trumps-courtroom-response-judge-merchans-political-witch-hunt-trial
+Date: Fri, 10 Jan 2025 13:09:54 -0500
+Word Count: 683 words
+Images: 3 (Sizes: Unknown Size, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Overwhelming support': Republican governors rally around Trump and DOGE ahead of inauguration
+URL: https://www.foxnews.com/politics/overwhelming-support-republican-governors-rally-around-trump-doge-ahead-of-inauguration
+Date: Fri, 10 Jan 2025 11:38:02 -0500
+Word Count: 479 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Trump faces influence test at Mar-a-Lago with warring House GOP factions: 'How do we move forward?'
+URL: https://www.foxnews.com/politics/trump-faces-influence-test-mar-a-lago-warring-house-gop-factions-move-forward
+Date: Fri, 10 Jan 2025 10:49:17 -0500
+Word Count: 836 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Republicans blast 'joke' sentencing of Trump 10 days before swearing in
+URL: https://www.foxnews.com/politics/republicans-blast-joke-sentencing-trump-10-days-before-swearing
+Date: Fri, 10 Jan 2025 10:43:18 -0500
+Word Count: 469 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Donald Trump sentenced with no penalty in New York criminal trial, as judge wishes him 'Godspeed' in 2nd term
+URL: https://www.foxnews.com/politics/donald-trump-sentenced-no-penalty-new-york-criminal-trial-judge-wishes-him-godspeed-2nd-term
+Date: Fri, 10 Jan 2025 10:17:00 -0500
+Word Count: 708 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Supreme Court appears skeptical of blocking US ban on TiKTok: What to know
+URL: https://www.foxnews.com/politics/supreme-court-appears-skeptical-blocking-u-s-ban-tiktok-what-know
+Date: Fri, 10 Jan 2025 09:50:14 -0500
+Word Count: 1120 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Devastating': California had record rainfall last year, but lacked infrastructure to store it
+URL: https://www.foxnews.com/politics/devastating-california-had-record-rainfall-last-year-lacked-infrastructure-store
+Date: Fri, 10 Jan 2025 08:42:41 -0500
+Word Count: 773 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Trump to be sentenced in New York criminal trial
+URL: https://www.foxnews.com/politics/trump-sentenced-new-york-criminal-trial
+Date: Fri, 10 Jan 2025 07:38:42 -0500
+Word Count: 474 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Vance resigns from Senate as he and Trump prepare to take office
+URL: https://www.foxnews.com/politics/vance-resigns-from-senate-he-trump-prepare-take-office
+Date: Fri, 10 Jan 2025 06:28:30 -0500
+Word Count: 363 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Supreme Court weighs TikTok ban Friday; national security, free speech arguments are considered
+URL: https://www.foxnews.com/politics/supreme-court-weighs-tiktok-ban-friday-national-security-free-speech-arguments-considered
+Date: Fri, 10 Jan 2025 04:00:34 -0500
+Word Count: 992 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Red state AGs welcome Trump crackdown on illegal immigration after four years battling Biden
+URL: https://www.foxnews.com/politics/red-state-ags-welcome-trump-crackdown-illegal-immigration-after-four-years-battling-biden
+Date: Fri, 10 Jan 2025 04:00:12 -0500
+Word Count: 584 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: ‘Rabbit fever’ cases rising in US as CDC warns of zoonotic bacterial disease
+URL: https://www.foxnews.com/health/rabbit-fever-cases-have-risen-us-cdc-warns-zoonotic-bacterial-disease
+Date: Fri, 10 Jan 2025 13:52:27 -0500
+Word Count: 554 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Words and game of Scrabble keep married couple in wedded bliss for decades
+URL: https://www.foxnews.com/health/words-game-scrabble-keep-married-couple-wedded-bliss-decades
+Date: Fri, 10 Jan 2025 10:16:19 -0500
+Word Count: 357 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Diabetes, heart disease cases skyrocket — and scientists suggest a key reason
+URL: https://www.foxnews.com/health/diabetes-heart-disease-cases-skyrocket-scientists-pinpoint-reason
+Date: Fri, 10 Jan 2025 04:30:21 -0500
+Word Count: 853 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: NFL and teams announce donation of millions to help wildfire victims in Los Angeles region
+URL: https://www.foxnews.com/sports/nfl-teams-announce-donation-millions-help-wildfire-victims-los-angeles-region
+Date: Fri, 10 Jan 2025 18:05:38 -0500
+Word Count: 584 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: NFL Draft prospect Kyren Lacy wanted for negligent homicide for alleged role in fatal hit-and-run
+URL: https://www.foxnews.com/sports/nfl-draft-prospect-kyren-lacy-wanted-negligent-homicide-over-alleged-role-fatal-hit-and-run
+Date: Fri, 10 Jan 2025 17:40:15 -0500
+Word Count: 454 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Bucs star Mike Evans receives honor from Florida Gov. Ron DeSantis
+URL: https://www.foxnews.com/sports/bucs-star-mike-evans-receives-ultimate-honor-gov-ron-desantis
+Date: Fri, 10 Jan 2025 17:27:05 -0500
+Word Count: 333 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Eagles' Jalen Hurts says he doesn't remember concussion sideline incident, amid bad year for brain injuries
+URL: https://www.foxnews.com/sports/eagles-jalen-hurts-says-he-doesnt-remember-concussion-sideline-incident-amid-bad-year-brain-injuries
+Date: Fri, 10 Jan 2025 16:48:50 -0500
+Word Count: 503 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+
+Category: sports
+Title: Rams star receiver Demarcus Robinson charged with DUI from his November arrest, days before playoff game
+URL: https://www.foxnews.com/sports/rams-star-receiver-demarcus-robinson-charged-dui-november-arrest-days-before-playoff-game
+Date: Fri, 10 Jan 2025 16:22:33 -0500
+Word Count: 333 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Yankees fans who interfered with Mookie Betts in World Series banned from MLB stadiums indefinitely: report
+URL: https://www.foxnews.com/sports/yankees-fans-who-interfered-mookie-betts-world-series-banned-from-mlb-stadiums-indefinitely-report
+Date: Fri, 10 Jan 2025 16:06:58 -0500
+Word Count: 389 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Transgender Congress member 'mystified' that GOP 'prioritizes' trans athlete bans in girls sports
+URL: https://www.foxnews.com/sports/trans-congress-member-mystified-gop-prioritizes-trans-athlete-bans-girls-sports
+Date: Fri, 10 Jan 2025 15:49:01 -0500
+Word Count: 494 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Carson Beck announces next school with 2-word message after transferring from Georgia
+URL: https://www.foxnews.com/sports/carson-beck-announces-next-school-2-word-message-after-transferring-out-georgia
+Date: Fri, 10 Jan 2025 15:03:21 -0500
+Word Count: 328 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Jerod Mayo's wife sounds off after Patriots fire husband: 'What happened to the class?'
+URL: https://www.foxnews.com/sports/jerod-mayos-wife-sounds-off-after-patriots-fire-husband-what-happened-class
+Date: Fri, 10 Jan 2025 15:00:29 -0500
+Word Count: 377 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Browns' Deshaun Watson ruptures Achilles for second time, putting 2025 season in doubt: report
+URL: https://www.foxnews.com/sports/browns-deshaun-watson-ruptures-achilles-second-time-putting-2025-season-doubt-report
+Date: Fri, 10 Jan 2025 14:48:14 -0500
+Word Count: 403 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Olympic gold medalist-turned-firefighter battles California blazes as wildfires continue to burn
+URL: https://www.foxnews.com/sports/olympic-gold-medalist-turned-firefighter-battles-california-blazes-wildfires-continue-burn
+Date: Fri, 10 Jan 2025 14:30:03 -0500
+Word Count: 352 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Giants players 'surprised' Brian Daboll was retained following woeful season: report
+URL: https://www.foxnews.com/sports/giants-players-surprised-brian-daboll-retained-following-woeful-season-report
+Date: Fri, 10 Jan 2025 12:13:36 -0500
+Word Count: 432 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Brett Favre praises Notre Dame coach Marcus Freeman for response to ESPN's 'terrible' question on race
+URL: https://www.foxnews.com/sports/brett-favre-praises-notre-dame-coach-marcus-freeman-response-espns-terrible-question-race
+Date: Fri, 10 Jan 2025 12:04:57 -0500
+Word Count: 517 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Warriors' Steve Kerr says childhood home burned down in California wildfires: 'It's surreal and devastating'
+URL: https://www.foxnews.com/sports/warriors-steve-kerr-says-childhood-home-burned-down-california-wildfires-its-surreal-devastating
+Date: Fri, 10 Jan 2025 10:42:13 -0500
+Word Count: 327 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Women’s rights groups call on Donald Trump to demand NCAA change trans athlete policies
+URL: https://www.foxnews.com/sports/womens-rights-groups-call-donald-trump-demand-ncaa-change-trans-athlete-policies
+Date: Fri, 10 Jan 2025 07:27:31 -0500
+Word Count: 595 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Riley Leonard returns from injury to lead Notre Dame to national championship game in CFP win vs Penn State
+URL: https://www.foxnews.com/sports/riley-leonard-returns-from-injury-lead-notre-dame-national-championship-game-cfp-win-vs-penn-state
+Date: Thu, 09 Jan 2025 23:26:27 -0500
+Word Count: 425 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Notre Dame forced to play backup quarterback in Orange Bowl after starter Riley Leonard leaves with injury
+URL: https://www.foxnews.com/sports/notre-dame-forced-play-backup-quarterback-orange-bowl-after-starter-riley-leonard-leaves-injury
+Date: Thu, 09 Jan 2025 21:50:38 -0500
+Word Count: 243 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: President-elect Trump says he asked Wayne Gretzky to become 'governor of Canada'
+URL: https://www.foxnews.com/sports/president-elect-trump-says-he-asked-wayne-gretzky-governor-canada
+Date: Thu, 09 Jan 2025 20:42:00 -0500
+Word Count: 362 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Vikings-Rams playoff game moved away from Los Angeles due to wildfires
+URL: https://www.foxnews.com/sports/vikings-rams-playoff-game-moved-away-from-los-angeles-due-wildfires
+Date: Thu, 09 Jan 2025 20:11:39 -0500
+Word Count: 373 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Texas' Quinn Ewers says he's focused on College Football Playoff semifinal, not personal future
+URL: https://www.foxnews.com/sports/texas-quinn-ewers-says-hes-focused-college-football-playoff-semifinal-not-personal-future
+Date: Thu, 09 Jan 2025 18:41:02 -0500
+Word Count: 395 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Mets great David Wright offers advice to Pete Alonso as the first baseman remains unsigned in free agency
+URL: https://www.foxnews.com/sports/mets-great-david-wright-offers-advice-pete-alonso-first-baseman-remains-unsigned-free-agency
+Date: Thu, 09 Jan 2025 17:35:12 -0500
+Word Count: 359 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Kelly Stafford shocked over devastation of California wildfires: ‘It doesn’t feel real’
+URL: https://www.foxnews.com/sports/kelly-stafford-shocked-over-devastation-california-wildfires-it-doesnt-feel-real
+Date: Thu, 09 Jan 2025 17:18:47 -0500
+Word Count: 293 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Georgia star Carson Beck expected to explore transfer portal: report
+URL: https://www.foxnews.com/sports/georgia-star-carson-beck-enter-transfer-portal-weeks-after-declaring-nfl-draft
+Date: Thu, 09 Jan 2025 17:18:30 -0500
+Word Count: 377 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Tim Tebow issues prayer to 'bring rain to California,' sends thoughts to locals during wildfires
+URL: https://www.foxnews.com/sports/tim-tebow-issues-prayer-bring-rain-california-sends-thoughts-locals-during-wildfires
+Date: Thu, 09 Jan 2025 17:09:32 -0500
+Word Count: 363 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Super Bowl champion Sean Landeta fumes at radio host over question about grooming habits
+URL: https://www.foxnews.com/sports/super-bowl-champion-sean-landeta-fumes-radio-host-over-question-about-grooming-habits
+Date: Thu, 09 Jan 2025 17:03:37 -0500
+Word Count: 332 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 

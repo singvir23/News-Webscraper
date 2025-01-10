@@ -1,4 +1,4 @@
-Total Articles: 135
+Total Articles: 156
 
 Category: world
 Title: New Year’s celebrations around the world
@@ -1378,3 +1378,150 @@ URL: https://www.cnn.com/2025/01/09/sport/washington-commanders-nfl-wild-card/in
 Date: Thu, 09 Jan 2025 12:00:42 +0000
 Word Count: 2983 words
 Images: 9 (Sizes: 1600x1067, 2500x1695, 2500x1667, 2321x1625, 2000x1383, 3000x2001, 3000x2151, 2400x1600, 1600x1059)
+Category: world
+Title: Venezuela’s Nicolas Maduro sworn in for third presidential term as opposition decries ‘coup’
+URL: https://www.cnn.com/2025/01/10/americas/venezuelas-nicolas-maduro-sworn-in-intl/index.html
+Date: Fri, 10 Jan 2025 14:55:16 +0000
+Word Count: 1143 words
+Images: 3 (Sizes: 2000x1333, 2000x1331, 2000x1333)
+
+Category: world
+Title: Greenland’s leader says he’s ready to talk to Trump
+URL: https://www.cnn.com/2025/01/10/americas/greenland-trump-denmark-press-conference-intl-latam/index.html
+Date: Fri, 10 Jan 2025 17:07:48 +0000
+Word Count: 236 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: world
+Title: Brazil gives Meta 72 hours to explain changes to fact-checking program
+URL: https://www.cnn.com/2025/01/10/americas/brazil-meta-fact-checking-program-intl/index.html
+Date: Fri, 10 Jan 2025 22:05:33 +0000
+Word Count: 204 words
+Images: 1 (Sizes: 2000x1207)
+
+Category: world
+Title: Iran unveils underground storage facility, claims development of ‘new special missiles’
+URL: https://www.cnn.com/2025/01/10/world/iran-underground-storage-facility-missiles-intl/index.html
+Date: Fri, 10 Jan 2025 22:59:31 +0000
+Word Count: 344 words
+Images: 1 (Sizes: 1600x900)
+
+Category: world
+Title: Israel identifies body of hostage recovered from Gaza, days after father’s remains were found
+URL: https://www.cnn.com/2025/01/10/middleeast/israel-identifies-body-of-hostage-recovered-from-gaza-intl/index.html
+Date: Fri, 10 Jan 2025 10:07:57 +0000
+Word Count: 775 words
+Images: 1 (Sizes: 890x890)
+
+Category: world
+Title: ‘Everyone was surprised by his arrival’: Former Sde Teiman detainees reject claims against Palestinian doctor
+URL: https://www.cnn.com/2025/01/10/middleeast/hussam-abu-safiya-detained-sde-teiman-intl/index.html
+Date: Fri, 10 Jan 2025 18:16:00 +0000
+Word Count: 841 words
+Images: 1 (Sizes: 3000x1688)
+
+Category: politics
+Title: Trump Organization’s new ethics plan pledges Donald Trump will separate himself from his private business interests
+URL: https://www.cnn.com/2025/01/10/politics/trump-organization-new-ethics-plan/index.html
+Date: Fri, 10 Jan 2025 20:40:28 +0000
+Word Count: 398 words
+Images: 1 (Sizes: 2400x1601)
+
+Category: politics
+Title: Supreme Court to review Obamacare’s no-cost coverage of cancer screenings, heart statins and HIV drugs
+URL: https://www.cnn.com/2025/01/10/politics/obamacare-supreme-court-hiv-prep-cancer-screening-heart-statin/index.html
+Date: Fri, 10 Jan 2025 23:10:04 +0000
+Word Count: 298 words
+Images: 1 (Sizes: 2000x1438)
+
+Category: politics
+Title: Chinese hackers breached US government office that assesses foreign investments for national security risks
+URL: https://www.cnn.com/2025/01/10/politics/chinese-hackers-breach-committee-on-foreign-investment-in-the-us/index.html
+Date: Fri, 10 Jan 2025 11:00:43 +0000
+Word Count: 738 words
+Images: 1 (Sizes: 2120x1413)
+
+Category: politics
+Title: Biden admin imposes harsh sanctions on Russian oil industry to cut off funding for Ukraine war effort
+URL: https://www.cnn.com/2025/01/10/politics/biden-admin-russia-energy-sanctions-ukraine/index.html
+Date: Fri, 10 Jan 2025 15:30:00 +0000
+Word Count: 765 words
+Images: 1 (Sizes: 2000x1331)
+
+Category: politics
+Title: Federal judge slams Rudy Giuliani as ‘outrageous and shameful’ as she holds him in contempt in 2020 election defamation case
+URL: https://www.cnn.com/2025/01/10/politics/rudy-giuliani-contempt-hearing-defamation-case/index.html
+Date: Fri, 10 Jan 2025 20:50:44 +0000
+Word Count: 683 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: Biden extends temporary deportation protections for nearly 1 million immigrants ahead of anticipated Trump crackdown
+URL: https://www.cnn.com/2025/01/10/politics/biden-extends-temporary-deportation-protections/index.html
+Date: Fri, 10 Jan 2025 20:52:00 +0000
+Word Count: 252 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: politics
+Title: Tulsi Gabbard changes tone on surveillance powers she once sought to dismantle
+URL: https://www.cnn.com/2025/01/10/politics/tulsi-gabbard-changes-tone-domestic-surveillance/index.html
+Date: Fri, 10 Jan 2025 19:21:33 +0000
+Word Count: 671 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: New intelligence suggests ‘Havana Syndrome’ possibly caused by foreign weapon; overall assessment remains ‘very unlikely’
+URL: https://www.cnn.com/2025/01/10/politics/new-evidence-havana-syndrome/index.html
+Date: Fri, 10 Jan 2025 20:53:23 +0000
+Word Count: 1153 words
+Images: 1 (Sizes: 2400x1633)
+
+Category: science
+Title: Astronomers have for decades tried to figure out how Pluto captured its largest moon. Now, there’s a new theory
+URL: https://www.cnn.com/2025/01/10/science/pluto-charon-kiss-capture-collision/index.html
+Date: Fri, 10 Jan 2025 14:16:49 +0000
+Word Count: 1239 words
+Images: 3 (Sizes: 3000x3000, 1920x1920, 2515x3366)
+
+Category: health
+Title: Avian Flu Fast Facts
+URL: https://www.cnn.com/2013/08/23/health/avian-flu-fast-facts/index.html
+Date: Fri, 23 Aug 2013 18:10:24 +0000
+Word Count: 1490 words
+Images: 1 (Sizes: 4560x3264)
+
+Category: sports
+Title: ‘It has skyrocketed’: How flag football established itself on the US sporting landscape
+URL: https://www.cnn.com/2025/01/10/sport/flag-football-big-business-spt-intl/index.html
+Date: Fri, 10 Jan 2025 10:25:03 +0000
+Word Count: 1078 words
+Images: 3 (Sizes: 3000x2000, 3000x2000, 3000x2001)
+
+Category: sports
+Title: Cavaliers win 11th consecutive game after topping the Thunder in historic NBA matchup
+URL: https://www.cnn.com/2025/01/08/sport/cavaliers-beat-thunder-historic-game-spt/index.html
+Date: Thu, 09 Jan 2025 03:50:30 +0000
+Word Count: 310 words
+Images: 3 (Sizes: 1600x1067, 1600x1067, 1600x1065)
+
+Category: sports
+Title: UK Athletics charged with manslaughter following death of Paralympian
+URL: https://www.cnn.com/2025/01/09/sport/uk-athletics-manslaughter-charge-spt-intl/index.html
+Date: Thu, 09 Jan 2025 13:18:09 +0000
+Word Count: 269 words
+Images: 1 (Sizes: 2000x3000)
+
+Category: sports
+Title: ‘I ain’t scared of … nobody’: Travis Kelce denies Chiefs intentionally lost Week 18 game to eliminate Bengals from playoffs
+URL: https://www.cnn.com/2025/01/09/sport/travis-kelce-chiefs-broncos-bengals-playoffs-spt-intl/index.html
+Date: Thu, 09 Jan 2025 10:07:34 +0000
+Word Count: 515 words
+Images: 2 (Sizes: 2000x1359, 2000x1333)
+
+Category: sports
+Title: USADA says it ‘fully supports’ US government’s decision to withhold $3.6M payment from World Anti-Doping Agency
+URL: https://www.cnn.com/2025/01/09/sport/usada-us-government-withhold-wada-payment-spt-intl/index.html
+Date: Thu, 09 Jan 2025 14:55:23 +0000
+Word Count: 482 words
+Images: 1 (Sizes: 2000x1333)
+
