@@ -1,4 +1,5 @@
-Total Articles: 156
+Total Articles: 198
+
 
 Category: world
 Title: New Year’s celebrations around the world
@@ -1524,4 +1525,298 @@ URL: https://www.cnn.com/2025/01/09/sport/usada-us-government-withhold-wada-paym
 Date: Thu, 09 Jan 2025 14:55:23 +0000
 Word Count: 482 words
 Images: 1 (Sizes: 2000x1333)
+
+Category: world
+Title: Former ‘Kiddy Kapers’ TV star died when California wildfires ripped through Malibu estate, mother says
+URL: https://www.cnn.com/2025/01/11/australia/rory-sykes-malibu-la-fires-intl-latam/index.html
+Date: Sat, 11 Jan 2025 21:47:47 +0000
+Word Count: 395 words
+Images: 1 (Sizes: 1100x969)
+
+Category: world
+Title: Netanyahu and Biden discuss progress in Gaza ceasefire-for-hostages deal talks
+URL: https://www.cnn.com/2025/01/12/middleeast/netanyahu-biden-ceasefire-hostages-talks-intl-latam/index.html
+Date: Sun, 12 Jan 2025 18:16:35 +0000
+Word Count: 797 words
+Images: 3 (Sizes: 1600x900, 2400x1600, 6000x4000)
+
+Category: world
+Title: Italy releases Iranian businessman wanted by US over drone attack that killed Americans
+URL: https://www.cnn.com/2025/01/12/europe/italy-iran-diplomacy-mohammad-abedini-intl/index.html
+Date: Sun, 12 Jan 2025 16:43:26 +0000
+Word Count: 405 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: world
+Title: ‘Cautious optimism’ as Mossad chief arrives in Qatar for ceasefire-for-hostages talks
+URL: https://www.cnn.com/2025/01/11/middleeast/israel-mossad-chief-qatar-hostage-talks-intl-latam/index.html
+Date: Sat, 11 Jan 2025 18:59:11 +0000
+Word Count: 840 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: world
+Title: Croatia’s President Milanović wins another term after defeating ruling party candidate in runoff
+URL: https://www.cnn.com/2025/01/12/europe/croatia-milanovic-wins-election-runoff-intl-latam/index.html
+Date: Sun, 12 Jan 2025 22:10:01 +0000
+Word Count: 629 words
+Images: 2 (Sizes: 3000x2000, 3000x2165)
+
+Category: world
+Title: Zelensky offers to release captured North Korean soldiers in exchange for Ukrainian soldiers held in Russia
+URL: https://www.cnn.com/2025/01/12/europe/north-korean-soldiers-interrogation-video-ukraine-intl-latam/index.html
+Date: Sun, 12 Jan 2025 21:52:37 +0000
+Word Count: 503 words
+Images: 2 (Sizes: 1920x1080, 1920x1080)
+
+Category: politics
+Title: Senate immigration bill aims to overturn Supreme Court precedent in a sea change for legal system, experts say
+URL: https://www.cnn.com/2025/01/12/politics/laken-riley-immigration-enforcement-lawsuits/index.html
+Date: Sun, 12 Jan 2025 14:00:42 +0000
+Word Count: 1080 words
+Images: 2 (Sizes: 3000x2000, 2500x1406)
+
+Category: politics
+Title: California Democrats get an early taste of new clashes with Trump as wildfires rage on
+URL: https://www.cnn.com/2025/01/12/politics/democrats-trump-clash-california-wildfires/index.html
+Date: Sun, 12 Jan 2025 21:51:24 +0000
+Word Count: 1408 words
+Images: 73 (Sizes: 3000x2000, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 1726x1150, 2400x1600, 2400x1600, 2400x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 2400x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2012, 3000x2000, 3000x2001, 2500x1668, 8032x5355, 6000x4000, 5508x3672, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 2000x1334, 6247x4165, 3000x2000, 5415x3610, 3000x2000, 3000x2001, 6000x4000, 6023x4017, 2000x1333, 1600x1067, 3000x2001, 2500x1573, 3600x2401, 2000x1462, 3000x2000, 3000x2001, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 5000x3336, 2500x3328, 3000x2001, 1600x1067, 2000x1333, 3000x2000, 2500x1667, 3000x2001, 2500x1667, 8192x5464, 2500x1667, 2500x1667, 2400x1601, 3000x2000, 2500x1667, 2500x1667, 3000x2001, 2500x1604)
+
+Category: politics
+Title: Trump’s Cabinet picks face tests of loyalty during upcoming confirmation hearings
+URL: https://www.cnn.com/2025/01/12/politics/trump-cabinet-loyalty-test-confirmation-hearings/index.html
+Date: Sun, 12 Jan 2025 09:00:42 +0000
+Word Count: 1946 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: Fiscal hawks draw red lines on Trump’s first big bill, risking GOP support
+URL: https://www.cnn.com/2025/01/12/politics/house-republican-conservatives-trump-agenda/index.html
+Date: Sun, 12 Jan 2025 08:00:42 +0000
+Word Count: 1545 words
+Images: 4 (Sizes: 2400x1601, 2400x1601, 2400x1624, 2400x1601)
+
+Category: politics
+Title: Trump border czar privately tempers Republican lawmaker expectations on administration’s initial deportation operation
+URL: https://www.cnn.com/2025/01/11/politics/trump-border-czar-tom-homan-deportations/index.html
+Date: Sat, 11 Jan 2025 18:17:24 +0000
+Word Count: 1158 words
+Images: 1 (Sizes: 3000x1687)
+
+Category: politics
+Title: More than a dozen states have passed new laws that led to restrictions on pornography. Now, the Supreme Court will weigh in
+URL: https://www.cnn.com/2025/01/11/politics/invs-porn-age-verification-laws-supreme-court/index.html
+Date: Sat, 11 Jan 2025 17:00:43 +0000
+Word Count: 2038 words
+Images: 3 (Sizes: 2000x1334, 3000x2000, 2000x1438)
+
+Category: politics
+Title: Democrats search for a leader to rebuild as the party figures out what comes next
+URL: https://www.cnn.com/2025/01/11/politics/democrats-chair-forums/index.html
+Date: Sat, 11 Jan 2025 15:00:42 +0000
+Word Count: 1520 words
+Images: 1 (Sizes: 1600x1066)
+
+Category: politics
+Title: Special counsel Jack Smith has resigned
+URL: https://www.cnn.com/2025/01/11/politics/jack-smith-resigns-special-counsel-doj/index.html
+Date: Sat, 11 Jan 2025 21:23:55 +0000
+Word Count: 828 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: science
+Title: Ice core may hold answers to mysteries of Earth’s past
+URL: https://www.cnn.com/2025/01/12/science/antarctica-ice-core-science-newsletter-wt/index.html
+Date: Sun, 12 Jan 2025 17:23:41 +0000
+Word Count: 817 words
+Images: 4 (Sizes: 2000x1498, 2000x1333, 2000x1334, 2000x1125)
+
+Category: science
+Title: Massive ice core is a ‘time machine’ that could help solve an ancient climate mystery, scientists say
+URL: https://www.cnn.com/2025/01/10/science/antarctica-deep-ice-core/index.html
+Date: Sat, 11 Jan 2025 00:09:55 +0000
+Word Count: 1403 words
+Images: 5 (Sizes: 2000x1333, 2000x1750, 2000x1498, 2000x1331, 2000x1331)
+
+Category: science
+Title: A powerful potential challenger to SpaceX’s rocket dominance is poised to launch
+URL: https://www.cnn.com/2025/01/11/science/new-glenn-launch-blue-origin/index.html
+Date: Sat, 11 Jan 2025 18:46:03 +0000
+Word Count: 916 words
+Images: 2 (Sizes: 3000x2001, 1600x2400)
+
+Category: health
+Title: What you should know about ‘whole-body’ deodorant, according to experts
+URL: https://www.cnn.com/2025/01/12/health/whole-body-deodorant-wellness/index.html
+Date: Sun, 12 Jan 2025 14:00:43 +0000
+Word Count: 912 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: health
+Title: California child is presumed positive for bird flu
+URL: https://www.cnn.com/2025/01/10/health/california-child-bird-flu/index.html
+Date: Fri, 10 Jan 2025 23:53:25 +0000
+Word Count: 316 words
+Images: 1 (Sizes: 3000x2468)
+
+Category: sports
+Title: 2024 NFL wild-card round: How to watch, schedule and preview of each game
+URL: https://www.cnn.com/2025/01/10/sport/nfl-playoffs-first-round/index.html
+Date: Fri, 10 Jan 2025 11:00:45 +0000
+Word Count: 1563 words
+Images: 7 (Sizes: 1600x900, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x1964, 3000x2001)
+
+Category: sports
+Title: New England Patriots hire former player Mike Vrabel as head coach
+URL: https://www.cnn.com/2025/01/12/sport/mike-vrabel-new-england-patriots-head-coach-spt-intl/index.html
+Date: Sun, 12 Jan 2025 16:08:12 +0000
+Word Count: 295 words
+Images: 2 (Sizes: 3000x1963, 3000x2000)
+
+Category: sports
+Title: Standout LSU wide receiver Kyren Lacy wanted by police following deadly hit-and-run crash
+URL: https://www.cnn.com/2025/01/10/sport/lsu-kyren-lacy-sought-following-deadly-hit-and-run-crash-spt/index.html
+Date: Fri, 10 Jan 2025 23:48:31 +0000
+Word Count: 390 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: sports
+Title: Gaël Monfils becomes oldest ever winner of an ATP Tour title, surpassing Roger Federer
+URL: https://www.cnn.com/2025/01/11/sport/gael-monfils-oldest-winner-atp-tour-title-spt-intl/index.html
+Date: Sat, 11 Jan 2025 10:40:45 +0000
+Word Count: 303 words
+Images: 2 (Sizes: 2115x1410, 2399x1600)
+
+Category: sports
+Title: Cleveland Browns QB Deshaun Watson tears Achilles for second time in less than three months, undergoes another surgery
+URL: https://www.cnn.com/2025/01/10/sport/deshaun-watson-tears-achilles-for-second-time-spt/index.html
+Date: Fri, 10 Jan 2025 19:44:50 +0000
+Word Count: 392 words
+Images: 1 (Sizes: 1775x1183)
+
+Category: sports
+Title: The era of the running quarterback is upon us
+URL: https://www.cnn.com/2025/01/11/sport/nfl-running-quarterback-spt-intl/index.html
+Date: Sat, 11 Jan 2025 13:00:42 +0000
+Word Count: 824 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: sports
+Title: Yankees fans who interfered with Mookie Betts during World Series banned from all MLB games
+URL: https://www.cnn.com/2025/01/11/sport/yankees-fans-mookie-betts-banned-mlb-spt-intl/index.html
+Date: Sat, 11 Jan 2025 11:09:45 +0000
+Word Count: 313 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: sports
+Title: Australian Open: Is it Coco Gauff’s time to shine Down Under?
+URL: https://www.cnn.com/2025/01/10/sport/australian-open-preview-coco-gauff-sabalenka-swiatek-spt/index.html
+Date: Fri, 10 Jan 2025 18:02:16 +0000
+Word Count: 1065 words
+Images: 4 (Sizes: 3000x2000, 2000x1333, 3000x2000, 3000x2000)
+
+Category: sports
+Title: Jack Sawyer’s epic fumble return for a touchdown seals Ohio State’s trip to the college football national championship game
+URL: https://www.cnn.com/2025/01/10/sport/ohio-state-beats-texas-cotton-bowl/index.html
+Date: Sat, 11 Jan 2025 04:46:01 +0000
+Word Count: 1483 words
+Images: 4 (Sizes: 2400x1600, 2400x1600, 2400x1600, 2400x1600)
+
+Category: world
+Title: Items belonging to second British hiker missing in Italy found, rescuers say
+URL: https://www.cnn.com/2025/01/13/europe/missing-hiker-italy-belongings-found-scli-intl/index.html
+Date: Mon, 13 Jan 2025 15:14:56 +0000
+Word Count: 239 words
+Images: 2 (Sizes: 2000x1500, 2048x1536)
+
+Category: world
+Title: US officials say Gaza ceasefire deal is in sight, the first sign of serious optimism in months
+URL: https://www.cnn.com/2025/01/13/middleeast/israel-hamas-deal-talks-intl/index.html
+Date: Mon, 13 Jan 2025 10:25:09 +0000
+Word Count: 1294 words
+Images: 1 (Sizes: 2000x1125)
+
+Category: world
+Title: Tsunami advisory lifted after 6.9 magnitude earthquake rattles southwest Japan
+URL: https://www.cnn.com/2025/01/13/asia/tsunami-advisory-earthquake-southwestern-japan-intl/index.html
+Date: Mon, 13 Jan 2025 13:04:12 +0000
+Word Count: 278 words
+Images: 0 (Sizes: )
+
+Category: world
+Title: Ukraine losing ground on the battlefield as Trump team pushes ceasefire
+URL: https://www.cnn.com/2025/01/13/europe/ukraine-russia-east-battlefield-analysis-trump-intl/index.html
+Date: Mon, 13 Jan 2025 05:00:42 +0000
+Word Count: 1229 words
+Images: 3 (Sizes: 3000x2001, 2807x1868, 3000x2000)
+
+Category: world
+Title: Top ICJ judge Nawaf Salam named Lebanon’s next prime minister
+URL: https://www.cnn.com/2025/01/13/middleeast/icj-judge-nawaf-salam-lebanon-prime-minister-intl/index.html
+Date: Mon, 13 Jan 2025 16:06:17 +0000
+Word Count: 321 words
+Images: 1 (Sizes: 2000x1125)
+
+Category: politics
+Title: American Battleground: How a single state took Harris down and raised the new era of Trump
+URL: https://www.cnn.com/2025/01/13/politics/american-battleground-trump-2024-victory/index.html
+Date: Mon, 13 Jan 2025 12:00:42 +0000
+Word Count: 2597 words
+Images: 5 (Sizes: 3333x1875, 2400x1600, 2400x1600, 8256x5504, 2843x1896)
+
+Category: politics
+Title: Judge Cannon OKs release of special counsel’s report into Trump and election subversion
+URL: https://www.cnn.com/2025/01/13/politics/special-counsel-trump-january-6-report-judge-cannon/index.html
+Date: Mon, 13 Jan 2025 17:42:21 +0000
+Word Count: 622 words
+Images: 1 (Sizes: 1600x900)
+
+Category: science
+Title: Blue Origin waves off attempt to launch its most powerful rocket yet
+URL: https://www.cnn.com/2025/01/13/science/new-glenn-blue-origin-rocket-launch-attempt/index.html
+Date: Mon, 13 Jan 2025 08:36:47 +0000
+Word Count: 420 words
+Images: 1 (Sizes: 1600x1066)
+
+Category: science
+Title: Moon rover-inspired robot could be a game-changer for Japan’s ageing farmers
+URL: https://www.cnn.com/science/japan-robot-farming-kisui-adam-spc/index.html
+Date: Mon, 13 Jan 2025 09:06:00 +0000
+Word Count: 616 words
+Images: 12 (Sizes: 1600x900, 1920x1080, 3200x2134, 4000x2664, 2272x1514, 1920x1080, 3600x2400, 2161x1441, 8640x5760, 3050x1648, 1920x1080, 1920x1080)
+
+Category: science
+Title: See the full wolf moon overtake Mars in the night sky and glimpse a planetary parade
+URL: https://www.cnn.com/2025/01/13/science/full-moon-mars-bright-planets/index.html
+Date: Mon, 13 Jan 2025 16:03:41 +0000
+Word Count: 1173 words
+Images: 2 (Sizes: 3000x1687, 3000x2000)
+
+Category: health
+Title: Doctors, nurses press ahead as wildfires strain Los Angeles’ health care
+URL: https://www.cnn.com/2025/01/13/health/health-care-strain-los-angeles-wildfires-kff/index.html
+Date: Mon, 13 Jan 2025 17:33:42 +0000
+Word Count: 996 words
+Images: 3 (Sizes: 3000x2001, 2400x1800, 2400x3200)
+
+Category: health
+Title: Dementia risk is rising in an aging US population. Cases are projected to double by 2060
+URL: https://www.cnn.com/2025/01/13/health/dementia-risk-cases-double-aging-us-population/index.html
+Date: Mon, 13 Jan 2025 16:00:42 +0000
+Word Count: 780 words
+Images: 1 (Sizes: 1600x900)
+
+Category: sports
+Title: With an old rival at his side, Novak Djokovic resumes his quest for a 25th grand slam title at the Australian Open
+URL: https://www.cnn.com/2025/01/11/sport/novak-djokovic-andy-murray-australian-open-tennis-spt-intl/index.html
+Date: Sat, 11 Jan 2025 09:18:06 +0000
+Word Count: 1172 words
+Images: 4 (Sizes: 2400x1600, 2400x1600, 2400x1600, 2404x1600)
+
+Category: sports
+Title: ‘I’ve not wept or wailed like that in several years,’ says Lakers coach JJ Redick after losing his home in the Palisades fire
+URL: https://www.cnn.com/2025/01/11/sport/jj-redick-pacific-palisades-fire-spt-intl/index.html
+Date: Sat, 11 Jan 2025 10:07:53 +0000
+Word Count: 577 words
+Images: 2 (Sizes: 2393x1600, 2400x1600)
 
