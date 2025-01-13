@@ -1,4 +1,5 @@
-Total Articles: 198
+Total Articles: 201
+
 
 
 Category: world
@@ -1819,4 +1820,25 @@ URL: https://www.cnn.com/2025/01/11/sport/jj-redick-pacific-palisades-fire-spt-i
 Date: Sat, 11 Jan 2025 10:07:53 +0000
 Word Count: 577 words
 Images: 2 (Sizes: 2393x1600, 2400x1600)
+
+Category: world
+Title: Hamas expected to release 33 hostages in first phase of emerging deal, Israeli officials say
+URL: https://www.cnn.com/2025/01/13/middleeast/hamas-33-hostages-israel-ceasefire-talks-intl-latam/index.html
+Date: Mon, 13 Jan 2025 19:19:49 +0000
+Word Count: 602 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: politics
+Title: Carrie Underwood slated to perform at Trump’s inauguration
+URL: https://www.cnn.com/2025/01/13/politics/carrie-underwood-slated-to-perform-at-trump-inauguration/index.html
+Date: Mon, 13 Jan 2025 21:21:55 +0000
+Word Count: 432 words
+Images: 1 (Sizes: 3000x2400)
+
+Category: politics
+Title: Biden offers a first draft of his foreign policy achievements
+URL: https://www.cnn.com/2025/01/13/politics/joe-biden-foreign-policy-speech/index.html
+Date: Mon, 13 Jan 2025 20:45:55 +0000
+Word Count: 647 words
+Images: 1 (Sizes: 2400x1600)
 

@@ -16,7 +16,7 @@ def get_category_from_url(url):
         return 'sports'
     return 'unknown'
 
-def get_previously_scraped_urls(filename="cnn_articles.txt"):
+def get_previously_scraped_urls(filename="./article-visualization/public/data/cnn_articles.txt"):
     """Extract all URLs that have already been scraped from the output file."""
     scraped_urls = set()
     try:
@@ -28,7 +28,7 @@ def get_previously_scraped_urls(filename="cnn_articles.txt"):
         pass
     return scraped_urls
 
-def update_total_articles(count, filename="cnn_articles.txt"):
+def update_total_articles(count, filename="./article-visualization/public/data/cnn_articles.txt"):
     """Update the total article count at the top of the file."""
     try:
         with open(filename, 'r', encoding='utf-8') as f:
@@ -134,7 +134,7 @@ def scrape_cnn_article(url, override_category=None):
         print(f"Error scraping article: {url}")
         return None
 
-def save_article_info(info, filename="cnn_articles.txt"):
+def save_article_info(info, filename="./article-visualization/public/data/cnn_articles.txt"):
     """Save the article information to a file."""
     with open(filename, 'a', encoding='utf-8') as f:
         f.write(f"Category: {info['Category']}\n")

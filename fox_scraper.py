@@ -95,7 +95,7 @@ def update_total_articles_count(filename):
     with open(filename, "w", encoding='utf-8') as file:
         file.writelines(lines)
 
-def save_article_data_to_file(articles, category, filename="fox_news_articles.txt"):
+def save_article_data_to_file(articles, category, filename="./article-visualization/public/data/fox_news_articles.txt"):
     existing_articles = set()
     if os.path.exists(filename):
         with open(filename, "r", encoding='utf-8') as file:
