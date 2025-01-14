@@ -52,7 +52,7 @@ function ChartImageSizes({ data }) {
     }
   });
 
-  // Group duplicates: same (width, height, source) => bigger bubble
+  // Group duplicates: safame (width, height, source) => bigger bubble
   const groupedPoints = groupImagePoints(allPoints);
 
   // Separate data into CNN vs FOX

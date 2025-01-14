@@ -1,4 +1,5 @@
-Total Articles: 201
+Total Articles: 226
+
 
 
 
@@ -1841,4 +1842,179 @@ URL: https://www.cnn.com/2025/01/13/politics/joe-biden-foreign-policy-speech/ind
 Date: Mon, 13 Jan 2025 20:45:55 +0000
 Word Count: 647 words
 Images: 1 (Sizes: 2400x1600)
+
+Category: world
+Title: Rescuers try to free men trapped in South African gold mine with scores reported dead
+URL: https://www.cnn.com/2025/01/14/africa/south-africa-stilfontein-mine-rescue-deaths/index.html
+Date: Tue, 14 Jan 2025 12:17:47 +0000
+Word Count: 607 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: world
+Title: Hopes rise for Gaza ceasefire and hostage release deal
+URL: https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-deal-talks-01-14-25-intl/index.html
+Date: Tue, 14 Jan 2025 08:53:36 +0000
+Word Count: 3104 words
+Images: 14 (Sizes: 1600x1067, 2000x1323, 2000x1333, 1920x1080, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1273, 2000x1333, 2000x1333, 2000x1334, 2000x1332, 2000x1334)
+
+Category: world
+Title: Putin has tested the West’s resolve over Ukraine. Will Trump force its collapse?
+URL: https://www.cnn.com/2025/01/14/europe/ukraine-trump-putin-analysis-intl/index.html
+Date: Tue, 14 Jan 2025 14:20:35 +0000
+Word Count: 1333 words
+Images: 2 (Sizes: 2000x1382, 2000x1327)
+
+Category: world
+Title: What we know about emerging Gaza ceasefire and hostage release deal
+URL: https://www.cnn.com/2025/01/14/middleeast/israel-hamas-gaza-ceasefire-hostage-deal-explainer-intl/index.html
+Date: Tue, 14 Jan 2025 14:55:13 +0000
+Word Count: 715 words
+Images: 3 (Sizes: 2000x1333, 2000x1332, 2000x1334)
+
+Category: world
+Title: Pope Francis tells in memoir how documents on abuse and corruption cases were handed to him
+URL: https://www.cnn.com/2025/01/14/europe/pope-francis-autobiography-personal-failings-intl/index.html
+Date: Tue, 14 Jan 2025 11:32:32 +0000
+Word Count: 942 words
+Images: 3 (Sizes: 2000x1333, 2000x1333, 2000x1335)
+
+Category: world
+Title: Princess of Wales says it is ‘a relief to now be in remission’ after visiting cancer hospital where she was treated
+URL: https://www.cnn.com/2025/01/14/uk/kate-princess-of-wales-hospital-visit-intl/index.html
+Date: Tue, 14 Jan 2025 16:13:37 +0000
+Word Count: 603 words
+Images: 2 (Sizes: 2000x1334, 2000x1334)
+
+Category: politics
+Title: A guide to Pete Hegseth’s confirmation hearing
+URL: https://www.cnn.com/2025/01/14/politics/hegseth-confirmation-hearing-defense-secretary/index.html
+Date: Tue, 14 Jan 2025 09:00:43 +0000
+Word Count: 2097 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: politics
+Title: Blinken offers most detailed picture to date of post-war Gaza plans
+URL: https://www.cnn.com/2025/01/14/politics/antony-blinken-post-war-gaza-plans/index.html
+Date: Tue, 14 Jan 2025 17:27:07 +0000
+Word Count: 1094 words
+Images: 1 (Sizes: 2400x1632)
+
+Category: politics
+Title: Special counsel report condemns Trump’s ‘criminal efforts to retain power’ in 2020
+URL: https://www.cnn.com/2025/01/14/politics/special-counsel-smith-report-trump-2020-election-subversion/index.html
+Date: Tue, 14 Jan 2025 05:21:59 +0000
+Word Count: 2549 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: American Battleground: As Trump plots his Day One agenda, Democrats look for a way forward
+URL: https://www.cnn.com/2025/01/14/politics/trump-day-one-agenda-democrats-path-analysis/index.html
+Date: Tue, 14 Jan 2025 12:00:43 +0000
+Word Count: 2789 words
+Images: 4 (Sizes: 3333x1875, 2000x1333, 2400x1600, 2400x1600)
+
+Category: politics
+Title: READ: Pete Hegseth’s opening statement for confirmation hearing
+URL: https://www.cnn.com/2025/01/14/politics/read-pete-hegseths-opening-statement/index.html
+Date: Tue, 14 Jan 2025 12:07:05 +0000
+Word Count: 46 words
+Images: 1 (Sizes: 2457x1600)
+
+Category: politics
+Title: Michelle Obama to skip Trump inauguration
+URL: https://www.cnn.com/2025/01/14/politics/michelle-obama-trump-inauguration/index.html
+Date: Tue, 14 Jan 2025 16:31:17 +0000
+Word Count: 338 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: Takeaways from special counsel Jack Smith’s report on January 6 and Trump’s efforts to overturn the 2020 election
+URL: https://www.cnn.com/2025/01/14/politics/takeaways-jack-smith-report-donald-trump/index.html
+Date: Tue, 14 Jan 2025 16:39:48 +0000
+Word Count: 1665 words
+Images: 1 (Sizes: 2400x1598)
+
+Category: politics
+Title: READ: Jack Smith’s report on efforts to overturn the 2020 election
+URL: https://www.cnn.com/2025/01/14/politics/read-jack-smith-report-trump-2020-election/index.html
+Date: Tue, 14 Jan 2025 10:08:32 +0000
+Word Count: 28 words
+Images: 1 (Sizes: 2399x1600)
+
+Category: science
+Title: The next leg of the new moon race is about to kick off — and it could be the most exciting yet
+URL: https://www.cnn.com/2025/01/14/science/lunar-landers-moon-missions-2025/index.html
+Date: Tue, 14 Jan 2025 05:00:42 +0000
+Word Count: 1840 words
+Images: 7 (Sizes: 2000x1333, 2000x1333, 1600x1600, 2000x1334, 2000x1333, 1600x1067, 2000x1334)
+
+Category: health
+Title: Nutrition labels may come to the front of food packages under FDA proposal
+URL: https://www.cnn.com/2025/01/14/health/nutrition-labels-fda-proposal/index.html
+Date: Tue, 14 Jan 2025 16:52:22 +0000
+Word Count: 549 words
+Images: 2 (Sizes: 2000x1334, 1020x574)
+
+Category: health
+Title: Pink flame retardants are being used to slow California fires. What do we know about them?
+URL: https://www.cnn.com/2025/01/14/health/pink-flame-retardants-california-fires/index.html
+Date: Tue, 14 Jan 2025 15:00:45 +0000
+Word Count: 701 words
+Images: 4 (Sizes: 3000x1688, 3000x2000, 3000x2000, 3000x2000)
+
+Category: sports
+Title: Rams roll to emotional victory over the Vikings to advance to divisional round showdown in Philly
+URL: https://www.cnn.com/2025/01/13/sport/nfl-rams-defeat-vikings-in-arizona-spt/index.html
+Date: Tue, 14 Jan 2025 04:30:43 +0000
+Word Count: 686 words
+Images: 4 (Sizes: 1600x1067, 1600x1066, 3000x2000, 1600x900)
+
+Category: sports
+Title: Texas man charged with stalking WNBA and Indiana Fever star Caitlin Clark
+URL: https://www.cnn.com/2025/01/13/sport/texas-man-charged-stalking-caitlin-clark-spt/index.html
+Date: Mon, 13 Jan 2025 21:57:17 +0000
+Word Count: 438 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: sports
+Title: Mike McCarthy out as head coach of the Dallas Cowboys
+URL: https://www.cnn.com/2025/01/13/sport/nfl-mike-mccarthy-dallas-cowboys-spt/index.html
+Date: Mon, 13 Jan 2025 18:42:38 +0000
+Word Count: 336 words
+Images: 1 (Sizes: 3000x1999)
+
+Category: sports
+Title: Los Angeles’ NBA teams return home hoping to provide a distraction from destructive wildfires
+URL: https://www.cnn.com/2025/01/14/sport/nba-lakers-clippers-return-home-wildfires-spt/index.html
+Date: Tue, 14 Jan 2025 06:02:47 +0000
+Word Count: 739 words
+Images: 3 (Sizes: 1600x1067, 1600x1067, 1600x1067)
+
+Category: sports
+Title: Olympic kite surfer Bruno Lobo rescues drowning woman at sea
+URL: https://www.cnn.com/2025/01/14/sport/bruno-lobo-kite-surfing-brazil-rescue-spt-intl/index.html
+Date: Tue, 14 Jan 2025 13:36:32 +0000
+Word Count: 304 words
+Images: 1 (Sizes: 2000x1125)
+
+Category: sports
+Title: With wildfire ‘three blocks away’ from her LA home, Naomi Osaka says she sent someone to get her daughter’s birth certificate
+URL: https://www.cnn.com/2025/01/13/sport/naomi-osaka-los-angeles-home-wildfires-three-blocks-away-spt/index.html
+Date: Mon, 13 Jan 2025 19:12:10 +0000
+Word Count: 695 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: sports
+Title: Coco Gauff writes message of support for Los Angeles after winning in Australian Open first round
+URL: https://www.cnn.com/2025/01/13/sport/coco-gauff-australian-open-la-wildfires-spt-intl/index.html
+Date: Mon, 13 Jan 2025 11:37:30 +0000
+Word Count: 519 words
+Images: 3 (Sizes: 2000x1330, 2000x1335, 2000x1333)
+
+Category: sports
+Title: Former UFC champion Khabib Nurmagomedov escorted off Frontier Airlines plane after exit-row dispute
+URL: https://www.cnn.com/2025/01/13/sport/khabib-nurmagomedov-frontier-airlines-plane-spt-intl/index.html
+Date: Mon, 13 Jan 2025 18:53:17 +0000
+Word Count: 597 words
+Images: 3 (Sizes: 2000x1333, 4806x3204, 4826x3166)
 
