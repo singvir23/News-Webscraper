@@ -1,4 +1,5 @@
-Total Articles: 250
+Total Articles: 268
+
 
 Category: world
 Title: New Year’s celebrations around the world
@@ -2182,4 +2183,130 @@ URL: https://www.cnn.com/2025/01/14/sport/patrick-mahomes-brittany-baby-daughter
 Date: Tue, 14 Jan 2025 10:50:15 +0000
 Word Count: 208 words
 Images: 1 (Sizes: 2000x1125)
+
+Category: world
+Title: South Korean court rejects petition to release impeached president detained over martial law
+URL: https://www.cnn.com/2025/01/16/asia/south-korea-martial-law/index.html
+Date: Thu, 16 Jan 2025 16:25:46 +0000
+Word Count: 741 words
+Images: 2 (Sizes: 1920x1080, 6000x4001)
+
+Category: world
+Title: Pope Francis injures arm after falling at the Vatican
+URL: https://www.cnn.com/2025/01/16/europe/pope-francis-injures-arm-fall-intl/index.html
+Date: Thu, 16 Jan 2025 12:26:49 +0000
+Word Count: 346 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: world
+Title: UK’s Starmer in Kyiv for security talks with a pledge for a ‘100-year partnership’ with Ukraine
+URL: https://www.cnn.com/2025/01/16/europe/uk-starmer-ukraine-zelensky-pact-intl-hnk/index.html
+Date: Thu, 16 Jan 2025 07:05:20 +0000
+Word Count: 827 words
+Images: 1 (Sizes: 1600x1066)
+
+Category: world
+Title: Woman allegedly poisoned baby and posted videos online for donations, police say
+URL: https://www.cnn.com/2025/01/16/australia/australia-woman-arrested-poisoning-child-intl-scli/index.html
+Date: Thu, 16 Jan 2025 12:25:58 +0000
+Word Count: 315 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: world
+Title: How the ‘Trump factor’ now looms over international affairs
+URL: https://www.cnn.com/2025/01/16/world/donald-trump-factor-global-politics-intl/index.html
+Date: Thu, 16 Jan 2025 15:13:09 +0000
+Word Count: 568 words
+Images: 1 (Sizes: 2000x1335)
+
+Category: politics
+Title: American Battleground: Trump’s appetite for revenge — and the limits he might face
+URL: https://www.cnn.com/2025/01/16/politics/american-battleground-trump-revenge-analysis/index.html
+Date: Thu, 16 Jan 2025 12:00:58 +0000
+Word Count: 2528 words
+Images: 4 (Sizes: 1600x900, 3000x2000, 2400x1600, 2400x1601)
+
+Category: politics
+Title: DeSantis picks state AG Ashley Moody for Senate seat set to be vacated by Rubio
+URL: https://www.cnn.com/2025/01/16/politics/ashley-moody-florida-senate-seat/index.html
+Date: Thu, 16 Jan 2025 15:41:26 +0000
+Word Count: 1192 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: Trump assembles an administration of uber-wealthy Cabinet members and advisers, sparking ethics questions
+URL: https://www.cnn.com/2025/01/16/politics/trump-wealthy-cabinet/index.html
+Date: Thu, 16 Jan 2025 10:00:57 +0000
+Word Count: 1261 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: Biden makes last big move to protect US networks from hackers from China and elsewhere
+URL: https://www.cnn.com/2025/01/16/politics/biden-cybersecurity-executive-order/index.html
+Date: Thu, 16 Jan 2025 10:30:57 +0000
+Word Count: 473 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: politics
+Title: Teacher layoffs, bigger classes: Potential federal education cuts could hit GOP’s base hardest
+URL: https://www.cnn.com/2025/01/16/politics/trump-education-funding-invs/index.html
+Date: Thu, 16 Jan 2025 11:00:57 +0000
+Word Count: 2042 words
+Images: 5 (Sizes: 1600x900, 1600x900, 1600x900, 1600x900, 1600x900)
+
+Category: science
+Title: Scientists say they are close to resurrecting a lost species. Is the age of de-extinction upon us?
+URL: https://www.cnn.com/2025/01/16/science/colossal-de-extinction-funding-resurrection-science/index.html
+Date: Thu, 16 Jan 2025 13:17:04 +0000
+Word Count: 1485 words
+Images: 3 (Sizes: 3000x2266, 3000x2000, 3000x2236)
+
+Category: science
+Title: Blue Origin launches New Glenn rocket, the company’s first SpaceX contender
+URL: https://www.cnn.com/2025/01/16/science/new-glenn-launch-blue-origin/index.html
+Date: Thu, 16 Jan 2025 07:40:14 +0000
+Word Count: 658 words
+Images: 2 (Sizes: 1920x1080, 2000x1334)
+
+Category: science
+Title: From the sex lives of pygmy seahorses to parasites living in fish nostrils: these photos tell extraordinary ocean stories
+URL: https://www.cnn.com/science/extraordinary-ocean-stories-richard-smith-c2e-spc/index.html
+Date: Thu, 16 Jan 2025 09:25:10 +0000
+Word Count: 967 words
+Images: 13 (Sizes: 2000x1328, 2000x1335, 1335x2000, 2000x1335, 2000x1328, 1328x2000, 2000x1335, 2000x1335, 2000x1387, 2000x1328, 2000x1328, 2000x1387, 2000x1328)
+
+Category: sports
+Title: Steelers head coach Mike Tomlin has ‘no response’ to questions over his job after another disappointing playoff loss
+URL: https://www.cnn.com/2025/01/15/sport/mike-tomlin-pittsburgh-steelers-future-spt-intl/index.html
+Date: Wed, 15 Jan 2025 11:37:40 +0000
+Word Count: 415 words
+Images: 2 (Sizes: 2000x1332, 2000x1334)
+
+Category: sports
+Title: Man accused of stalking Caitlin Clark proclaims himself ‘guilty as charged’ in first court appearance
+URL: https://www.cnn.com/2025/01/15/sport/caitlin-clark-stalking-charge-spt-intl/index.html
+Date: Wed, 15 Jan 2025 11:05:19 +0000
+Word Count: 469 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: sports
+Title: 2024 NFL divisional round: How to watch, full schedule and everything you need to know about each game
+URL: https://www.cnn.com/2025/01/16/sport/nfl-divisional-round-preview-spt-intl/index.html
+Date: Thu, 16 Jan 2025 11:18:46 +0000
+Word Count: 1784 words
+Images: 136 (Sizes: 1600x900, 3000x2000, 2000x3000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 2400x1600, 3000x2000, 3000x2143, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2174, 2000x1600, 2000x1334, 2399x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 2449x1633, 3000x2000, 3000x1999, 2545x1697, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2044, 2440x1627, 3000x1997, 3000x2000, 2655x1770, 3000x2000, 3000x2001, 3000x1999, 3000x2234, 4846x3231, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x3584, 3000x2000, 3000x2000, 3000x3651, 2400x1600, 2239x1600, 3000x2000, 3000x2000, 2657x1771, 3000x1968, 3000x2000, 2725x2717, 2923x1948, 3000x2080, 3000x2000, 3000x2000, 2400x1600, 3000x2001, 3000x2000, 3000x2000, 3000x1990, 3000x2000, 3000x1927, 3000x2000, 3000x2107, 3000x1964, 3000x2000, 3000x2000, 3000x1997, 3000x2000, 3000x2000, 3000x2000, 2457x1638, 3000x2000, 3000x2000, 3000x2117, 3000x2000, 3000x2002, 2519x1679, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x1997, 2569x1982, 2648x1824, 3000x2000, 2632x1755, 3000x2001, 3000x2000, 3000x2000, 2926x3000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2184, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 2915x1944, 3000x2000)
+
+Category: sports
+Title: Australian Open: Last year’s finalist Zheng Qinwen stunned in biggest upset so far
+URL: https://www.cnn.com/2025/01/15/sport/australian-open-qinwen-zheng-laura-siegemund-spt-intl/index.html
+Date: Wed, 15 Jan 2025 11:20:19 +0000
+Word Count: 513 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: sports
+Title: Tyson Fury announced he’s retiring from boxing. Not everyone believes him
+URL: https://www.cnn.com/2025/01/14/sport/tyson-fury-retirement-heavyweight-boxing-future-spt-intl/index.html
+Date: Tue, 14 Jan 2025 13:28:21 +0000
+Word Count: 735 words
+Images: 3 (Sizes: 2000x1125, 2000x1283, 2000x1334)
 
