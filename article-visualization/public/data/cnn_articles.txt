@@ -1,7 +1,4 @@
-Total Articles: 226
-
-
-
+Total Articles: 250
 
 Category: world
 Title: New Year’s celebrations around the world
@@ -2017,4 +2014,172 @@ URL: https://www.cnn.com/2025/01/13/sport/khabib-nurmagomedov-frontier-airlines-
 Date: Mon, 13 Jan 2025 18:53:17 +0000
 Word Count: 597 words
 Images: 3 (Sizes: 2000x1333, 4806x3204, 4826x3166)
+
+Category: world
+Title: India achieves first space docking, becoming fourth country to achieve major milestone
+URL: https://www.cnn.com/2025/01/15/india/india-space-docking-attempt-intl-hnk/index.html
+Date: Thu, 16 Jan 2025 04:54:17 +0000
+Word Count: 598 words
+Images: 1 (Sizes: 2000x1331)
+
+Category: world
+Title: Voting begins in quake-ravaged Pacific nation of Vanuatu
+URL: https://www.cnn.com/2025/01/15/world/vanuatu-election-voting-begins-intl-hnk/index.html
+Date: Thu, 16 Jan 2025 04:30:57 +0000
+Word Count: 228 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: world
+Title: South Korean president arrested by anti-corruption investigators after weekslong showdown
+URL: https://www.cnn.com/2025/01/14/asia/south-korea-yoon-suk-yeol-residence-intl/index.html
+Date: Tue, 14 Jan 2025 20:13:18 +0000
+Word Count: 993 words
+Images: 3 (Sizes: 1920x1080, 2000x1333, 2000x1333)
+
+Category: world
+Title: January 15, 2025 Gaza ceasefire deal news
+URL: https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-hostages-01-15-24/index.html
+Date: Wed, 15 Jan 2025 05:01:48 +0000
+Word Count: 11075 words
+Images: 48 (Sizes: 3000x2000, 1600x1065, 2000x1321, 1920x1080, 2400x1641, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 1600x900, 1600x900, 1600x900, 1920x1080, 1920x1080, 1600x1067, 1600x900, 2000x1333, 2000x1333, 2000x1333, 1920x1080, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1500, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 1920x1080, 2000x1290, 2000x1333, 2000x1333, 1600x899, 3000x2250, 700x700, 2000x1333, 2000x1333, 2000x1333, 2000x1318, 2000x1333, 2000x1304, 1920x1080, 1600x900, 1600x1069, 1600x1065, 2000x1125, 3000x2000)
+
+Category: world
+Title: Israel and Hamas agree to Gaza ceasefire and hostage deal
+URL: https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-hostages-01-16-24/index.html
+Date: Thu, 16 Jan 2025 05:00:13 +0000
+Word Count: 1152 words
+Images: 11 (Sizes: 3000x2000, 1600x1065, 2000x1321, 1920x1080, 1600x1067, 2000x1333, 2000x1333, 2000x1333, 3000x2085, 1600x1067, 1600x1067)
+
+Category: politics
+Title: How the Biden and Trump teams worked together to get the Gaza ceasefire and hostages deal done
+URL: https://www.cnn.com/2025/01/15/politics/biden-trump-gaza-ceasefire-deal/index.html
+Date: Wed, 15 Jan 2025 22:49:48 +0000
+Word Count: 1241 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: politics
+Title: Takeaways from the second day of Trump Cabinet confirmation hearings
+URL: https://www.cnn.com/2025/01/15/politics/takeaways-rubio-bondi-confirmation-hearings/index.html
+Date: Wed, 15 Jan 2025 18:23:03 +0000
+Word Count: 2201 words
+Images: 4 (Sizes: 1920x1080, 2400x1600, 2400x1600, 2400x1600)
+
+Category: politics
+Title: Jill Biden expresses disappointment with Pelosi: ‘We were friends for 50 years’
+URL: https://www.cnn.com/2025/01/15/politics/jill-biden-nancy-pelosi/index.html
+Date: Wed, 15 Jan 2025 15:53:21 +0000
+Word Count: 709 words
+Images: 3 (Sizes: 3000x2000, 1600x900, 1920x1080)
+
+Category: politics
+Title: Takeaways from the Supreme Court arguments on Texas’ age-verification law for porn sites
+URL: https://www.cnn.com/2025/01/15/politics/takeaways-supreme-court-texas-porn/index.html
+Date: Wed, 15 Jan 2025 20:11:00 +0000
+Word Count: 1162 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: Johnson removes Republican chair of House Intelligence Committee
+URL: https://www.cnn.com/2025/01/15/politics/house-intelligence-committee-chair-removed-turner-johnson/index.html
+Date: Thu, 16 Jan 2025 01:18:20 +0000
+Word Count: 573 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: politics
+Title: Key lines from President Joe Biden’s farewell address
+URL: https://www.cnn.com/2025/01/15/politics/key-lines-from-president-joe-bidens-farewell-address/index.html
+Date: Thu, 16 Jan 2025 02:09:30 +0000
+Word Count: 1486 words
+Images: 5 (Sizes: 3000x2085, 3000x2001, 1600x968, 3000x2000, 3000x2000)
+
+Category: politics
+Title: Trump offers encouragement to Ramaswamy as Ohio governor weighs Senate vacancy
+URL: https://www.cnn.com/2025/01/15/politics/ramaswamy-trump-ohio-senate-seat-dewine/index.html
+Date: Wed, 15 Jan 2025 21:17:18 +0000
+Word Count: 538 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: science
+Title: SpaceX set to launch one of its most ambitious Starship test flights yet
+URL: https://www.cnn.com/2025/01/15/science/spacex-starship-test-launch-megarocket/index.html
+Date: Wed, 15 Jan 2025 14:03:14 +0000
+Word Count: 1352 words
+Images: 3 (Sizes: 2000x1334, 2000x1333, 2000x3000)
+
+Category: science
+Title: SpaceX launches two moon missions in one fell swoop
+URL: https://www.cnn.com/2025/01/14/science/nasa-launch-firefly-ispace-moon-landing/index.html
+Date: Tue, 14 Jan 2025 22:10:05 +0000
+Word Count: 1351 words
+Images: 7 (Sizes: 2844x1600, 1600x1101, 2000x1333, 2844x1600, 1600x1600, 2000x1635, 1650x1100)
+
+Category: health
+Title: Biden administration moves to limit nicotine in cigarettes and certain other tobacco products
+URL: https://www.cnn.com/2025/01/15/health/nicotine-limits-cigarettes-tobacco-fda/index.html
+Date: Wed, 15 Jan 2025 14:37:56 +0000
+Word Count: 997 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: health
+Title: FDA bans red dye No. 3 from food, drinks and ingested drugs in the US
+URL: https://www.cnn.com/2025/01/15/health/red-dye-no-3-ban-fda-wellness/index.html
+Date: Wed, 15 Jan 2025 15:06:32 +0000
+Word Count: 1489 words
+Images: 2 (Sizes: 1920x1080, 1600x1202)
+
+Category: health
+Title: Keep your red meat to these limits to protect your brain health, experts say
+URL: https://www.cnn.com/2025/01/15/health/red-meat-dementia-wellness/index.html
+Date: Wed, 15 Jan 2025 21:00:42 +0000
+Word Count: 784 words
+Images: 2 (Sizes: 1920x1080, 2844x1600)
+
+Category: health
+Title: USDA documented insects and slime at Boar’s Head plants, records show
+URL: https://www.cnn.com/2025/01/14/health/insects-slime-records-boars-head-plants/index.html
+Date: Tue, 14 Jan 2025 19:44:08 +0000
+Word Count: 747 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: sports
+Title: The Los Angeles Rams’ poignant win and 5 other takeaways from the wild-card round of the NFL playoffs
+URL: https://www.cnn.com/2025/01/12/sport/nfl-wild-card-round-takeaways-spt/index.html
+Date: Sun, 12 Jan 2025 21:15:49 +0000
+Word Count: 2390 words
+Images: 8 (Sizes: 1600x1067, 1600x1066, 3000x1915, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000)
+
+Category: sports
+Title: Tennis star Daniil Medvedev destroys a camera in outburst during tough Australian Open victory
+URL: https://www.cnn.com/2025/01/14/sport/daniil-medvedev-destroys-camera-australian-open-spt-intl/index.html
+Date: Tue, 14 Jan 2025 10:39:14 +0000
+Word Count: 314 words
+Images: 1 (Sizes: 2000x1125)
+
+Category: sports
+Title: Tiger Woods’ son Charlie chuckles while watching his dad suffer heavy defeat in TGL debut
+URL: https://www.cnn.com/2025/01/15/sport/tiger-woods-son-charlie-tgl-debut-spt-intl/index.html
+Date: Wed, 15 Jan 2025 10:19:19 +0000
+Word Count: 478 words
+Images: 2 (Sizes: 2000x1333, 2000x1334)
+
+Category: sports
+Title: Lebanon’s Hady Habib enjoys ‘biggest achievement’ of tennis career after making history at the Australian Open
+URL: https://www.cnn.com/2025/01/14/sport/hady-habib-lebanon-history-australian-open-spt-intl/index.html
+Date: Tue, 14 Jan 2025 12:32:57 +0000
+Word Count: 444 words
+Images: 2 (Sizes: 2000x1333, 3453x2302)
+
+Category: sports
+Title: A star NFL player was seen reading a self-help book during a playoff game. It’s now the top-selling book on Amazon
+URL: https://www.cnn.com/2025/01/13/sport/aj-brown-reading-book-cec-spt/index.html
+Date: Mon, 13 Jan 2025 22:26:57 +0000
+Word Count: 576 words
+Images: 2 (Sizes: 1920x1080, 2000x1333)
+
+Category: sports
+Title: Kansas City Chiefs quarterback Patrick Mahomes and wife Brittany welcome baby No. 3
+URL: https://www.cnn.com/2025/01/14/sport/patrick-mahomes-brittany-baby-daughter-intl-spt/index.html
+Date: Tue, 14 Jan 2025 10:50:15 +0000
+Word Count: 208 words
+Images: 1 (Sizes: 2000x1125)
 
