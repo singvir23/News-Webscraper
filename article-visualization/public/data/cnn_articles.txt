@@ -1,4 +1,5 @@
-Total Articles: 268
+Total Articles: 303
+
 
 
 Category: world
@@ -2309,4 +2310,249 @@ URL: https://www.cnn.com/2025/01/14/sport/tyson-fury-retirement-heavyweight-boxi
 Date: Tue, 14 Jan 2025 13:28:21 +0000
 Word Count: 735 words
 Images: 3 (Sizes: 2000x1125, 2000x1283, 2000x1334)
+
+Category: world
+Title: South Korean court extends President Yoon’s detention, angering supporters
+URL: https://www.cnn.com/2025/01/18/asia/south-korea-court-extends-yoon-detention-intl-latam/index.html
+Date: Sat, 18 Jan 2025 18:53:50 +0000
+Word Count: 335 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: world
+Title: Gaza ceasefire to begin Sunday after Israel approves deal in marathon cabinet meeting
+URL: https://www.cnn.com/world/live-news/israel-hamas-ceasefire-war-palestine-01-18-25/index.html
+Date: Sat, 18 Jan 2025 08:54:03 +0000
+Word Count: 3594 words
+Images: 12 (Sizes: 1920x1080, 2400x1705, 3000x2000, 3000x2000, 3000x1997, 3000x2000, 1920x1080, 1920x1080, 1600x1067, 3000x2000, 3000x2000, 2000x1333)
+
+Category: world
+Title: Brazil’s Bolsonaro frustrated after court blocks attendance at Trump’s inauguration
+URL: https://www.cnn.com/2025/01/18/americas/brazil-bolsonaro-travel-ban-trump-intl-latam/index.html
+Date: Sat, 18 Jan 2025 21:01:53 +0000
+Word Count: 218 words
+Images: 1 (Sizes: 2854x1903)
+
+Category: world
+Title: Ski lift at Spanish resort collapses, injuring dozens
+URL: https://www.cnn.com/2025/01/18/europe/spain-ski-lift-collapse-atsun-intl/index.html
+Date: Sat, 18 Jan 2025 16:31:05 +0000
+Word Count: 257 words
+Images: 2 (Sizes: 3000x2000, 3000x2000)
+
+Category: world
+Title: Gaza ceasefire-hostage deal to begin Sunday, bringing rare halt to months of fighting
+URL: https://www.cnn.com/2025/01/18/middleeast/israel-approves-ceasefire-hostage-deal-intl-hnk/index.html
+Date: Sat, 18 Jan 2025 06:50:12 +0000
+Word Count: 912 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: world
+Title: Two high-profile Iranian judges killed in Tehran in what officials call a ‘planned assassination’
+URL: https://www.cnn.com/2025/01/18/middleeast/iranian-judges-killed-in-tehran-intl/index.html
+Date: Sat, 18 Jan 2025 13:36:26 +0000
+Word Count: 277 words
+Images: 1 (Sizes: 1928x1286)
+
+Category: politics
+Title: DeWine names Ohio Lt. Gov. Jon Husted to fill Senate seat vacated by Vance
+URL: https://www.cnn.com/2025/01/17/politics/jon-husted-ohio-senate-seat/index.html
+Date: Fri, 17 Jan 2025 16:49:20 +0000
+Word Count: 1253 words
+Images: 1 (Sizes: 2400x1602)
+
+Category: politics
+Title: Trump says mass deportations will happen quickly, stresses importance of Israel-Hamas deal in wide-ranging NBC News interview
+URL: https://www.cnn.com/2025/01/18/politics/trump-interview-first-week-priorities/index.html
+Date: Sat, 18 Jan 2025 21:02:02 +0000
+Word Count: 982 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: As Democrats prepare for a second Trump term, some look for common ground
+URL: https://www.cnn.com/2025/01/18/politics/democrats-trump-compromise/index.html
+Date: Sat, 18 Jan 2025 17:00:57 +0000
+Word Count: 1173 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: politics
+Title: Since Donald Trump last entered the White House, the Supreme Court created a more powerful president
+URL: https://www.cnn.com/2025/01/18/politics/trump-relationship-with-supreme-court-second-term/index.html
+Date: Sat, 18 Jan 2025 09:00:57 +0000
+Word Count: 1791 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: politics
+Title: Trump’s inauguration to be moved indoors
+URL: https://www.cnn.com/2025/01/17/politics/inauguration-moving-indoors-cold-weather/index.html
+Date: Fri, 17 Jan 2025 16:31:31 +0000
+Word Count: 996 words
+Images: 1 (Sizes: 4953x3302)
+
+Category: politics
+Title: Biden leaves office nostalgic about five-decade career, and frustrated by how it ended
+URL: https://www.cnn.com/2025/01/18/politics/president-joe-biden-legacy-kamala-harris/index.html
+Date: Sat, 18 Jan 2025 12:00:57 +0000
+Word Count: 1833 words
+Images: 3 (Sizes: 3000x2000, 3000x2000, 3000x2038)
+
+Category: politics
+Title: House conservative defies Johnson over remote voting for new moms in Congress
+URL: https://www.cnn.com/2025/01/18/politics/house-remote-voting-new-moms-congress/index.html
+Date: Sat, 18 Jan 2025 13:01:01 +0000
+Word Count: 1398 words
+Images: 3 (Sizes: 2000x1334, 2000x1332, 2000x1333)
+
+Category: politics
+Title: TikTok says it will go dark on Sunday unless Biden intervenes ‘immediately’
+URL: https://www.cnn.com/2025/01/17/politics/tiktok-ban-supreme-court/index.html
+Date: Fri, 17 Jan 2025 15:02:43 +0000
+Word Count: 1836 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: science
+Title: Regulators are investigating reports of property damage from SpaceX Starship’s explosion
+URL: https://www.cnn.com/2025/01/17/science/spacex-starship-explosion-investigation/index.html
+Date: Fri, 17 Jan 2025 19:32:48 +0000
+Word Count: 1625 words
+Images: 2 (Sizes: 1600x900, 2000x1333)
+
+Category: science
+Title: New missions are carrying innovative technology, and a little red house, to the moon
+URL: https://www.cnn.com/2025/01/18/science/lunar-landers-science-newsletter-wt/index.html
+Date: Sat, 18 Jan 2025 16:00:57 +0000
+Word Count: 853 words
+Images: 4 (Sizes: 2000x1333, 2000x1333, 2000x1328, 3000x2266)
+
+Category: science
+Title: How a little-known 18th century instrument maker may have inspired the first clinical trial of the modern age
+URL: https://www.cnn.com/2025/01/18/science/first-clinical-trial-lessons/index.html
+Date: Sat, 18 Jan 2025 13:00:59 +0000
+Word Count: 1542 words
+Images: 2 (Sizes: 2000x1777, 1600x2825)
+
+Category: science
+Title: Scientists say they found oxygen where it shouldn’t be. Now, the hunt is on for more answers
+URL: https://www.cnn.com/2025/01/17/science/dark-oxygen-research/index.html
+Date: Sat, 18 Jan 2025 00:02:48 +0000
+Word Count: 1249 words
+Images: 3 (Sizes: 2000x1500, 2000x1333, 2000x1331)
+
+Category: science
+Title: Giant ‘Darth Vader’ sea bug discovered off the coast of Vietnam
+URL: https://www.cnn.com/2025/01/17/science/giant-sea-bug-darth-vader-vietnam/index.html
+Date: Fri, 17 Jan 2025 14:27:47 +0000
+Word Count: 734 words
+Images: 4 (Sizes: 1920x1080, 2000x3000, 2000x1219, 1600x2133)
+
+Category: health
+Title: This disease is known as the ‘silent killer.’ A doctor explains why
+URL: https://www.cnn.com/2025/01/17/health/chronic-disease-hypertension-diabetes-wellness/index.html
+Date: Fri, 17 Jan 2025 17:16:04 +0000
+Word Count: 1244 words
+Images: 2 (Sizes: 1920x1080, 2000x1334)
+
+Category: health
+Title: Wildfires can contaminate drinking water systems with harmful chemicals − here’s what Los Angeles needs to know
+URL: https://www.cnn.com/2025/01/17/health/los-angeles-wildfires-water-systems-conversation-partner/index.html
+Date: Fri, 17 Jan 2025 11:00:59 +0000
+Word Count: 744 words
+Images: 2 (Sizes: 2399x1600, 2400x1600)
+
+Category: health
+Title: As the LA wildfires have shown, people with disabilities often have to fend for themselves
+URL: https://www.cnn.com/2025/01/18/health/disability-la-fire-evacuations-wellness/index.html
+Date: Sat, 18 Jan 2025 14:00:57 +0000
+Word Count: 1539 words
+Images: 4 (Sizes: 2500x1573, 1097x1345, 3000x2000, 3000x2250)
+
+Category: health
+Title: Norovirus outbreak reported at shelter for California wildfire evacuees
+URL: https://www.cnn.com/2025/01/17/health/california-wildfire-evacuees-norovirus-outbreak/index.html
+Date: Fri, 17 Jan 2025 22:46:51 +0000
+Word Count: 553 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: health
+Title: HHS invests nearly $600 million in Moderna’s bird flu vaccine development
+URL: https://www.cnn.com/2025/01/17/health/bird-flu-vaccine-funding-hhs-moderna/index.html
+Date: Fri, 17 Jan 2025 22:08:11 +0000
+Word Count: 396 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: health
+Title: FDA OKs sales of Zyn nicotine pouches, citing health benefits for adult smokers
+URL: https://www.cnn.com/2025/01/16/health/zyn-pouches-fda/index.html
+Date: Thu, 16 Jan 2025 20:28:41 +0000
+Word Count: 575 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: sports
+Title: This NFL kicker went viral for his routine before a game-winning kick in the playoffs. His OCD makes his job even tougher
+URL: https://www.cnn.com/2025/01/18/sport/zane-gonzalez-washington-commanders-ocd-kicker-spt-intl/index.html
+Date: Sat, 18 Jan 2025 16:24:01 +0000
+Word Count: 778 words
+Images: 3 (Sizes: 3000x2000, 3000x2000, 3000x2000)
+
+Category: sports
+Title: Conor McGregor accused of sexual battery during NBA game in new civil lawsuit
+URL: https://www.cnn.com/2025/01/16/sport/conor-mcgregor-sexual-battery-civil-lawsuit-spt-intl/index.html
+Date: Thu, 16 Jan 2025 16:56:16 +0000
+Word Count: 653 words
+Images: 2 (Sizes: 2270x1277, 2400x1600)
+
+Category: sports
+Title: Incredible double bicycle kick goal in Brazilian soccer game sees crowd go wild
+URL: https://www.cnn.com/2025/01/16/sport/volta-redonda-double-bicycle-kick-goal-spt-intl/index.html
+Date: Thu, 16 Jan 2025 16:05:58 +0000
+Word Count: 165 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: sports
+Title: March Madness will pay women’s teams under a new structure approved by the NCAA
+URL: https://www.cnn.com/2025/01/15/sport/march-madness-womens-ncaa-spt/index.html
+Date: Thu, 16 Jan 2025 02:29:44 +0000
+Word Count: 1162 words
+Images: 1 (Sizes: 6195x4132)
+
+Category: sports
+Title: Mental health at the forefront of golf’s mind following the tragic death of a player
+URL: https://www.cnn.com/2025/01/17/sport/grayson-murray-golf-mental-health-dubai-desert-classic-spt/index.html
+Date: Fri, 17 Jan 2025 12:17:49 +0000
+Word Count: 1136 words
+Images: 3 (Sizes: 1920x1080, 2000x1333, 2000x1333)
+
+Category: sports
+Title: Tearful Ons Jabeur struggles with breathing problems during Australian Open win
+URL: https://www.cnn.com/2025/01/16/sport/ons-jabeur-breathing-problems-australian-open-spt/index.html
+Date: Thu, 16 Jan 2025 11:25:28 +0000
+Word Count: 345 words
+Images: 2 (Sizes: 2000x1333, 2000x1323)
+
+Category: sports
+Title: Jack Hoffman, who won an ESPY for viral University of Nebraska TD run, dies of brain cancer at 19
+URL: https://www.cnn.com/2025/01/15/sport/jack-hoffman-dies-brain-cancer-spt/index.html
+Date: Thu, 16 Jan 2025 01:43:43 +0000
+Word Count: 453 words
+Images: 2 (Sizes: 1600x1067, 1600x1067)
+
+Category: sports
+Title: Erling Haaland signs huge 10-year contract with Manchester City
+URL: https://www.cnn.com/2025/01/17/sport/erling-haaland-manchester-city-contract-spt-intl/index.html
+Date: Fri, 17 Jan 2025 11:35:04 +0000
+Word Count: 454 words
+Images: 2 (Sizes: 2000x1333, 2000x1305)
+
+Category: sports
+Title: American teenager Learner Tien stuns Daniil Medvedev in nearly 3 a.m. finish at the Australian Open
+URL: https://www.cnn.com/2025/01/16/sport/learner-tien-daniil-medvedev-australian-open-tennis-spt-intl/index.html
+Date: Thu, 16 Jan 2025 17:33:41 +0000
+Word Count: 462 words
+Images: 2 (Sizes: 2434x1600, 2514x1600)
+
+Category: sports
+Title: Bob Uecker, known as ‘Mr. Baseball’ and as the legendary voice of the Milwaukee Brewers, dies at age 90
+URL: https://www.cnn.com/2025/01/16/sport/bob-uecker-milwaukee-brewers-death-spt/index.html
+Date: Thu, 16 Jan 2025 16:59:06 +0000
+Word Count: 845 words
+Images: 3 (Sizes: 2404x1600, 1589x1600, 2299x1600)
 
