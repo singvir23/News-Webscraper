@@ -1,5 +1,4 @@
-Total Articles: 303
-
+Total Articles: 325
 
 
 Category: world
@@ -2555,4 +2554,158 @@ URL: https://www.cnn.com/2025/01/16/sport/bob-uecker-milwaukee-brewers-death-spt
 Date: Thu, 16 Jan 2025 16:59:06 +0000
 Word Count: 845 words
 Images: 3 (Sizes: 2404x1600, 1589x1600, 2299x1600)
+
+Category: world
+Title: Panama turned its canal into a money-maker. History shows why Trump’s threats are sounding the alarm bells
+URL: https://www.cnn.com/2025/01/20/americas/panama-canal-trump-threat-intervention-intl-latam/index.html
+Date: Mon, 20 Jan 2025 22:28:48 +0000
+Word Count: 1266 words
+Images: 3 (Sizes: 3000x1999, 3000x2000, 3000x2444)
+
+Category: world
+Title: First Palestinian prisoners and Israeli hostages freed as Gaza ceasefire takes force
+URL: https://www.cnn.com/world/live-news/israel-hamas-ceasefire-war-gaza-01-20-25-intl-hnk/index.html
+Date: Mon, 20 Jan 2025 05:05:44 +0000
+Word Count: 5953 words
+Images: 32 (Sizes: 1600x1067, 6348x4234, 1600x900, 1920x1080, 3000x2000, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1389, 2000x1333, 2000x1333, 448x596, 3000x2000, 1600x1067, 1600x1067, 1600x1067, 1600x1067, 1600x1067, 1600x1201, 1600x1200, 3000x2001, 3000x1875, 3000x2000, 1600x900)
+
+Category: world
+Title: What Maduro’s threat to ‘liberate’ Puerto Rico says about US-Venezuelan ties under Trump 2.0
+URL: https://www.cnn.com/2025/01/20/americas/analysis-venezuela-maduro-liberate-puerto-rico-intl-latam/index.html
+Date: Mon, 20 Jan 2025 05:01:57 +0000
+Word Count: 1335 words
+Images: 3 (Sizes: 3000x1997, 3000x2000, 3000x2000)
+
+Category: world
+Title: Mexican border town declares state of emergency as Trump pledges mass deportations
+URL: https://www.cnn.com/2025/01/20/americas/mexico-migrant-shelter-tijuana-deportation-trump-latam-intl/index.html
+Date: Mon, 20 Jan 2025 19:51:05 +0000
+Word Count: 605 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: world
+Title: Hamas gave the three hostages ‘gift bags’ upon their release. This is what was inside
+URL: https://www.cnn.com/2025/01/20/middleeast/hamas-video-hostages-gift-bags-intl/index.html
+Date: Mon, 20 Jan 2025 13:24:23 +0000
+Word Count: 531 words
+Images: 6 (Sizes: 1340x754, 1843x1037, 1920x1080, 1632x918, 1638x922, 2000x1333)
+
+Category: world
+Title: Teenager admits murder of Southport girls in attack that sparked UK riots
+URL: https://www.cnn.com/2025/01/20/uk/southport-knife-attack-guilty-plea-intl/index.html
+Date: Mon, 20 Jan 2025 12:01:10 +0000
+Word Count: 327 words
+Images: 3 (Sizes: 3000x2001, 1600x900, 810x1080)
+
+Category: politics
+Title: Trump signs Day 1 executive actions as he attempts to transform federal government
+URL: https://www.cnn.com/2025/01/20/politics/executive-actions-trump-day-1/index.html
+Date: Tue, 21 Jan 2025 01:14:36 +0000
+Word Count: 632 words
+Images: 1 (Sizes: 1600x1099)
+
+Category: politics
+Title: Tracking Trump’s picks for his Cabinet and administration
+URL: https://www.cnn.com/politics/trump-cabinet-picks-administration-dg/index.html
+Date: Wed, 13 Nov 2024 16:10:48 +0000
+Word Count: 126 words
+Images: 0 (Sizes: )
+
+Category: politics
+Title: Trump commutes sentences of Proud Boys and Oath Keepers leaders as he pardons over 1,000 January 6 US Capitol rioters
+URL: https://www.cnn.com/2025/01/20/politics/january-6-2021-capitol-riot-pardons-trump/index.html
+Date: Mon, 20 Jan 2025 19:08:29 +0000
+Word Count: 1101 words
+Images: 3 (Sizes: 2000x1334, 1920x1080, 2000x1394)
+
+Category: politics
+Title: Trump says he’ll use a 1798 law to crack down on cartels. He could face an uphill battle in court
+URL: https://www.cnn.com/2024/11/14/politics/alien-enemies-act-1798-trump-cec/index.html
+Date: Thu, 14 Nov 2024 11:00:51 +0000
+Word Count: 1505 words
+Images: 5 (Sizes: 2500x1667, 2500x1406, 2500x1667, 2500x1787, 2500x1570)
+
+Category: politics
+Title: Senate votes to confirm Marco Rubio as secretary of state, first Trump Cabinet official to be approved
+URL: https://www.cnn.com/2025/01/20/politics/rubio-secretary-state-senate-confirmed-dg/index.html
+Date: Mon, 20 Jan 2025 23:50:33 +0000
+Word Count: 562 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: politics
+Title: Biden issues preemptive pardons for Trump critics and Biden family members
+URL: https://www.cnn.com/2025/01/20/politics/joe-biden-preemptive-pardons/index.html
+Date: Mon, 20 Jan 2025 12:19:00 +0000
+Word Count: 1536 words
+Images: 2 (Sizes: 2000x1333, 1920x1080)
+
+Category: politics
+Title: Trump two-gender edict would upend ‘X’ identity on passports
+URL: https://www.cnn.com/2025/01/20/politics/two-genders-us-passports-federal-government-trump/index.html
+Date: Mon, 20 Jan 2025 22:04:32 +0000
+Word Count: 447 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: politics
+Title: Trump signs sweeping executive actions on immigration, launches fight to end birthright citizenship
+URL: https://www.cnn.com/2025/01/20/politics/trump-executive-actions-immigration/index.html
+Date: Mon, 20 Jan 2025 15:34:25 +0000
+Word Count: 950 words
+Images: 3 (Sizes: 3000x1997, 1920x1080, 3000x2000)
+
+Category: health
+Title: Popular GLP-1 medications may have health benefits that extend beyond weight loss and blood sugar control, a new study finds
+URL: https://www.cnn.com/2025/01/20/health/glp-1-medications-benefits-risks-beyond-weight-loss-diabetes/index.html
+Date: Mon, 20 Jan 2025 16:21:16 +0000
+Word Count: 1880 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: sports
+Title: Australian Open: USA’s Taylor Fritz stunned by veteran Gaël Monfils, who ‘inspired’ wife Elina Svitolina to own upset win
+URL: https://www.cnn.com/2025/01/18/sport/australian-open-taylor-fritz-gael-monfils-elina-svitolina-spt-intl/index.html
+Date: Sat, 18 Jan 2025 13:54:58 +0000
+Word Count: 621 words
+Images: 2 (Sizes: 3000x2000, 3000x2000)
+
+Category: sports
+Title: Tiger Woods’ golf tournament moved away from Pacific Palisades amid ongoing wildfires
+URL: https://www.cnn.com/2025/01/17/sport/tiger-woods-genesis-invitational-wildfires-spt-intl/index.html
+Date: Fri, 17 Jan 2025 10:06:31 +0000
+Word Count: 328 words
+Images: 2 (Sizes: 2000x1334, 2000x1333)
+
+Category: sports
+Title: ‘Paying my bills’: Danielle Collins taunts ‘super drunk’ Australian Open fans who booed during her win over home favorite
+URL: https://www.cnn.com/2025/01/17/sport/danielle-collins-australian-open-fans-boo-spt-intl/index.html
+Date: Fri, 17 Jan 2025 12:07:57 +0000
+Word Count: 745 words
+Images: 2 (Sizes: 2000x1334, 2000x1333)
+
+Category: sports
+Title: In this ski World Cup event, the men’s winner won more than $3,000. The women got towels and shampoo.
+URL: https://www.cnn.com/2025/01/18/sport/ski-world-cup-prizes-selina-freitag-spt-intl/index.html
+Date: Sat, 18 Jan 2025 16:49:47 +0000
+Word Count: 348 words
+Images: 1 (Sizes: 4000x2667)
+
+Category: sports
+Title: Iron Maiden frontman Bruce Dickinson finishes 13th in prestigious fencing tournament
+URL: https://www.cnn.com/2025/01/20/sport/iron-maiden-fencing-tournament-spt-intl/index.html
+Date: Mon, 20 Jan 2025 13:38:22 +0000
+Word Count: 314 words
+Images: 1 (Sizes: 3000x1688)
+
+Category: sports
+Title: Pam Shriver says ‘most’ of her grand slam trophies were stolen while at hotel during wildfire evacuation
+URL: https://www.cnn.com/2025/01/17/sport/pam-shriver-grand-slam-trophies-stolen-spt/index.html
+Date: Fri, 17 Jan 2025 14:13:24 +0000
+Word Count: 447 words
+Images: 2 (Sizes: 3000x2001, 2202x1446)
+
+Category: sports
+Title: Alex Ovechkin breaks new record as chase continues to become NHL’s all-time leading scorer
+URL: https://www.cnn.com/2025/01/17/sport/alex-ovechkin-goaltender-record-spt-intl/index.html
+Date: Fri, 17 Jan 2025 11:47:21 +0000
+Word Count: 312 words
+Images: 2 (Sizes: 2000x1334, 2000x1334)
 
