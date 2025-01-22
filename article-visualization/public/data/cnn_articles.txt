@@ -1,4 +1,5 @@
-Total Articles: 325
+Total Articles: 352
+
 
 
 Category: world
@@ -2708,4 +2709,193 @@ URL: https://www.cnn.com/2025/01/17/sport/alex-ovechkin-goaltender-record-spt-in
 Date: Fri, 17 Jan 2025 11:47:21 +0000
 Word Count: 312 words
 Images: 2 (Sizes: 2000x1334, 2000x1334)
+
+Category: world
+Title: Pope Francis dissolves influential Peruvian Catholic group after investigation found ‘sadistic’ abuses
+URL: https://www.cnn.com/2025/01/21/americas/pope-dissolves-peruvian-catholic-group-intl-latam/index.html
+Date: Wed, 22 Jan 2025 00:34:51 +0000
+Word Count: 630 words
+Images: 1 (Sizes: 2048x1360)
+
+Category: world
+Title: More than 32,000 displaced as violence spirals in Colombian drug trafficking region
+URL: https://www.cnn.com/2025/01/22/americas/colombia-displaced-deadly-rebel-clashes-intl-latam/index.html
+Date: Wed, 22 Jan 2025 21:42:45 +0000
+Word Count: 612 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: world
+Title: Dozens killed as fire breaks out at ski resort hotel in northwestern Turkey
+URL: https://www.cnn.com/2025/01/21/europe/turkey-kartalkaya-hotel-fire-bolu-intl-hnk/index.html
+Date: Tue, 21 Jan 2025 06:58:57 +0000
+Word Count: 752 words
+Images: 2 (Sizes: 1920x1080, 4608x2592)
+
+Category: world
+Title: Gaza is a nightmare after 15 months of war. A visual guide to life on the ground now
+URL: https://www.cnn.com/2025/01/22/middleeast/gaza-war-ceasefire-snapshot-dg-intl/index.html
+Date: Wed, 22 Jan 2025 05:00:58 +0000
+Word Count: 999 words
+Images: 0 (Sizes: )
+
+Category: world
+Title: Yemen’s Houthis free crew of Red Sea cargo ship after 14 months in captivity
+URL: https://www.cnn.com/2025/01/22/middleeast/yemen-houthi-galaxy-leader-crew-free-intl-latam/index.html
+Date: Wed, 22 Jan 2025 18:47:42 +0000
+Word Count: 432 words
+Images: 2 (Sizes: 1280x720, 3000x1688)
+
+Category: world
+Title: 2,000-year-old Greek statue found abandoned in garbage bag
+URL: https://www.cnn.com/2025/01/22/europe/greece-statue-find-scli-intl/index.html
+Date: Wed, 22 Jan 2025 15:47:52 +0000
+Word Count: 247 words
+Images: 1 (Sizes: 3000x2250)
+
+Category: politics
+Title: White House orders government DEI employees to be placed on leave
+URL: https://www.cnn.com/2025/01/21/politics/white-house-government-dei-employees-on-leave/index.html
+Date: Wed, 22 Jan 2025 03:51:07 +0000
+Word Count: 619 words
+Images: 2 (Sizes: 1600x1067, 1920x1080)
+
+Category: politics
+Title: US military ordering thousands more troops to southern border
+URL: https://www.cnn.com/2025/01/22/politics/us-military-troops-southern-border/index.html
+Date: Wed, 22 Jan 2025 16:21:18 +0000
+Word Count: 766 words
+Images: 2 (Sizes: 1600x900, 1920x1080)
+
+Category: politics
+Title: Trump’s three-day immigration blitz severely tightens border, sets stage for rapid deportations
+URL: https://www.cnn.com/2025/01/22/politics/trump-immigration-blitz/index.html
+Date: Wed, 22 Jan 2025 20:10:18 +0000
+Word Count: 792 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: politics
+Title: Supreme Court likely to side with family of man killed by police after his rental car was pulled over for toll violations
+URL: https://www.cnn.com/2025/01/22/politics/supreme-court-barnes-houston-4th-amendment/index.html
+Date: Wed, 22 Jan 2025 19:50:58 +0000
+Word Count: 889 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: Flights canceled for refugees who were slated to travel to US
+URL: https://www.cnn.com/2025/01/22/politics/refugee-flights-canceled/index.html
+Date: Wed, 22 Jan 2025 12:49:06 +0000
+Word Count: 770 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: politics
+Title: Democrats grapple with their own message in Trump 2.0
+URL: https://www.cnn.com/2025/01/22/politics/democrats-reaction-trump-agenda/index.html
+Date: Wed, 22 Jan 2025 21:20:12 +0000
+Word Count: 1267 words
+Images: 4 (Sizes: 2400x1600, 2400x1601, 2400x1600, 3000x2000)
+
+Category: politics
+Title: Trump’s executive order for TikTok shows his willingness to skirt federal laws and keep app in limbo, legal experts say
+URL: https://www.cnn.com/2025/01/22/politics/tiktok-trump-legal-executive-order/index.html
+Date: Wed, 22 Jan 2025 15:44:12 +0000
+Word Count: 1031 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: science
+Title: Doorbell camera catches rare footage of meteorite striking home’s front walkway
+URL: https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html
+Date: Wed, 22 Jan 2025 16:59:22 +0000
+Word Count: 1051 words
+Images: 3 (Sizes: 2000x2667, 1920x1080, 2000x1981)
+
+Category: science
+Title: Earth’s magnetic north pole is on the move, and scientists just updated its position
+URL: https://www.cnn.com/2025/01/21/science/magnetic-north-pole-new-position/index.html
+Date: Tue, 21 Jan 2025 15:32:12 +0000
+Word Count: 1180 words
+Images: 2 (Sizes: 2000x1194, 2000x1333)
+
+Category: science
+Title: Rare species discovered deep within Cambodian mountains
+URL: https://www.cnn.com/science/cambodia-biodiversity-rare-species-c2e-spc/index.html
+Date: Tue, 21 Jan 2025 10:35:27 +0000
+Word Count: 690 words
+Images: 12 (Sizes: 1766x1179, 2200x1468, 2200x1468, 2200x1467, 2200x1466, 2200x1467, 2200x1468, 2200x1467, 2200x1468, 2200x1468, 2200x1469, 2200x1467)
+
+Category: health
+Title: Telehealth companies boost ad spending while taking on more complex medicine
+URL: https://www.cnn.com/2025/01/21/health/telehealth-companies-ad-spending-kff/index.html
+Date: Tue, 21 Jan 2025 11:00:58 +0000
+Word Count: 1013 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: health
+Title: An abortion clinic moved to a ‘safe haven’ state. It didn’t get a warm welcome
+URL: https://www.cnn.com/2025/01/22/health/abortion-clinics-local-influence/index.html
+Date: Wed, 22 Jan 2025 12:00:57 +0000
+Word Count: 1591 words
+Images: 4 (Sizes: 3000x2000, 2048x1536, 3000x2060, 3000x2000)
+
+Category: health
+Title: Children are sexually abused online regularly, and the problem is only growing. Here’s what experts suggest
+URL: https://www.cnn.com/2025/01/21/health/children-online-sexual-abuse-wellness/index.html
+Date: Wed, 22 Jan 2025 01:00:15 +0000
+Word Count: 874 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: sports
+Title: 4 Chilean men indicted in high-profile burglary probe – possibly tied to break-in at Bengals QB Joe Burrow’s home
+URL: https://www.cnn.com/2025/01/21/sport/chilean-men-arrested-high-profile-burglary-spt/index.html
+Date: Tue, 21 Jan 2025 17:09:20 +0000
+Word Count: 544 words
+Images: 1 (Sizes: 2500x1406)
+
+Category: sports
+Title: Coco Gauff stunned by Paula Badosa at the Australian Open, ending her 13-match win streak
+URL: https://www.cnn.com/2025/01/21/sport/coco-gauff-paula-badosa-australian-open-tennis-spt/index.html
+Date: Tue, 21 Jan 2025 09:59:27 +0000
+Word Count: 474 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: sports
+Title: Ichiro Suzuki headlines 2025 Baseball Hall of Fame class, receiving 99.7% of the vote
+URL: https://www.cnn.com/2025/01/21/sport/ichiro-suzuki-headlines-2025-baseball-hall-of-fame-class-spt/index.html
+Date: Tue, 21 Jan 2025 23:57:13 +0000
+Word Count: 526 words
+Images: 2 (Sizes: 2500x1667, 1467x1080)
+
+Category: sports
+Title: Why expanding the College Football Playoff worked – and what still needs to be fixed
+URL: https://www.cnn.com/2025/01/22/sport/college-football-playoff-analysis-spt/index.html
+Date: Wed, 22 Jan 2025 10:00:59 +0000
+Word Count: 1595 words
+Images: 6 (Sizes: 1600x1067, 3000x2108, 3000x2000, 2000x1333, 1600x1067, 3000x2000)
+
+Category: sports
+Title: Novak Djokovic beats Carlos Alcaraz in ‘epic’ Australian Open quarterfinal
+URL: https://www.cnn.com/2025/01/21/sport/novak-djokovic-australian-open-carlos-alcaraz-spt-intl/index.html
+Date: Tue, 21 Jan 2025 15:34:29 +0000
+Word Count: 482 words
+Images: 3 (Sizes: 2500x1667, 2500x1667, 2500x1667)
+
+Category: sports
+Title: Boston Celtics hand Golden State Warriors their worst home defeat in 40 years
+URL: https://www.cnn.com/2025/01/21/sport/golden-state-warriors-home-defeat-celtics-spt-intl/index.html
+Date: Tue, 21 Jan 2025 11:52:12 +0000
+Word Count: 544 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: sports
+Title: Ohio State outlasts Notre Dame to win first national title in a decade
+URL: https://www.cnn.com/2025/01/21/sport/ohio-state-wins-national-championship-spt/index.html
+Date: Tue, 21 Jan 2025 06:31:49 +0000
+Word Count: 896 words
+Images: 2 (Sizes: 1600x1067, 1600x1067)
+
+Category: sports
+Title: Lewis Hamilton realizes ‘dream’ on his first official day at Ferrari
+URL: https://www.cnn.com/2025/01/21/sport/lewis-hamilton-ferrari-first-day-spt-intl/index.html
+Date: Tue, 21 Jan 2025 10:31:55 +0000
+Word Count: 382 words
+Images: 3 (Sizes: 2000x1500, 2000x1328, 2000x1333)
 
