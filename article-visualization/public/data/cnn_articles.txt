@@ -1,4 +1,5 @@
-Total Articles: 352
+Total Articles: 372
+
 
 
 
@@ -2898,4 +2899,144 @@ URL: https://www.cnn.com/2025/01/21/sport/lewis-hamilton-ferrari-first-day-spt-i
 Date: Tue, 21 Jan 2025 10:31:55 +0000
 Word Count: 382 words
 Images: 3 (Sizes: 2000x1500, 2000x1328, 2000x1333)
+
+Category: world
+Title: Amanda Knox slander conviction upheld by Italy’s high court
+URL: https://www.cnn.com/2025/01/23/europe/amanda-knox-slander-conviction-upheld-italy-intl-latam/index.html
+Date: Thu, 23 Jan 2025 19:43:05 +0000
+Word Count: 422 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: world
+Title: Where same-sex marriage is legal around the world
+URL: https://www.cnn.com/world/same-sex-marriage-legal-countries-map-dg/index.html
+Date: Fri, 16 Feb 2024 21:02:03 +0000
+Word Count: 117 words
+Images: 0 (Sizes: )
+
+Category: world
+Title: Taiwan plans to cull up to 120,000 green iguanas due to their negative impact on agriculture
+URL: https://www.cnn.com/2025/01/23/asia/taiwan-cull-iguanas-agriculture-intl/index.html
+Date: Thu, 23 Jan 2025 17:39:13 +0000
+Word Count: 365 words
+Images: 1 (Sizes: 6000x4000)
+
+Category: world
+Title: UK teenager jailed for minimum of 52 years for Southport girls’ murders
+URL: https://www.cnn.com/2025/01/23/uk/southport-girls-murders-rudakubana-sentence-intl/index.html
+Date: Thu, 23 Jan 2025 16:35:39 +0000
+Word Count: 581 words
+Images: 2 (Sizes: 1600x900, 1920x1080)
+
+Category: world
+Title: Palestinian journalist reunited with child after harrowing months in Israeli jail
+URL: https://www.cnn.com/2025/01/23/middleeast/palestinian-prisoner-released-journalist-horrors-israeli-detention-intl/index.html
+Date: Thu, 23 Jan 2025 16:22:28 +0000
+Word Count: 936 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: politics
+Title: They sentenced the January 6 rioters. Now, these judges are calling out Trump and ‘poor losers’
+URL: https://www.cnn.com/2025/01/22/politics/federal-judges-speak-out-january-6-pardons/index.html
+Date: Wed, 22 Jan 2025 23:38:21 +0000
+Word Count: 1533 words
+Images: 2 (Sizes: 1920x1080, 1600x900)
+
+Category: politics
+Title: Trump revokes security for his former Secretary of State Mike Pompeo
+URL: https://www.cnn.com/2025/01/23/politics/trump-revokes-security-for-his-former-secretary-of-state-mike-pompeo/index.html
+Date: Thu, 23 Jan 2025 22:02:55 +0000
+Word Count: 334 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: politics
+Title: Trump signs executive order to release more JFK, RFK, MLK assassination files
+URL: https://www.cnn.com/2025/01/23/politics/jfk-assassination-files-trump/index.html
+Date: Thu, 23 Jan 2025 22:03:54 +0000
+Word Count: 417 words
+Images: 1 (Sizes: 1600x1618)
+
+Category: politics
+Title: Rubio to head to Central America for first trip as top US diplomat as Trump cracks down on migration
+URL: https://www.cnn.com/2025/01/23/politics/rubio-first-trip-central-america/index.html
+Date: Thu, 23 Jan 2025 18:09:27 +0000
+Word Count: 421 words
+Images: 1 (Sizes: 3000x2001)
+
+Category: politics
+Title: Judge blocks Trump’s ‘blatantly unconstitutional’ executive order that aims to end birthright citizenship
+URL: https://www.cnn.com/2025/01/23/politics/birthright-citizenship-lawsuit-hearing-seattle/index.html
+Date: Thu, 23 Jan 2025 18:29:10 +0000
+Word Count: 663 words
+Images: 1 (Sizes: 2400x1601)
+
+Category: politics
+Title: How the modern Supreme Court might view the 14th Amendment and birthright citizenship
+URL: https://www.cnn.com/2025/01/23/politics/supreme-court-birthright-citizenship-14th-amendment-wong-kim-ark/index.html
+Date: Thu, 23 Jan 2025 10:00:57 +0000
+Word Count: 1915 words
+Images: 2 (Sizes: 970x1600, 1920x1080)
+
+Category: science
+Title: Men got taller and heavier at twice the rate of women over past century, study shows
+URL: https://www.cnn.com/2025/01/23/science/men-taller-heavier-rate-women-intl-scli-wellness/index.html
+Date: Thu, 23 Jan 2025 11:38:47 +0000
+Word Count: 828 words
+Images: 1 (Sizes: 3000x1687)
+
+Category: science
+Title: It looks like a tiny kangaroo and it’s bouncing back from the brink of extinction
+URL: https://www.cnn.com/science/bettong-bouncing-back-brink-of-extinction-spc-c2e/index.html
+Date: Thu, 23 Jan 2025 09:06:20 +0000
+Word Count: 646 words
+Images: 11 (Sizes: 1100x733, 1067x800, 1100x734, 1100x733, 1100x734, 1100x733, 1100x733, 1100x653, 1920x1080, 1100x733, 1100x732)
+
+Category: health
+Title: People with ADHD have shorter life expectancy and higher risk of mental health issues, study finds
+URL: https://www.cnn.com/2025/01/23/health/adhd-shorter-life-expectancy-study-wellness/index.html
+Date: Thu, 23 Jan 2025 08:00:57 +0000
+Word Count: 939 words
+Images: 1 (Sizes: 2000x1055)
+
+Category: health
+Title: As states diverge on immigration, hospitals say they won’t turn patients away
+URL: https://www.cnn.com/2025/01/23/health/immigration-hospitals-kff/index.html
+Date: Thu, 23 Jan 2025 11:00:58 +0000
+Word Count: 1444 words
+Images: 1 (Sizes: 3000x1687)
+
+Category: sports
+Title: Kirk Herbstreit, who couldn’t hold back his emotions after Ohio State win, reveals his wife was diagnosed with breast cancer
+URL: https://www.cnn.com/2025/01/21/sport/kirk-herbstreit-emotional-comments-spt/index.html
+Date: Tue, 21 Jan 2025 23:06:25 +0000
+Word Count: 555 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: sports
+Title: Chicago Bears hire offensive guru Ben Johnson as head coach
+URL: https://www.cnn.com/2025/01/21/sport/chicago-bears-hire-ben-johnson-new-head-coach-spt/index.html
+Date: Tue, 21 Jan 2025 23:51:38 +0000
+Word Count: 411 words
+Images: 1 (Sizes: 2500x1667)
+
+Category: sports
+Title: Australian Open: American Madison Keys stuns world No. 2 Iga Świątek to set up final showdown against Aryna Sabalenka
+URL: https://www.cnn.com/2025/01/23/sport/aryna-sabalenka-paula-badosa-iga-swiatek-madison-keys-australian-open-semifinals-spt-intl/index.html
+Date: Thu, 23 Jan 2025 12:22:39 +0000
+Word Count: 678 words
+Images: 3 (Sizes: 2000x1334, 2000x1333, 2000x1334)
+
+Category: sports
+Title: Barcelona produces astonishing, if controversial, comeback to down Benfica in nine-goal Champions League thriller
+URL: https://www.cnn.com/2025/01/22/sport/barcelona-benfica-liverpool-lille-champions-league-spt-intl/index.html
+Date: Wed, 22 Jan 2025 11:22:43 +0000
+Word Count: 880 words
+Images: 3 (Sizes: 2000x1125, 2000x1330, 2000x1333)
+
+Category: sports
+Title: Trial for Patriots safety Jabrill Peppers over domestic violence allegations is delayed a day because of a water main break
+URL: https://www.cnn.com/2025/01/22/sport/jabrill-peppers-trial-domestic-violence-allegations-patriots-spt-intl/index.html
+Date: Wed, 22 Jan 2025 12:58:56 +0000
+Word Count: 414 words
+Images: 1 (Sizes: 2000x1421)
 
