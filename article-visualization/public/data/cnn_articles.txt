@@ -1,6 +1,4 @@
-Total Articles: 372
-
-
+Total Articles: 403
 
 
 Category: world
@@ -3039,4 +3037,221 @@ URL: https://www.cnn.com/2025/01/22/sport/jabrill-peppers-trial-domestic-violenc
 Date: Wed, 22 Jan 2025 12:58:56 +0000
 Word Count: 414 words
 Images: 1 (Sizes: 2000x1421)
+
+Category: world
+Title: ‘Nothing will be easy about returning:’ Survivors mark 80th anniversary of Auschwitz liberation
+URL: https://www.cnn.com/2025/01/27/europe/world-leaders-auschwitz-commemorations-holocaust-intl/index.html
+Date: Mon, 27 Jan 2025 05:00:57 +0000
+Word Count: 650 words
+Images: 3 (Sizes: 2000x1370, 3000x2007, 2500x1667)
+
+Category: world
+Title: Fear and gunshots after Rwanda-backed rebels claim takeover of eastern Congo’s largest city
+URL: https://www.cnn.com/2025/01/26/africa/congo-severs-ties-rwanda-rebels-goma-intl/index.html
+Date: Sun, 26 Jan 2025 16:02:35 +0000
+Word Count: 579 words
+Images: 2 (Sizes: 3000x2000, 3000x2000)
+
+Category: world
+Title: Palestinians finally returning to devastated northern Gaza after ceasefire dispute delay
+URL: https://www.cnn.com/2025/01/27/middleeast/palestinians-return-north-gaza-intl-hnk/index.html
+Date: Mon, 27 Jan 2025 07:25:32 +0000
+Word Count: 1693 words
+Images: 5 (Sizes: 1920x1080, 1920x1080, 2000x1125, 1600x1067, 1600x1067)
+
+Category: world
+Title: Ships, sea drones and AI: How NATO is hardening its defense of critical Baltic undersea cables
+URL: https://www.cnn.com/2025/01/27/europe/nato-defense-baltic-undersea-cables-intl-cmd/index.html
+Date: Mon, 27 Jan 2025 10:15:54 +0000
+Word Count: 1535 words
+Images: 5 (Sizes: 1920x1080, 2000x1196, 2000x1500, 2000x1500, 2000x1278)
+
+Category: world
+Title: Climate change is disrupting food systems across Latin America, UN report says
+URL: https://www.cnn.com/2025/01/27/americas/climate-change-latin-america-un-report-int-latam/index.html
+Date: Mon, 27 Jan 2025 16:26:44 +0000
+Word Count: 354 words
+Images: 1 (Sizes: 2500x1667)
+
+Category: world
+Title: Musk’s comments that Germany should ‘move beyond’ Nazi guilt are dangerous, says Holocaust memorial chair
+URL: https://www.cnn.com/2025/01/27/europe/israel-holocaust-memorial-chair-musk-criticism-intl/index.html
+Date: Mon, 27 Jan 2025 16:12:58 +0000
+Word Count: 595 words
+Images: 2 (Sizes: 3000x2001, 3000x1748)
+
+Category: politics
+Title: Colombia backs down on accepting deportees on military planes after Trump’s tariffs threats
+URL: https://www.cnn.com/2025/01/26/politics/colombia-tariffs-trump-deportation-flights/index.html
+Date: Sun, 26 Jan 2025 19:05:49 +0000
+Word Count: 1040 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: politics
+Title: Trump expected to sign executive orders to reshape the military, including banning transgender troops
+URL: https://www.cnn.com/2025/01/27/politics/donald-trump-military-executive-orders/index.html
+Date: Mon, 27 Jan 2025 13:57:12 +0000
+Word Count: 689 words
+Images: 2 (Sizes: 6000x4000, 3000x3000)
+
+Category: politics
+Title: Trump administration launches nationwide immigration enforcement blitz
+URL: https://www.cnn.com/2025/01/26/politics/chicago-immigration-trump-ice/index.html
+Date: Sun, 26 Jan 2025 17:20:26 +0000
+Word Count: 1414 words
+Images: 3 (Sizes: 2048x1536, 1920x1080, 1920x1080)
+
+Category: politics
+Title: Trump divided America as a candidate. So far, he’s doing the same as president
+URL: https://www.cnn.com/2025/01/26/politics/voter-reaction-trump-first-week-aotm/index.html
+Date: Sun, 26 Jan 2025 12:00:57 +0000
+Word Count: 1082 words
+Images: 2 (Sizes: 2400x1600, 3000x2000)
+
+Category: politics
+Title: Tracking Trump’s executive actions
+URL: https://www.cnn.com/politics/tracking-trump-executive-orders-actions-dg/index.html
+Date: Fri, 24 Jan 2025 19:10:04 +0000
+Word Count: 177 words
+Images: 0 (Sizes: )
+
+Category: politics
+Title: Federal agents in immigration operations told to be camera-ready as hundreds arrested
+URL: https://www.cnn.com/2025/01/27/politics/immigration-raids-federal-agents-uniform/index.html
+Date: Mon, 27 Jan 2025 13:59:54 +0000
+Word Count: 1024 words
+Images: 2 (Sizes: 2000x1334, 2000x1334)
+
+Category: politics
+Title: How Donald Trump’s dreams of a Florida casino could be dimmed by Ron DeSantis’ latest power play
+URL: https://www.cnn.com/2025/01/27/politics/desantis-trump-florida-casino-gambling/index.html
+Date: Mon, 27 Jan 2025 09:00:57 +0000
+Word Count: 1445 words
+Images: 3 (Sizes: 3000x2000, 3000x2000, 3000x2000)
+
+Category: politics
+Title: Trump suggests his plan for Gaza Strip is to ‘clean out the whole thing’
+URL: https://www.cnn.com/2025/01/25/politics/trump-gaza-strip-jordan-egypt/index.html
+Date: Sun, 26 Jan 2025 02:40:44 +0000
+Word Count: 1057 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: science
+Title: Unusual Martian mounds could help solve one of the red planet’s biggest mysteries
+URL: https://www.cnn.com/2025/01/25/science/martian-mounds-mystery/index.html
+Date: Sat, 25 Jan 2025 12:58:54 +0000
+Word Count: 1401 words
+Images: 5 (Sizes: 1600x2159, 1600x828, 1600x1142, 1600x1280, 1600x900)
+
+Category: science
+Title: Puzzling fossils unearthed in China may rewrite the human story
+URL: https://www.cnn.com/2025/01/24/science/china-fossils-ancient-humans-homo-juluensis-denisovans/index.html
+Date: Fri, 24 Jan 2025 14:51:46 +0000
+Word Count: 2222 words
+Images: 5 (Sizes: 2000x1500, 1600x653, 1600x900, 2000x1451, 1600x2229)
+
+Category: science
+Title: Fossils found in China may add a new branch to the human family tree
+URL: https://www.cnn.com/2025/01/26/science/ancient-human-fossils-china-science-newsletter-wt/index.html
+Date: Sun, 26 Jan 2025 16:00:57 +0000
+Word Count: 828 words
+Images: 3 (Sizes: 2000x1500, 1600x653, 1100x733)
+
+Category: science
+Title: Two mysterious fast radio bursts originated from wildly different places in space
+URL: https://www.cnn.com/2025/01/24/science/fast-radio-burst-origins/index.html
+Date: Fri, 24 Jan 2025 12:38:14 +0000
+Word Count: 1935 words
+Images: 3 (Sizes: 1600x1067, 2000x1125, 2000x2000)
+
+Category: health
+Title: Trump administration withdraws proposed menthol ban
+URL: https://www.cnn.com/2025/01/24/health/trump-administration-withdraws-proposed-menthol-ban/index.html
+Date: Fri, 24 Jan 2025 19:43:12 +0000
+Word Count: 700 words
+Images: 1 (Sizes: 1280x720)
+
+Category: health
+Title: The best ab rollers to strengthen your core, according to personal trainers
+URL: https://www.cnn.com/cnn-underscored/health-fitness/best-ab-rollers
+Date: Fri, 24 Jan 2025 15:01:01 +0000
+Word Count: 795 words
+Images: 26 (Sizes: 2320x1306, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 4858x2733, 1605x905, 2320x1306, 2320x1306, 3542x1992, 2320x1306, 1854x1043, 3691x2076, 2320x1306, 2320x1306, 1854x1043, 2320x1306, 2320x1306, 4032x2268, 1600x901)
+
+Category: health
+Title: Hot sleeper? The Sleep Number ClimateCool smart bed has science-backed cooling features for each partner
+URL: https://www.cnn.com/cnn-underscored/health-fitness/sleep-number-climatecool-2025-01-13
+Date: Mon, 13 Jan 2025 14:30:42 +0000
+Word Count: 418 words
+Images: 5 (Sizes: 1600x900, 1600x900, 1600x900, 1600x900, 1600x900)
+
+Category: health
+Title: NIH interim director comes from its research ranks but is known for questioning Covid-19 vaccine mandates
+URL: https://www.cnn.com/2025/01/24/health/nih-interim-director-memoli/index.html
+Date: Fri, 24 Jan 2025 23:48:36 +0000
+Word Count: 894 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: sports
+Title: Teenage snowboarder Hiroto Ogiwara makes history by landing remarkable first ever 2340, with a fractured arm
+URL: https://www.cnn.com/2025/01/26/sport/hiroto-ogiwara-snowboarder-first-ever-2340-spt-intl/index.html
+Date: Sun, 26 Jan 2025 15:30:18 +0000
+Word Count: 247 words
+Images: 2 (Sizes: 3000x2000, 3000x2327)
+
+Category: sports
+Title: Nikola Jokić hits insane 66-foot buzzer-beater and makes history as the Denver Nuggets top the Sacramento Kings
+URL: https://www.cnn.com/2025/01/24/sport/nikola-jokic-66-foot-buzzer-beater-nuggets-kings-spt-intl/index.html
+Date: Fri, 24 Jan 2025 10:39:49 +0000
+Word Count: 415 words
+Images: 2 (Sizes: 2000x1333, 2000x1332)
+
+Category: sports
+Title: Jacksonville Jaguars hire Buccaneers offensive coordinator Liam Coen as next head coach after apparent change of heart
+URL: https://www.cnn.com/2025/01/24/sport/liam-coen-jaguars-head-coach-spt/index.html
+Date: Fri, 24 Jan 2025 19:15:36 +0000
+Word Count: 552 words
+Images: 1 (Sizes: 2402x1600)
+
+Category: sports
+Title: Dallas Cowboys hire Brian Schottenheimer as new head coach
+URL: https://www.cnn.com/2025/01/25/sport/dallas-cowboys-brian-schottenheimer-head-coach-spt-intl/index.html
+Date: Sat, 25 Jan 2025 07:52:30 +0000
+Word Count: 251 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: sports
+Title: Las Vegas Raiders hiring Pete Carroll to be team’s new head coach, per reports
+URL: https://www.cnn.com/2025/01/24/sport/pete-carroll-las-vegas-raiders-head-coach-spt-intl/index.html
+Date: Fri, 24 Jan 2025 16:53:42 +0000
+Word Count: 230 words
+Images: 2 (Sizes: 3000x1687, 3000x1998)
+
+Category: sports
+Title: Novak Djokovic retires from Australian Open semifinal due to injury
+URL: https://www.cnn.com/2025/01/24/sport/novak-djokovic-retires-australian-open-semifinal-injury/index.html
+Date: Fri, 24 Jan 2025 06:27:42 +0000
+Word Count: 675 words
+Images: 2 (Sizes: 1600x1067, 1600x1067)
+
+Category: sports
+Title: Chelsea breaks world transfer record for a women’s soccer player to sign Naomi Girma
+URL: https://www.cnn.com/2025/01/27/sport/naomi-girma-signs-chelsea-spt-intl/index.html
+Date: Mon, 27 Jan 2025 11:28:11 +0000
+Word Count: 546 words
+Images: 2 (Sizes: 2000x1334, 2000x1285)
+
+Category: sports
+Title: Australian Open: Defending champion Jannik Sinner defeats American Ben Shelton in straight sets to reach final
+URL: https://www.cnn.com/2025/01/24/sport/australian-open-jannik-sinner-ben-shelton-spt-intl/index.html
+Date: Fri, 24 Jan 2025 12:23:25 +0000
+Word Count: 508 words
+Images: 3 (Sizes: 2000x1365, 2000x1333, 2000x1333)
+
+Category: sports
+Title: USA’s Madison Keys wins first grand slam title at Australian Open, stunning world No. 1 Aryna Sabalenka in thrilling final
+URL: https://www.cnn.com/2025/01/25/sport/australian-open-womens-final-sabalenka-keys-spt-intl/index.html
+Date: Sat, 25 Jan 2025 10:48:30 +0000
+Word Count: 897 words
+Images: 4 (Sizes: 2248x1600, 2400x1600, 2400x1600, 2400x1600)
 
