@@ -1,4 +1,5 @@
-Total Articles: 403
+Total Articles: 435
+
 
 
 Category: world
@@ -3254,4 +3255,228 @@ URL: https://www.cnn.com/2025/01/25/sport/australian-open-womens-final-sabalenka
 Date: Sat, 25 Jan 2025 10:48:30 +0000
 Word Count: 897 words
 Images: 4 (Sizes: 2248x1600, 2400x1600, 2400x1600, 2400x1600)
+
+Category: world
+Title: Mexican president says she sent letter to Google contesting Gulf of Mexico name change
+URL: https://www.cnn.com/2025/01/30/americas/mexico-letter-google-gulf-of-america-intl-latam/index.html
+Date: Thu, 30 Jan 2025 18:51:19 +0000
+Word Count: 337 words
+Images: 1 (Sizes: 2000x1275)
+
+Category: world
+Title: DR Congo’s president says country won’t be humiliated after rebels claim takeover
+URL: https://www.cnn.com/2025/01/30/africa/congos-tshisekedi-m23-rebels-intl/index.html
+Date: Thu, 30 Jan 2025 17:20:15 +0000
+Word Count: 525 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: world
+Title: Migrant workers in Canada exposed to ‘shocking abuse and discrimination,’ Amnesty says
+URL: https://www.cnn.com/2025/01/30/americas/migrant-workers-canada-abuse-amnesty-intl-latam/index.html
+Date: Thu, 30 Jan 2025 19:02:21 +0000
+Word Count: 401 words
+Images: 1 (Sizes: 3000x1687)
+
+Category: world
+Title: Eight hostages released from Gaza amid chaotic scenes as Palestinian prisoners set to be freed
+URL: https://www.cnn.com/world/live-news/israel-hamas-ceasefire-war-gaza-01-30-25-intl-hnk/index.html
+Date: Thu, 30 Jan 2025 07:58:14 +0000
+Word Count: 6977 words
+Images: 46 (Sizes: 2401x1600, 1600x900, 2000x1333, 1600x1067, 1920x1080, 3000x2000, 2000x1333, 2000x1398, 2000x1333, 2000x1335, 2000x1333, 2000x1286, 2000x1333, 2000x1500, 2000x1334, 2000x1333, 2000x1333, 2000x1333, 3000x2000, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1125, 2000x1333, 2000x1333, 1542x1028, 2000x1333, 1920x1080, 1920x1080, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 750x750, 2000x1333, 750x750, 2000x1333, 1920x1080, 2000x1334, 750x750, 2000x1333, 2000x1374, 2000x1334, 1600x900)
+
+Category: world
+Title: Chaotic scenes at Gaza hostage release bring condemnation from Israeli leaders
+URL: https://www.cnn.com/2025/01/30/middleeast/israel-gaza-hostage-release-chaos-intl-latam/index.html
+Date: Thu, 30 Jan 2025 18:34:12 +0000
+Word Count: 898 words
+Images: 5 (Sizes: 2000x1333, 1920x1080, 2000x1333, 2000x1333, 2000x1333)
+
+Category: world
+Title: US foreign aid freeze is upending global aid and the work of contractors
+URL: https://www.cnn.com/2025/01/30/world/us-foreign-aid-freeze-intl-latam/index.html
+Date: Thu, 30 Jan 2025 18:11:05 +0000
+Word Count: 1253 words
+Images: 2 (Sizes: 2000x1333, 2000x1359)
+
+Category: politics
+Title: Senior FBI leaders promoted by former Director Wray have been demoted or reassigned, sources say
+URL: https://www.cnn.com/2025/01/30/politics/senior-fbi-leaders-demoted-wray/index.html
+Date: Thu, 30 Jan 2025 19:13:56 +0000
+Word Count: 647 words
+Images: 2 (Sizes: 3796x2531, 1920x1080)
+
+Category: politics
+Title: Crisis immediately greets Duffy as he takes over Transportation Department
+URL: https://www.cnn.com/2025/01/30/politics/sean-duffy-transportation-plane-collision/index.html
+Date: Thu, 30 Jan 2025 17:11:13 +0000
+Word Count: 586 words
+Images: 1 (Sizes: 6000x4002)
+
+Category: politics
+Title: People on Kash Patel’s so-called ‘enemies list’ taking drastic steps for protection before his potential FBI takeover
+URL: https://www.cnn.com/2025/01/30/politics/kash-patel-critics-fbi-takeover/index.html
+Date: Thu, 30 Jan 2025 10:00:47 +0000
+Word Count: 1578 words
+Images: 2 (Sizes: 4000x2667, 4887x3258)
+
+Category: politics
+Title: Inside 45 hours of chaos: The brief life and quick death of Trump’s federal spending freeze
+URL: https://www.cnn.com/2025/01/29/politics/inside-brief-life-trump-federal-spending-freeze/index.html
+Date: Wed, 29 Jan 2025 23:17:35 +0000
+Word Count: 1738 words
+Images: 2 (Sizes: 1920x1080, 1920x1080)
+
+Category: politics
+Title: Trump signs executive orders on school choice and school funding, and combatting antisemitism
+URL: https://www.cnn.com/2025/01/29/politics/executive-actions-trump-school-choice/index.html
+Date: Wed, 29 Jan 2025 17:53:42 +0000
+Word Count: 786 words
+Images: 1 (Sizes: 2400x1601)
+
+Category: politics
+Title: Trump directs Guantanamo Bay to be prepared to host up to 30,000 migrants
+URL: https://www.cnn.com/2025/01/29/politics/guantanamo-bay-trump-migrants/index.html
+Date: Wed, 29 Jan 2025 20:54:04 +0000
+Word Count: 530 words
+Images: 1 (Sizes: 1600x900)
+
+Category: politics
+Title: Trump jumps right to the blame game over DC midair collision that left dozens dead
+URL: https://www.cnn.com/2025/01/30/politics/donald-trump-dc-plane-crash/index.html
+Date: Thu, 30 Jan 2025 18:33:25 +0000
+Word Count: 800 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: science
+Title: The most powerful rocket ever built exploded over a populated island. Residents are still dealing with the fallout
+URL: https://www.cnn.com/2025/01/30/science/spacex-starship-explosion-debris-turks-caicos/index.html
+Date: Thu, 30 Jan 2025 11:00:48 +0000
+Word Count: 2252 words
+Images: 6 (Sizes: 1600x2133, 2000x1333, 2000x1331, 1600x2133, 1600x2133, 1600x2133)
+
+Category: science
+Title: Buried in more than 270,000 beads, grave reveals women’s power 5,000 years ago
+URL: https://www.cnn.com/2025/01/29/science/ivory-lady-burial-shell-beads/index.html
+Date: Wed, 29 Jan 2025 19:02:15 +0000
+Word Count: 1129 words
+Images: 4 (Sizes: 2000x1599, 2000x2679, 2000x1594, 2000x1340)
+
+Category: science
+Title: Astronauts at the center of Starliner drama step out for spacewalk after more than 7 months in orbit
+URL: https://www.cnn.com/2025/01/30/science/suni-williams-butch-wilmore-nasa-spacewalk/index.html
+Date: Thu, 30 Jan 2025 11:49:31 +0000
+Word Count: 1128 words
+Images: 2 (Sizes: 1915x1069, 3000x2000)
+
+Category: science
+Title: Elon Musk says SpaceX will rescue two ‘stranded’ astronauts. Here’s why that is confusing
+URL: https://www.cnn.com/2025/01/28/science/elon-musk-stranded-astronauts-spacex/index.html
+Date: Wed, 29 Jan 2025 00:49:59 +0000
+Word Count: 1234 words
+Images: 2 (Sizes: 2500x1667, 3000x2000)
+
+Category: science
+Title: Historic asteroid sample reveals the ‘building blocks of life are in fact extraterrestrial in origin,’ scientists say
+URL: https://www.cnn.com/2025/01/29/science/asteroid-bennu-building-blocks-of-life/index.html
+Date: Wed, 29 Jan 2025 17:33:31 +0000
+Word Count: 1493 words
+Images: 5 (Sizes: 2000x1334, 1600x1140, 2000x1178, 2000x2450, 1600x1070)
+
+Category: health
+Title: FDA approves Ozempic to reduce risks from chronic kidney disease in diabetes patients
+URL: https://www.cnn.com/2025/01/28/health/ozempic-kidney-disease-fda-approval/index.html
+Date: Tue, 28 Jan 2025 21:02:42 +0000
+Word Count: 477 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: health
+Title: How your social media consumption can influence your eating habits, according to experts
+URL: https://www.cnn.com/2025/01/28/health/social-media-eating-disorders-wellness/index.html
+Date: Tue, 28 Jan 2025 11:00:57 +0000
+Word Count: 968 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: health
+Title: A rare brain disorder robbed Robert F. Kennedy Jr. of his strong speaking voice
+URL: https://www.cnn.com/2025/01/29/health/rfk-jr-voice-spasmodic-dysphonia-wellness/index.html
+Date: Wed, 29 Jan 2025 20:30:50 +0000
+Word Count: 812 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: health
+Title: After disruption due to Trump administration communication pause, NIH told it can continue some purchasing for research
+URL: https://www.cnn.com/2025/01/24/health/nih-scientists-purchase-supplies-trump-administration-pauses-communications/index.html
+Date: Fri, 24 Jan 2025 21:46:42 +0000
+Word Count: 635 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: health
+Title: Ahead of RFK Jr. confirmation hearings, poll shows nation divided on public health
+URL: https://www.cnn.com/2025/01/28/health/public-health-kff-poll/index.html
+Date: Tue, 28 Jan 2025 10:00:57 +0000
+Word Count: 799 words
+Images: 1 (Sizes: 3000x1999)
+
+Category: health
+Title: Trump administration’s halt of CDC’s weekly scientific report stalls bird flu studies
+URL: https://www.cnn.com/2025/01/30/health/bird-flu-mmwr-pause-trump-kff-partner/index.html
+Date: Thu, 30 Jan 2025 19:25:52 +0000
+Word Count: 1109 words
+Images: 4 (Sizes: 2400x1600, 1600x2134, 2000x2667, 3000x1490)
+
+Category: sports
+Title: After walking out of practice, All-Star Jimmy Butler is suspended by the Miami Heat for third time this month
+URL: https://www.cnn.com/2025/01/27/sport/jimmy-butler-suspended-third-time-spt/index.html
+Date: Mon, 27 Jan 2025 23:26:52 +0000
+Word Count: 354 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: sports
+Title: Tennessee women’s basketball coach Kim Caldwell returns to sidelines after giving birth to first child last week
+URL: https://www.cnn.com/2025/01/27/sport/kim-caldwell-returns-to-sidelines-after-birth-spt/index.html
+Date: Tue, 28 Jan 2025 03:57:04 +0000
+Word Count: 615 words
+Images: 1 (Sizes: 1600x2400)
+
+Category: sports
+Title: This Norwegian soccer team, representing a town of 55,000 people inside the Arctic Circle, has Champions League aspirations
+URL: https://www.cnn.com/2025/01/30/sport/bodo-glimt-football-europa-league-spt-intl/index.html
+Date: Thu, 30 Jan 2025 09:51:41 +0000
+Word Count: 889 words
+Images: 3 (Sizes: 2000x1333, 2000x1224, 2000x1333)
+
+Category: sports
+Title: Neymar and Al-Hilal agree to terminate player’s contract by mutual consent
+URL: https://www.cnn.com/2025/01/28/sport/neymar-al-hilal-terminate-contract-spt-intl/index.html
+Date: Tue, 28 Jan 2025 10:08:55 +0000
+Word Count: 336 words
+Images: 1 (Sizes: 2000x1334)
+
+Category: sports
+Title: Florida coach Todd Golden cleared in Title IX investigation regarding stalking allegations
+URL: https://www.cnn.com/2025/01/27/sport/florida-basketball-todd-golden-cleared-title-ix-investigation-spt/index.html
+Date: Mon, 27 Jan 2025 18:32:38 +0000
+Word Count: 697 words
+Images: 1 (Sizes: 2500x1667)
+
+Category: sports
+Title: German track cyclists suffer multiple fractures after being hit by car
+URL: https://www.cnn.com/2025/01/28/sport/german-track-cyclists-hit-car-mallorca-intl-spt/index.html
+Date: Tue, 28 Jan 2025 12:12:12 +0000
+Word Count: 185 words
+Images: 2 (Sizes: 2000x1333, 1091x641)
+
+Category: sports
+Title: Scottie Scheffler says ‘stupid’ Christmas Day injury won’t impact his season debut at Pebble Beach
+URL: https://www.cnn.com/2025/01/29/sport/scottie-scheffler-christmas-day-injury-pebble-beach-spt-intl/index.html
+Date: Wed, 29 Jan 2025 12:50:52 +0000
+Word Count: 570 words
+Images: 2 (Sizes: 2000x1333, 2000x1334)
+
+Category: sports
+Title: Minnesota Timberwolves center Rudy Gobert almost hit by falling piece of scoreboard during game
+URL: https://www.cnn.com/2025/01/28/sport/rudy-gobert-nba-scoreboard-falling-spt-intl/index.html
+Date: Tue, 28 Jan 2025 11:36:00 +0000
+Word Count: 276 words
+Images: 1 (Sizes: 2000x1333)
 
