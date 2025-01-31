@@ -1,5 +1,5 @@
 // src/components/ChartImagesPerArticle.jsx
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import {
   ScatterChart,
   Scatter,
@@ -35,16 +35,41 @@ function groupPoints(points) {
 
 function ChartImagesPerArticle({ data }) {
   const [selectedCategory, setSelectedCategory] = useState('All');
+  const [minImageCount, setMinImageCount] = useState('');
+  const [maxImageCount, setMaxImageCount] = useState('');
 
-  // Filter data by category and create data points
+  // Determine the default max image count from data
+  const defaultMax = useMemo(() => {
+    if (data.length === 0) return 10; // Default to 10 if no data
+    return Math.max(...data.map(article => article.images.length));
+  }, [data]);
+
+  // Handle changes for min and max inputs
+  const handleMinChange = (e) => {
+    const value = e.target.value;
+    setMinImageCount(value === '' ? '' : Number(value));
+  };
+
+  const handleMaxChange = (e) => {
+    const value = e.target.value;
+    setMaxImageCount(value === '' ? '' : Number(value));
+  };
+
+  // Filter + map to (x, y) for scatter
   const filteredData = data
-    .filter(article =>
-      selectedCategory === 'All'
-        ? true
-        : article.category.toLowerCase() === selectedCategory.toLowerCase()
-    )
-    .map((article, index) => ({
-      x: index,
+    .filter(article => {
+      const categoryMatch =
+        selectedCategory === 'All'
+          ? true
+          : article.category.toLowerCase() === selectedCategory.toLowerCase();
+
+      const minMatch = minImageCount === '' || article.images.length >= minImageCount;
+      const maxMatch = maxImageCount === '' || article.images.length <= maxImageCount;
+
+      return categoryMatch && minMatch && maxMatch;
+    })
+    .map((article, idx) => ({
+      x: idx,
       y: article.images.length,
       title: article.title,
       source: article.source,
@@ -60,22 +85,61 @@ function ChartImagesPerArticle({ data }) {
     <div className="chart-images-container">
       <h2 className="chart-images-title">Number of Images per Article</h2>
 
-      <div className="chart-images-select-container">
-        <select
-          value={selectedCategory}
-          onChange={(e) => setSelectedCategory(e.target.value)}
-          className="chart-images-select"
-        >
-          {categories.map(cat => (
-            <option
-              key={cat}
-              value={cat}
-              className="chart-images-option"
-            >
-              {cat}
-            </option>
-          ))}
-        </select>
+      <div className="chart-images-filters">
+        {/* Category Select */}
+        <div className="chart-images-select-container">
+          <label htmlFor="category-select" className="chart-images-label">
+            Category:
+          </label>
+          <select
+            id="category-select"
+            value={selectedCategory}
+            onChange={(e) => setSelectedCategory(e.target.value)}
+            className="chart-images-select"
+          >
+            {categories.map(cat => (
+              <option
+                key={cat}
+                value={cat}
+                className="chart-images-option"
+              >
+                {cat}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        {/* Image Count Range Inputs */}
+        <div className="chart-images-range-container">
+          <div className="chart-images-range-item">
+            <label htmlFor="min-image" className="chart-images-label">
+              Min Images:
+            </label>
+            <input
+              type="number"
+              id="min-image"
+              value={minImageCount}
+              onChange={handleMinChange}
+              placeholder="0"
+              className="chart-images-input"
+              min="0"
+            />
+          </div>
+          <div className="chart-images-range-item">
+            <label htmlFor="max-image" className="chart-images-label">
+              Max Images:
+            </label>
+            <input
+              type="number"
+              id="max-image"
+              value={maxImageCount}
+              onChange={handleMaxChange}
+              placeholder={defaultMax}
+              className="chart-images-input"
+              min="0"
+            />
+          </div>
+        </div>
       </div>
 
       <div className="chart-images-chart-container">
@@ -98,6 +162,7 @@ function ChartImagesPerArticle({ data }) {
             name="Number of Images"
             label={{ value: 'Number of Images', angle: -90, position: 'insideLeft', fill: '#ccc' }}
             tick={{ fill: '#ccc' }}
+            domain={['auto', 'auto']}
           />
 
           {/* ZAxis will control bubble sizes based on the `z` value (frequency). */}

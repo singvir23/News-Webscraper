@@ -1,4 +1,5 @@
-Total Articles: 435
+Total Articles: 459
+
 
 
 
@@ -3479,4 +3480,172 @@ URL: https://www.cnn.com/2025/01/28/sport/rudy-gobert-nba-scoreboard-falling-spt
 Date: Tue, 28 Jan 2025 11:36:00 +0000
 Word Count: 276 words
 Images: 1 (Sizes: 2000x1333)
+
+Category: world
+Title: American and father of youngest hostages among those due for release from Gaza Saturday
+URL: https://www.cnn.com/2025/01/31/middleeast/israel-gaza-hostages-saturday-intl/index.html
+Date: Fri, 31 Jan 2025 10:06:48 +0000
+Word Count: 837 words
+Images: 1 (Sizes: 1600x900)
+
+Category: world
+Title: North Korean troops pulled back from frontline after heavy losses, Ukrainian officials say
+URL: https://www.cnn.com/2025/01/31/europe/ukraine-russia-kursk-north-korean-troops-intl/index.html
+Date: Fri, 31 Jan 2025 14:40:04 +0000
+Word Count: 519 words
+Images: 3 (Sizes: 1600x900, 2249x1500, 2249x1500)
+
+Category: world
+Title: A sinkhole swallowed a truck driver in Japan. It’s expanding and residents are worried
+URL: https://www.cnn.com/2025/01/31/asia/japan-tokyo-sinkhole-swallows-driver-intl-hnk/index.html
+Date: Fri, 31 Jan 2025 08:54:01 +0000
+Word Count: 628 words
+Images: 2 (Sizes: 1600x1028, 4242x2828)
+
+Category: world
+Title: German parliament rejects opposition’s draft migration law
+URL: https://www.cnn.com/2025/01/31/europe/german-parliament-rejects-oppositions-draft-migration-law-intl/index.html
+Date: Fri, 31 Jan 2025 16:48:22 +0000
+Word Count: 152 words
+Images: 1 (Sizes: 2000x1333)
+
+Category: world
+Title: Merkel criticizes leader of her own party for cooperating with German far right
+URL: https://www.cnn.com/2025/01/31/europe/angela-merkel-friedrich-merz-afd-migration-vote-germany-intl/index.html
+Date: Fri, 31 Jan 2025 09:58:44 +0000
+Word Count: 371 words
+Images: 1 (Sizes: 3000x2023)
+
+Category: world
+Title: ‘We came back for nothing’: Returning home to northern Gaza, Palestinians find death and destruction
+URL: https://www.cnn.com/2025/01/31/middleeast/northern-gaza-return-destruction-intl/index.html
+Date: Fri, 31 Jan 2025 05:01:48 +0000
+Word Count: 1503 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: politics
+Title: Trump said he hadn’t read Project 2025 – but most of his early executive actions overlap with its proposals
+URL: https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders-invs/index.html
+Date: Fri, 31 Jan 2025 09:00:47 +0000
+Word Count: 2434 words
+Images: 4 (Sizes: 2400x1600, 2400x1600, 2400x1600, 2400x1600)
+
+Category: politics
+Title: How Trump calling immigration an ‘invasion’ could help him stretch the law
+URL: https://www.cnn.com/2025/01/31/politics/immigration-invasion-trump/index.html
+Date: Fri, 31 Jan 2025 10:00:48 +0000
+Word Count: 1427 words
+Images: 2 (Sizes: 1600x1067, 1920x1080)
+
+Category: politics
+Title: Trump’s Cabinet nominees face sharpest bipartisan grilling to date and other takeaways from Thursday’s confirmation hearings
+URL: https://www.cnn.com/2025/01/30/politics/rfk-gabbard-patel-confirmation-hearings-takeaways/index.html
+Date: Thu, 30 Jan 2025 20:14:28 +0000
+Word Count: 2158 words
+Images: 4 (Sizes: 1920x1080, 2400x1600, 2000x1334, 2400x1601)
+
+Category: politics
+Title: Takeaways from FBI director nominee Kash Patel’s combative confirmation hearing
+URL: https://www.cnn.com/2025/01/30/politics/takeaways-kash-patel-fbi-confirmation-hearing/index.html
+Date: Thu, 30 Jan 2025 20:39:22 +0000
+Word Count: 1131 words
+Images: 2 (Sizes: 2400x1600, 1920x1080)
+
+Category: politics
+Title: Gabbard’s dodges on whether she thinks Snowden is a traitor exacerbate questions about her confirmation chances
+URL: https://www.cnn.com/2025/01/30/politics/gabbard-surveillance-confirmation-snowden/index.html
+Date: Thu, 30 Jan 2025 21:33:10 +0000
+Word Count: 1170 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: science
+Title: ‘Walking’ coral moves like jellyfish toward blue light, new study finds
+URL: https://www.cnn.com/2025/01/31/science/walking-coral-movement-jellyfish/index.html
+Date: Fri, 31 Jan 2025 16:30:50 +0000
+Word Count: 1114 words
+Images: 0 (Sizes: )
+
+Category: science
+Title: Two buried ‘supercontinents’ hiding inside Earth could be much older than previously thought
+URL: https://www.cnn.com/2025/01/31/science/earth-mantle-hidden-supercontinents/index.html
+Date: Fri, 31 Jan 2025 11:00:46 +0000
+Word Count: 1411 words
+Images: 3 (Sizes: 2000x1125, 1600x1092, 2000x1333)
+
+Category: science
+Title: A newly discovered asteroid has a slim chance of hitting Earth in 2032
+URL: https://www.cnn.com/2025/01/31/science/asteroid-2024-yr4-earth-impact-chance/index.html
+Date: Fri, 31 Jan 2025 14:36:15 +0000
+Word Count: 1114 words
+Images: 1 (Sizes: 1600x900)
+
+Category: health
+Title: Feeling sick? Here’s what to take and what to avoid, according to a doctor
+URL: https://www.cnn.com/2025/01/31/health/virus-covid-flu-treatment-wellness/index.html
+Date: Fri, 31 Jan 2025 11:00:47 +0000
+Word Count: 993 words
+Images: 2 (Sizes: 1920x1080, 2000x1333)
+
+Category: health
+Title: Dr. Sanjay Gupta: Benefits of vaccines are a matter of fact
+URL: https://www.cnn.com/2025/01/29/health/gupta-vaccines-essay/index.html
+Date: Wed, 29 Jan 2025 17:08:45 +0000
+Word Count: 634 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: sports
+Title: Baltimore Ravens’ Justin Tucker denies accusations of sexual misconduct, as NFL says league ‘will look into the matter’
+URL: https://www.cnn.com/2025/01/30/sport/nfl-ravens-justin-tucker-denies-accusations-spt/index.html
+Date: Fri, 31 Jan 2025 01:13:16 +0000
+Word Count: 378 words
+Images: 1 (Sizes: 2000x1334)
+
+Category: sports
+Title: Paralyzed from the waist down from a climbing accident, this adventurer is going to ski hundreds of miles across Antarctica
+URL: https://www.cnn.com/2025/01/31/sport/darren-edwards-paralyzed-adventurer-intl-spt/index.html
+Date: Fri, 31 Jan 2025 12:01:21 +0000
+Word Count: 836 words
+Images: 5 (Sizes: 1920x1080, 838x720, 945x1417, 1181x787, 1181x787)
+
+Category: sports
+Title: Pam Shriver says grand slam trophies that were stolen during wildfire evacuation have been recovered
+URL: https://www.cnn.com/2025/01/29/sport/pam-shriver-grand-slam-trophies-recovered-spt/index.html
+Date: Wed, 29 Jan 2025 19:35:52 +0000
+Word Count: 226 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: sports
+Title: Unusual betting patterns surrounding play of Terry Rozier in 2023 game with Charlotte investigated
+URL: https://www.cnn.com/2025/01/30/sport/terry-rozier-nba-betting-investigation-spt/index.html
+Date: Thu, 30 Jan 2025 20:30:32 +0000
+Word Count: 769 words
+Images: 1 (Sizes: 1600x1120)
+
+Category: sports
+Title: 18-year-old prodigy Andrea Kimi Antonelli passes driving test weeks before Formula One debut
+URL: https://www.cnn.com/2025/01/29/sport/andrea-kimi-antonelli-driving-test-spt-intl/index.html
+Date: Wed, 29 Jan 2025 15:42:49 +0000
+Word Count: 453 words
+Images: 2 (Sizes: 2000x1333, 2000x1334)
+
+Category: sports
+Title: Dick Button, daredevil ‘godfather’ of figure skating and Emmy-winning commentator, dies at 95
+URL: https://www.cnn.com/2025/01/30/sport/dick-button-figure-skating-death-spt/index.html
+Date: Fri, 31 Jan 2025 01:33:04 +0000
+Word Count: 760 words
+Images: 4 (Sizes: 2000x1361, 2000x1459, 2000x1332, 2000x1428)
+
+Category: sports
+Title: Champions League drama: Manchester City claw back to advance to knockout round playoffs
+URL: https://www.cnn.com/2025/01/29/sport/champions-league-manchester-city-advance-knockout-round-spt/index.html
+Date: Wed, 29 Jan 2025 23:35:37 +0000
+Word Count: 796 words
+Images: 2 (Sizes: 3000x2033, 3000x1979)
+
+Category: sports
+Title: Jason Kelce reveals whether he’s supporting brother Travis or former team Philadelphia Eagles in Super Bowl LIX
+URL: https://www.cnn.com/2025/01/29/sport/jason-kelce-support-travis-chiefs-eagles-super-bowl-spt/index.html
+Date: Wed, 29 Jan 2025 15:32:54 +0000
+Word Count: 532 words
+Images: 2 (Sizes: 2400x1600, 2400x1601)
 
