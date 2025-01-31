@@ -1,12 +1,17 @@
-// src/App.js
-
+// App.js
 import React, { useEffect, useState } from 'react';
 import { fetchArticles } from './utils/parseData';
 
-// Suppose you've already built these chart components:
+// Chart Components
 import ChartImagesPerArticle from './components/ChartImagesPerArticle';
 import ChartWordsPerArticle from './components/ChartWordsPerArticle';
 import ChartImageSizes from './components/ChartImageSizes';
+
+// Loading Spinner Component
+import LoadingSpinner from './components/LoadingSpinner';
+
+// Import the CSS file
+import './App.css';
 
 function App() {
   const [allArticles, setAllArticles] = useState([]);
@@ -30,19 +35,37 @@ function App() {
   }, []);
 
   if (isLoading) {
-    return <div style={{ padding: '2rem' }}>Loading data...</div>;
+    return (
+      <div className="loading-container">
+        <LoadingSpinner />
+      </div>
+    );
   }
 
   if (error) {
-    return <div style={{ padding: '2rem', color: 'red' }}>Error: {error}</div>;
+    return (
+      <div className="error-container">
+        {`Error: ${error}`}
+      </div>
+    );
   }
 
   return (
-    <div className="p-8 space-y-8">
-      <h1 className="text-2xl font-bold mb-8">Article Data Visualization</h1>
-      <ChartImagesPerArticle data={allArticles} />
-      <ChartWordsPerArticle data={allArticles} />
-      <ChartImageSizes data={allArticles} />
+    <div className="app-container">
+      <div className="inner-container">
+        <h1 className="title">Article Data Visualization</h1>
+        <div className="charts-container">
+          <div className="chart-wrapper">
+            <ChartImagesPerArticle data={allArticles} />
+          </div>
+          <div className="chart-wrapper">
+            <ChartWordsPerArticle data={allArticles} />
+          </div>
+          <div className="chart-wrapper">
+            <ChartImageSizes data={allArticles} />
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

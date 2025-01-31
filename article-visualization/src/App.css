@@ -1,38 +1,65 @@
-.App {
-  text-align: center;
-}
+/* App.css */
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+/* Container for the loading spinner */
+.loading-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #1a202c; /* Equivalent to bg-gray-900 */
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  
+  /* Container for displaying errors */
+  .error-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #1a202c; /* bg-gray-900 */
+    color: #f56565; /* text-red-500 */
+    font-size: 1.25rem; /* Optional: Adjust font size as needed */
   }
-  to {
-    transform: rotate(360deg);
+  
+  /* Main application container */
+  .app-container {
+    min-height: 100vh;
+    background-color: #1a202c; /* bg-gray-900 */
+    color: #f7fafc; /* text-gray-100 */
+    padding: 2rem; /* p-8 */
   }
-}
+  
+  /* Inner container to center content and set max width */
+  .inner-container {
+    max-width: 80rem; /* max-w-7xl is 80rem */
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Title styling */
+  .title {
+    font-size: 2.25rem; /* text-4xl */
+    font-weight: 700; /* font-bold */
+    margin-bottom: 3rem; /* mb-12 */
+    text-align: center; /* text-center */
+  }
+  
+  /* Container for all charts */
+  .charts-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem; /* space-y-12 is 3rem vertical gap */
+  }
+  
+  /* Individual chart wrapper */
+  .chart-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  

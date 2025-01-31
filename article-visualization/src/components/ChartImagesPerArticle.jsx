@@ -1,5 +1,4 @@
 // src/components/ChartImagesPerArticle.jsx
-
 import React, { useState } from 'react';
 import {
   ScatterChart,
@@ -11,6 +10,10 @@ import {
   Legend,
   ZAxis,
 } from 'recharts';
+import { COLORS } from '../constants';
+
+// Import the CSS file
+import './ChartImagesPerArticle.css';
 
 const categories = ['All', 'sports', 'health', 'science', 'politics', 'world'];
 
@@ -50,92 +53,93 @@ function ChartImagesPerArticle({ data }) {
   // Group duplicates by (x, y, source)
   const groupedData = groupPoints(filteredData);
 
-  // Split by source if you want distinct bubbles per source
-  const cnnData = groupedData.filter(d => d.source === 'CNN');
-  const foxData = groupedData.filter(d => d.source === 'FOX');
+  // Separate by source
+  const sources = [...new Set(groupedData.map(d => d.source))];
 
   return (
-    <div className="w-full p-4 bg-white rounded-lg shadow">
-      <h2 className="text-xl font-bold mb-4">Number of Images per Article</h2>
-      
-      <select
-        value={selectedCategory}
-        onChange={(e) => setSelectedCategory(e.target.value)}
-        className="mb-4 p-2 border rounded"
-      >
-        {categories.map(cat => (
-          <option key={cat} value={cat}>
-            {cat}
-          </option>
-        ))}
-      </select>
+    <div className="chart-images-container">
+      <h2 className="chart-images-title">Number of Images per Article</h2>
 
-      <ScatterChart
-        width={800}
-        height={400}
-        margin={{ top: 20, right: 20, bottom: 20, left: 20 }}
-      >
-        <CartesianGrid />
-        <XAxis
-          type="number"
-          dataKey="x"
-          name="Article Index"
-          label={{ value: 'Article Index', position: 'bottom' }}
-        />
-        <YAxis
-          type="number"
-          dataKey="y"
-          name="Number of Images"
-          label={{ value: 'Number of Images', angle: -90, position: 'insideLeft' }}
-        />
-        {/* 
-          ZAxis will control bubble sizes based on the `z` value (frequency).
-          Adjust range to suit your data size. 
-        */}
-        <ZAxis
-          type="number"
-          dataKey="z"
-          range={[50, 400]}
-          name="Frequency"
-        />
+      <div className="chart-images-select-container">
+        <select
+          value={selectedCategory}
+          onChange={(e) => setSelectedCategory(e.target.value)}
+          className="chart-images-select"
+        >
+          {categories.map(cat => (
+            <option
+              key={cat}
+              value={cat}
+              className="chart-images-option"
+            >
+              {cat}
+            </option>
+          ))}
+        </select>
+      </div>
 
-        <Tooltip
-          cursor={{ strokeDasharray: '3 3' }}
-          content={({ active, payload }) => {
-            if (active && payload && payload.length) {
-              const d = payload[0].payload;
-              return (
-                <div className="bg-white border p-2 shadow">
-                  <p className="font-bold">{d.title}</p>
-                  <p>Images: {d.y}</p>
-                  <p>Source: {d.source}</p>
-                  <p>Count: {d.z}</p>
-                </div>
-              );
-            }
-            return null;
-          }}
-        />
-        <Legend />
-        
-        {/* Use partial opacity and stroke so large bubbles don't hide smaller ones */}
-        <Scatter
-          name="CNN"
-          data={cnnData}
-          fill="#FF0000"
-          stroke="#333"
-          strokeWidth={1}
-          fillOpacity={0.7}
-        />
-        <Scatter
-          name="FOX"
-          data={foxData}
-          fill="#0000FF"
-          stroke="#333"
-          strokeWidth={1}
-          fillOpacity={0.7}
-        />
-      </ScatterChart>
+      <div className="chart-images-chart-container">
+        <ScatterChart
+          width={800}
+          height={400}
+          margin={{ top: 20, right: 20, bottom: 60, left: 60 }}
+        >
+          <CartesianGrid stroke="#444" />
+          <XAxis
+            type="number"
+            dataKey="x"
+            name="Article Index"
+            label={{ value: 'Article Index', position: 'bottom', fill: '#ccc' }}
+            tick={{ fill: '#ccc' }}
+          />
+          <YAxis
+            type="number"
+            dataKey="y"
+            name="Number of Images"
+            label={{ value: 'Number of Images', angle: -90, position: 'insideLeft', fill: '#ccc' }}
+            tick={{ fill: '#ccc' }}
+          />
+
+          {/* ZAxis will control bubble sizes based on the `z` value (frequency). */}
+          <ZAxis
+            type="number"
+            dataKey="z"
+            range={[60, 300]}
+            name="Frequency"
+            stroke="#ccc"
+          />
+
+          <Tooltip
+            cursor={{ strokeDasharray: '3 3' }}
+            content={({ active, payload }) => {
+              if (active && payload && payload.length) {
+                const d = payload[0].payload;
+                return (
+                  <div className="custom-tooltip">
+                    <p className="tooltip-title">{d.title}</p>
+                    <p>Images: {d.y}</p>
+                    <p>Source: {d.source}</p>
+                    <p>Count: {d.z}</p>
+                  </div>
+                );
+              }
+              return null;
+            }}
+          />
+          <Legend verticalAlign="top" height={36} />
+
+          {sources.map(source => (
+            <Scatter
+              key={source}
+              name={source}
+              data={groupedData.filter(d => d.source === source)}
+              fill={COLORS[source]}
+              stroke={COLORS[source]}
+              fillOpacity={0.6}
+            />
+          ))}
+        </ScatterChart>
+      </div>
     </div>
   );
 }

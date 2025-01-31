@@ -1,5 +1,4 @@
 // src/components/ChartImageSizes.jsx
-
 import React, { useState } from 'react';
 import {
   ScatterChart,
@@ -9,8 +8,12 @@ import {
   YAxis,
   Tooltip,
   Legend,
-  ZAxis
+  ZAxis,
 } from 'recharts';
+import { COLORS } from '../constants';
+
+// Import the CSS file
+import './ChartImageSizes.css';
 
 const categories = ['All', 'sports', 'health', 'science', 'politics', 'world'];
 
@@ -31,7 +34,7 @@ function groupImagePoints(points) {
 
 function ChartImageSizes({ data }) {
   const [selectedCategory, setSelectedCategory] = useState('All');
-  
+
   // Flatten and filter image data
   const allPoints = [];
   data.forEach(article => {
@@ -40,7 +43,7 @@ function ChartImageSizes({ data }) {
       article.category.toLowerCase() === selectedCategory.toLowerCase()
     ) {
       article.images.forEach(img => {
-        if (img.width && img.height) {  
+        if (img.width && img.height) {
           allPoints.push({
             x: img.width,
             y: img.height,
@@ -52,97 +55,98 @@ function ChartImageSizes({ data }) {
     }
   });
 
-  // Group duplicates: safame (width, height, source) => bigger bubble
+  // Group duplicates: same (width, height, source) => bigger bubble
   const groupedPoints = groupImagePoints(allPoints);
 
-  // Separate data into CNN vs FOX
-  const cnnData = groupedPoints.filter(d => d.source === 'CNN');
-  const foxData = groupedPoints.filter(d => d.source === 'FOX');
+  // Separate data into sources
+  const sources = [...new Set(groupedPoints.map(d => d.source))];
 
   return (
-    <div className="w-full p-4 bg-white rounded-lg shadow">
-      <h2 className="text-xl font-bold mb-4">Image Sizes (width × height)</h2>
-      
-      <select
-        value={selectedCategory}
-        onChange={(e) => setSelectedCategory(e.target.value)}
-        className="mb-4 p-2 border rounded"
-      >
-        {categories.map(cat => (
-          <option key={cat} value={cat}>
-            {cat}
-          </option>
-        ))}
-      </select>
+    <div className="chart-image-sizes-container">
+      <h2 className="chart-image-sizes-title">Image Sizes (width × height)</h2>
 
-      <ScatterChart
-        width={800}
-        height={400}
-        margin={{ top: 20, right: 20, bottom: 20, left: 20 }}
-      >
-        <CartesianGrid />
-        <XAxis
-          type="number"
-          dataKey="x"
-          name="Width"
-          label={{ value: 'Width (px)', position: 'bottom' }}
-          domain={['dataMin', 'dataMax']}
-        />
-        <YAxis
-          type="number"
-          dataKey="y"
-          name="Height"
-          label={{ value: 'Height (px)', angle: -90, position: 'insideLeft' }}
-          domain={['dataMin', 'dataMax']}
-        />
-        {/*
-          ZAxis: uses the `z` field for bubble size.
-          Adjust range as needed so the largest bubble 
-          doesn’t cover the entire chart.
-        */}
-        <ZAxis
-          type="number"
-          dataKey="z"
-          range={[50, 400]}
-          name="Frequency"
-        />
+      <div className="chart-image-sizes-select-container">
+        <select
+          value={selectedCategory}
+          onChange={(e) => setSelectedCategory(e.target.value)}
+          className="chart-image-sizes-select"
+        >
+          {categories.map(cat => (
+            <option
+              key={cat}
+              value={cat}
+              className="chart-image-sizes-option"
+            >
+              {cat}
+            </option>
+          ))}
+        </select>
+      </div>
 
-        <Tooltip
-          cursor={{ strokeDasharray: '3 3' }}
-          content={({ active, payload }) => {
-            if (active && payload && payload.length) {
-              const d = payload[0].payload;
-              return (
-                <div className="bg-white border p-2 shadow">
-                  <p className="font-bold">{d.title}</p>
-                  <p>{d.x} × {d.y} px</p>
-                  <p>Source: {d.source}</p>
-                  <p>Count: {d.z}</p>
-                </div>
-              );
-            }
-            return null;
-          }}
-        />
-        <Legend />
+      <div className="chart-image-sizes-chart-container">
+        <ScatterChart
+          width={800}
+          height={400}
+          margin={{ top: 20, right: 20, bottom: 60, left: 60 }}
+        >
+          <CartesianGrid stroke="#444" />
+          <XAxis
+            type="number"
+            dataKey="x"
+            name="Width"
+            label={{ value: 'Width (px)', position: 'bottom', fill: '#ccc' }}
+            tick={{ fill: '#ccc' }}
+            domain={['dataMin', 'dataMax']}
+          />
+          <YAxis
+            type="number"
+            dataKey="y"
+            name="Height"
+            label={{ value: 'Height (px)', angle: -90, position: 'insideLeft', fill: '#ccc' }}
+            tick={{ fill: '#ccc' }}
+            domain={['dataMin', 'dataMax']}
+          />
 
-        <Scatter
-          name="CNN"
-          data={cnnData}
-          fill="#FF0000"
-          stroke="#333"
-          strokeWidth={1}
-          fillOpacity={0.7}
-        />
-        <Scatter
-          name="FOX"
-          data={foxData}
-          fill="#0000FF"
-          stroke="#333"
-          strokeWidth={1}
-          fillOpacity={0.7}
-        />
-      </ScatterChart>
+          {/* ZAxis: uses the `z` field for bubble size. Adjust range as needed */}
+          <ZAxis
+            type="number"
+            dataKey="z"
+            range={[60, 300]}
+            name="Frequency"
+            stroke="#ccc"
+          />
+
+          <Tooltip
+            cursor={{ strokeDasharray: '3 3' }}
+            content={({ active, payload }) => {
+              if (active && payload && payload.length) {
+                const d = payload[0].payload;
+                return (
+                  <div className="custom-tooltip">
+                    <p className="tooltip-title">{d.title}</p>
+                    <p>{d.x} × {d.y} px</p>
+                    <p>Source: {d.source}</p>
+                    <p>Count: {d.z}</p>
+                  </div>
+                );
+              }
+              return null;
+            }}
+          />
+          <Legend verticalAlign="top" height={36} />
+
+          {sources.map(source => (
+            <Scatter
+              key={source}
+              name={source}
+              data={groupedPoints.filter(d => d.source === source)}
+              fill={COLORS[source]}
+              stroke={COLORS[source]}
+              fillOpacity={0.6}
+            />
+          ))}
+        </ScatterChart>
+      </div>
     </div>
   );
 }

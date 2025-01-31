@@ -1,5 +1,4 @@
 // src/components/ChartWordsPerArticle.jsx
-
 import React, { useState } from 'react';
 import {
   ScatterChart,
@@ -11,6 +10,10 @@ import {
   Legend,
   ZAxis,
 } from 'recharts';
+import { COLORS } from '../constants';
+
+// Import the CSS file
+import './ChartWordsPerArticle.css';
 
 const categories = ['All', 'sports', 'health', 'science', 'politics', 'world'];
 
@@ -51,92 +54,93 @@ function ChartWordsPerArticle({ data }) {
   const groupedData = groupPoints(filteredData);
 
   // Separate by source
-  const cnnData = groupedData.filter(d => d.source === 'CNN');
-  const foxData = groupedData.filter(d => d.source === 'FOX');
+  const sources = [...new Set(groupedData.map(d => d.source))];
 
   return (
-    <div className="w-full p-4 bg-white rounded-lg shadow">
-      <h2 className="text-xl font-bold mb-4">Words per Article</h2>
-      
-      <select
-        value={selectedCategory}
-        onChange={(e) => setSelectedCategory(e.target.value)}
-        className="mb-4 p-2 border rounded"
-      >
-        {categories.map(cat => (
-          <option key={cat} value={cat}>
-            {cat}
-          </option>
-        ))}
-      </select>
+    <div className="chart-words-container">
+      <h2 className="chart-words-title">Words per Article</h2>
 
-      <ScatterChart
-        width={800}
-        height={400}
-        margin={{ top: 20, right: 20, bottom: 20, left: 20 }}
-      >
-        <CartesianGrid />
-        <XAxis
-          type="number"
-          dataKey="x"
-          name="Article Index"
-          label={{ value: 'Article Index', position: 'bottom' }}
-        />
-        <YAxis
-          type="number"
-          dataKey="y"
-          name="Word Count"
-          label={{ value: 'Word Count', angle: -90, position: 'insideLeft' }}
-          domain={['dataMin', 'dataMax']}
-        />
+      <div className="chart-words-select-container">
+        <select
+          value={selectedCategory}
+          onChange={(e) => setSelectedCategory(e.target.value)}
+          className="chart-words-select"
+        >
+          {categories.map(cat => (
+            <option
+              key={cat}
+              value={cat}
+              className="chart-words-option"
+            >
+              {cat}
+            </option>
+          ))}
+        </select>
+      </div>
 
-        {/* 
-          ZAxis for bubble frequency. 
-          Increase or decrease the [min, max] range as needed.
-        */}
-        <ZAxis
-          type="number"
-          dataKey="z"
-          range={[50, 400]}
-          name="Frequency"
-        />
+      <div className="chart-words-chart-container">
+        <ScatterChart
+          width={800}
+          height={400}
+          margin={{ top: 20, right: 20, bottom: 60, left: 60 }}
+        >
+          <CartesianGrid stroke="#444" />
+          <XAxis
+            type="number"
+            dataKey="x"
+            name="Article Index"
+            label={{ value: 'Article Index', position: 'bottom', fill: '#ccc' }}
+            tick={{ fill: '#ccc' }}
+          />
+          <YAxis
+            type="number"
+            dataKey="y"
+            name="Word Count"
+            label={{ value: 'Word Count', angle: -90, position: 'insideLeft', fill: '#ccc' }}
+            tick={{ fill: '#ccc' }}
+            domain={['dataMin', 'dataMax']}
+          />
 
-        <Tooltip
-          cursor={{ strokeDasharray: '3 3' }}
-          content={({ active, payload }) => {
-            if (active && payload && payload.length) {
-              const d = payload[0].payload;
-              return (
-                <div className="bg-white border p-2 shadow">
-                  <p className="font-bold">{d.title}</p>
-                  <p>Words: {d.y}</p>
-                  <p>Source: {d.source}</p>
-                  <p>Count: {d.z}</p>
-                </div>
-              );
-            }
-            return null;
-          }}
-        />
-        <Legend />
+          {/* ZAxis for bubble frequency. Adjust range as needed. */}
+          <ZAxis
+            type="number"
+            dataKey="z"
+            range={[60, 300]}
+            name="Frequency"
+            stroke="#ccc"
+          />
 
-        <Scatter
-          name="CNN"
-          data={cnnData}
-          fill="#FF0000"
-          stroke="#333"
-          strokeWidth={1}
-          fillOpacity={0.7}
-        />
-        <Scatter
-          name="FOX"
-          data={foxData}
-          fill="#0000FF"
-          stroke="#333"
-          strokeWidth={1}
-          fillOpacity={0.7}
-        />
-      </ScatterChart>
+          <Tooltip
+            cursor={{ strokeDasharray: '3 3' }}
+            content={({ active, payload }) => {
+              if (active && payload && payload.length) {
+                const d = payload[0].payload;
+                return (
+                  <div className="custom-tooltip">
+                    <p className="tooltip-title">{d.title}</p>
+                    <p>Words: {d.y}</p>
+                    <p>Source: {d.source}</p>
+                    <p>Count: {d.z}</p>
+                  </div>
+                );
+              }
+              return null;
+            }}
+          />
+          <Legend verticalAlign="top" height={36} />
+
+          {sources.map(source => (
+            <Scatter
+              key={source}
+              name={source}
+              data={groupedData.filter(d => d.source === source)}
+              fill={COLORS[source]}
+              stroke={COLORS[source]}
+              fillOpacity={0.6}
+            />
+          ))}
+        </ScatterChart>
+      </div>
     </div>
   );
 }

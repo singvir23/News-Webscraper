@@ -1,0 +1,51 @@
+/* ChartWordsPerArticle.css */
+
+/* Main container for the chart component */
+.chart-words-container {
+    width: 100%;
+    padding: 1.5rem; /* Equivalent to p-6 */
+    background-color: #2d3748; /* Equivalent to bg-gray-800 */
+    border-radius: 0.5rem; /* Equivalent to rounded-lg */
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+                0 4px 6px -2px rgba(0, 0, 0, 0.05); /* Equivalent to shadow-lg */
+  }
+  
+  /* Title styling */
+  .chart-words-title {
+    font-size: 1.5rem; /* Equivalent to text-2xl */
+    font-weight: 600; /* Equivalent to font-semibold */
+    margin-bottom: 1rem; /* Equivalent to mb-4 */
+    text-align: center; /* Equivalent to text-center */
+    color: #f7fafc; /* Equivalent to text-gray-100 */
+  }
+  
+  /* Container for the select dropdown */
+  .chart-words-select-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Select dropdown styling */
+  .chart-words-select {
+    margin-bottom: 1.5rem; /* Equivalent to mb-6 */
+    padding: 0.5rem; /* Equivalent to p-2 */
+    background-color: #4a5568; /* Equivalent to bg-gray-700 */
+    color: #f7fafc; /* Equivalent to text-gray-100 */
+    border: 1px solid #4a5568; /* Equivalent to border border-gray-600 */
+    border-radius: 0.25rem; /* Equivalent to rounded */
+    appearance: none;
+    cursor: pointer;
+  }
+  
+  /* Option styling */
+  .chart-words-option {
+    background-color: #2d3748; /* Equivalent to bg-gray-800 */
+    color: #f7fafc; /* Equivalent to text-gray-100 */
+  }
+  
+  /* Container for the ScatterChart */
+  .chart-words-chart-container {
+    display: flex;
+    justify-content: center;
+  }
+  
