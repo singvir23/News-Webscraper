@@ -1,4 +1,5 @@
-Total Articles: 530
+Total Articles: 567
+
 Category: politics
 Title: Dems renew push for limiting presidential clemency powers after Hunter Biden pardon
 URL: https://www.foxnews.com/politics/dems-renew-push-limiting-presidential-clemency-powers-after-hunter-biden-pardon
@@ -546,13 +547,6 @@ Word Count: 882 words
 Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
 
 Category: sports
-Title: Fox News Digital Sports NFL power rankings after Week 13 of 2024 season
-URL: https://www.foxnews.com/sports/fox-news-digital-sports-nfl-power-rankings-after-week-13-2024-season
-Date: Wed, 04 Dec 2024 04:00:24 -0500
-Word Count: 1899 words
-Images: 32 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: sports
 Title: Michigan fires offensive coordinator Kirk Campbell despite team's upset win over Ohio State
 URL: https://www.foxnews.com/sports/michigan-fires-offensive-coordinator-kirk-campbell-despite-teams-win-over-ohio-state
 Date: Tue, 03 Dec 2024 21:43:32 -0500
@@ -931,13 +925,6 @@ Word Count: 571 words
 Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
 
 Category: health
-Title: The year in cancer: Advances made in 2024, predictions for 2025
-URL: https://www.foxnews.com/health/year-cancer-advances-made-2024-predictions-2025
-Date: Mon, 23 Dec 2024 04:30:51 -0500
-Word Count: 1557 words
-Images: 11 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: health
 Title: Traveling for Christmas? Stay healthy with these 7 tips
 URL: https://www.foxnews.com/health/traveling-christmas-stay-healthy-tips
 Date: Sun, 22 Dec 2024 14:10:13 -0500
@@ -1125,13 +1112,6 @@ URL: https://www.foxnews.com/health/drug-approvals-2024-big-clinical-impact-acco
 Date: Wed, 01 Jan 2025 04:30:22 -0500
 Word Count: 401 words
 Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: sports
-Title: Fox News Digital Sports NFL power rankings after Week 17 of the 2024 season
-URL: https://www.foxnews.com/sports/fox-news-digital-sports-nfl-power-rankings-after-week-17-2024-season
-Date: Wed, 01 Jan 2025 04:00:15 -0500
-Word Count: 1997 words
-Images: 32 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
 
 Category: sports
 Title: Penn State routs Boise State to advance to CFP semifinal; Ashton Jeanty comes up short of rushing record
@@ -2022,90 +2002,6 @@ Date: Mon, 06 Jan 2025 07:21:26 -0500
 Word Count: 560 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
-Category: world
-Title: UK lawmakers vote against inquiry into 'rape gang scandal' as Musk keeps up pressure
-URL: https://www.foxnews.com/world/uk-lawmakers-vote-against-inquiry-rape-gang-scandal-musk-keeps-up-pressure
-Date: Wed, 08 Jan 2025 15:15:41 -0500
-Word Count: 681 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: 2 Americans arrested in Venezuela on eve of Maduro inauguration over ‘terrorism’ claims
-URL: https://www.foxnews.com/world/two-americans-arrested-venezuela-eve-maduro-inauguration-over-terrorism-claims
-Date: Wed, 08 Jan 2025 13:44:50 -0500
-Word Count: 687 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: 23-year-old hiker found after surviving for 2 weeks in Australian mountain range
-URL: https://www.foxnews.com/world/23-year-old-hiker-found-after-surviving-2-weeks-australian-mountain-range
-Date: Wed, 08 Jan 2025 11:57:17 -0500
-Word Count: 326 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: US strikes underground Houthi weapons depots used to hit American ships
-URL: https://www.foxnews.com/world/us-strikes-underground-houthi-weapons-depots-used-hit-american-ships
-Date: Wed, 08 Jan 2025 10:52:34 -0500
-Word Count: 482 words
-Images: 3 (Sizes: 2024x11, 1200x675, 1200x675)
-
-Category: world
-Title: Mexico offers protection to famed singer after drug cartel death threats
-URL: https://www.foxnews.com/world/mexico-offers-protection-famed-singer-after-drug-cartel-death-threats
-Date: Wed, 08 Jan 2025 10:29:56 -0500
-Word Count: 507 words
-Images: 1 (Sizes: 1200x675)
-
-Category: world
-Title: Bipartisan lawmakers introduce ‘Georgian Nightmare Non-Recognition Act' in warning to Putin allied government
-URL: https://www.foxnews.com/world/bipartisan-lawmakers-introduce-georgian-nightmare-non-recognition-act-warning-putin-allied-government
-Date: Wed, 08 Jan 2025 09:23:49 -0500
-Word Count: 800 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Italian journalist Cecilia Sala freed from detention in Iran
-URL: https://www.foxnews.com/world/italian-journalist-cecilia-sala-freed-from-detention-iran
-Date: Wed, 08 Jan 2025 08:45:11 -0500
-Word Count: 537 words
-Images: 2 (Sizes: 1200x675, 1200x675)
-
-Category: world
-Title: At least 9 miners are trapped in a coal mine in India's northeastern Assam state
-URL: https://www.foxnews.com/world/least-9-miners-trapped-coal-mine-indias-northeastern-assam-state
-Date: Tue, 07 Jan 2025 16:39:46 -0500
-Word Count: 351 words
-Images: 1 (Sizes: 1200x675)
-
-Category: world
-Title: Trump reinforces 'all hell will break out' if hostages not returned by inauguration
-URL: https://www.foxnews.com/world/trump-reinforces-all-hell-break-out-hostages-not-returned-inauguration
-Date: Tue, 07 Jan 2025 16:39:13 -0500
-Word Count: 509 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Trudeau says there ‘isn’t a snowball’s chance in hell’ Canada will become part of US
-URL: https://www.foxnews.com/world/trudeau-isnt-snowballs-chance-hell-canada-become-part-us
-Date: Tue, 07 Jan 2025 16:31:48 -0500
-Word Count: 471 words
-Images: 2 (Sizes: 1200x675, 1200x675)
-
-Category: world
-Title: Iran's nuclear program is nearing 'the point of no return,' France's Macron says
-URL: https://www.foxnews.com/world/irans-nuclear-program-nearing-the-point-no-return-frances-macron-says
-Date: Tue, 07 Jan 2025 13:38:42 -0500
-Word Count: 388 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Kim Jong Un’s big guns spotted on Russian front lines: report
-URL: https://www.foxnews.com/world/kim-jong-uns-big-guns-spotted-russian-front-lines-report
-Date: Tue, 07 Jan 2025 12:39:22 -0500
-Word Count: 564 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
 Category: politics
 Title: Biden looks to limit AI product exports, tech leaders say they'll lose global market share
 URL: https://www.foxnews.com/politics/biden-limit-ai-exports-tech-leaders-lose-global-market-share
@@ -2484,27 +2380,6 @@ Date: Wed, 08 Jan 2025 08:18:58 -0500
 Word Count: 338 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
-Category: world
-Title: Who could replace Trudeau as Canadian prime minister, with Trump threatening tariffs?
-URL: https://www.foxnews.com/world/who-could-replace-trudeau-canadian-prime-minister-trump-threatening-tariffs
-Date: Tue, 07 Jan 2025 11:36:59 -0500
-Word Count: 1006 words
-Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Venezuela's Maduro to start third term in office amid rigged election: 'Blatant violation'
-URL: https://www.foxnews.com/world/venezuelas-maduro-start-third-term-office-amid-rigged-election-blatant-violation
-Date: Tue, 07 Jan 2025 11:13:04 -0500
-Word Count: 717 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Controversial founder of French far right, Jean-Marie Le Pen, dies aged 96
-URL: https://www.foxnews.com/world/controversial-founder-french-far-right-jean-marie-le-pen-dies-aged-96
-Date: Tue, 07 Jan 2025 10:54:00 -0500
-Word Count: 817 words
-Images: 1 (Sizes: 1200x675)
-
 Category: health
 Title: 6 tips to ‘detox’ after excessive holiday eating and drinking
 URL: https://www.foxnews.com/health/6-tips-detox-excessive-holiday-eating-drinking
@@ -2552,27 +2427,6 @@ Title: Alcohol linked to cancer in health advisory as doctors react
 URL: https://www.foxnews.com/health/alcohol-linked-cancer-health-advisory-doctors-react
 Date: Wed, 08 Jan 2025 20:09:37 -0500
 Word Count: 87 words
-Images: 1 (Sizes: 1200x675)
-
-Category: world
-Title: Israel sends report to UN on 'brutal' treatment used by terrorists against hostages in Gaza
-URL: https://www.foxnews.com/world/israel-sends-report-un-brutal-treatment-used-terrorists-hostages-gaza
-Date: Thu, 09 Jan 2025 10:40:01 -0500
-Word Count: 949 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: The historic importance of Greenland for US national security as debate over island's future roars on
-URL: https://www.foxnews.com/world/historic-importance-greenland-us-national-security-debate-over-islands-future-roars
-Date: Thu, 09 Jan 2025 10:02:17 -0500
-Word Count: 809 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Baby girl born on packed migrant boat heading for Spain's Canary Islands
-URL: https://www.foxnews.com/world/baby-girl-born-packed-migrant-boat-heading-spains-canary-islands
-Date: Thu, 09 Jan 2025 09:25:09 -0500
-Word Count: 441 words
 Images: 1 (Sizes: 1200x675)
 
 Category: politics
@@ -2830,83 +2684,6 @@ Title: American tennis star Frances Tiafoe dishes on 'crazy' hangouts with Taylo
 URL: https://www.foxnews.com/sports/american-tennis-star-frances-tiafoe-dishes-crazy-hangouts-taylor-swift-travis-kelce
 Date: Thu, 09 Jan 2025 12:31:15 -0500
 Word Count: 362 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Trump issues warning to Maduro as Venezuelan leader enters third term, US expands sanctions
-URL: https://www.foxnews.com/world/trump-issues-warning-maduro-venezuelan-leader-enters-third-term-us-expands-sanctions
-Date: Fri, 10 Jan 2025 12:40:23 -0500
-Word Count: 563 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Trump setting up meeting with Putin, in communication with Xi
-URL: https://www.foxnews.com/world/trump-setting-up-meeting-putin-communication-xi
-Date: Fri, 10 Jan 2025 11:04:47 -0500
-Word Count: 599 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Lebanon's new president strikes a nationalistic tone amid regional shifts, further weakening of Hezbollah
-URL: https://www.foxnews.com/world/lebanons-new-president-strikes-nationalistic-tone-amid-regional-shifts-further-weakening-hezbollah
-Date: Fri, 10 Jan 2025 06:21:17 -0500
-Word Count: 995 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Taiwan FM hails importance of US relationship, says group visits 'contribute to peace and stability'
-URL: https://www.foxnews.com/world/taiwan-fm-hails-importance-us-relationship-says-group-visits-contribute-peace-stability
-Date: Fri, 10 Jan 2025 06:13:37 -0500
-Word Count: 1057 words
-Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Trump's victory could give boost to Brazil's Bolsonaro's re-election hopes amid court ban on him running
-URL: https://www.foxnews.com/world/trumps-victory-could-give-boost-brazils-bolsonaros-re-election-hopes-amid-court-ban-him-running
-Date: Fri, 10 Jan 2025 04:00:14 -0500
-Word Count: 972 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 2022x10)
-
-Category: world
-Title: Details of Venezuelan opposition leader's possible arrest remain unclear amid Maduro inauguration resistance
-URL: https://www.foxnews.com/world/details-venezuelan-opposition-leaders-possible-arrest-remain-unclear-maduro-inauguration-resistance
-Date: Thu, 09 Jan 2025 18:10:18 -0500
-Word Count: 979 words
-Images: 1 (Sizes: 1200x675)
-
-Category: world
-Title: Thousands of Venezuelan opposition supporters take to the streets ahead of Maduro's third inauguration
-URL: https://www.foxnews.com/world/thousands-venezuelan-opposition-supporters-take-streets-ahead-maduros-third-inauguration
-Date: Thu, 09 Jan 2025 15:54:47 -0500
-Word Count: 900 words
-Images: 1 (Sizes: 1200x675)
-
-Category: world
-Title: Poland adopts resolution protecting Netanyahu from arrest if he attends Auschwitz liberation commemoration
-URL: https://www.foxnews.com/world/poland-adopts-resolution-protecting-netanyahu-from-arrest-he-attends-auschwitz-liberation-commemoration
-Date: Thu, 09 Jan 2025 15:21:19 -0500
-Word Count: 548 words
-Images: 1 (Sizes: 1200x675)
-
-Category: world
-Title: Russia monitoring Trump’s ‘dramatic’ comments on Greenland acquisition
-URL: https://www.foxnews.com/world/russia-monitoring-trumps-dramatic-comments-greenland-acquisition
-Date: Thu, 09 Jan 2025 14:32:51 -0500
-Word Count: 690 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: 'Dinosaur highway' footprints dating back 166 million years discovered in England
-URL: https://www.foxnews.com/world/dinosaur-highway-footprints-dating-back-166-million-years-discovered-england
-Date: Thu, 09 Jan 2025 13:23:13 -0500
-Word Count: 455 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Panama Canal CEO denies Trump claim that China in control, says end of Carter neutrality treaty means 'chaos'
-URL: https://www.foxnews.com/world/panama-canal-ceo-trump-claim-china-in-control-says-end-carter-neutrality-treaty-means-chaos
-Date: Thu, 09 Jan 2025 13:17:31 -0500
-Word Count: 710 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 
 Category: politics
@@ -3279,55 +3056,6 @@ URL: https://www.foxnews.com/sports/super-bowl-champion-sean-landeta-fumes-radio
 Date: Thu, 09 Jan 2025 17:03:37 -0500
 Word Count: 332 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: World's largest religious gathering begins in India, hundreds of millions of Hindus expected to attend
-URL: https://www.foxnews.com/world/worlds-largest-religious-gathering-begins-india-hundreds-millions-hindus-expected-attend
-Date: Mon, 13 Jan 2025 09:32:58 -0500
-Word Count: 857 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Incoming Trump administration given new blueprint on ways to weaken Iran: 'unique opportunity'
-URL: https://www.foxnews.com/world/incoming-trump-administration-given-new-blueprint-ways-weaken-iran-unique-opportunity
-Date: Mon, 13 Jan 2025 06:35:11 -0500
-Word Count: 957 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Biden calls for immediate cease-fire in call with Israel's Netanyahu
-URL: https://www.foxnews.com/world/biden-calls-immediate-ceasefire-call-israels-netanyahu
-Date: Mon, 13 Jan 2025 05:50:52 -0500
-Word Count: 559 words
-Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Ukraine has captured 2 North Korean soldiers, South Korea's intelligence service says
-URL: https://www.foxnews.com/world/ukraine-captured-north-korean-soldiers-south-koreas-intelligence-service-says
-Date: Sun, 12 Jan 2025 10:43:06 -0500
-Word Count: 416 words
-Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Influential leader of Canada's Ontario province seeks Trump, Musk meeting: US 'needs us like we need them'
-URL: https://www.foxnews.com/world/influential-leader-canadas-ontario-province-seeks-trump-musk-meeting-us-needs-us-like-we-need-them
-Date: Sun, 12 Jan 2025 04:00:42 -0500
-Word Count: 1216 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
-
-Category: world
-Title: Russia says it will continue oil and gas projects despite US sanctions
-URL: https://www.foxnews.com/world/russia-says-continue-oil-gas-projects-despite-us-sanctions
-Date: Sat, 11 Jan 2025 14:54:49 -0500
-Word Count: 292 words
-Images: 1 (Sizes: 1200x675)
-
-Category: world
-Title: Biden admin slammed for ‘waiting’ to declare genocide in Sudan
-URL: https://www.foxnews.com/world/biden-admin-slammed-waiting-declare-genocide-sudan
-Date: Sat, 11 Jan 2025 07:00:49 -0500
-Word Count: 1047 words
-Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
 
 Category: politics
 Title: New NYC 'char broil' rule would force restaurants to cut emissions by 75%
@@ -3712,5 +3440,537 @@ Title: Bears seek to interview Notre Dame's Marcus Freeman for head coach job: r
 URL: https://www.foxnews.com/sports/bears-seek-interview-notre-dames-marcus-freeman-head-coach-job-report
 Date: Sun, 12 Jan 2025 14:08:15 -0500
 Word Count: 304 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: NY Dems working to keep Stefanik's House seat vacant for months in latest scheme against Trump: assemblyman
+URL: https://www.foxnews.com/politics/ny-dems-working-keep-stefaniks-house-seat-vacant-months-latest-scheme-against-trump-assemblyman
+Date: Sun, 02 Feb 2025 14:54:00 -0500
+Word Count: 1238 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Fetterman says RFK Jr confirmation 'not a slam dunk,' as Trump HHS nominee shores up support
+URL: https://www.foxnews.com/politics/fetterman-says-rfk-jr-confirmation-not-slam-dunk-trump-hhs-nominee-shores-support
+Date: Sun, 02 Feb 2025 13:55:02 -0500
+Word Count: 642 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: New DNC vice chair previously called for ICE to be abolished
+URL: https://www.foxnews.com/politics/new-dnc-vice-chair-previously-called-ice-abolished
+Date: Sun, 02 Feb 2025 13:19:25 -0500
+Word Count: 510 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Trump says Canada would have no tariffs as 51st state, as observers brace for trade war
+URL: https://www.foxnews.com/politics/trump-says-canada-would-have-no-tariffs-51st-state-observers-brace-trade-war
+Date: Sun, 02 Feb 2025 12:01:26 -0500
+Word Count: 457 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Musk rips 'fraudulent' Treasury handouts as reports mount DOGE has access to federal payment system
+URL: https://www.foxnews.com/politics/musk-rips-fraudulent-treasury-payments-reports-mount-doge-has-access-federal-payment-system
+Date: Sun, 02 Feb 2025 11:26:34 -0500
+Word Count: 765 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Transportation Sec Sean Duffy says FAA systems are 'antiquated,' calls for more air traffic controllers
+URL: https://www.foxnews.com/politics/transportation-sec-sean-duffy-says-faa-systems-antiquated-calls-more-air-traffic-controllers
+Date: Sun, 02 Feb 2025 10:40:48 -0500
+Word Count: 449 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Washington state lawmakers propose requiring speed-limiting devices in cars of drivers with speeding history
+URL: https://www.foxnews.com/politics/washington-state-lawmakers-propose-requiring-speed-limiting-devices-cars-drivers-speeding-history
+Date: Sun, 02 Feb 2025 05:56:33 -0500
+Word Count: 451 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: House GOP elections chair reveals which voter blocs Republicans are targeting ahead of 2026
+URL: https://www.foxnews.com/politics/house-gop-elections-chair-reveals-which-voter-blocs-republicans-targeting-ahead-2026
+Date: Sun, 02 Feb 2025 04:00:52 -0500
+Word Count: 616 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'New sheriff in town': Parents 'overjoyed' with Trump's DEI crackdown, education group says
+URL: https://www.foxnews.com/politics/new-sheriff-town-parents-overjoyed-trumps-dei-crackdown-education-group-says
+Date: Sun, 02 Feb 2025 04:00:05 -0500
+Word Count: 501 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Trump imposes tariffs on imports from Canada, Mexico and China: 'National emergency'
+URL: https://www.foxnews.com/politics/trump-signs-tariffs-imports-canada-mexico-china-national-emergency
+Date: Sat, 01 Feb 2025 17:35:07 -0500
+Word Count: 499 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Democrats elect new chair who branded Trump a 'traitor' as party aims to rebound from disastrous 2024 election
+URL: https://www.foxnews.com/politics/democrats-elect-new-chair-party-aims-rebound-following-major-2024-election-setbacks
+Date: Sat, 01 Feb 2025 14:01:08 -0500
+Word Count: 958 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, Unknown Size, 1200x675)
+
+Category: politics
+Title: Reagan National Airport has bothered lawmakers for years, but quick access to power has stalled change
+URL: https://www.foxnews.com/politics/reagan-national-airport-has-bothered-lawmakers-years-quick-access-power-has-stalled-change
+Date: Sat, 01 Feb 2025 13:17:33 -0500
+Word Count: 1233 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, Unknown Size)
+
+Category: politics
+Title: Where Trump's Cabinet nominees stand in Senate confirmation process
+URL: https://www.foxnews.com/politics/where-trumps-cabinet-nominees-stand-senate-confirmation-process
+Date: Sat, 01 Feb 2025 10:00:14 -0500
+Word Count: 528 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Pennsylvania gov rebuffs PETA's demands on Punxsutawney Phil: 'Come and take it'
+URL: https://www.foxnews.com/politics/pennsylvania-gov-rebuffs-petas-demands-punxsutawney-phil-come-take-it
+Date: Sat, 01 Feb 2025 09:00:30 -0500
+Word Count: 535 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+
+Category: politics
+Title: LGBT activists mobilize to challenge Trump's 'extreme gender ideology' executive orders
+URL: https://www.foxnews.com/politics/lgbt-activists-mobilize-challenge-trumps-extreme-gender-ideology-executive-orders
+Date: Sat, 01 Feb 2025 09:00:21 -0500
+Word Count: 590 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Extreme rules': Top Arizona lawmaker leans on Trump EPA to fight California's 'radical' climate agenda
+URL: https://www.foxnews.com/politics/extreme-rules-top-arizona-lawmaker-leans-trump-epa-fight-californias-radical-climate-agenda
+Date: Sat, 01 Feb 2025 08:00:52 -0500
+Word Count: 550 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+
+Category: politics
+Title: Top Georgia Republican unveils statewide DOGE plan to 'reset' regulations: 'Red Tape Rollback'
+URL: https://www.foxnews.com/politics/top-georgia-republican-unveils-statewide-doge-plan-to-reset-regulations-red-tape-rollback
+Date: Sat, 01 Feb 2025 08:00:44 -0500
+Word Count: 604 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: California city's massive $130M deficit threatens dangerous cuts to its firefighting capacity
+URL: https://www.foxnews.com/politics/california-citys-129-8-million-budget-deficit-close-seven-fire-stations
+Date: Sat, 01 Feb 2025 08:00:03 -0500
+Word Count: 862 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Sen. Tillis opens up about role in Pete Hegseth's confirmation after Hegseth's ex-sister-in-law's allegations
+URL: https://www.foxnews.com/politics/senator-tillis-opens-up-about-role-pete-hegseths-confirmation-after-ex-sister-in-law-allegations
+Date: Sat, 01 Feb 2025 06:30:00 -0500
+Word Count: 635 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Here's what happened during President Trump's second week in office
+URL: https://www.foxnews.com/politics/heres-what-happened-during-president-trumps-second-week-office
+Date: Sat, 01 Feb 2025 06:00:56 -0500
+Word Count: 1349 words
+Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Anthony Fauci may be deposed as GOP intensifies COVID investigations in new Congress
+URL: https://www.foxnews.com/politics/anthony-fauci-deposed-gop-covid-investigations-congress
+Date: Sat, 01 Feb 2025 06:00:08 -0500
+Word Count: 743 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Important opportunity': DNC chair candidates reveal how they will rebound after disastrous 2024 results
+URL: https://www.foxnews.com/politics/important-opportunity-dnc-chair-candidates-reveal-how-they-will-rebound-disastrous-2024-results
+Date: Sat, 01 Feb 2025 04:00:46 -0500
+Word Count: 1003 words
+Images: 5 (Sizes: 1200x675, 1200x675, Unknown Size, Unknown Size, 1200x675)
+
+Category: politics
+Title: DOJ directs FBI to fire 8 top officials, identify employees involved in Jan. 6, Hamas cases for review
+URL: https://www.foxnews.com/politics/fbi-agents-employees-being-fired-told-retire-quit-they-came-after-lot-people-trump-says
+Date: Fri, 31 Jan 2025 20:57:26 -0500
+Word Count: 1146 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: Supreme Court to consider an effort to establish the nation’s first publicly funded religious charter school
+URL: https://www.foxnews.com/politics/supreme-court-consider-effort-establish-nations-first-publicly-funded-religious-charter-school
+Date: Fri, 31 Jan 2025 18:36:03 -0500
+Word Count: 705 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: politics
+Title: 'Unfit to lead': Blue state governor lashes out at Trump for targeting DEI policies after DC plane crash
+URL: https://www.foxnews.com/politics/blue-state-governor-lashes-out-trump-targeting-dei-policies-dc-plane-crash-unfit-lead
+Date: Fri, 31 Jan 2025 18:15:28 -0500
+Word Count: 827 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: science
+Title: Newly discovered asteroid turns out to be Tesla Roadster launched into space
+URL: https://www.foxnews.com/science/newly-discovered-asteroid-turns-tesla-roadster-launched-space
+Date: Fri, 24 Jan 2025 21:12:40 -0500
+Word Count: 305 words
+Images: 3 (Sizes: 1200x675, 1200x675, 2023x05)
+
+Category: health
+Title: FDA approves opioid-free pain medication with 'no sign of addiction'
+URL: https://www.foxnews.com/health/fda-approves-opioid-free-pain-medication-no-sign-addiction
+Date: Sun, 02 Feb 2025 04:30:44 -0500
+Word Count: 781 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: One man knows the secrets of living a long, healthy life, and it's all about one activity
+URL: https://www.foxnews.com/health/one-man-knows-secrets-living-long-healthy-life-its-one-activity
+Date: Sat, 01 Feb 2025 14:13:40 -0500
+Word Count: 630 words
+Images: 6 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Some winter viruses could trigger heart complications, experts warn
+URL: https://www.foxnews.com/health/some-winter-viruses-could-trigger-heart-complications-experts-warn
+Date: Sat, 01 Feb 2025 09:00:57 -0500
+Word Count: 833 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: New bird flu strain detected on poultry farm as experts monitor mutations
+URL: https://www.foxnews.com/health/new-bird-flu-strain-detected-poultry-farm-experts-monitor-mutations
+Date: Fri, 31 Jan 2025 16:48:17 -0500
+Word Count: 597 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Woman with cancer reveals the diet that she says saved her life
+URL: https://www.foxnews.com/health/woman-cancer-reveals-diet-she-says-saved-her-life
+Date: Fri, 31 Jan 2025 04:00:16 -0500
+Word Count: 777 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Marla Maples advocates for healthier food choices for Americans amid RFK Jr. hearings
+URL: https://www.foxnews.com/health/marla-maples-backs-rfk-jr-trump-cabinet-advocates-healthier-food-choices
+Date: Thu, 30 Jan 2025 04:30:46 -0500
+Word Count: 524 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Top killer in US revealed, plus red meat warnings spark questions
+URL: https://www.foxnews.com/health/top-killer-us-revealed-plus-red-meat-warnings-spark-questions
+Date: Wed, 29 Jan 2025 20:19:41 -0500
+Word Count: 83 words
+Images: 1 (Sizes: 1200x675)
+
+Category: health
+Title: Ebola outbreak reported in African country — here’s what you need to know
+URL: https://www.foxnews.com/health/ebola-outbreak-reported-african-country-heres-what-need-know
+Date: Wed, 29 Jan 2025 18:47:06 -0500
+Word Count: 563 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Why does RFK Jr.’s voice sound raspy? Here’s what to know
+URL: https://www.foxnews.com/health/why-does-rfk-jr-voice-sound-raspy-heres-what-know
+Date: Wed, 29 Jan 2025 14:24:11 -0500
+Word Count: 517 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: This disease kills more people than all cancers and accidents combined
+URL: https://www.foxnews.com/health/disease-kills-more-people-than-all-cancers-accidents-combined
+Date: Wed, 29 Jan 2025 04:30:19 -0500
+Word Count: 877 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, Unknown Size)
+
+Category: health
+Title: Kansas City tuberculosis outbreak is largest in US history
+URL: https://www.foxnews.com/health/kansas-city-tuberculosis-outbreak-becomes-largest-us
+Date: Tue, 28 Jan 2025 16:53:26 -0500
+Word Count: 490 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Common mental disorder could shorten your life, study finds
+URL: https://www.foxnews.com/health/common-mental-disorder-could-shorten-life-study-finds
+Date: Tue, 28 Jan 2025 15:08:36 -0500
+Word Count: 800 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, Unknown Size)
+
+Category: health
+Title: Bill Gates likely had autism as a child, he reveals: ‘Wasn’t widely understood’
+URL: https://www.foxnews.com/health/bill-gates-likely-had-autism-child-reveals-wasnt-widely-understood
+Date: Tue, 28 Jan 2025 04:30:32 -0500
+Word Count: 796 words
+Images: 4 (Sizes: 1200x675, 2023x05, 1200x675, 1200x675)
+
+Category: health
+Title: RFK Jr. likely to be confirmed as health secretary, Dr. Siegel says
+URL: https://www.foxnews.com/health/rfk-jr-likely-confirmed-health-secretary-dr-siegel-says
+Date: Mon, 27 Jan 2025 17:19:32 -0500
+Word Count: 558 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Weight loss may be helped by drinking this, study suggests
+URL: https://www.foxnews.com/health/weight-loss-helped-drinking-this-study-suggests
+Date: Mon, 27 Jan 2025 15:55:16 -0500
+Word Count: 835 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: WWII veteran turns 100, reveals the secrets of a long, healthy life
+URL: https://www.foxnews.com/health/wwii-veteran-turns-100-reveals-secrets-long-healthy-life
+Date: Mon, 27 Jan 2025 12:45:02 -0500
+Word Count: 470 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Red meat could raise dementia risk, researchers claim, yet some doctors have questions
+URL: https://www.foxnews.com/health/red-meat-could-raise-dementia-risk-researchers-claim-some-doctors-question
+Date: Mon, 27 Jan 2025 04:30:13 -0500
+Word Count: 1249 words
+Images: 8 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, 1200x675, Unknown Size)
+
+Category: health
+Title: Feeling extra tired? This virus could be the culprit, study suggests
+URL: https://www.foxnews.com/health/feeling-extra-tired-virus-could-culprit-study-suggests
+Date: Sun, 26 Jan 2025 04:30:02 -0500
+Word Count: 832 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Alabama woman who is only person in the world with a functioning pig organ reaches record 2-month milestone
+URL: https://www.foxnews.com/health/alabama-woman-who-only-person-world-functioning-pig-organ-reaches-record-2-month-milestone
+Date: Sun, 26 Jan 2025 03:11:05 -0500
+Word Count: 605 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Alcohol poses these 8 risks to older adults, experts warn
+URL: https://www.foxnews.com/health/alcohol-poses-risks-older-adults-experts-warn
+Date: Sat, 25 Jan 2025 04:30:27 -0500
+Word Count: 1125 words
+Images: 6 (Sizes: 1200x675, Unknown Size, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Kelly Ripa says quitting alcohol had a surprising effect on her weight
+URL: https://www.foxnews.com/health/kelly-ripa-says-quitting-alcohol-had-surprising-effect-her-weight
+Date: Fri, 24 Jan 2025 16:00:42 -0500
+Word Count: 529 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Brain and memory are boosted by eating one particular diet, study finds
+URL: https://www.foxnews.com/health/brain-memory-boosted-eating-one-particular-diet-study-finds
+Date: Fri, 24 Jan 2025 04:30:43 -0500
+Word Count: 642 words
+Images: 5 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Memory loss isn’t always Alzheimer’s: Experts warn of common but little-known dementia
+URL: https://www.foxnews.com/health/memory-loss-isnt-always-alzheimers-experts-warn-common-little-known-dementia
+Date: Thu, 23 Jan 2025 18:00:26 -0500
+Word Count: 520 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: health
+Title: Bird flu proves fatal to cats: Here's how to protect your pets
+URL: https://www.foxnews.com/health/bird-flu-proves-fatal-cats-heres-how-protect-pets
+Date: Thu, 23 Jan 2025 15:48:09 -0500
+Word Count: 666 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Caitlin Clark responds to critics ahead of Iowa jersey retirement: 'I really don't care'
+URL: https://www.foxnews.com/sports/caitlin-clark-responds-critics-ahead-iowa-jersey-retirement-i-really-dont-care
+Date: Sun, 02 Feb 2025 14:32:19 -0500
+Word Count: 668 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Jey Uso eliminates John Cena to win men's Royal Rumble; Cody Rhodes retains world title
+URL: https://www.foxnews.com/sports/jey-uso-charlotte-flair-win-royal-rumble-matches-cody-rhodes-retains-title
+Date: Sun, 02 Feb 2025 14:22:37 -0500
+Word Count: 564 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Mavericks GM discusses 'tough decision' to trade young superstar Luka Dončić
+URL: https://www.foxnews.com/sports/mavericks-gm-discusses-tough-decision-trade-young-superstar-luka-doncic
+Date: Sun, 02 Feb 2025 12:24:02 -0500
+Word Count: 488 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: LeBron James breaks silence on blockbuster trade by refuting report he was 'frustrated' with now ex-teammate
+URL: https://www.foxnews.com/sports/lebron-james-breaks-silence-blockbuster-trade-refuting-report-he-frustrated-now-ex-teammate
+Date: Sun, 02 Feb 2025 11:19:25 -0500
+Word Count: 383 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: NFL set to play in Australia in 2026 with marquee teams: report
+URL: https://www.foxnews.com/sports/nfl-set-play-australia-2026-marquee-teams-report
+Date: Sun, 02 Feb 2025 11:01:01 -0500
+Word Count: 346 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Kevin Durant says teams aren't held to same 'loyalty' expectations as players are after stunning NBA trade
+URL: https://www.foxnews.com/sports/kevin-durant-says-teams-arent-held-same-loyalty-expectations-players-after-stunning-nba-trade
+Date: Sun, 02 Feb 2025 10:50:49 -0500
+Word Count: 572 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: John Calipari booed in return to Kentucky, but gets last laugh as Arkansas pulls off upset
+URL: https://www.foxnews.com/sports/john-calipari-booed-return-kentucky-gets-last-laugh-arkansas-pulls-off-upset
+Date: Sun, 02 Feb 2025 10:28:10 -0500
+Word Count: 420 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Lakers, Mavericks pull off wild blockbuster as Luka Dončić, Anthony Davis swap teams: reports
+URL: https://www.foxnews.com/sports/lakers-mavericks-pull-off-wild-blockbuster-luka-doncic-anthony-davis-swap-teams-reports
+Date: Sun, 02 Feb 2025 09:45:46 -0500
+Word Count: 382 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Angel Reese becomes first player ejected from Unrivaled league and then calls coverage of it 'clickbait'
+URL: https://www.foxnews.com/sports/angel-reese-becomes-first-player-ejected-from-unrivaled-league-calls-coverage-clickbait
+Date: Sun, 02 Feb 2025 09:16:50 -0500
+Word Count: 564 words
+Images: 2 (Sizes: 1200x675, 1200x675)
+
+Category: sports
+Title: Ottawa Senators fans boo USA national anthem after Trump issues tariffs
+URL: https://www.foxnews.com/sports/ottawa-senators-fans-boo-usa-national-anthem-after-trump-issues-tariffs
+Date: Sun, 02 Feb 2025 09:07:51 -0500
+Word Count: 327 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Former Chiefs assistant coach Eric Bieniemy returns to NFL after one season at UCLA: report
+URL: https://www.foxnews.com/sports/former-chiefs-assistant-coach-eric-bieniemy-returns-nfl-after-one-season-ucla-report
+Date: Sat, 01 Feb 2025 22:16:40 -0500
+Word Count: 349 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Eagles' A.J. Brown recalls feeling like a 'paid actor' at previous Super Bowl, a loss to the Chiefs
+URL: https://www.foxnews.com/sports/eagles-aj-brown-recalls-feeling-like-paid-actor-previous-super-bowl-defeat-chiefs
+Date: Sat, 01 Feb 2025 21:46:48 -0500
+Word Count: 593 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Travis Kelce fined for taunting Bills on Patrick Mahomes touchdown after not being penalized during game
+URL: https://www.foxnews.com/sports/travis-kelce-fined-taunting-bills-patrick-mahomes-touchdown-wasnt-penalized-game
+Date: Sat, 01 Feb 2025 19:46:50 -0500
+Word Count: 645 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: TCU star whose brother was killed in New Orleans terror attack catches game-winning touchdown in Senior Bowl
+URL: https://www.foxnews.com/sports/tcu-star-whose-brother-killed-new-orleans-terror-attack-catches-game-winning-touchdown-senior-bowl
+Date: Sat, 01 Feb 2025 18:48:23 -0500
+Word Count: 443 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Families sue California AG over trans athlete law after girl loses varsity spot to transgender competitor
+URL: https://www.foxnews.com/sports/families-sue-california-ag-trans-athlete-laws-after-teen-girl-loses-varsity-spot-transgender-competitor
+Date: Sat, 01 Feb 2025 17:57:07 -0500
+Word Count: 870 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, Unknown Size)
+
+Category: sports
+Title: Arizona State’s Bobby Hurley sends team to locker room early after opponent’s ‘no class’ behavior, ejections
+URL: https://www.foxnews.com/sports/arizona-states-bobby-hurley-sends-team-locker-room-early-after-opponents-no-class-behavior-ejections
+Date: Sat, 01 Feb 2025 16:48:05 -0500
+Word Count: 447 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Bill Belichick wins over UNC fraternities with free pizza ahead of Duke basketball game
+URL: https://www.foxnews.com/sports/bill-belichick-wins-over-unc-fraternities-free-pizza-ahead-duke-basketball-game
+Date: Sat, 01 Feb 2025 16:11:37 -0500
+Word Count: 304 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Famed NFL agent Leigh Steinberg looking to combat concussion dangers with new foundation
+URL: https://www.foxnews.com/sports/famed-nfl-agent-leigh-steinberg-looking-combat-concussion-dangers-new-foundation
+Date: Sat, 01 Feb 2025 16:01:35 -0500
+Word Count: 986 words
+Images: 5 (Sizes: Unknown Size, Unknown Size, 1200x675, 1200x675, Unknown Size)
+
+Category: sports
+Title: Famed NFL coach Tony Dungy shuts down speculation that he was considering Senate run
+URL: https://www.foxnews.com/sports/famed-nfl-coach-tony-dungy-shuts-down-speculation-he-considering-senate-run
+Date: Sat, 01 Feb 2025 15:35:30 -0500
+Word Count: 326 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Chiefs' Travis Kelce sends three-word message of support to Eagles fans as Super Bowl matchup looms
+URL: https://www.foxnews.com/sports/chiefs-travis-kelce-sends-three-word-message-support-eagles-fans-super-bowl-matchup-looms
+Date: Sat, 01 Feb 2025 15:30:39 -0500
+Word Count: 476 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Brett Favre says viral confrontation with Mark Gastineau about NFL sack record was a 'setup'
+URL: https://www.foxnews.com/sports/brett-favre-says-viral-confrontation-mark-gastineau-about-nfl-sack-record-setup
+Date: Sat, 01 Feb 2025 14:52:53 -0500
+Word Count: 440 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Scottie Scheffler makes miraculous par save on 18th hole at Pebble Beach after errant tee shot
+URL: https://www.foxnews.com/sports/scottie-scheffler-makes-miraculous-par-save-18th-hole-pebble-beach-errant-tee-shot
+Date: Sat, 01 Feb 2025 14:46:55 -0500
+Word Count: 660 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Tennis great Pam Shriver reunited with stolen trophies taken while evacuating Los Angeles wildfires
+URL: https://www.foxnews.com/sports/tennis-great-pam-shriver-reunited-stolen-trophies-taken-while-evacuating-los-angeles-wildfires
+Date: Sat, 01 Feb 2025 14:39:15 -0500
+Word Count: 426 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Canucks offload disgruntled star J.T. Miller in trade with Rangers amid rift with teammate
+URL: https://www.foxnews.com/sports/canucks-offload-disgruntled-star-jt-miller-trade-rangers-amid-rift-teammate
+Date: Sat, 01 Feb 2025 12:38:44 -0500
+Word Count: 764 words
+Images: 4 (Sizes: 1200x675, 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Eagles invite survivor of Bourbon Street attack back to New Orleans for Super Bowl LIX: ‘Not letting evil win’
+URL: https://www.foxnews.com/sports/eagles-invite-survivor-bourbon-street-attack-back-new-orleans-super-bowl-lix-not-letting-evil-win
+Date: Sat, 01 Feb 2025 12:20:53 -0500
+Word Count: 563 words
+Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
+
+Category: sports
+Title: Chiefs' Patrick Mahomes 'sick' over Mavericks' Luka Doncic trade
+URL: https://www.foxnews.com/sports/chiefs-patrick-mahomes-sick-over-mavericks-luka-doncic-trade
+Date: Sun, 02 Feb 2025 15:28:01 -0500
+Word Count: 310 words
 Images: 3 (Sizes: 1200x675, 1200x675, 1200x675)
 

@@ -65,3 +65,17 @@
     margin-bottom: 0.25rem; /* Equivalent to mb-1 */
   }
   
+  /* Flex container for charts */
+.charts-flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+/* Styling for total articles text */
+.total-articles {
+  text-align: center;
+  color: #f7fafc;
+  margin-bottom: 1rem;
+}

@@ -4,6 +4,13 @@ from datetime import datetime
 import re
 from urllib.parse import urljoin
 
+def is_valid_article(word_count, image_count):
+    """Check if article meets the criteria (not an outlier)."""
+    # Convert word count to integer if it's a string
+    if isinstance(word_count, str):
+        word_count = int(word_count.split()[0])
+    return word_count <= 3000 and image_count <= 10
+
 def get_category_from_url(url):
     """Determine category from the URL path."""
     if '/politics' in url:
@@ -71,7 +78,7 @@ def get_article_urls_from_containers(url, containers):
     except Exception:
         return []
 
-def scrape_cnn_article(url, override_category=None):
+def scrape_cnn_article(url):
     """Scrape an individual CNN article for information."""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
@@ -81,7 +88,7 @@ def scrape_cnn_article(url, override_category=None):
         response = requests.get(url, headers=headers)
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        category = override_category if override_category else get_category_from_url(url)
+        category = get_category_from_url(url)
         if category == 'unknown':
             print(f"Skipping article with unknown category: {url}")
             return None
@@ -108,8 +115,7 @@ def scrape_cnn_article(url, override_category=None):
 
         paragraphs = soup.find_all(['p', 'div'], class_=lambda x: x and 'paragraph' in x.lower())
         total_words = sum(len(p.text.split()) for p in paragraphs if p.text)
-        result['Word Count'] = f"{total_words} words"
-
+        
         images = []
         all_images = soup.find_all('img', class_=lambda x: x and ('image' in x.lower() or 'photo' in x.lower()))
         for img in all_images:
@@ -122,6 +128,13 @@ def scrape_cnn_article(url, override_category=None):
                 height = img.get('height', '')
                 if width and height:
                     images.append(f"{width}x{height}")
+        
+        # Check if article meets criteria before proceeding
+        if not is_valid_article(total_words, len(images)):
+            print(f"Skipping outlier article: {url} (Words: {total_words}, Images: {len(images)})")
+            return None
+
+        result['Word Count'] = f"{total_words} words"
         result['Images'] = f"{len(images)} (Sizes: {', '.join(images)})"
 
         if not result['Title'] or not result['Date'] or total_words == 0:
@@ -130,7 +143,7 @@ def scrape_cnn_article(url, override_category=None):
 
         return result
 
-    except Exception:
+    except Exception as e:
         print(f"Error scraping article: {url}")
         return None
 
@@ -145,13 +158,55 @@ def save_article_info(info, filename="./article-visualization/public/data/cnn_ar
         f.write(f"Images: {info['Images']}\n")
         f.write("\n")
 
+def clean_existing_file(filename="./article-visualization/public/data/cnn_articles.txt"):
+    """Clean the existing file by removing outlier articles."""
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Split content into article blocks
+        articles = content.split('\n\n')
+        
+        # First block is the total count, handle separately
+        header = articles[0] if articles and articles[0].startswith("Total Articles:") else ""
+        articles = articles[1:] if header else articles
+        
+        # Process each article block
+        valid_articles = []
+        for article in articles:
+            if not article.strip():
+                continue
+                
+            # Extract word count and image count
+            word_count_match = re.search(r'Word Count: (\d+)', article)
+            image_count_match = re.search(r'Images: (\d+)', article)
+            
+            if word_count_match and image_count_match:
+                word_count = int(word_count_match.group(1))
+                image_count = int(image_count_match.group(1))
+                
+                if is_valid_article(word_count, image_count):
+                    valid_articles.append(article)
+                else:
+                    url_match = re.search(r'URL: (.*?)\n', article)
+                    if url_match:
+                        print(f"Removing outlier article: {url_match.group(1)}")
+
+        # Write cleaned content back to file
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(f"Total Articles: {len(valid_articles)}\n\n")
+            f.write('\n\n'.join(valid_articles))
+            f.write('\n')  # End file with newline
+            
+        print(f"Cleaned file. Removed {len(articles) - len(valid_articles)} outlier articles.")
+        
+    except FileNotFoundError:
+        print(f"File {filename} not found.")
+    except Exception as e:
+        print(f"Error cleaning file: {str(e)}")
+
 def main():
     sections = {
-        "https://www.cnn.com/world": [
-            'container__field-links container_lead-plus-headlines-with-images__field-links',
-            'container__field-links container_lead-plus-headlines__field-links',
-            'container__field-links container_vertical-strip__field-links'
-        ],
         "https://www.cnn.com/politics": [
             'container__field-links container_lead-plus-headlines__field-links',
             'container__field-links container_vertical-strip__field-links'
@@ -167,6 +222,10 @@ def main():
         ]
     }
 
+    # First, clean the existing file
+    print("Cleaning existing file...")
+    clean_existing_file()
+
     scraped_urls = get_previously_scraped_urls()
     print(f"Found {len(scraped_urls)} previously scraped articles")
 
@@ -178,8 +237,7 @@ def main():
         for url in article_urls:
             if url not in scraped_urls:
                 print(f"Scraping: {url}")
-                override_category = 'world' if 'world' in section_url else None
-                article_info = scrape_cnn_article(url, override_category)
+                article_info = scrape_cnn_article(url)
                 if article_info:
                     save_article_info(article_info)
                     scraped_urls.add(url)

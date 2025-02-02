@@ -1,4 +1,3 @@
-// src/components/ChartWordsPerArticle.jsx
 import React, { useState, useMemo, useEffect } from 'react';
 import {
   ScatterChart,
@@ -9,6 +8,8 @@ import {
   Tooltip,
   Legend,
   ZAxis,
+  BarChart,
+  Bar
 } from 'recharts';
 import { COLORS } from '../constants';
 import LoadingSpinner from './LoadingSpinner'; // Import the spinner
@@ -16,7 +17,7 @@ import LoadingSpinner from './LoadingSpinner'; // Import the spinner
 // Import the CSS file
 import './ChartWordsPerArticle.css';
 
-const categories = ['All', 'sports', 'health', 'science', 'politics', 'world'];
+const categories = ['All', 'sports', 'health', 'science', 'politics'];
 
 /**
  * Group duplicates by (x, y, source) to aggregate frequency in `z`.
@@ -42,7 +43,6 @@ function ChartWordsPerArticle({ data }) {
 
   // Simulate data loading (remove if data is already loaded)
   useEffect(() => {
-    // Simulate an asynchronous data fetch
     const timer = setTimeout(() => {
       setIsLoading(false);
     }, 1000); // 1-second delay
@@ -95,7 +95,36 @@ function ChartWordsPerArticle({ data }) {
   // Separate by source
   const sources = useMemo(() => [...new Set(groupedData.map(d => d.source))], [groupedData]);
 
-  // If loading, display the spinner
+  // Calculate bar chart data: bin the word counts into 10 bins
+  const barData = useMemo(() => {
+    if (filteredData.length === 0) return [];
+    const wordCounts = filteredData.map(article => article.y);
+    const min = Math.min(...wordCounts);
+    const max = Math.max(...wordCounts);
+    const numBins = 10;
+    const binWidth = Math.ceil((max - min + 1) / numBins);
+    const bins = [];
+    for (let i = 0; i < numBins; i++) {
+      bins.push({
+        range: `${min + i * binWidth}-${min + (i + 1) * binWidth - 1}`,
+        articles: 0,
+      });
+    }
+    filteredData.forEach(article => {
+      const value = article.y;
+      const binIndex = Math.floor((value - min) / binWidth);
+      if (binIndex >= 0 && binIndex < bins.length) {
+        bins[binIndex].articles++;
+      }
+    });
+    // Optionally filter out bins with zero articles
+    return bins.filter(bin => bin.articles > 0);
+  }, [filteredData]);
+
+  // Set chart dimensions
+  const chartWidth = 400;
+  const chartHeight = 400;
+
   if (isLoading) {
     return <LoadingSpinner />;
   }
@@ -161,68 +190,108 @@ function ChartWordsPerArticle({ data }) {
         </div>
       </div>
 
-      <div className="chart-words-chart-container">
-        <ScatterChart
-          width={800}
-          height={400}
-          margin={{ top: 20, right: 20, bottom: 60, left: 60 }}
-        >
-          <CartesianGrid stroke="#444" />
-          <XAxis
-            type="number"
-            dataKey="x"
-            name="Article Index"
-            label={{ value: 'Article Index', position: 'bottom', fill: '#ccc' }}
-            tick={{ fill: '#ccc' }}
-          />
-          <YAxis
-            type="number"
-            dataKey="y"
-            name="Word Count"
-            label={{ value: 'Word Count', angle: -90, position: 'insideLeft', fill: '#ccc' }}
-            tick={{ fill: '#ccc' }}
-            domain={['auto', 'auto']}
-          />
+      {/* Display total number of articles */}
+      <p className="total-articles">Total Articles: {filteredData.length}</p>
 
-          {/* ZAxis for bubble frequency. Adjust range as needed. */}
-          <ZAxis
-            type="number"
-            dataKey="z"
-            range={[60, 300]}
-            name="Frequency"
-            stroke="#ccc"
-          />
-
-          <Tooltip
-            cursor={{ strokeDasharray: '3 3' }}
-            content={({ active, payload }) => {
-              if (active && payload && payload.length) {
-                const d = payload[0].payload;
-                return (
-                  <div className="custom-tooltip">
-                    <p className="tooltip-title">{d.title}</p>
-                    <p>Words: {d.y}</p>
-                    <p>Source: {d.source}</p>
-                    <p>Count: {d.z}</p>
-                  </div>
-                );
-              }
-              return null;
-            }}
-          />
-          <Legend verticalAlign="top" height={36} />
-
-          {sources.map(source => (
-            <Scatter
-              key={source}
-              name={source}
-              data={groupedData.filter(d => d.source === source)}
-              fill={COLORS[source]}
-              stroke={COLORS[source]}
-              fillOpacity={0.6}
+      <div className="charts-flex-container">
+        {/* Scatter Chart */}
+        <div className="scatter-chart-container">
+          <ScatterChart
+            width={chartWidth}
+            height={chartHeight}
+            margin={{ top: 20, right: 20, bottom: 60, left: 60 }}
+          >
+            <CartesianGrid stroke="#444" />
+            <XAxis
+              type="number"
+              dataKey="x"
+              name="Article Index"
+              label={{ value: 'Article Index', position: 'bottom', fill: '#ccc' }}
+              tick={{ fill: '#ccc' }}
             />
-          ))}
-        </ScatterChart>
+            <YAxis
+              type="number"
+              dataKey="y"
+              name="Word Count"
+              label={{ value: 'Word Count', angle: -90, position: 'insideLeft', fill: '#ccc' }}
+              tick={{ fill: '#ccc' }}
+              domain={['auto', 'auto']}
+            />
+            <ZAxis
+              type="number"
+              dataKey="z"
+              range={[60, 300]}
+              name="Frequency"
+              stroke="#ccc"
+            />
+            <Tooltip
+              cursor={{ strokeDasharray: '3 3' }}
+              content={({ active, payload }) => {
+                if (active && payload && payload.length) {
+                  const d = payload[0].payload;
+                  return (
+                    <div className="custom-tooltip">
+                      <p className="tooltip-title">{d.title}</p>
+                      <p>Words: {d.y}</p>
+                      <p>Source: {d.source}</p>
+                      <p>Count: {d.z}</p>
+                    </div>
+                  );
+                }
+                return null;
+              }}
+            />
+            <Legend verticalAlign="top" height={36} />
+            {sources.map(source => (
+              <Scatter
+                key={source}
+                name={source}
+                data={groupedData.filter(d => d.source === source)}
+                fill={COLORS[source]}
+                stroke={COLORS[source]}
+                fillOpacity={0.6}
+              />
+            ))}
+          </ScatterChart>
+        </div>
+
+        {/* Bar Chart */}
+        <div className="bar-chart-container">
+          <BarChart
+            width={chartWidth}
+            height={chartHeight}
+            data={barData}
+            margin={{ top: 20, right: 20, bottom: 60, left: 60 }}
+          >
+            <CartesianGrid stroke="#444" />
+            <XAxis
+              dataKey="range"
+              label={{ value: 'Word Count Range', position: 'bottom', fill: '#ccc' }}
+              tick={{ fill: '#ccc' }}
+            />
+            <YAxis
+              label={{ value: 'Articles', angle: -90, position: 'insideLeft', fill: '#ccc' }}
+              tick={{ fill: '#ccc' }}
+            />
+            <Tooltip
+              cursor={{ strokeDasharray: '3 3' }}
+              content={({ active, payload }) => {
+                if (active && payload && payload.length) {
+                  const d = payload[0].payload;
+                  return (
+                    <div className="custom-tooltip">
+                      <p className="tooltip-title">Range: {d.range}</p>
+                      <p>Articles: {d.articles}</p>
+                    </div>
+                  );
+                }
+                return null;
+              }}
+            />
+            <Legend verticalAlign="top" height={36} />
+            <Bar dataKey="articles" fill="#ffc658" />
+          </BarChart>
+        </div>
       </div>
     </div>
   );

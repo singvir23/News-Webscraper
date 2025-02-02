@@ -1,21 +1,4 @@
-Total Articles: 459
-
-
-
-
-Category: world
-Title: New Year’s celebrations around the world
-URL: https://www.cnn.com/2024/12/31/world/gallery/2025-new-year-celebrations/index.html
-Date: Tue, 31 Dec 2024 15:16:43 +0000
-Word Count: 0 words
-Images: 24 (Sizes: 2375x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2449x1600, 3000x2000, 3000x2001, 3000x2000, 3000x2431, 3000x2000, 2500x1665, 3000x2000, 2500x1667, 2500x1668, 2500x1667, 2500x1666, 2500x1667, 2500x1667, 3000x2000, 2500x1700, 2500x1667, 2500x1667, 2500x1575)
-
-Category: world
-Title: People we’ve lost in 2024
-URL: https://www.cnn.com/2024/01/08/world/gallery/people-we-lost-2024/index.html
-Date: Mon, 08 Jan 2024 17:11:33 +0000
-Word Count: 0 words
-Images: 162 (Sizes: 2000x1401, 3000x2000, 2000x1331, 1731x2389, 2400x1600, 3000x2000, 3000x2000, 2400x2463, 2000x1341, 2000x1254, 3000x2143, 3000x2111, 2000x1333, 1600x1209, 2400x1600, 2400x1600, 1600x1028, 2400x1600, 2394x1600, 1600x2002, 3000x2000, 3000x1948, 1012x675, 1600x2400, 2000x1333, 3000x2482, 2000x1125, 3000x2172, 1800x2700, 2000x1333, 1600x1074, 2451x1661, 3000x1994, 3000x1996, 2000x1334, 2000x1335, 3000x2993, 2000x1333, 2400x2021, 1600x1067, 2000x3005, 1600x1073, 3000x2190, 3598x2141, 2400x3000, 2056x1552, 2400x1600, 3000x2047, 1803x2067, 3000x2117, 2000x1235, 3000x2001, 1816x1125, 2000x1409, 2500x1406, 1600x1092, 2000x1333, 1933x1521, 3000x2143, 3000x1997, 3908x2539, 1600x1720, 3000x4500, 2000x1361, 2111x1600, 3000x2000, 3000x2000, 3000x1995, 2397x1600, 2417x1600, 3072x2040, 3000x2000, 2000x1333, 2400x1600, 1600x1215, 2000x1334, 2841x2030, 1600x900, 2000x1263, 2000x1584, 2275x1279, 2400x1577, 3000x2143, 1621x1131, 3000x2204, 2500x1735, 1600x1067, 3000x2000, 3000x2400, 3000x2008, 3060x2040, 3000x1870, 3526x3463, 2104x1454, 3265x2331, 1600x1084, 3000x2000, 2500x1667, 3102x1881, 3000x2000, 2907x1909, 3000x2000, 2464x1648, 1600x1064, 3000x2310, 1850x1173, 2500x1782, 3000x1925, 3000x2000, 3000x1992, 3000x2029, 2000x1974, 2124x1600, 2000x1465, 2394x1600, 3000x2091, 3000x2000, 2500x1407, 2500x1670, 3600x2430, 2000x1200, 2400x3600, 3000x2000, 2000x1337, 3000x2000, 1600x1067, 2000x1333, 2456x1637, 1600x1067, 1816x1125, 3000x1997, 2500x1667, 1600x1159, 2000x1450, 2000x1337, 2143x1759, 1600x1067, 3565x2574, 2500x1875, 3000x1924, 2000x1429, 2220x1409, 3000x1937, 2000x1407, 2000x1334, 3000x2017, 3000x2000, 1600x1161, 2211x2805, 2400x1921, 3000x4500, 3000x2067, 1984x1444, 3000x1961, 1600x2083, 3000x2069, 1989x1316, 2500x1667, 2000x1333, 1600x1090, 3000x2093, 2000x1334)
+Total Articles: 372
 
 Category: politics
 Title: KFile: Pete Hegseth spread baseless conspiracy theories that January 6 attack was carried out by leftist groups
@@ -30,13 +13,6 @@ URL: https://www.cnn.com/2024/11/26/politics/pennsylvania-older-voters-trump-res
 Date: Tue, 26 Nov 2024 11:00:54 +0000
 Word Count: 1597 words
 Images: 4 (Sizes: 1920x1080, 2400x1600, 2400x1545, 2400x1600)
-
-Category: politics
-Title: In pictures: Harris running mate Tim Walz
-URL: https://www.cnn.com/2024/08/06/politics/gallery/tim-walz/index.html
-Date: Tue, 06 Aug 2024 14:47:50 +0000
-Word Count: 0 words
-Images: 27 (Sizes: 3600x2400, 1600x1202, 1600x2310, 1600x1203, 2784x2072, 3369x2336, 2000x1455, 5272x3516, 4920x3324, 4896x3264, 5184x3456, 4492x3143, 3600x2400, 3000x2250, 3500x2230, 6720x4480, 2499x1666, 4032x3024, 5031x3354, 4463x2976, 5500x3722, 3600x2400, 2500x1667, 2400x1600, 800x533, 2500x1667, 3000x2000)
 
 Category: politics
 Title: Many Trump voters still have doubts about him. Can he hold them?
@@ -58,13 +34,6 @@ URL: https://www.cnn.com/2024/12/17/politics/electoral-college-votes-what-matter
 Date: Tue, 17 Dec 2024 11:00:45 +0000
 Word Count: 1003 words
 Images: 1 (Sizes: 2000x1334)
-
-Category: politics
-Title: In pictures: Trump wins back the presidency
-URL: https://www.cnn.com/2024/11/05/politics/gallery/america-votes-2024-election/index.html
-Date: Tue, 05 Nov 2024 05:54:43 +0000
-Word Count: 0 words
-Images: 89 (Sizes: 2843x1896, 8256x5504, 2400x1600, 5472x3648, 5500x3667, 8256x5504, 3000x1999, 5616x3744, 5500x3659, 6000x4002, 7696x5131, 3000x1996, 4000x2667, 8256x5504, 4000x2667, 3000x2000, 2135x1421, 2400x1600, 5843x3895, 5500x3667, 2702x1802, 7869x5252, 2000x1125, 8256x5504, 3000x2000, 4000x2666, 5577x3718, 4500x3000, 6671x4447, 4850x3233, 6127x4085, 4813x3238, 1190x1105, 2000x1334, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1084, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1334, 2000x1333, 2000x1334, 2000x1333, 3000x2001, 2000x1333, 3000x2004, 3000x1998, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x1999, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 5500x3668, 3000x2000, 5568x3712, 6619x4790, 5184x3456, 6609x4406, 8401x5760, 3000x1688, 6500x4335, 3000x2000, 4000x2667, 4000x2667, 5000x3333, 4000x2662, 8640x5760, 2500x1667, 3000x2000, 5000x3334, 5000x3332, 2400x1597, 5585x3723, 6000x4000, 5900x3933, 4000x2722)
 
 Category: politics
 Title: What’s the history of the Panama Canal, and why is Trump threatening to retake control of it?
@@ -143,13 +112,6 @@ Date: Thu, 13 Jun 2024 11:00:27 +0000
 Word Count: 1895 words
 Images: 3 (Sizes: 5287x2974, 1850x2658, 1600x900)
 
-Category: world
-Title: Once celebrated, an inventor’s breakthroughs are now viewed as disasters — and the world is still recovering
-URL: https://www.cnn.com/2024/05/24/world/thomas-midgley-jr-leaded-gas-freon-scn/index.html
-Date: Fri, 24 May 2024 12:57:29 +0000
-Word Count: 1650 words
-Images: 5 (Sizes: 1600x900, 2440x3229, 3000x2950, 3000x1989, 3000x3868)
-
 Category: science
 Title: History-making probe achieves closest-ever approach to the sun
 URL: https://www.cnn.com/2024/12/23/science/parker-solar-probe-sun-close-approach/index.html
@@ -193,13 +155,6 @@ Word Count: 1004 words
 Images: 4 (Sizes: 2475x1161, 1131x1569, 2346x1646, 2008x1290)
 
 Category: science
-Title: Scientists have identified an estimated 10% of all species on Earth. Here’s what they found in 2024
-URL: https://www.cnn.com/2024/12/31/science/new-species-named-in-2024/index.html
-Date: Tue, 31 Dec 2024 14:38:02 +0000
-Word Count: 769 words
-Images: 11 (Sizes: 1600x1287, 2000x1334, 2000x1134, 1680x2000, 1850x1387, 2000x1333, 2000x3000, 2000x1500, 2000x1500, 2000x1388, 2000x1333)
-
-Category: science
 Title: How to see the Ursids, the final meteor shower that peaks in 2024
 URL: https://www.cnn.com/2024/12/21/science/ursid-meteor-shower-december-2024/index.html
 Date: Sat, 21 Dec 2024 14:00:26 +0000
@@ -234,13 +189,6 @@ Date: Fri, 29 Nov 2024 23:18:30 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
 
-Category: world
-Title: The best photos from the 2024 World Series
-URL: https://www.cnn.com/2024/10/25/sport/gallery/world-series-dodgers-yankees/index.html
-Date: Sat, 26 Oct 2024 02:32:12 +0000
-Word Count: 0 words
-Images: 63 (Sizes: 2399x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2399x1600, 2352x1600, 2400x1600, 2305x1600, 2400x1600, 2400x1600, 2401x1600, 2400x1600, 2000x1333, 2000x1345, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2000x1334, 2000x1333, 2000x1333, 1600x1067, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1334, 2400x1600, 2400x1600, 2402x1600, 2400x1600, 2400x1600, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 2400x1600, 2401x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 2399x1600, 3000x2000, 2957x1971, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000)
-
 Category: sports
 Title: Tiger Woods and son Charlie shine at PNC Championship in Woods’ return to competition
 URL: https://www.cnn.com/2024/12/21/sport/tiger-woods-son-pnc-championship-spt/index.html
@@ -261,13 +209,6 @@ URL: https://www.cnn.com/2024/12/30/sport/rio-ferdinand-manchester-united-globe-
 Date: Mon, 30 Dec 2024 12:02:27 +0000
 Word Count: 1334 words
 Images: 4 (Sizes: 1920x1080, 3000x2000, 3000x2048, 1920x1080)
-
-Category: sports
-Title: A doping free-for-all Enhanced Games calls itself the answer to doping in sports. Opponents say it poses a danger to health
-URL: https://www.cnn.com/2023/10/30/sport/enhanced-games-olympics-doping-spt-intl/index.html
-Date: Mon, 30 Oct 2023 08:43:12 +0000
-Word Count: 3315 words
-Images: 8 (Sizes: 1600x900, 1920x1080, 3000x1685, 3000x2178, 3000x2016, 3000x1851, 1920x1080, 1920x1080)
 
 Category: sports
 Title: Lewandowski chimes in on former manager Guardiola’s woes
@@ -331,13 +272,6 @@ URL: https://www.cnn.com/2024/12/21/sport/jayden-daniels-washington-commanders-p
 Date: Sat, 21 Dec 2024 17:00:43 +0000
 Word Count: 1447 words
 Images: 5 (Sizes: 1600x900, 2400x1600, 2400x1600, 2400x1600, 2400x1600)
-
-Category: sports
-Title: The best photos from the 2024 NFL season
-URL: https://www.cnn.com/2024/09/09/sport/gallery/nfl-2024-season/index.html
-Date: Mon, 09 Sep 2024 04:01:32 +0000
-Word Count: 0 words
-Images: 132 (Sizes: 3000x2000, 3000x2143, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2174, 2000x1600, 2000x1334, 2399x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 2449x1633, 3000x2000, 3000x1999, 2545x1697, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2044, 3000x2000, 3000x1997, 2440x1627, 2399x1600, 3000x2000, 2655x1770, 3000x2000, 3000x2001, 3000x1999, 3000x2234, 4846x3231, 6536x4358, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x3584, 3000x2000, 3000x2000, 3000x3651, 2400x1600, 2239x1600, 3000x2000, 3000x2000, 2657x1771, 3000x1968, 3000x2000, 3000x2000, 2725x2717, 2777x1957, 2923x1948, 3000x2000, 3000x2000, 3000x2080, 3000x1999, 2400x1600, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x1990, 3000x2000, 3000x2000, 3000x1927, 3000x2000, 3000x2107, 3000x1964, 3000x2000, 3000x1996, 3000x2000, 3000x1997, 3000x2000, 3000x2000, 3000x2000, 2457x1638, 3000x2000, 3000x2000, 3000x2117, 3000x2000, 3000x2002, 2519x1679, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x1997, 2569x1982, 2648x1824, 3000x2000, 2632x1755, 3000x2001, 3000x2000, 3000x2000, 2926x3000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2184, 3000x2000)
 
 Category: sports
 Title: Scottie Scheffler looks to put a bow on stellar year
@@ -415,13 +349,6 @@ URL: https://www.cnn.com/2024/12/19/sport/video/vonn-rebensburg-skiing-cnni-spor
 Date: Thu, 19 Dec 2024 22:58:19 +0000
 Word Count: 0 words
 Images: 1 (Sizes: 1920x1080)
-
-Category: sports
-Title: These young female athletes died by suicide. They all had head injuries in common
-URL: https://www.cnn.com/2023/02/05/sport/head-injury-suicide-female-athletes-intl-spt-cmd/index.html
-Date: Mon, 06 Feb 2023 01:20:00 +0000
-Word Count: 3409 words
-Images: 10 (Sizes: 1600x900, 1600x1200, 1600x1066, 1616x1080, 1600x1067, 2000x1125, 1600x901, 2000x1125, 1600x1067, 2000x1126)
 
 Category: sports
 Title: Christmas dinner injury forces golf’s World No. 1 Scottie Scheffler to miss PGA Tour season opener
@@ -583,13 +510,6 @@ URL: https://www.cnn.com/2025/01/07/sport/las-vegas-raiders-fire-antonio-pierce-
 Date: Tue, 07 Jan 2025 22:01:36 +0000
 Word Count: 344 words
 Images: 1 (Sizes: 1600x1066)
-
-Category: politics
-Title: Trump meets with GOP lawmakers in DC as Cabinet picks lobby for support
-URL: https://www.cnn.com/politics/live-news/donald-trump-president-office-inauguration-01-08-25/index.html
-Date: Wed, 08 Jan 2025 13:03:01 +0000
-Word Count: 5648 words
-Images: 21 (Sizes: 2000x1333, 2000x1334, 1920x1080, 2400x1600, 2400x1600, 2000x1335, 3000x2218, 2393x1600, 2000x1373, 2400x1600, 3000x2000, 2400x1600, 2400x1600, 8256x5504, 1600x1067, 3000x2000, 2399x1600, 3000x2000, 3000x1959, 3000x2000, 2399x1600)
 
 Category: politics
 Title: Alito spoke with Trump before president-elect asked Supreme Court to delay his sentencing
@@ -787,62 +707,6 @@ Date: Wed, 08 Jan 2025 10:30:42 +0000
 Word Count: 1123 words
 Images: 4 (Sizes: 2597x1732, 4960x3307, 4591x3060, 4985x3323)
 
-Category: world
-Title: ChatGPT can be tricked into telling people how to commit crimes, a tech firm finds
-URL: https://www.cnn.com/2024/10/23/business/chatgpt-tricked-commit-crimes/index.html
-Date: Wed, 23 Oct 2024 15:06:50 +0000
-Word Count: 617 words
-Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: world
-Title: Potentially crippling port strike averted after dockworkers, ports and shipping companies reach a tentative deal
-URL: https://www.cnn.com/2025/01/08/business/us-dockworkers-port-employers-agreement/index.html
-Date: Thu, 09 Jan 2025 00:05:31 +0000
-Word Count: 609 words
-Images: 5 (Sizes: 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: world
-Title: Elon Musk has met with politicians from at least 13 different countries: Here’s what he has talked about
-URL: https://www.cnn.com/2024/10/25/tech/elon-musk-political-meetings-influence-dg/index.html
-Date: Fri, 25 Oct 2024 23:10:54 +0000
-Word Count: 1395 words
-Images: 1 (Sizes: 2400x1600)
-
-Category: world
-Title: Raging wildfires in Los Angeles area kill at least 5 and destroy thousands of structures
-URL: https://www.cnn.com/weather/live-news/los-angeles-pacific-palisades-eaton-wildfires-01-08-25/index.html
-Date: Wed, 08 Jan 2025 09:19:33 +0000
-Word Count: 20074 words
-Images: 52 (Sizes: 2000x1333, 2000x1334, 1920x1080, 1600x900, 1600x900, 1600x1041, 1600x900, 1600x1067, 1762x998, 1920x1080, 4032x3024, 1920x1080, 1600x1067, 2500x1666, 1920x1080, 2500x1667, 1920x1080, 2500x1667, 1920x1080, 640x361, 2500x1611, 632x357, 1920x1080, 2500x1667, 2500x1667, 2500x3328, 2500x1667, 2500x1667, 2500x1667, 1920x1080, 3000x2001, 2500x1667, 1120x564, 480x320, 641x360, 2000x1334, 2000x1333, 2000x1338, 1912x1153, 2000x1333, 2000x1258, 2000x1333, 2000x1190, 2000x1316, 2000x1333, 1920x1080, 2000x1284, 1920x1080, 2000x1333, 1600x1067, 1600x1067, 2000x1333)
-
-Category: world
-Title: Alito spoke with Trump before president-elect asked Supreme Court to delay his sentencing
-URL: https://www.cnn.com/2025/01/08/politics/alito-trump-conversation/index.html
-Date: Wed, 08 Jan 2025 23:29:19 +0000
-Word Count: 542 words
-Images: 1 (Sizes: 1600x900)
-
-Category: world
-Title: For those seeking K-pop stardom, the path can be long and grueling
-URL: https://www.cnn.com/2025/01/05/style/kpop-whole-story-hnk-intl/index.html
-Date: Sun, 05 Jan 2025 10:00:48 +0000
-Word Count: 1638 words
-Images: 8 (Sizes: 1920x1080, 1920x1080, 1920x1080, 1920x1080, 1920x1080, 1920x1080, 2000x1333, 2000x1384)
-
-Category: world
-Title: Trump meets with GOP lawmakers in DC as Cabinet picks lobby for support
-URL: https://www.cnn.com/politics/live-news/donald-trump-president-office-inauguration-01-08-25/index.html
-Date: Wed, 08 Jan 2025 13:03:01 +0000
-Word Count: 5980 words
-Images: 21 (Sizes: 2000x1333, 2000x1334, 1920x1080, 2400x1600, 2400x1600, 2000x1335, 3000x2218, 2393x1600, 2000x1373, 2400x1600, 3000x2000, 2400x1600, 2400x1600, 8256x5504, 1600x1067, 3000x2000, 2399x1600, 3000x2000, 3000x1959, 3000x2000, 2399x1600)
-
-Category: world
-Title: Israel to conceal soldiers’ identities after Brazilian probe into war crimes allegations
-URL: https://www.cnn.com/2025/01/08/middleeast/israel-military-media-rules-intl-latam/index.html
-Date: Thu, 09 Jan 2025 00:53:10 +0000
-Word Count: 696 words
-Images: 2 (Sizes: 1600x1067, 1600x1067)
-
 Category: politics
 Title: Danish officials fear Trump is much more serious about acquiring Greenland than in first term
 URL: https://www.cnn.com/2025/01/08/politics/danish-officials-trump-greenland/index.html
@@ -1025,69 +889,6 @@ Date: Mon, 06 Jan 2025 01:44:53 +0000
 Word Count: 433 words
 Images: 1 (Sizes: 3000x2000)
 
-Category: world
-Title: X changed its terms of service to let its AI train on everyone’s posts. Now users are up in arms
-URL: https://www.cnn.com/2024/10/21/tech/x-twitter-terms-of-service/index.html
-Date: Mon, 21 Oct 2024 10:30:47 +0000
-Word Count: 559 words
-Images: 5 (Sizes: 3000x2000, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: world
-Title: Trump meets with GOP lawmakers in DC as Cabinet picks lobby for support
-URL: https://www.cnn.com/politics/live-news/donald-trump-president-office-inauguration-01-08-25/index.html
-Date: Wed, 08 Jan 2025 13:03:01 +0000
-Word Count: 5980 words
-Images: 21 (Sizes: 2000x1333, 2000x1334, 1920x1080, 2400x1600, 2400x1600, 2000x1335, 3000x2218, 2393x1600, 2000x1373, 2400x1600, 3000x2000, 2400x1600, 2400x1600, 8256x5504, 1600x1067, 3000x2000, 2399x1600, 3000x2000, 3000x1959, 3000x2000, 2399x1600)
-
-Category: world
-Title: ChatGPT can be tricked into telling people how to commit crimes, a tech firm finds
-URL: https://www.cnn.com/2024/10/23/business/chatgpt-tricked-commit-crimes/index.html
-Date: Wed, 23 Oct 2024 15:06:50 +0000
-Word Count: 617 words
-Images: 5 (Sizes: 2000x1333, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: world
-Title: Alito spoke with Trump before president-elect asked Supreme Court to delay his sentencing
-URL: https://www.cnn.com/2025/01/08/politics/alito-trump-conversation/index.html
-Date: Wed, 08 Jan 2025 23:29:19 +0000
-Word Count: 542 words
-Images: 1 (Sizes: 1600x900)
-
-Category: world
-Title: Raging wildfires in Los Angeles area kill at least 5 and destroy thousands of structures
-URL: https://www.cnn.com/weather/live-news/los-angeles-pacific-palisades-eaton-wildfires-01-08-25/index.html
-Date: Wed, 08 Jan 2025 09:19:33 +0000
-Word Count: 20033 words
-Images: 52 (Sizes: 2000x1333, 2000x1334, 1920x1080, 1600x900, 1600x900, 1600x1041, 1600x900, 1600x1067, 1762x998, 1920x1080, 4032x3024, 1920x1080, 1600x1067, 2500x1666, 1920x1080, 2500x1667, 1920x1080, 2500x1667, 1920x1080, 640x361, 2500x1611, 632x357, 1920x1080, 2500x1667, 2500x1667, 2500x3328, 2500x1667, 2500x1667, 2500x1667, 1920x1080, 3000x2001, 2500x1667, 1120x564, 480x320, 641x360, 2000x1334, 2000x1333, 2000x1338, 1912x1153, 2000x1333, 2000x1258, 2000x1333, 2000x1190, 2000x1316, 2000x1333, 1920x1080, 2000x1284, 1920x1080, 2000x1333, 1600x1067, 1600x1067, 2000x1333)
-
-Category: world
-Title: For those seeking K-pop stardom, the path can be long and grueling
-URL: https://www.cnn.com/2025/01/05/style/kpop-whole-story-hnk-intl/index.html
-Date: Sun, 05 Jan 2025 10:00:48 +0000
-Word Count: 1638 words
-Images: 8 (Sizes: 1920x1080, 1920x1080, 1920x1080, 1920x1080, 1920x1080, 1920x1080, 2000x1333, 2000x1384)
-
-Category: world
-Title: Potentially crippling port strike averted after dockworkers, ports and shipping companies reach a tentative deal
-URL: https://www.cnn.com/2025/01/08/business/us-dockworkers-port-employers-agreement/index.html
-Date: Thu, 09 Jan 2025 00:05:31 +0000
-Word Count: 609 words
-Images: 5 (Sizes: 1600x1067, 1920x1080, 780x438, 2584x1672, 3000x1980)
-
-Category: world
-Title: Elon Musk has met with politicians from at least 13 different countries: Here’s what he has talked about
-URL: https://www.cnn.com/2024/10/25/tech/elon-musk-political-meetings-influence-dg/index.html
-Date: Fri, 25 Oct 2024 23:10:54 +0000
-Word Count: 1395 words
-Images: 1 (Sizes: 2400x1600)
-
-Category: world
-Title: Israel to conceal soldiers’ identities after Brazilian probe into war crimes allegations
-URL: https://www.cnn.com/2025/01/08/middleeast/israel-military-media-rules-intl-latam/index.html
-Date: Thu, 09 Jan 2025 00:53:10 +0000
-Word Count: 696 words
-Images: 2 (Sizes: 1600x1067, 1600x1067)
-
 Category: politics
 Title: Biden pledges federal support for ‘astounding’ wildfires as natural disaster upends Los Angeles visit
 URL: https://www.cnn.com/2025/01/08/politics/joe-biden-wildfires-southern-california/index.html
@@ -1269,48 +1070,6 @@ URL: https://www.cnn.com/2025/01/07/sport/tgl-explainer-tiger-woods-rory-mcilroy
 Date: Tue, 07 Jan 2025 10:51:33 +0000
 Word Count: 1007 words
 Images: 2 (Sizes: 1600x899, 2000x1333)
-
-Category: world
-Title: Two men are vying to be inaugurated as Venezuela’s president this week. Here’s what we know
-URL: https://www.cnn.com/2025/01/09/americas/venezuela-maduro-inauguration-explainer-intl-latam/index.html
-Date: Thu, 09 Jan 2025 15:42:27 +0000
-Word Count: 683 words
-Images: 1 (Sizes: 2000x1125)
-
-Category: world
-Title: US-backed army chief elected Lebanon’s president, ending years-long stalemate
-URL: https://www.cnn.com/2025/01/09/middleeast/joseph-aoun-elected-lebanon-president-intl/index.html
-Date: Thu, 09 Jan 2025 12:42:07 +0000
-Word Count: 514 words
-Images: 3 (Sizes: 2000x1333, 1920x1080, 2000x1333)
-
-Category: world
-Title: Baby born at sea on migrant dinghy en route to Spain
-URL: https://www.cnn.com/2025/01/09/europe/baby-born-migrant-boat-spain-intl/index.html
-Date: Thu, 09 Jan 2025 14:49:30 +0000
-Word Count: 514 words
-Images: 2 (Sizes: 1600x1200, 2000x1282)
-
-Category: world
-Title: Attack on Chad’s presidential palace leaves 19 dead
-URL: https://www.cnn.com/2025/01/09/africa/chads-presidential-palace-attacked-intl/index.html
-Date: Thu, 09 Jan 2025 11:33:36 +0000
-Word Count: 264 words
-Images: 1 (Sizes: 2000x1125)
-
-Category: world
-Title: Prince William praises ‘incredible wife and mother’ Kate as she celebrates 43rd birthday
-URL: https://www.cnn.com/2025/01/09/uk/princess-of-wales-birthday-photo-scli-intl/index.html
-Date: Thu, 09 Jan 2025 11:56:37 +0000
-Word Count: 275 words
-Images: 2 (Sizes: 2000x1389, 1506x2048)
-
-Category: world
-Title: Migrants race against the clock to reach the US-Mexico border before Trump takes office
-URL: https://www.cnn.com/2025/01/09/americas/migrants-caravan-mexico-trump-intl-latam/index.html
-Date: Thu, 09 Jan 2025 11:00:42 +0000
-Word Count: 1148 words
-Images: 4 (Sizes: 3000x2001, 3000x2000, 3000x1997, 3000x1997)
 
 Category: politics
 Title: Biden confronts an ending with Carter’s funeral
@@ -1381,47 +1140,6 @@ URL: https://www.cnn.com/2025/01/09/sport/washington-commanders-nfl-wild-card/in
 Date: Thu, 09 Jan 2025 12:00:42 +0000
 Word Count: 2983 words
 Images: 9 (Sizes: 1600x1067, 2500x1695, 2500x1667, 2321x1625, 2000x1383, 3000x2001, 3000x2151, 2400x1600, 1600x1059)
-Category: world
-Title: Venezuela’s Nicolas Maduro sworn in for third presidential term as opposition decries ‘coup’
-URL: https://www.cnn.com/2025/01/10/americas/venezuelas-nicolas-maduro-sworn-in-intl/index.html
-Date: Fri, 10 Jan 2025 14:55:16 +0000
-Word Count: 1143 words
-Images: 3 (Sizes: 2000x1333, 2000x1331, 2000x1333)
-
-Category: world
-Title: Greenland’s leader says he’s ready to talk to Trump
-URL: https://www.cnn.com/2025/01/10/americas/greenland-trump-denmark-press-conference-intl-latam/index.html
-Date: Fri, 10 Jan 2025 17:07:48 +0000
-Word Count: 236 words
-Images: 1 (Sizes: 3000x2000)
-
-Category: world
-Title: Brazil gives Meta 72 hours to explain changes to fact-checking program
-URL: https://www.cnn.com/2025/01/10/americas/brazil-meta-fact-checking-program-intl/index.html
-Date: Fri, 10 Jan 2025 22:05:33 +0000
-Word Count: 204 words
-Images: 1 (Sizes: 2000x1207)
-
-Category: world
-Title: Iran unveils underground storage facility, claims development of ‘new special missiles’
-URL: https://www.cnn.com/2025/01/10/world/iran-underground-storage-facility-missiles-intl/index.html
-Date: Fri, 10 Jan 2025 22:59:31 +0000
-Word Count: 344 words
-Images: 1 (Sizes: 1600x900)
-
-Category: world
-Title: Israel identifies body of hostage recovered from Gaza, days after father’s remains were found
-URL: https://www.cnn.com/2025/01/10/middleeast/israel-identifies-body-of-hostage-recovered-from-gaza-intl/index.html
-Date: Fri, 10 Jan 2025 10:07:57 +0000
-Word Count: 775 words
-Images: 1 (Sizes: 890x890)
-
-Category: world
-Title: ‘Everyone was surprised by his arrival’: Former Sde Teiman detainees reject claims against Palestinian doctor
-URL: https://www.cnn.com/2025/01/10/middleeast/hussam-abu-safiya-detained-sde-teiman-intl/index.html
-Date: Fri, 10 Jan 2025 18:16:00 +0000
-Word Count: 841 words
-Images: 1 (Sizes: 3000x1688)
 
 Category: politics
 Title: Trump Organization’s new ethics plan pledges Donald Trump will separate himself from his private business interests
@@ -1528,61 +1246,12 @@ Date: Thu, 09 Jan 2025 14:55:23 +0000
 Word Count: 482 words
 Images: 1 (Sizes: 2000x1333)
 
-Category: world
-Title: Former ‘Kiddy Kapers’ TV star died when California wildfires ripped through Malibu estate, mother says
-URL: https://www.cnn.com/2025/01/11/australia/rory-sykes-malibu-la-fires-intl-latam/index.html
-Date: Sat, 11 Jan 2025 21:47:47 +0000
-Word Count: 395 words
-Images: 1 (Sizes: 1100x969)
-
-Category: world
-Title: Netanyahu and Biden discuss progress in Gaza ceasefire-for-hostages deal talks
-URL: https://www.cnn.com/2025/01/12/middleeast/netanyahu-biden-ceasefire-hostages-talks-intl-latam/index.html
-Date: Sun, 12 Jan 2025 18:16:35 +0000
-Word Count: 797 words
-Images: 3 (Sizes: 1600x900, 2400x1600, 6000x4000)
-
-Category: world
-Title: Italy releases Iranian businessman wanted by US over drone attack that killed Americans
-URL: https://www.cnn.com/2025/01/12/europe/italy-iran-diplomacy-mohammad-abedini-intl/index.html
-Date: Sun, 12 Jan 2025 16:43:26 +0000
-Word Count: 405 words
-Images: 1 (Sizes: 3000x2000)
-
-Category: world
-Title: ‘Cautious optimism’ as Mossad chief arrives in Qatar for ceasefire-for-hostages talks
-URL: https://www.cnn.com/2025/01/11/middleeast/israel-mossad-chief-qatar-hostage-talks-intl-latam/index.html
-Date: Sat, 11 Jan 2025 18:59:11 +0000
-Word Count: 840 words
-Images: 1 (Sizes: 2000x1333)
-
-Category: world
-Title: Croatia’s President Milanović wins another term after defeating ruling party candidate in runoff
-URL: https://www.cnn.com/2025/01/12/europe/croatia-milanovic-wins-election-runoff-intl-latam/index.html
-Date: Sun, 12 Jan 2025 22:10:01 +0000
-Word Count: 629 words
-Images: 2 (Sizes: 3000x2000, 3000x2165)
-
-Category: world
-Title: Zelensky offers to release captured North Korean soldiers in exchange for Ukrainian soldiers held in Russia
-URL: https://www.cnn.com/2025/01/12/europe/north-korean-soldiers-interrogation-video-ukraine-intl-latam/index.html
-Date: Sun, 12 Jan 2025 21:52:37 +0000
-Word Count: 503 words
-Images: 2 (Sizes: 1920x1080, 1920x1080)
-
 Category: politics
 Title: Senate immigration bill aims to overturn Supreme Court precedent in a sea change for legal system, experts say
 URL: https://www.cnn.com/2025/01/12/politics/laken-riley-immigration-enforcement-lawsuits/index.html
 Date: Sun, 12 Jan 2025 14:00:42 +0000
 Word Count: 1080 words
 Images: 2 (Sizes: 3000x2000, 2500x1406)
-
-Category: politics
-Title: California Democrats get an early taste of new clashes with Trump as wildfires rage on
-URL: https://www.cnn.com/2025/01/12/politics/democrats-trump-clash-california-wildfires/index.html
-Date: Sun, 12 Jan 2025 21:51:24 +0000
-Word Count: 1408 words
-Images: 73 (Sizes: 3000x2000, 2400x1600, 2400x1600, 2400x1600, 2400x1600, 1726x1150, 2400x1600, 2400x1600, 2400x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 2400x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2012, 3000x2000, 3000x2001, 2500x1668, 8032x5355, 6000x4000, 5508x3672, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 2000x1334, 6247x4165, 3000x2000, 5415x3610, 3000x2000, 3000x2001, 6000x4000, 6023x4017, 2000x1333, 1600x1067, 3000x2001, 2500x1573, 3600x2401, 2000x1462, 3000x2000, 3000x2001, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 5000x3336, 2500x3328, 3000x2001, 1600x1067, 2000x1333, 3000x2000, 2500x1667, 3000x2001, 2500x1667, 8192x5464, 2500x1667, 2500x1667, 2400x1601, 3000x2000, 2500x1667, 2500x1667, 3000x2001, 2500x1604)
 
 Category: politics
 Title: Trump’s Cabinet picks face tests of loyalty during upcoming confirmation hearings
@@ -1724,41 +1393,6 @@ Date: Sat, 11 Jan 2025 04:46:01 +0000
 Word Count: 1483 words
 Images: 4 (Sizes: 2400x1600, 2400x1600, 2400x1600, 2400x1600)
 
-Category: world
-Title: Items belonging to second British hiker missing in Italy found, rescuers say
-URL: https://www.cnn.com/2025/01/13/europe/missing-hiker-italy-belongings-found-scli-intl/index.html
-Date: Mon, 13 Jan 2025 15:14:56 +0000
-Word Count: 239 words
-Images: 2 (Sizes: 2000x1500, 2048x1536)
-
-Category: world
-Title: US officials say Gaza ceasefire deal is in sight, the first sign of serious optimism in months
-URL: https://www.cnn.com/2025/01/13/middleeast/israel-hamas-deal-talks-intl/index.html
-Date: Mon, 13 Jan 2025 10:25:09 +0000
-Word Count: 1294 words
-Images: 1 (Sizes: 2000x1125)
-
-Category: world
-Title: Tsunami advisory lifted after 6.9 magnitude earthquake rattles southwest Japan
-URL: https://www.cnn.com/2025/01/13/asia/tsunami-advisory-earthquake-southwestern-japan-intl/index.html
-Date: Mon, 13 Jan 2025 13:04:12 +0000
-Word Count: 278 words
-Images: 0 (Sizes: )
-
-Category: world
-Title: Ukraine losing ground on the battlefield as Trump team pushes ceasefire
-URL: https://www.cnn.com/2025/01/13/europe/ukraine-russia-east-battlefield-analysis-trump-intl/index.html
-Date: Mon, 13 Jan 2025 05:00:42 +0000
-Word Count: 1229 words
-Images: 3 (Sizes: 3000x2001, 2807x1868, 3000x2000)
-
-Category: world
-Title: Top ICJ judge Nawaf Salam named Lebanon’s next prime minister
-URL: https://www.cnn.com/2025/01/13/middleeast/icj-judge-nawaf-salam-lebanon-prime-minister-intl/index.html
-Date: Mon, 13 Jan 2025 16:06:17 +0000
-Word Count: 321 words
-Images: 1 (Sizes: 2000x1125)
-
 Category: politics
 Title: American Battleground: How a single state took Harris down and raised the new era of Trump
 URL: https://www.cnn.com/2025/01/13/politics/american-battleground-trump-2024-victory/index.html
@@ -1779,13 +1413,6 @@ URL: https://www.cnn.com/2025/01/13/science/new-glenn-blue-origin-rocket-launch-
 Date: Mon, 13 Jan 2025 08:36:47 +0000
 Word Count: 420 words
 Images: 1 (Sizes: 1600x1066)
-
-Category: science
-Title: Moon rover-inspired robot could be a game-changer for Japan’s ageing farmers
-URL: https://www.cnn.com/science/japan-robot-farming-kisui-adam-spc/index.html
-Date: Mon, 13 Jan 2025 09:06:00 +0000
-Word Count: 616 words
-Images: 12 (Sizes: 1600x900, 1920x1080, 3200x2134, 4000x2664, 2272x1514, 1920x1080, 3600x2400, 2161x1441, 8640x5760, 3050x1648, 1920x1080, 1920x1080)
 
 Category: science
 Title: See the full wolf moon overtake Mars in the night sky and glimpse a planetary parade
@@ -1822,13 +1449,6 @@ Date: Sat, 11 Jan 2025 10:07:53 +0000
 Word Count: 577 words
 Images: 2 (Sizes: 2393x1600, 2400x1600)
 
-Category: world
-Title: Hamas expected to release 33 hostages in first phase of emerging deal, Israeli officials say
-URL: https://www.cnn.com/2025/01/13/middleeast/hamas-33-hostages-israel-ceasefire-talks-intl-latam/index.html
-Date: Mon, 13 Jan 2025 19:19:49 +0000
-Word Count: 602 words
-Images: 1 (Sizes: 1920x1080)
-
 Category: politics
 Title: Carrie Underwood slated to perform at Trump’s inauguration
 URL: https://www.cnn.com/2025/01/13/politics/carrie-underwood-slated-to-perform-at-trump-inauguration/index.html
@@ -1842,48 +1462,6 @@ URL: https://www.cnn.com/2025/01/13/politics/joe-biden-foreign-policy-speech/ind
 Date: Mon, 13 Jan 2025 20:45:55 +0000
 Word Count: 647 words
 Images: 1 (Sizes: 2400x1600)
-
-Category: world
-Title: Rescuers try to free men trapped in South African gold mine with scores reported dead
-URL: https://www.cnn.com/2025/01/14/africa/south-africa-stilfontein-mine-rescue-deaths/index.html
-Date: Tue, 14 Jan 2025 12:17:47 +0000
-Word Count: 607 words
-Images: 1 (Sizes: 2000x1333)
-
-Category: world
-Title: Hopes rise for Gaza ceasefire and hostage release deal
-URL: https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-deal-talks-01-14-25-intl/index.html
-Date: Tue, 14 Jan 2025 08:53:36 +0000
-Word Count: 3104 words
-Images: 14 (Sizes: 1600x1067, 2000x1323, 2000x1333, 1920x1080, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1273, 2000x1333, 2000x1333, 2000x1334, 2000x1332, 2000x1334)
-
-Category: world
-Title: Putin has tested the West’s resolve over Ukraine. Will Trump force its collapse?
-URL: https://www.cnn.com/2025/01/14/europe/ukraine-trump-putin-analysis-intl/index.html
-Date: Tue, 14 Jan 2025 14:20:35 +0000
-Word Count: 1333 words
-Images: 2 (Sizes: 2000x1382, 2000x1327)
-
-Category: world
-Title: What we know about emerging Gaza ceasefire and hostage release deal
-URL: https://www.cnn.com/2025/01/14/middleeast/israel-hamas-gaza-ceasefire-hostage-deal-explainer-intl/index.html
-Date: Tue, 14 Jan 2025 14:55:13 +0000
-Word Count: 715 words
-Images: 3 (Sizes: 2000x1333, 2000x1332, 2000x1334)
-
-Category: world
-Title: Pope Francis tells in memoir how documents on abuse and corruption cases were handed to him
-URL: https://www.cnn.com/2025/01/14/europe/pope-francis-autobiography-personal-failings-intl/index.html
-Date: Tue, 14 Jan 2025 11:32:32 +0000
-Word Count: 942 words
-Images: 3 (Sizes: 2000x1333, 2000x1333, 2000x1335)
-
-Category: world
-Title: Princess of Wales says it is ‘a relief to now be in remission’ after visiting cancer hospital where she was treated
-URL: https://www.cnn.com/2025/01/14/uk/kate-princess-of-wales-hospital-visit-intl/index.html
-Date: Tue, 14 Jan 2025 16:13:37 +0000
-Word Count: 603 words
-Images: 2 (Sizes: 2000x1334, 2000x1334)
 
 Category: politics
 Title: A guide to Pete Hegseth’s confirmation hearing
@@ -2018,41 +1596,6 @@ Date: Mon, 13 Jan 2025 18:53:17 +0000
 Word Count: 597 words
 Images: 3 (Sizes: 2000x1333, 4806x3204, 4826x3166)
 
-Category: world
-Title: India achieves first space docking, becoming fourth country to achieve major milestone
-URL: https://www.cnn.com/2025/01/15/india/india-space-docking-attempt-intl-hnk/index.html
-Date: Thu, 16 Jan 2025 04:54:17 +0000
-Word Count: 598 words
-Images: 1 (Sizes: 2000x1331)
-
-Category: world
-Title: Voting begins in quake-ravaged Pacific nation of Vanuatu
-URL: https://www.cnn.com/2025/01/15/world/vanuatu-election-voting-begins-intl-hnk/index.html
-Date: Thu, 16 Jan 2025 04:30:57 +0000
-Word Count: 228 words
-Images: 1 (Sizes: 3000x2000)
-
-Category: world
-Title: South Korean president arrested by anti-corruption investigators after weekslong showdown
-URL: https://www.cnn.com/2025/01/14/asia/south-korea-yoon-suk-yeol-residence-intl/index.html
-Date: Tue, 14 Jan 2025 20:13:18 +0000
-Word Count: 993 words
-Images: 3 (Sizes: 1920x1080, 2000x1333, 2000x1333)
-
-Category: world
-Title: January 15, 2025 Gaza ceasefire deal news
-URL: https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-hostages-01-15-24/index.html
-Date: Wed, 15 Jan 2025 05:01:48 +0000
-Word Count: 11075 words
-Images: 48 (Sizes: 3000x2000, 1600x1065, 2000x1321, 1920x1080, 2400x1641, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 1600x900, 1600x900, 1600x900, 1920x1080, 1920x1080, 1600x1067, 1600x900, 2000x1333, 2000x1333, 2000x1333, 1920x1080, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1500, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 1920x1080, 2000x1290, 2000x1333, 2000x1333, 1600x899, 3000x2250, 700x700, 2000x1333, 2000x1333, 2000x1333, 2000x1318, 2000x1333, 2000x1304, 1920x1080, 1600x900, 1600x1069, 1600x1065, 2000x1125, 3000x2000)
-
-Category: world
-Title: Israel and Hamas agree to Gaza ceasefire and hostage deal
-URL: https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-hostages-01-16-24/index.html
-Date: Thu, 16 Jan 2025 05:00:13 +0000
-Word Count: 1152 words
-Images: 11 (Sizes: 3000x2000, 1600x1065, 2000x1321, 1920x1080, 1600x1067, 2000x1333, 2000x1333, 2000x1333, 3000x2085, 1600x1067, 1600x1067)
-
 Category: politics
 Title: How the Biden and Trump teams worked together to get the Gaza ceasefire and hostages deal done
 URL: https://www.cnn.com/2025/01/15/politics/biden-trump-gaza-ceasefire-deal/index.html
@@ -2186,41 +1729,6 @@ Date: Tue, 14 Jan 2025 10:50:15 +0000
 Word Count: 208 words
 Images: 1 (Sizes: 2000x1125)
 
-Category: world
-Title: South Korean court rejects petition to release impeached president detained over martial law
-URL: https://www.cnn.com/2025/01/16/asia/south-korea-martial-law/index.html
-Date: Thu, 16 Jan 2025 16:25:46 +0000
-Word Count: 741 words
-Images: 2 (Sizes: 1920x1080, 6000x4001)
-
-Category: world
-Title: Pope Francis injures arm after falling at the Vatican
-URL: https://www.cnn.com/2025/01/16/europe/pope-francis-injures-arm-fall-intl/index.html
-Date: Thu, 16 Jan 2025 12:26:49 +0000
-Word Count: 346 words
-Images: 1 (Sizes: 2000x1333)
-
-Category: world
-Title: UK’s Starmer in Kyiv for security talks with a pledge for a ‘100-year partnership’ with Ukraine
-URL: https://www.cnn.com/2025/01/16/europe/uk-starmer-ukraine-zelensky-pact-intl-hnk/index.html
-Date: Thu, 16 Jan 2025 07:05:20 +0000
-Word Count: 827 words
-Images: 1 (Sizes: 1600x1066)
-
-Category: world
-Title: Woman allegedly poisoned baby and posted videos online for donations, police say
-URL: https://www.cnn.com/2025/01/16/australia/australia-woman-arrested-poisoning-child-intl-scli/index.html
-Date: Thu, 16 Jan 2025 12:25:58 +0000
-Word Count: 315 words
-Images: 1 (Sizes: 1920x1080)
-
-Category: world
-Title: How the ‘Trump factor’ now looms over international affairs
-URL: https://www.cnn.com/2025/01/16/world/donald-trump-factor-global-politics-intl/index.html
-Date: Thu, 16 Jan 2025 15:13:09 +0000
-Word Count: 568 words
-Images: 1 (Sizes: 2000x1335)
-
 Category: politics
 Title: American Battleground: Trump’s appetite for revenge — and the limits he might face
 URL: https://www.cnn.com/2025/01/16/politics/american-battleground-trump-revenge-analysis/index.html
@@ -2270,13 +1778,6 @@ Date: Thu, 16 Jan 2025 07:40:14 +0000
 Word Count: 658 words
 Images: 2 (Sizes: 1920x1080, 2000x1334)
 
-Category: science
-Title: From the sex lives of pygmy seahorses to parasites living in fish nostrils: these photos tell extraordinary ocean stories
-URL: https://www.cnn.com/science/extraordinary-ocean-stories-richard-smith-c2e-spc/index.html
-Date: Thu, 16 Jan 2025 09:25:10 +0000
-Word Count: 967 words
-Images: 13 (Sizes: 2000x1328, 2000x1335, 1335x2000, 2000x1335, 2000x1328, 1328x2000, 2000x1335, 2000x1335, 2000x1387, 2000x1328, 2000x1328, 2000x1387, 2000x1328)
-
 Category: sports
 Title: Steelers head coach Mike Tomlin has ‘no response’ to questions over his job after another disappointing playoff loss
 URL: https://www.cnn.com/2025/01/15/sport/mike-tomlin-pittsburgh-steelers-future-spt-intl/index.html
@@ -2292,13 +1793,6 @@ Word Count: 469 words
 Images: 1 (Sizes: 2000x1333)
 
 Category: sports
-Title: 2024 NFL divisional round: How to watch, full schedule and everything you need to know about each game
-URL: https://www.cnn.com/2025/01/16/sport/nfl-divisional-round-preview-spt-intl/index.html
-Date: Thu, 16 Jan 2025 11:18:46 +0000
-Word Count: 1784 words
-Images: 136 (Sizes: 1600x900, 3000x2000, 2000x3000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 2400x1600, 3000x2000, 3000x2143, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2174, 2000x1600, 2000x1334, 2399x1600, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 2449x1633, 3000x2000, 3000x1999, 2545x1697, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2044, 2440x1627, 3000x1997, 3000x2000, 2655x1770, 3000x2000, 3000x2001, 3000x1999, 3000x2234, 4846x3231, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x3584, 3000x2000, 3000x2000, 3000x3651, 2400x1600, 2239x1600, 3000x2000, 3000x2000, 2657x1771, 3000x1968, 3000x2000, 2725x2717, 2923x1948, 3000x2080, 3000x2000, 3000x2000, 2400x1600, 3000x2001, 3000x2000, 3000x2000, 3000x1990, 3000x2000, 3000x1927, 3000x2000, 3000x2107, 3000x1964, 3000x2000, 3000x2000, 3000x1997, 3000x2000, 3000x2000, 3000x2000, 2457x1638, 3000x2000, 3000x2000, 3000x2117, 3000x2000, 3000x2002, 2519x1679, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2000, 3000x2000, 3000x2000, 3000x1997, 2569x1982, 2648x1824, 3000x2000, 2632x1755, 3000x2001, 3000x2000, 3000x2000, 2926x3000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 3000x2001, 3000x2184, 3000x2000, 3000x2000, 3000x2000, 3000x2000, 2915x1944, 3000x2000)
-
-Category: sports
 Title: Australian Open: Last year’s finalist Zheng Qinwen stunned in biggest upset so far
 URL: https://www.cnn.com/2025/01/15/sport/australian-open-qinwen-zheng-laura-siegemund-spt-intl/index.html
 Date: Wed, 15 Jan 2025 11:20:19 +0000
@@ -2311,48 +1805,6 @@ URL: https://www.cnn.com/2025/01/14/sport/tyson-fury-retirement-heavyweight-boxi
 Date: Tue, 14 Jan 2025 13:28:21 +0000
 Word Count: 735 words
 Images: 3 (Sizes: 2000x1125, 2000x1283, 2000x1334)
-
-Category: world
-Title: South Korean court extends President Yoon’s detention, angering supporters
-URL: https://www.cnn.com/2025/01/18/asia/south-korea-court-extends-yoon-detention-intl-latam/index.html
-Date: Sat, 18 Jan 2025 18:53:50 +0000
-Word Count: 335 words
-Images: 1 (Sizes: 1600x1067)
-
-Category: world
-Title: Gaza ceasefire to begin Sunday after Israel approves deal in marathon cabinet meeting
-URL: https://www.cnn.com/world/live-news/israel-hamas-ceasefire-war-palestine-01-18-25/index.html
-Date: Sat, 18 Jan 2025 08:54:03 +0000
-Word Count: 3594 words
-Images: 12 (Sizes: 1920x1080, 2400x1705, 3000x2000, 3000x2000, 3000x1997, 3000x2000, 1920x1080, 1920x1080, 1600x1067, 3000x2000, 3000x2000, 2000x1333)
-
-Category: world
-Title: Brazil’s Bolsonaro frustrated after court blocks attendance at Trump’s inauguration
-URL: https://www.cnn.com/2025/01/18/americas/brazil-bolsonaro-travel-ban-trump-intl-latam/index.html
-Date: Sat, 18 Jan 2025 21:01:53 +0000
-Word Count: 218 words
-Images: 1 (Sizes: 2854x1903)
-
-Category: world
-Title: Ski lift at Spanish resort collapses, injuring dozens
-URL: https://www.cnn.com/2025/01/18/europe/spain-ski-lift-collapse-atsun-intl/index.html
-Date: Sat, 18 Jan 2025 16:31:05 +0000
-Word Count: 257 words
-Images: 2 (Sizes: 3000x2000, 3000x2000)
-
-Category: world
-Title: Gaza ceasefire-hostage deal to begin Sunday, bringing rare halt to months of fighting
-URL: https://www.cnn.com/2025/01/18/middleeast/israel-approves-ceasefire-hostage-deal-intl-hnk/index.html
-Date: Sat, 18 Jan 2025 06:50:12 +0000
-Word Count: 912 words
-Images: 1 (Sizes: 3000x2000)
-
-Category: world
-Title: Two high-profile Iranian judges killed in Tehran in what officials call a ‘planned assassination’
-URL: https://www.cnn.com/2025/01/18/middleeast/iranian-judges-killed-in-tehran-intl/index.html
-Date: Sat, 18 Jan 2025 13:36:26 +0000
-Word Count: 277 words
-Images: 1 (Sizes: 1928x1286)
 
 Category: politics
 Title: DeWine names Ohio Lt. Gov. Jon Husted to fill Senate seat vacated by Vance
@@ -2557,48 +2009,6 @@ Date: Thu, 16 Jan 2025 16:59:06 +0000
 Word Count: 845 words
 Images: 3 (Sizes: 2404x1600, 1589x1600, 2299x1600)
 
-Category: world
-Title: Panama turned its canal into a money-maker. History shows why Trump’s threats are sounding the alarm bells
-URL: https://www.cnn.com/2025/01/20/americas/panama-canal-trump-threat-intervention-intl-latam/index.html
-Date: Mon, 20 Jan 2025 22:28:48 +0000
-Word Count: 1266 words
-Images: 3 (Sizes: 3000x1999, 3000x2000, 3000x2444)
-
-Category: world
-Title: First Palestinian prisoners and Israeli hostages freed as Gaza ceasefire takes force
-URL: https://www.cnn.com/world/live-news/israel-hamas-ceasefire-war-gaza-01-20-25-intl-hnk/index.html
-Date: Mon, 20 Jan 2025 05:05:44 +0000
-Word Count: 5953 words
-Images: 32 (Sizes: 1600x1067, 6348x4234, 1600x900, 1920x1080, 3000x2000, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1334, 2000x1333, 2000x1333, 2000x1389, 2000x1333, 2000x1333, 448x596, 3000x2000, 1600x1067, 1600x1067, 1600x1067, 1600x1067, 1600x1067, 1600x1201, 1600x1200, 3000x2001, 3000x1875, 3000x2000, 1600x900)
-
-Category: world
-Title: What Maduro’s threat to ‘liberate’ Puerto Rico says about US-Venezuelan ties under Trump 2.0
-URL: https://www.cnn.com/2025/01/20/americas/analysis-venezuela-maduro-liberate-puerto-rico-intl-latam/index.html
-Date: Mon, 20 Jan 2025 05:01:57 +0000
-Word Count: 1335 words
-Images: 3 (Sizes: 3000x1997, 3000x2000, 3000x2000)
-
-Category: world
-Title: Mexican border town declares state of emergency as Trump pledges mass deportations
-URL: https://www.cnn.com/2025/01/20/americas/mexico-migrant-shelter-tijuana-deportation-trump-latam-intl/index.html
-Date: Mon, 20 Jan 2025 19:51:05 +0000
-Word Count: 605 words
-Images: 1 (Sizes: 2000x1333)
-
-Category: world
-Title: Hamas gave the three hostages ‘gift bags’ upon their release. This is what was inside
-URL: https://www.cnn.com/2025/01/20/middleeast/hamas-video-hostages-gift-bags-intl/index.html
-Date: Mon, 20 Jan 2025 13:24:23 +0000
-Word Count: 531 words
-Images: 6 (Sizes: 1340x754, 1843x1037, 1920x1080, 1632x918, 1638x922, 2000x1333)
-
-Category: world
-Title: Teenager admits murder of Southport girls in attack that sparked UK riots
-URL: https://www.cnn.com/2025/01/20/uk/southport-knife-attack-guilty-plea-intl/index.html
-Date: Mon, 20 Jan 2025 12:01:10 +0000
-Word Count: 327 words
-Images: 3 (Sizes: 3000x2001, 1600x900, 810x1080)
-
 Category: politics
 Title: Trump signs Day 1 executive actions as he attempts to transform federal government
 URL: https://www.cnn.com/2025/01/20/politics/executive-actions-trump-day-1/index.html
@@ -2711,48 +2121,6 @@ Date: Fri, 17 Jan 2025 11:47:21 +0000
 Word Count: 312 words
 Images: 2 (Sizes: 2000x1334, 2000x1334)
 
-Category: world
-Title: Pope Francis dissolves influential Peruvian Catholic group after investigation found ‘sadistic’ abuses
-URL: https://www.cnn.com/2025/01/21/americas/pope-dissolves-peruvian-catholic-group-intl-latam/index.html
-Date: Wed, 22 Jan 2025 00:34:51 +0000
-Word Count: 630 words
-Images: 1 (Sizes: 2048x1360)
-
-Category: world
-Title: More than 32,000 displaced as violence spirals in Colombian drug trafficking region
-URL: https://www.cnn.com/2025/01/22/americas/colombia-displaced-deadly-rebel-clashes-intl-latam/index.html
-Date: Wed, 22 Jan 2025 21:42:45 +0000
-Word Count: 612 words
-Images: 2 (Sizes: 2000x1333, 2000x1333)
-
-Category: world
-Title: Dozens killed as fire breaks out at ski resort hotel in northwestern Turkey
-URL: https://www.cnn.com/2025/01/21/europe/turkey-kartalkaya-hotel-fire-bolu-intl-hnk/index.html
-Date: Tue, 21 Jan 2025 06:58:57 +0000
-Word Count: 752 words
-Images: 2 (Sizes: 1920x1080, 4608x2592)
-
-Category: world
-Title: Gaza is a nightmare after 15 months of war. A visual guide to life on the ground now
-URL: https://www.cnn.com/2025/01/22/middleeast/gaza-war-ceasefire-snapshot-dg-intl/index.html
-Date: Wed, 22 Jan 2025 05:00:58 +0000
-Word Count: 999 words
-Images: 0 (Sizes: )
-
-Category: world
-Title: Yemen’s Houthis free crew of Red Sea cargo ship after 14 months in captivity
-URL: https://www.cnn.com/2025/01/22/middleeast/yemen-houthi-galaxy-leader-crew-free-intl-latam/index.html
-Date: Wed, 22 Jan 2025 18:47:42 +0000
-Word Count: 432 words
-Images: 2 (Sizes: 1280x720, 3000x1688)
-
-Category: world
-Title: 2,000-year-old Greek statue found abandoned in garbage bag
-URL: https://www.cnn.com/2025/01/22/europe/greece-statue-find-scli-intl/index.html
-Date: Wed, 22 Jan 2025 15:47:52 +0000
-Word Count: 247 words
-Images: 1 (Sizes: 3000x2250)
-
 Category: politics
 Title: White House orders government DEI employees to be placed on leave
 URL: https://www.cnn.com/2025/01/21/politics/white-house-government-dei-employees-on-leave/index.html
@@ -2815,13 +2183,6 @@ URL: https://www.cnn.com/2025/01/21/science/magnetic-north-pole-new-position/ind
 Date: Tue, 21 Jan 2025 15:32:12 +0000
 Word Count: 1180 words
 Images: 2 (Sizes: 2000x1194, 2000x1333)
-
-Category: science
-Title: Rare species discovered deep within Cambodian mountains
-URL: https://www.cnn.com/science/cambodia-biodiversity-rare-species-c2e-spc/index.html
-Date: Tue, 21 Jan 2025 10:35:27 +0000
-Word Count: 690 words
-Images: 12 (Sizes: 1766x1179, 2200x1468, 2200x1468, 2200x1467, 2200x1466, 2200x1467, 2200x1468, 2200x1467, 2200x1468, 2200x1468, 2200x1469, 2200x1467)
 
 Category: health
 Title: Telehealth companies boost ad spending while taking on more complex medicine
@@ -2900,41 +2261,6 @@ Date: Tue, 21 Jan 2025 10:31:55 +0000
 Word Count: 382 words
 Images: 3 (Sizes: 2000x1500, 2000x1328, 2000x1333)
 
-Category: world
-Title: Amanda Knox slander conviction upheld by Italy’s high court
-URL: https://www.cnn.com/2025/01/23/europe/amanda-knox-slander-conviction-upheld-italy-intl-latam/index.html
-Date: Thu, 23 Jan 2025 19:43:05 +0000
-Word Count: 422 words
-Images: 1 (Sizes: 1600x1067)
-
-Category: world
-Title: Where same-sex marriage is legal around the world
-URL: https://www.cnn.com/world/same-sex-marriage-legal-countries-map-dg/index.html
-Date: Fri, 16 Feb 2024 21:02:03 +0000
-Word Count: 117 words
-Images: 0 (Sizes: )
-
-Category: world
-Title: Taiwan plans to cull up to 120,000 green iguanas due to their negative impact on agriculture
-URL: https://www.cnn.com/2025/01/23/asia/taiwan-cull-iguanas-agriculture-intl/index.html
-Date: Thu, 23 Jan 2025 17:39:13 +0000
-Word Count: 365 words
-Images: 1 (Sizes: 6000x4000)
-
-Category: world
-Title: UK teenager jailed for minimum of 52 years for Southport girls’ murders
-URL: https://www.cnn.com/2025/01/23/uk/southport-girls-murders-rudakubana-sentence-intl/index.html
-Date: Thu, 23 Jan 2025 16:35:39 +0000
-Word Count: 581 words
-Images: 2 (Sizes: 1600x900, 1920x1080)
-
-Category: world
-Title: Palestinian journalist reunited with child after harrowing months in Israeli jail
-URL: https://www.cnn.com/2025/01/23/middleeast/palestinian-prisoner-released-journalist-horrors-israeli-detention-intl/index.html
-Date: Thu, 23 Jan 2025 16:22:28 +0000
-Word Count: 936 words
-Images: 2 (Sizes: 2000x1333, 2000x1333)
-
 Category: politics
 Title: They sentenced the January 6 rioters. Now, these judges are calling out Trump and ‘poor losers’
 URL: https://www.cnn.com/2025/01/22/politics/federal-judges-speak-out-january-6-pardons/index.html
@@ -2984,13 +2310,6 @@ Date: Thu, 23 Jan 2025 11:38:47 +0000
 Word Count: 828 words
 Images: 1 (Sizes: 3000x1687)
 
-Category: science
-Title: It looks like a tiny kangaroo and it’s bouncing back from the brink of extinction
-URL: https://www.cnn.com/science/bettong-bouncing-back-brink-of-extinction-spc-c2e/index.html
-Date: Thu, 23 Jan 2025 09:06:20 +0000
-Word Count: 646 words
-Images: 11 (Sizes: 1100x733, 1067x800, 1100x734, 1100x733, 1100x734, 1100x733, 1100x733, 1100x653, 1920x1080, 1100x733, 1100x732)
-
 Category: health
 Title: People with ADHD have shorter life expectancy and higher risk of mental health issues, study finds
 URL: https://www.cnn.com/2025/01/23/health/adhd-shorter-life-expectancy-study-wellness/index.html
@@ -3039,48 +2358,6 @@ URL: https://www.cnn.com/2025/01/22/sport/jabrill-peppers-trial-domestic-violenc
 Date: Wed, 22 Jan 2025 12:58:56 +0000
 Word Count: 414 words
 Images: 1 (Sizes: 2000x1421)
-
-Category: world
-Title: ‘Nothing will be easy about returning:’ Survivors mark 80th anniversary of Auschwitz liberation
-URL: https://www.cnn.com/2025/01/27/europe/world-leaders-auschwitz-commemorations-holocaust-intl/index.html
-Date: Mon, 27 Jan 2025 05:00:57 +0000
-Word Count: 650 words
-Images: 3 (Sizes: 2000x1370, 3000x2007, 2500x1667)
-
-Category: world
-Title: Fear and gunshots after Rwanda-backed rebels claim takeover of eastern Congo’s largest city
-URL: https://www.cnn.com/2025/01/26/africa/congo-severs-ties-rwanda-rebels-goma-intl/index.html
-Date: Sun, 26 Jan 2025 16:02:35 +0000
-Word Count: 579 words
-Images: 2 (Sizes: 3000x2000, 3000x2000)
-
-Category: world
-Title: Palestinians finally returning to devastated northern Gaza after ceasefire dispute delay
-URL: https://www.cnn.com/2025/01/27/middleeast/palestinians-return-north-gaza-intl-hnk/index.html
-Date: Mon, 27 Jan 2025 07:25:32 +0000
-Word Count: 1693 words
-Images: 5 (Sizes: 1920x1080, 1920x1080, 2000x1125, 1600x1067, 1600x1067)
-
-Category: world
-Title: Ships, sea drones and AI: How NATO is hardening its defense of critical Baltic undersea cables
-URL: https://www.cnn.com/2025/01/27/europe/nato-defense-baltic-undersea-cables-intl-cmd/index.html
-Date: Mon, 27 Jan 2025 10:15:54 +0000
-Word Count: 1535 words
-Images: 5 (Sizes: 1920x1080, 2000x1196, 2000x1500, 2000x1500, 2000x1278)
-
-Category: world
-Title: Climate change is disrupting food systems across Latin America, UN report says
-URL: https://www.cnn.com/2025/01/27/americas/climate-change-latin-america-un-report-int-latam/index.html
-Date: Mon, 27 Jan 2025 16:26:44 +0000
-Word Count: 354 words
-Images: 1 (Sizes: 2500x1667)
-
-Category: world
-Title: Musk’s comments that Germany should ‘move beyond’ Nazi guilt are dangerous, says Holocaust memorial chair
-URL: https://www.cnn.com/2025/01/27/europe/israel-holocaust-memorial-chair-musk-criticism-intl/index.html
-Date: Mon, 27 Jan 2025 16:12:58 +0000
-Word Count: 595 words
-Images: 2 (Sizes: 3000x2001, 3000x1748)
 
 Category: politics
 Title: Colombia backs down on accepting deportees on military planes after Trump’s tariffs threats
@@ -3174,13 +2451,6 @@ Word Count: 700 words
 Images: 1 (Sizes: 1280x720)
 
 Category: health
-Title: The best ab rollers to strengthen your core, according to personal trainers
-URL: https://www.cnn.com/cnn-underscored/health-fitness/best-ab-rollers
-Date: Fri, 24 Jan 2025 15:01:01 +0000
-Word Count: 795 words
-Images: 26 (Sizes: 2320x1306, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 1600x901, 4858x2733, 1605x905, 2320x1306, 2320x1306, 3542x1992, 2320x1306, 1854x1043, 3691x2076, 2320x1306, 2320x1306, 1854x1043, 2320x1306, 2320x1306, 4032x2268, 1600x901)
-
-Category: health
 Title: Hot sleeper? The Sleep Number ClimateCool smart bed has science-backed cooling features for each partner
 URL: https://www.cnn.com/cnn-underscored/health-fitness/sleep-number-climatecool-2025-01-13
 Date: Mon, 13 Jan 2025 14:30:42 +0000
@@ -3256,48 +2526,6 @@ URL: https://www.cnn.com/2025/01/25/sport/australian-open-womens-final-sabalenka
 Date: Sat, 25 Jan 2025 10:48:30 +0000
 Word Count: 897 words
 Images: 4 (Sizes: 2248x1600, 2400x1600, 2400x1600, 2400x1600)
-
-Category: world
-Title: Mexican president says she sent letter to Google contesting Gulf of Mexico name change
-URL: https://www.cnn.com/2025/01/30/americas/mexico-letter-google-gulf-of-america-intl-latam/index.html
-Date: Thu, 30 Jan 2025 18:51:19 +0000
-Word Count: 337 words
-Images: 1 (Sizes: 2000x1275)
-
-Category: world
-Title: DR Congo’s president says country won’t be humiliated after rebels claim takeover
-URL: https://www.cnn.com/2025/01/30/africa/congos-tshisekedi-m23-rebels-intl/index.html
-Date: Thu, 30 Jan 2025 17:20:15 +0000
-Word Count: 525 words
-Images: 1 (Sizes: 1600x1067)
-
-Category: world
-Title: Migrant workers in Canada exposed to ‘shocking abuse and discrimination,’ Amnesty says
-URL: https://www.cnn.com/2025/01/30/americas/migrant-workers-canada-abuse-amnesty-intl-latam/index.html
-Date: Thu, 30 Jan 2025 19:02:21 +0000
-Word Count: 401 words
-Images: 1 (Sizes: 3000x1687)
-
-Category: world
-Title: Eight hostages released from Gaza amid chaotic scenes as Palestinian prisoners set to be freed
-URL: https://www.cnn.com/world/live-news/israel-hamas-ceasefire-war-gaza-01-30-25-intl-hnk/index.html
-Date: Thu, 30 Jan 2025 07:58:14 +0000
-Word Count: 6977 words
-Images: 46 (Sizes: 2401x1600, 1600x900, 2000x1333, 1600x1067, 1920x1080, 3000x2000, 2000x1333, 2000x1398, 2000x1333, 2000x1335, 2000x1333, 2000x1286, 2000x1333, 2000x1500, 2000x1334, 2000x1333, 2000x1333, 2000x1333, 3000x2000, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1125, 2000x1333, 2000x1333, 1542x1028, 2000x1333, 1920x1080, 1920x1080, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 2000x1333, 750x750, 2000x1333, 750x750, 2000x1333, 1920x1080, 2000x1334, 750x750, 2000x1333, 2000x1374, 2000x1334, 1600x900)
-
-Category: world
-Title: Chaotic scenes at Gaza hostage release bring condemnation from Israeli leaders
-URL: https://www.cnn.com/2025/01/30/middleeast/israel-gaza-hostage-release-chaos-intl-latam/index.html
-Date: Thu, 30 Jan 2025 18:34:12 +0000
-Word Count: 898 words
-Images: 5 (Sizes: 2000x1333, 1920x1080, 2000x1333, 2000x1333, 2000x1333)
-
-Category: world
-Title: US foreign aid freeze is upending global aid and the work of contractors
-URL: https://www.cnn.com/2025/01/30/world/us-foreign-aid-freeze-intl-latam/index.html
-Date: Thu, 30 Jan 2025 18:11:05 +0000
-Word Count: 1253 words
-Images: 2 (Sizes: 2000x1333, 2000x1359)
 
 Category: politics
 Title: Senior FBI leaders promoted by former Director Wray have been demoted or reassigned, sources say
@@ -3481,48 +2709,6 @@ Date: Tue, 28 Jan 2025 11:36:00 +0000
 Word Count: 276 words
 Images: 1 (Sizes: 2000x1333)
 
-Category: world
-Title: American and father of youngest hostages among those due for release from Gaza Saturday
-URL: https://www.cnn.com/2025/01/31/middleeast/israel-gaza-hostages-saturday-intl/index.html
-Date: Fri, 31 Jan 2025 10:06:48 +0000
-Word Count: 837 words
-Images: 1 (Sizes: 1600x900)
-
-Category: world
-Title: North Korean troops pulled back from frontline after heavy losses, Ukrainian officials say
-URL: https://www.cnn.com/2025/01/31/europe/ukraine-russia-kursk-north-korean-troops-intl/index.html
-Date: Fri, 31 Jan 2025 14:40:04 +0000
-Word Count: 519 words
-Images: 3 (Sizes: 1600x900, 2249x1500, 2249x1500)
-
-Category: world
-Title: A sinkhole swallowed a truck driver in Japan. It’s expanding and residents are worried
-URL: https://www.cnn.com/2025/01/31/asia/japan-tokyo-sinkhole-swallows-driver-intl-hnk/index.html
-Date: Fri, 31 Jan 2025 08:54:01 +0000
-Word Count: 628 words
-Images: 2 (Sizes: 1600x1028, 4242x2828)
-
-Category: world
-Title: German parliament rejects opposition’s draft migration law
-URL: https://www.cnn.com/2025/01/31/europe/german-parliament-rejects-oppositions-draft-migration-law-intl/index.html
-Date: Fri, 31 Jan 2025 16:48:22 +0000
-Word Count: 152 words
-Images: 1 (Sizes: 2000x1333)
-
-Category: world
-Title: Merkel criticizes leader of her own party for cooperating with German far right
-URL: https://www.cnn.com/2025/01/31/europe/angela-merkel-friedrich-merz-afd-migration-vote-germany-intl/index.html
-Date: Fri, 31 Jan 2025 09:58:44 +0000
-Word Count: 371 words
-Images: 1 (Sizes: 3000x2023)
-
-Category: world
-Title: ‘We came back for nothing’: Returning home to northern Gaza, Palestinians find death and destruction
-URL: https://www.cnn.com/2025/01/31/middleeast/northern-gaza-return-destruction-intl/index.html
-Date: Fri, 31 Jan 2025 05:01:48 +0000
-Word Count: 1503 words
-Images: 1 (Sizes: 1920x1080)
-
 Category: politics
 Title: Trump said he hadn’t read Project 2025 – but most of his early executive actions overlap with its proposals
 URL: https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders-invs/index.html
@@ -3649,3 +2835,135 @@ Date: Wed, 29 Jan 2025 15:32:54 +0000
 Word Count: 532 words
 Images: 2 (Sizes: 2400x1600, 2400x1601)
 
+Category: politics
+Title: Senior USAID security officials put on leave after attempting to refuse Musk’s DOGE access to agency systems
+URL: https://www.cnn.com/2025/02/02/politics/usaid-officials-leave-musk-doge/index.html
+Date: Sun, 02 Feb 2025 16:48:04 +0000
+Word Count: 762 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: politics
+Title: How the Trump administration is building out its immigration enforcement machine
+URL: https://www.cnn.com/2025/02/02/politics/trump-immigration-enforcement/index.html
+Date: Sun, 02 Feb 2025 09:00:48 +0000
+Word Count: 960 words
+Images: 3 (Sizes: 2400x1714, 1920x1080, 2490x1600)
+
+Category: politics
+Title: USAID website goes offline amid Trump administration’s freeze on foreign aid
+URL: https://www.cnn.com/2025/02/01/politics/usaid-website-offline-freeze/index.html
+Date: Sun, 02 Feb 2025 01:52:24 +0000
+Word Count: 682 words
+Images: 1 (Sizes: 3000x1968)
+
+Category: politics
+Title: With tariffs signed, Trump warns of ‘pain’ to come for Americans
+URL: https://www.cnn.com/2025/02/02/politics/us-tariffs-americans-pay-imports/index.html
+Date: Sun, 02 Feb 2025 16:19:44 +0000
+Word Count: 854 words
+Images: 2 (Sizes: 1920x1080, 1920x1080)
+
+Category: politics
+Title: How an arcane Treasury Department office became ground zero in the war over federal spending
+URL: https://www.cnn.com/2025/01/31/politics/doge-treasury-department-federal-spending/index.html
+Date: Fri, 31 Jan 2025 22:20:07 +0000
+Word Count: 1485 words
+Images: 3 (Sizes: 2000x1333, 2400x1973, 2400x1600)
+
+Category: politics
+Title: Democrats pick Minnesota’s Ken Martin as new chair as party grapples with Trump’s flurry of actions
+URL: https://www.cnn.com/2025/02/01/politics/democrats-to-pick-new-chair/index.html
+Date: Sat, 01 Feb 2025 13:00:47 +0000
+Word Count: 1636 words
+Images: 1 (Sizes: 2309x1537)
+
+Category: politics
+Title: With stiff tariffs he promised now in place, Trump opens a new trade war
+URL: https://www.cnn.com/2025/02/01/politics/tariffs-trump-campaign-promise/index.html
+Date: Sat, 01 Feb 2025 05:00:47 +0000
+Word Count: 1287 words
+Images: 1 (Sizes: 2845x1600)
+
+Category: politics
+Title: Trump announces significant new tariffs on Mexico, Canada and China, sparking retaliatory actions
+URL: https://www.cnn.com/2025/02/01/politics/mexico-canada-china-tariffs-trump/index.html
+Date: Sat, 01 Feb 2025 22:11:29 +0000
+Word Count: 2207 words
+Images: 1 (Sizes: 1600x900)
+
+Category: science
+Title: Blue Ghost lunar lander is documenting its journey to the moon. The views are breathtaking
+URL: https://www.cnn.com/2025/02/01/science/blue-ghost-moon-eclipse-pictures/index.html
+Date: Sat, 01 Feb 2025 12:30:47 +0000
+Word Count: 626 words
+Images: 3 (Sizes: 2000x2667, 2000x1500, 2000x1580)
+
+Category: science
+Title: Life’s building blocks discovered in asteroid dust
+URL: https://www.cnn.com/2025/02/01/science/bennu-asteroid-sample-osiris-rex-science-newsletter-wt/index.html
+Date: Sat, 01 Feb 2025 16:00:47 +0000
+Word Count: 870 words
+Images: 4 (Sizes: 2000x2450, 2000x1334, 2000x1599, 2000x2086)
+
+Category: health
+Title: What to know about polio vaccines, in 4 charts
+URL: https://www.cnn.com/2025/02/02/health/polio-vaccines-explained-dg/index.html
+Date: Sun, 02 Feb 2025 11:00:47 +0000
+Word Count: 784 words
+Images: 1 (Sizes: 1600x900)
+
+Category: health
+Title: FDA approves first new type of pain medication in 25 years
+URL: https://www.cnn.com/2025/01/30/health/fda-approves-painkiller-suzetrigine-journavx/index.html
+Date: Thu, 30 Jan 2025 23:01:26 +0000
+Word Count: 1092 words
+Images: 1 (Sizes: 3000x3000)
+
+Category: sports
+Title: Giannis Antetokounmpo left furious after scuffle with Chris Paul during Milwaukee Bucks’ defeat against San Antonio Spurs
+URL: https://www.cnn.com/2025/02/01/sport/giannis-antetokounmpo-chris-paul-heated-nba-spt-intl/index.html
+Date: Sat, 01 Feb 2025 11:19:01 +0000
+Word Count: 392 words
+Images: 2 (Sizes: 2115x1600, 2400x1600)
+
+Category: sports
+Title: Plane crash kills world champion figure skaters and the ‘future’ of the sport in a tragic case of déjà vu
+URL: https://www.cnn.com/2025/01/30/sport/figure-skaters-shishkova-naumov-dc-plane-crash/index.html
+Date: Thu, 30 Jan 2025 18:32:00 +0000
+Word Count: 1018 words
+Images: 7 (Sizes: 2191x1482, 2350x3000, 2191x1482, 3000x2000, 960x1223, 600x977, 1436x1061)
+
+Category: sports
+Title: Rory McIlroy hits remarkable slam dunk hole-in-one at Pebble Beach Pro-Am as Scottie Scheffler returns from ‘stupid’ injury
+URL: https://www.cnn.com/2025/01/31/sport/rory-mcilroy-scottie-scheffler-pebble-beach-spt-intl/index.html
+Date: Fri, 31 Jan 2025 11:29:53 +0000
+Word Count: 446 words
+Images: 3 (Sizes: 2000x1333, 2000x1333, 2000x1279)
+
+Category: sports
+Title: WNBA star Angel Reese surprises her mother by paying off her mortgage as a birthday present
+URL: https://www.cnn.com/2025/01/31/sport/angel-reese-mother-mortgage-spt-intl/index.html
+Date: Fri, 31 Jan 2025 15:14:30 +0000
+Word Count: 370 words
+Images: 1 (Sizes: 2483x1397)
+
+Category: sports
+Title: Mikaela Shiffrin returns to competition after serious injury, finishes 10th
+URL: https://www.cnn.com/2025/01/31/sport/mikaela-shiffrin-skiing-return-spt-intl/index.html
+Date: Fri, 31 Jan 2025 12:10:53 +0000
+Word Count: 313 words
+Images: 2 (Sizes: 2000x1333, 2000x1333)
+
+Category: sports
+Title: UFC president Dana White denounces fighter who made pro-Adolf Hitler comments
+URL: https://www.cnn.com/2025/01/31/sport/ufc-dana-white-bryce-mitchell-spt-intl/index.html
+Date: Fri, 31 Jan 2025 13:52:25 +0000
+Word Count: 398 words
+Images: 2 (Sizes: 3000x2000, 3000x2000)
+
+Category: sports
+Title: ‘He embraced hate’: The ‘ego death’ that transformed Kobe Bryant from the ‘king of LA’ into the Black Mamba
+URL: https://www.cnn.com/2025/02/01/sport/kobe-bryant-black-mamba-nba-legend-spt-intl/index.html
+Date: Sat, 01 Feb 2025 11:31:27 +0000
+Word Count: 1814 words
+Images: 4 (Sizes: 1600x900, 2000x1233, 2000x1303, 2000x1334)

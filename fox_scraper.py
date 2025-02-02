@@ -5,7 +5,6 @@ import os
 import re
 
 CUSTOM_RSS_LINKS = {
-    "world": "https://moxie.foxnews.com/google-publisher/world.xml",
     "politics": "https://moxie.foxnews.com/google-publisher/politics.xml",
     "science": "https://moxie.foxnews.com/google-publisher/science.xml",
     "health": "https://moxie.foxnews.com/google-publisher/health.xml",
@@ -13,8 +12,15 @@ CUSTOM_RSS_LINKS = {
 }
 
 DEFAULT_BASE_URL = "https://feeds.foxnews.com/foxnews/"
+CATEGORIES = ["politics", "science", "health", "sports"]
 
-CATEGORIES = ["world", "politics", "science", "health", "sports"]
+# Constants for filtering
+MAX_WORD_COUNT = 3000
+MAX_IMAGE_COUNT = 10
+
+def is_valid_article(word_count, image_count):
+    """Check if article meets the filtering criteria."""
+    return word_count <= MAX_WORD_COUNT and image_count <= MAX_IMAGE_COUNT
 
 def fetch_fox_news_articles(rss_url):
     feed = feedparser.parse(rss_url)
@@ -113,6 +119,11 @@ def save_article_data_to_file(articles, category, filename="./article-visualizat
                 published_date = article['published_date']
                 word_count, image_count, image_sizes = get_article_details(url)
 
+                # Check if article meets criteria before saving
+                if not is_valid_article(word_count, image_count):
+                    print(f"Skipping article due to filtering criteria: {title}")
+                    continue
+
                 image_sizes_str = ", ".join(image_sizes) if image_sizes else "No Images"
 
                 file.write(
@@ -129,6 +140,54 @@ def save_article_data_to_file(articles, category, filename="./article-visualizat
     if new_articles_added > 0:
         update_total_articles_count(filename)
 
+def clean_existing_file(filename="./article-visualization/public/data/fox_news_articles.txt"):
+    """Clean existing file by removing articles that don't meet the criteria."""
+    if not os.path.exists(filename):
+        print(f"File {filename} does not exist.")
+        return
+
+    print("Cleaning existing file...")
+    
+    with open(filename, "r", encoding='utf-8') as file:
+        content = file.read()
+
+    # Split content into article blocks
+    articles = content.split("\n\n")
+    
+    # First block might be the total count, preserve it if it exists
+    header = articles[0] if articles[0].startswith("Total Articles:") else None
+    if header:
+        articles = articles[1:]
+
+    cleaned_articles = []
+    for article in articles:
+        if not article.strip():
+            continue
+            
+        # Parse word count and image count
+        word_count_match = re.search(r"Word Count: (\d+)", article)
+        image_count_match = re.search(r"Images: (\d+)", article)
+        
+        if word_count_match and image_count_match:
+            word_count = int(word_count_match.group(1))
+            image_count = int(image_count_match.group(1))
+            
+            if is_valid_article(word_count, image_count):
+                cleaned_articles.append(article)
+            else:
+                print(f"Removing article with {word_count} words and {image_count} images")
+
+    # Write cleaned content back to file
+    with open(filename, "w", encoding='utf-8') as file:
+        if header:
+            file.write(header + "\n\n")
+        file.write("\n\n".join(cleaned_articles))
+        if cleaned_articles:
+            file.write("\n\n")  # Add final newlines
+
+    update_total_articles_count(filename)
+    print("File cleaning completed.")
+
 def scrape_all_categories():
     for category in CATEGORIES:
         rss_url = CUSTOM_RSS_LINKS.get(category, f"{DEFAULT_BASE_URL}{category}")
@@ -141,3 +200,4 @@ def scrape_all_categories():
 
 if __name__ == "__main__":
     scrape_all_categories()
+    clean_existing_file()  # Clean the file after scraping to ensure all articles meet criteria
