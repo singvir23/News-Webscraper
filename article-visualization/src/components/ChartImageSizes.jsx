@@ -9,7 +9,8 @@ import {
   Legend,
   ZAxis,
   BarChart,
-  Bar
+  Bar,
+  Cell
 } from 'recharts';
 import { COLORS } from '../constants';
 
@@ -197,7 +198,14 @@ function ChartImageSizes({ data }) {
               }}
             />
             <Legend verticalAlign="top" height={36} />
-            <Bar dataKey="totalImages" fill="#8884d8" />
+            <Bar dataKey="totalImages">
+              {barData.map((entry, index) => (
+                <Cell
+                  key={`cell-${index}`}
+                  fill={COLORS[entry.source] || "#8884d8"}
+                />
+              ))}
+            </Bar>
           </BarChart>
         </div>
       </div>
