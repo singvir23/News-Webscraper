@@ -131,7 +131,7 @@ function ChartWordsPerArticle({ data }) {
 
   return (
     <div className="chart-words-container">
-      <h2 className="chart-words-title">Words per Article</h2>
+      <h2 className="chart-words-title">Number of Words per Article</h2>
 
       <div className="chart-words-filters">
         {/* Category Select */}

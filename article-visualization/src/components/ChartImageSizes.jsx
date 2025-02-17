@@ -77,7 +77,7 @@ function ChartImageSizes({ data }) {
 
   return (
     <div className="chart-image-sizes-container">
-      <h2 className="chart-image-sizes-title">Image Sizes (width × height)</h2>
+      <h2 className="chart-image-sizes-title">Number of images by size (width × height)</h2>
 
       <div className="chart-image-sizes-select-container">
         <select

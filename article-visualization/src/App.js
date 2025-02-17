@@ -54,6 +54,7 @@ function App() {
     <div className="app-container">
       <div className="inner-container">
         <h1 className="title">Article Data Visualization</h1>
+        <p className="text-gray-400 text-sm mt-2">Data collected: December 15th 2024 - February 17th 2025</p>
         <div className="charts-container">
           <div className="chart-wrapper">
             <ChartImagesPerArticle data={allArticles} />
