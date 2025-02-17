@@ -1,4 +1,6 @@
-Total Articles: 372
+Total Articles: 366
+
+
 
 Category: politics
 Title: KFile: Pete Hegseth spread baseless conspiracy theories that January 6 attack was carried out by leftist groups
@@ -8,25 +10,11 @@ Word Count: 1280 words
 Images: 1 (Sizes: 2400x1600)
 
 Category: politics
-Title: How these older voters who backed Harris are engaging in ‘quiet resistance’
-URL: https://www.cnn.com/2024/11/26/politics/pennsylvania-older-voters-trump-resistance/index.html
-Date: Tue, 26 Nov 2024 11:00:54 +0000
-Word Count: 1597 words
-Images: 4 (Sizes: 1920x1080, 2400x1600, 2400x1545, 2400x1600)
-
-Category: politics
 Title: Many Trump voters still have doubts about him. Can he hold them?
 URL: https://www.cnn.com/2024/12/17/politics/trump-voter-doubts-analysis/index.html
 Date: Tue, 17 Dec 2024 11:00:42 +0000
 Word Count: 2722 words
 Images: 3 (Sizes: 2400x1705, 2400x1600, 2400x1600)
-
-Category: politics
-Title: Even Iowa Republicans who initially wanted to move on from Trump see hope — and a mandate — in his win
-URL: https://www.cnn.com/2024/11/19/politics/iowa-voters-trump-mandate/index.html
-Date: Tue, 19 Nov 2024 18:54:11 +0000
-Word Count: 1386 words
-Images: 3 (Sizes: 1920x1080, 2400x1800, 2400x1799)
 
 Category: politics
 Title: Electoral College: How it’s changed this year
@@ -42,26 +30,12 @@ Date: Mon, 23 Dec 2024 20:53:34 +0000
 Word Count: 1179 words
 Images: 2 (Sizes: 4000x2661, 1920x1080)
 
-Category: politics
-Title: Hardline activist who raised the idea of jailing women for abortions gets top policy job in Trump administration
-URL: https://www.cnn.com/2024/12/12/politics/kfile-ed-martin-omb-trump-administration-raised-idea-jailing-women-for-abortions/index.html
-Date: Thu, 12 Dec 2024 21:50:07 +0000
-Word Count: 835 words
-Images: 1 (Sizes: 1600x1067)
-
 Category: science
 Title: The bird at the center of the worst single-species mortality event in modern history isn’t recovering, scientists say
 URL: https://www.cnn.com/2024/12/26/science/alaska-heat-wave-murres-global-warming/index.html
 Date: Thu, 26 Dec 2024 15:37:46 +0000
 Word Count: 946 words
 Images: 3 (Sizes: 2000x1333, 2000x1333, 2000x1333)
-
-Category: science
-Title: Fossilized poop reveals secrets of how dinosaurs came to dominate Earth
-URL: https://www.cnn.com/2024/11/27/science/fossilized-poop-dinosaurs/index.html
-Date: Wed, 27 Nov 2024 18:16:52 +0000
-Word Count: 1090 words
-Images: 3 (Sizes: 2000x1333, 2000x3000, 2000x3000)
 
 Category: science
 Title: Scientists think they know why Stonehenge was rebuilt thousands of years ago
@@ -90,27 +64,6 @@ URL: https://www.cnn.com/2024/12/27/science/space-junk-earth-kessler-syndrome/in
 Date: Fri, 27 Dec 2024 11:00:43 +0000
 Word Count: 2128 words
 Images: 3 (Sizes: 3000x2000, 2302x1535, 700x800)
-
-Category: science
-Title: Why scientists say we need to send clocks to the moon — soon
-URL: https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html
-Date: Thu, 30 May 2024 12:31:08 +0000
-Word Count: 2075 words
-Images: 6 (Sizes: 3000x1687, 1850x1233, 3000x3644, 1850x1234, 1850x1366, 1600x1600)
-
-Category: science
-Title: Ancient ‘terror birds’ were giant apex predators. Suspected new species is among the largest ever known
-URL: https://www.cnn.com/2024/11/08/science/terror-bird-fossil-la-venta-colombia/index.html
-Date: Fri, 08 Nov 2024 23:46:38 +0000
-Word Count: 843 words
-Images: 3 (Sizes: 2000x1333, 1600x2133, 1900x2137)
-
-Category: science
-Title: ‘Dyson spheres’ were theorized as a way to detect alien life. Scientists say they’ve found potential evidence
-URL: https://www.cnn.com/2024/06/13/science/dyson-spheres-alien-life-evidence-scn/index.html
-Date: Thu, 13 Jun 2024 11:00:27 +0000
-Word Count: 1895 words
-Images: 3 (Sizes: 5287x2974, 1850x2658, 1600x900)
 
 Category: science
 Title: History-making probe achieves closest-ever approach to the sun
@@ -148,13 +101,6 @@ Word Count: 503 words
 Images: 1 (Sizes: 2000x1125)
 
 Category: science
-Title: Baby saber-toothed cat mummy found in Siberia with intact skin, fur and toes is ‘mind-blowing,’ scientists say
-URL: https://www.cnn.com/2024/11/18/science/mummified-sabre-toothed-cat-cub/index.html
-Date: Mon, 18 Nov 2024 17:45:12 +0000
-Word Count: 1004 words
-Images: 4 (Sizes: 2475x1161, 1131x1569, 2346x1646, 2008x1290)
-
-Category: science
 Title: How to see the Ursids, the final meteor shower that peaks in 2024
 URL: https://www.cnn.com/2024/12/21/science/ursid-meteor-shower-december-2024/index.html
 Date: Sat, 21 Dec 2024 14:00:26 +0000
@@ -174,20 +120,6 @@ URL: https://www.cnn.com/2024/12/20/science/silver-amulet-germany-christianity-s
 Date: Fri, 20 Dec 2024 13:01:32 +0000
 Word Count: 926 words
 Images: 4 (Sizes: 1600x900, 2400x1600, 1600x3220, 2400x1600)
-
-Category: sports
-Title: Vinícius Jr. exclusive: Real Madrid squad will walk off the pitch in face of racist abuse
-URL: https://www.cnn.com/2024/08/28/sport/video/vinicius-jr-racism-real-madrid-spain-spt-intl
-Date: Wed, 28 Aug 2024 11:30:21 +0000
-Word Count: 0 words
-Images: 1 (Sizes: 2120x1413)
-
-Category: sports
-Title: Lewis Hamilton fulfills childhood dream, pilots fighter jet
-URL: https://www.cnn.com/2024/11/29/sport/video/hamilton-hosseini-f1-pilot-cnni-sports-fast
-Date: Fri, 29 Nov 2024 23:18:30 +0000
-Word Count: 0 words
-Images: 1 (Sizes: 1920x1080)
 
 Category: sports
 Title: Tiger Woods and son Charlie shine at PNC Championship in Woods’ return to competition
@@ -232,27 +164,6 @@ Word Count: 558 words
 Images: 1 (Sizes: 1600x900)
 
 Category: sports
-Title: Tiger Woods to compete for first time since back surgery at PNC Championship with son
-URL: https://www.cnn.com/2024/12/10/sport/tiger-and-charlie-woods-compete-pnc-championship-spt/index.html
-Date: Wed, 11 Dec 2024 01:45:35 +0000
-Word Count: 227 words
-Images: 1 (Sizes: 1600x1138)
-
-Category: sports
-Title: Sinner & Alcaraz spearheading tennis’ charge into a new era
-URL: https://www.cnn.com/2024/11/12/sport/video/sinner-alcaraz-tennis-atp-cnni-sports-fast
-Date: Tue, 12 Nov 2024 13:17:00 +0000
-Word Count: 0 words
-Images: 1 (Sizes: 1920x1080)
-
-Category: sports
-Title: Lily Yohannes: The 17-year-old star of the US women’s team, by those who know her best
-URL: https://www.cnn.com/2024/12/04/sport/lily-yohannes-uswnt-teenage-star-spt-intl/index.html
-Date: Wed, 04 Dec 2024 12:00:48 +0000
-Word Count: 1665 words
-Images: 4 (Sizes: 2400x1669, 750x1334, 480x640, 2400x1518)
-
-Category: sports
 Title: ‘A whole different wiring system’: the extreme athletes who pushed limits in 2024 – and why they might not be crazy after all
 URL: https://www.cnn.com/2024/12/27/sport/extreme-athletes-achievements-2024-spt-intl/index.html
 Date: Fri, 27 Dec 2024 12:02:27 +0000
@@ -288,39 +199,11 @@ Word Count: 1374 words
 Images: 4 (Sizes: 3000x2000, 3000x2036, 3000x2222, 3000x2159)
 
 Category: sports
-Title: Saudi Arabia is trying to disrupt soccer’s world order. The reasons why might surprise you
-URL: https://www.cnn.com/2023/09/20/sport/saudi-arabia-soccer-spl-bin-salman-intl-spt-cmd-dg/index.html
-Date: Wed, 20 Sep 2023 07:33:34 +0000
-Word Count: 2764 words
-Images: 5 (Sizes: 1600x900, 2000x1333, 2000x1333, 2000x1333, 2000x1556)
-
-Category: sports
-Title: Australian tennis icon Neale Fraser dies at 91
-URL: https://www.cnn.com/2024/12/03/sport/neale-fraser-dies-australia-tennis-spt/index.html
-Date: Tue, 03 Dec 2024 12:16:46 +0000
-Word Count: 389 words
-Images: 2 (Sizes: 2000x1125, 2000x1425)
-
-Category: sports
 Title: The Showdown: Rory McIlroy and Scottie Scheffler cruise past Bryson DeChambeau and Brooks Koepka to claim $10M crypto prize
 URL: https://www.cnn.com/2024/12/18/sport/showdown-mcilroy-scheffler-pga-liv-golf-spt/index.html
 Date: Wed, 18 Dec 2024 10:46:06 +0000
 Word Count: 352 words
 Images: 1 (Sizes: 2845x1600)
-
-Category: sports
-Title: ‘Special Ks’ set to reunite for doubles at the Australian Open
-URL: https://www.cnn.com/2024/12/13/sport/nick-kyrgios-thanasi-kokkinakis-australian-open-spt-intl/index.html
-Date: Fri, 13 Dec 2024 11:08:08 +0000
-Word Count: 348 words
-Images: 1 (Sizes: 4224x2832)
-
-Category: sports
-Title: China sentences former Premier League soccer star to 20 years in prison for corruption
-URL: https://www.cnn.com/2024/12/13/sport/video/china-everton-corruption-tie-cnni-sports-fast
-Date: Fri, 13 Dec 2024 13:51:42 +0000
-Word Count: 0 words
-Images: 1 (Sizes: 1920x1080)
 
 Category: sports
 Title: ‘He’s not a dad’: Trinity Rodman on strained relationship with Dennis Rodman
@@ -337,13 +220,6 @@ Word Count: 661 words
 Images: 3 (Sizes: 2500x1719, 2500x1664, 2500x1666)
 
 Category: sports
-Title: These athletes suffered life-changing injuries. Then, they turned to psychedelics
-URL: https://www.cnn.com/2024/02/19/sport/psilocybin-athletes-life-changing-injuries-psychedelics-spt-intl/index.html
-Date: Mon, 19 Feb 2024 09:37:19 +0000
-Word Count: 2352 words
-Images: 7 (Sizes: 1600x900, 2000x1361, 2000x1333, 2000x1331, 2000x1500, 3000x2000, 3000x2000)
-
-Category: sports
 Title: Lindsey Vonn set to return to competitive skiing
 URL: https://www.cnn.com/2024/12/19/sport/video/vonn-rebensburg-skiing-cnni-sports-fast
 Date: Thu, 19 Dec 2024 22:58:19 +0000
@@ -356,34 +232,6 @@ URL: https://www.cnn.com/2024/12/27/sport/scottie-scheffler-injury-christmas-din
 Date: Fri, 27 Dec 2024 23:07:57 +0000
 Word Count: 356 words
 Images: 2 (Sizes: 2500x1667, 3000x2000)
-
-Category: sports
-Title: South Korean Olympian Kim Yeji shoots her way to stardom
-URL: https://www.cnn.com/2024/10/11/sport/video/south-korea-yeji-olympics-cnni-sports-fast
-Date: Fri, 11 Oct 2024 12:13:14 +0000
-Word Count: 0 words
-Images: 1 (Sizes: 1920x1080)
-
-Category: sports
-Title: From $245 million bust to Super Bowl contender again: the redemption arc of ‘Mr. Unlimited’ Russell Wilson
-URL: https://www.cnn.com/2024/12/14/sport/russell-wilson-pittsburgh-steelers-redemption-spt-intl/index.html
-Date: Sat, 14 Dec 2024 12:21:56 +0000
-Word Count: 1215 words
-Images: 5 (Sizes: 1600x900, 2000x1333, 2000x1348, 2000x1258, 2000x1333)
-
-Category: sports
-Title: Saudi Arabia officially announced as the 2034 World Cup host. Human rights groups warn of ‘unimaginable human cost’
-URL: https://www.cnn.com/2024/12/11/sport/saudi-arabia-2034-world-cup-fifa-bid-spt-intl/index.html
-Date: Wed, 11 Dec 2024 09:24:38 +0000
-Word Count: 1830 words
-Images: 4 (Sizes: 1920x1080, 2000x1299, 2000x1333, 2000x1333)
-
-Category: health
-Title: I don’t have diabetes, but I wore a glucose monitor for six weeks. Here’s what I learned about food (and anxiety)
-URL: https://www.cnn.com/2024/11/29/health/continuous-glucose-monitor-tirrell-wellness/index.html
-Date: Fri, 29 Nov 2024 12:00:50 +0000
-Word Count: 2176 words
-Images: 3 (Sizes: 1920x1080, 1284x1913, 3000x2001)
 
 Category: science
 Title: Microplastics are choking our waters. Could a sponge made of squid bones help remove them?
@@ -1204,13 +1052,6 @@ Date: Fri, 10 Jan 2025 14:16:49 +0000
 Word Count: 1239 words
 Images: 3 (Sizes: 3000x3000, 1920x1920, 2515x3366)
 
-Category: health
-Title: Avian Flu Fast Facts
-URL: https://www.cnn.com/2013/08/23/health/avian-flu-fast-facts/index.html
-Date: Fri, 23 Aug 2013 18:10:24 +0000
-Word Count: 1490 words
-Images: 1 (Sizes: 4560x3264)
-
 Category: sports
 Title: ‘It has skyrocketed’: How flag football established itself on the US sporting landscape
 URL: https://www.cnn.com/2025/01/10/sport/flag-football-big-business-spt-intl/index.html
@@ -2017,25 +1858,11 @@ Word Count: 632 words
 Images: 1 (Sizes: 1600x1099)
 
 Category: politics
-Title: Tracking Trump’s picks for his Cabinet and administration
-URL: https://www.cnn.com/politics/trump-cabinet-picks-administration-dg/index.html
-Date: Wed, 13 Nov 2024 16:10:48 +0000
-Word Count: 126 words
-Images: 0 (Sizes: )
-
-Category: politics
 Title: Trump commutes sentences of Proud Boys and Oath Keepers leaders as he pardons over 1,000 January 6 US Capitol rioters
 URL: https://www.cnn.com/2025/01/20/politics/january-6-2021-capitol-riot-pardons-trump/index.html
 Date: Mon, 20 Jan 2025 19:08:29 +0000
 Word Count: 1101 words
 Images: 3 (Sizes: 2000x1334, 1920x1080, 2000x1394)
-
-Category: politics
-Title: Trump says he’ll use a 1798 law to crack down on cartels. He could face an uphill battle in court
-URL: https://www.cnn.com/2024/11/14/politics/alien-enemies-act-1798-trump-cec/index.html
-Date: Thu, 14 Nov 2024 11:00:51 +0000
-Word Count: 1505 words
-Images: 5 (Sizes: 2500x1667, 2500x1406, 2500x1667, 2500x1787, 2500x1570)
 
 Category: politics
 Title: Senate votes to confirm Marco Rubio as secretary of state, first Trump Cabinet official to be approved
@@ -2967,3 +2794,136 @@ URL: https://www.cnn.com/2025/02/01/sport/kobe-bryant-black-mamba-nba-legend-spt
 Date: Sat, 01 Feb 2025 11:31:27 +0000
 Word Count: 1814 words
 Images: 4 (Sizes: 1600x900, 2000x1233, 2000x1303, 2000x1334)
+
+Category: politics
+Title: Education Department letter threatens federal funding of any school that considers race in most aspects of student life
+URL: https://www.cnn.com/2025/02/16/politics/education-department-race-federal-funding/index.html
+Date: Sun, 16 Feb 2025 23:17:42 +0000
+Word Count: 520 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: science
+Title: Early Europeans may have eaten their enemies’ brains, archaeologists say
+URL: https://www.cnn.com/2025/02/12/science/magdalenian-cannibal-scli-intl/index.html
+Date: Wed, 12 Feb 2025 14:45:53 +0000
+Word Count: 549 words
+Images: 4 (Sizes: 1600x900, 2000x1528, 1600x1600, 1900x1068)
+
+Category: science
+Title: Earth’s magnetic field triggers a superpower in sea turtles that makes them ‘dance’
+URL: https://www.cnn.com/2025/02/15/science/dancing-sea-turtles-science-newsletter-wt/index.html
+Date: Sat, 15 Feb 2025 16:00:47 +0000
+Word Count: 855 words
+Images: 2 (Sizes: 2000x1333, 2000x1125)
+
+Category: science
+Title: Asteroid 2024 YR4 could hit Earth in 7 years. Here’s what could happen — and what’s being done about it
+URL: https://www.cnn.com/2025/02/15/science/asteroid-2024-yr4-earth-tracking/index.html
+Date: Sat, 15 Feb 2025 12:54:40 +0000
+Word Count: 1240 words
+Images: 1 (Sizes: 1600x900)
+
+Category: science
+Title: Newly discovered fungus turns cave-dwelling spiders into ‘zombies’
+URL: https://www.cnn.com/2025/02/14/science/zombie-spider-fungus-caves-gibellula/index.html
+Date: Fri, 14 Feb 2025 13:35:37 +0000
+Word Count: 1018 words
+Images: 4 (Sizes: 2000x1125, 2000x1125, 2000x1125, 1600x2400)
+
+Category: health
+Title: What are your questions about measles?
+URL: https://www.cnn.com/2025/02/14/health/measles-paging-dr-gupta/index.html
+Date: Fri, 14 Feb 2025 23:06:41 +0000
+Word Count: 105 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: health
+Title: Urgent CDC data and analyses on influenza and bird flu go missing as outbreaks escalate
+URL: https://www.cnn.com/2025/02/14/health/cdc-outbreaks-kff-health-news/index.html
+Date: Fri, 14 Feb 2025 21:34:40 +0000
+Word Count: 1361 words
+Images: 1 (Sizes: 3000x1917)
+
+Category: health
+Title: West Texas measles outbreak doubles to 48 cases
+URL: https://www.cnn.com/2025/02/14/health/measles-texas-outbreak/index.html
+Date: Fri, 14 Feb 2025 18:08:43 +0000
+Word Count: 537 words
+Images: 1 (Sizes: 3630x2449)
+
+Category: health
+Title: Trump administration gives warning about ‘gender ideology’ on some government health websites
+URL: https://www.cnn.com/2025/02/14/health/gender-ideology-warning-websites/index.html
+Date: Fri, 14 Feb 2025 22:59:49 +0000
+Word Count: 787 words
+Images: 1 (Sizes: 1920x1080)
+
+Category: health
+Title: Company says it received conditional approval for bird flu vaccine from US Department of Agriculture
+URL: https://www.cnn.com/2025/02/16/health/bird-flu-vaccine-zoetis-avian/index.html
+Date: Sun, 16 Feb 2025 19:21:00 +0000
+Word Count: 603 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: health
+Title: Netflix’s ‘Apple Cider Vinegar’ takes aim at wellness influencers, but there’s another problem
+URL: https://www.cnn.com/2025/02/16/health/apple-cider-vinegar-netflix-gaps-wellness/index.html
+Date: Sun, 16 Feb 2025 15:00:48 +0000
+Word Count: 1051 words
+Images: 2 (Sizes: 2000x1125, 2000x1125)
+
+Category: health
+Title: Do you need a measles booster? Here’s what experts say
+URL: https://www.cnn.com/2025/02/13/health/measles-vaccine-shot-booster-adults-wellness/index.html
+Date: Thu, 13 Feb 2025 12:00:47 +0000
+Word Count: 1043 words
+Images: 1 (Sizes: 1600x1067)
+
+Category: sports
+Title: Irish jockey Michael O’Sullivan dies at 24, days after falling during a race
+URL: https://www.cnn.com/2025/02/16/sport/michael-osullivan-obituary-irish-jockey-spt-intl/index.html
+Date: Sun, 16 Feb 2025 14:26:00 +0000
+Word Count: 376 words
+Images: 2 (Sizes: 1600x2351, 1970x1376)
+
+Category: sports
+Title: Mac McClung makes Slam Dunk contest history during All-Star weekend
+URL: https://www.cnn.com/2025/02/16/sport/mac-mcclung-slam-dunk-history-spt-intl/index.html
+Date: Sun, 16 Feb 2025 12:29:52 +0000
+Word Count: 524 words
+Images: 3 (Sizes: 2400x1600, 3000x2000, 2400x1600)
+
+Category: sports
+Title: Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon, smashing world record
+URL: https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html
+Date: Sun, 16 Feb 2025 16:08:06 +0000
+Word Count: 270 words
+Images: 1 (Sizes: 3000x2000)
+
+Category: sports
+Title: Cigars, confetti and brotherly love: Eagles celebrate Super Bowl victory with open-air bus parade through Philadelphia
+URL: https://www.cnn.com/2025/02/14/sport/philadelphia-eagles-parade-super-bowl-celebration-spt/index.html
+Date: Fri, 14 Feb 2025 17:49:11 +0000
+Word Count: 914 words
+Images: 4 (Sizes: 2000x1213, 2000x1333, 2000x1333, 2700x1952)
+
+Category: sports
+Title: Steph Curry wants ‘to shine a light’ on the Bay Area ahead of NBA All-Star weekend
+URL: https://www.cnn.com/2025/02/15/sport/steph-curry-all-star-bay-area-impact-spt/index.html
+Date: Sat, 15 Feb 2025 12:27:03 +0000
+Word Count: 974 words
+Images: 4 (Sizes: 2400x1600, 2400x1600, 2147x1600, 2400x1600)
+
+Category: sports
+Title: World No. 1 Jannik Sinner accepts three-month ban from tennis to settle doping case
+URL: https://www.cnn.com/2025/02/15/sport/jannik-sinner-three-month-ban-tennis-spt-intl/index.html
+Date: Sat, 15 Feb 2025 11:00:27 +0000
+Word Count: 502 words
+Images: 1 (Sizes: 2400x1600)
+
+Category: sports
+Title: USA downs Canada to advance to championship game in 4 Nations Face-Off
+URL: https://www.cnn.com/2025/02/15/sport/usa-canada-4-nations-face-off-spt/index.html
+Date: Sun, 16 Feb 2025 04:39:02 +0000
+Word Count: 705 words
+Images: 3 (Sizes: 2284x1600, 2400x1600, 2400x1600)

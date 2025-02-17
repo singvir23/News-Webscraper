@@ -3,6 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import re
+from datetime import datetime, timezone
+import email.utils
 
 CUSTOM_RSS_LINKS = {
     "politics": "https://moxie.foxnews.com/google-publisher/politics.xml",
@@ -17,6 +19,29 @@ CATEGORIES = ["politics", "science", "health", "sports"]
 # Constants for filtering
 MAX_WORD_COUNT = 3000
 MAX_IMAGE_COUNT = 10
+
+def parse_date(date_str):
+    """Parse date string to datetime object."""
+    try:
+        # Parse RFC 2822 date format
+        return datetime.fromtimestamp(email.utils.mktime_tz(email.utils.parsedate_tz(date_str)), timezone.utc)
+    except:
+        try:
+            # Try parsing other common date formats
+            return datetime.strptime(date_str, '%Y-%m-%d %H:%M:%S %z')
+        except:
+            return None
+
+def is_within_date_range(date_str):
+    """Check if the article date is within the specified range."""
+    date = parse_date(date_str)
+    if not date:
+        return False
+    
+    start_date = datetime(2024, 12, 15, tzinfo=timezone.utc)
+    end_date = datetime(2025, 2, 17, tzinfo=timezone.utc)
+    
+    return start_date <= date <= end_date
 
 def is_valid_article(word_count, image_count):
     """Check if article meets the filtering criteria."""
@@ -117,6 +142,12 @@ def save_article_data_to_file(articles, category, filename="./article-visualizat
                 title = article['title']
                 url = article['url']
                 published_date = article['published_date']
+                
+                # Check if article is within date range before processing further
+                if not is_within_date_range(published_date):
+                    print(f"Skipping article outside date range: {title}")
+                    continue
+                
                 word_count, image_count, image_sizes = get_article_details(url)
 
                 # Check if article meets criteria before saving
@@ -167,15 +198,18 @@ def clean_existing_file(filename="./article-visualization/public/data/fox_news_a
         # Parse word count and image count
         word_count_match = re.search(r"Word Count: (\d+)", article)
         image_count_match = re.search(r"Images: (\d+)", article)
+        date_match = re.search(r"Date: (.+)", article)
         
-        if word_count_match and image_count_match:
+        if word_count_match and image_count_match and date_match:
             word_count = int(word_count_match.group(1))
             image_count = int(image_count_match.group(1))
+            date_str = date_match.group(1).strip()
             
-            if is_valid_article(word_count, image_count):
+            # Check both content criteria and date range
+            if is_valid_article(word_count, image_count) and is_within_date_range(date_str):
                 cleaned_articles.append(article)
             else:
-                print(f"Removing article with {word_count} words and {image_count} images")
+                print(f"Removing article with {word_count} words, {image_count} images, date: {date_str}")
 
     # Write cleaned content back to file
     with open(filename, "w", encoding='utf-8') as file:

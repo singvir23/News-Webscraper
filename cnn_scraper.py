@@ -1,8 +1,32 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timezone
 import re
 from urllib.parse import urljoin
+import email.utils
+
+def parse_date(date_str):
+    """Parse date string to datetime object."""
+    try:
+        # Parse RFC 2822 date format
+        return datetime.fromtimestamp(email.utils.mktime_tz(email.utils.parsedate_tz(date_str)), timezone.utc)
+    except:
+        try:
+            # Try parsing ISO format (which CNN uses)
+            return datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+        except:
+            return None
+
+def is_within_date_range(date_str):
+    """Check if the article date is within the specified range."""
+    date = parse_date(date_str)
+    if not date:
+        return False
+    
+    start_date = datetime(2024, 12, 15, tzinfo=timezone.utc)
+    end_date = datetime(2025, 2, 17, tzinfo=timezone.utc)
+    
+    return start_date <= date <= end_date
 
 def is_valid_article(word_count, image_count):
     """Check if article meets the criteria (not an outlier)."""
@@ -112,6 +136,11 @@ def scrape_cnn_article(url):
             if date_str:
                 date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
                 result['Date'] = date_obj.strftime('%a, %d %b %Y %H:%M:%S %z')
+                
+                # Check if article is within date range
+                if not is_within_date_range(result['Date']):
+                    print(f"Skipping article outside date range: {url}")
+                    return None
 
         paragraphs = soup.find_all(['p', 'div'], class_=lambda x: x and 'paragraph' in x.lower())
         total_words = sum(len(p.text.split()) for p in paragraphs if p.text)
@@ -159,7 +188,7 @@ def save_article_info(info, filename="./article-visualization/public/data/cnn_ar
         f.write("\n")
 
 def clean_existing_file(filename="./article-visualization/public/data/cnn_articles.txt"):
-    """Clean the existing file by removing outlier articles."""
+    """Clean the existing file by removing outlier articles and those outside date range."""
     try:
         with open(filename, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -177,20 +206,22 @@ def clean_existing_file(filename="./article-visualization/public/data/cnn_articl
             if not article.strip():
                 continue
                 
-            # Extract word count and image count
+            # Extract word count, image count, and date
             word_count_match = re.search(r'Word Count: (\d+)', article)
             image_count_match = re.search(r'Images: (\d+)', article)
+            date_match = re.search(r'Date: (.+?)(?:\n|$)', article)
             
-            if word_count_match and image_count_match:
+            if word_count_match and image_count_match and date_match:
                 word_count = int(word_count_match.group(1))
                 image_count = int(image_count_match.group(1))
+                date_str = date_match.group(1).strip()
                 
-                if is_valid_article(word_count, image_count):
+                if is_valid_article(word_count, image_count) and is_within_date_range(date_str):
                     valid_articles.append(article)
                 else:
                     url_match = re.search(r'URL: (.*?)\n', article)
                     if url_match:
-                        print(f"Removing outlier article: {url_match.group(1)}")
+                        print(f"Removing article: {url_match.group(1)} (Date: {date_str})")
 
         # Write cleaned content back to file
         with open(filename, 'w', encoding='utf-8') as f:
@@ -198,7 +229,7 @@ def clean_existing_file(filename="./article-visualization/public/data/cnn_articl
             f.write('\n\n'.join(valid_articles))
             f.write('\n')  # End file with newline
             
-        print(f"Cleaned file. Removed {len(articles) - len(valid_articles)} outlier articles.")
+        print(f"Cleaned file. Removed {len(articles) - len(valid_articles)} articles.")
         
     except FileNotFoundError:
         print(f"File {filename} not found.")
