@@ -92,10 +92,10 @@ function ChartWordsPerArticle({ data }) {
   // Group duplicates
   const groupedData = useMemo(() => groupPoints(filteredData), [filteredData]);
 
-  // Separate by source
+  // Separate by source for the scatter chart
   const sources = useMemo(() => [...new Set(groupedData.map(d => d.source))], [groupedData]);
 
-  // Calculate bar chart data: bin the word counts into 10 bins
+  // Calculate bar chart data: bin the word counts into 10 bins for FOX and CNN
   const barData = useMemo(() => {
     if (filteredData.length === 0) return [];
     const wordCounts = filteredData.map(article => article.y);
@@ -107,18 +107,21 @@ function ChartWordsPerArticle({ data }) {
     for (let i = 0; i < numBins; i++) {
       bins.push({
         range: `${min + i * binWidth}-${min + (i + 1) * binWidth - 1}`,
-        articles: 0,
+        FOX: 0,
+        CNN: 0,
       });
     }
+    // Only include FOX and CNN articles in the bar chart
     filteredData.forEach(article => {
+      if (article.source !== 'FOX' && article.source !== 'CNN') return;
       const value = article.y;
       const binIndex = Math.floor((value - min) / binWidth);
       if (binIndex >= 0 && binIndex < bins.length) {
-        bins[binIndex].articles++;
+        bins[binIndex][article.source] += 1;
       }
     });
-    // Optionally filter out bins with zero articles
-    return bins.filter(bin => bin.articles > 0);
+    // Optionally filter out bins with zero articles for both sources
+    return bins.filter(bin => bin.FOX > 0 || bin.CNN > 0);
   }, [filteredData]);
 
   // Set chart dimensions
@@ -281,7 +284,8 @@ function ChartWordsPerArticle({ data }) {
                   return (
                     <div className="custom-tooltip">
                       <p className="tooltip-title">Range: {d.range}</p>
-                      <p>Articles: {d.articles}</p>
+                      <p>CNN Articles: {d.CNN}</p>
+                      <p>FOX Articles: {d.FOX}</p>
                     </div>
                   );
                 }
@@ -289,7 +293,8 @@ function ChartWordsPerArticle({ data }) {
               }}
             />
             <Legend verticalAlign="top" height={36} />
-            <Bar dataKey="articles" fill="#ffc658" />
+            <Bar dataKey="CNN" fill={COLORS.CNN} name="CNN" />
+            <Bar dataKey="FOX" fill={COLORS.FOX} name="FOX" />
           </BarChart>
         </div>
       </div>

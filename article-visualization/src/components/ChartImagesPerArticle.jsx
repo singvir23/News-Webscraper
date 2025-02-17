@@ -82,16 +82,18 @@ function ChartImagesPerArticle({ data }) {
   // Separate by source for scatter chart
   const sources = [...new Set(groupedData.map(d => d.source))];
 
-  // Calculate bar chart data: distribution of articles by image count
-  const imageCountDistribution = {};
+  // Build the distribution of articles by image count—but only for CNN and FOX.
+  const distribution = {};
   filteredData.forEach(article => {
-    const count = article.y; // number of images
-    imageCountDistribution[count] = (imageCountDistribution[count] || 0) + 1;
+    // Only include articles from CNN or FOX
+    if (article.source !== 'CNN' && article.source !== 'FOX') return;
+    const count = article.y; // image count
+    if (!distribution[count]) {
+      distribution[count] = { imageCount: Number(count), CNN: 0, FOX: 0 };
+    }
+    distribution[count][article.source] += 1;
   });
-  const barData = Object.keys(imageCountDistribution).map(key => ({
-    imageCount: Number(key),
-    articles: imageCountDistribution[key]
-  }));
+  const barData = Object.values(distribution);
 
   // Set chart dimensions
   const chartWidth = 400;
@@ -114,11 +116,7 @@ function ChartImagesPerArticle({ data }) {
             className="chart-images-select"
           >
             {categories.map(cat => (
-              <option
-                key={cat}
-                value={cat}
-                className="chart-images-option"
-              >
+              <option key={cat} value={cat} className="chart-images-option">
                 {cat}
               </option>
             ))}
@@ -249,7 +247,8 @@ function ChartImagesPerArticle({ data }) {
                   return (
                     <div className="custom-tooltip">
                       <p className="tooltip-title">Image Count: {d.imageCount}</p>
-                      <p>Articles: {d.articles}</p>
+                      <p>CNN Articles: {d.CNN}</p>
+                      <p>FOX Articles: {d.FOX}</p>
                     </div>
                   );
                 }
@@ -257,7 +256,8 @@ function ChartImagesPerArticle({ data }) {
               }}
             />
             <Legend verticalAlign="top" height={36} />
-            <Bar dataKey="articles" fill="#82ca9d" />
+            <Bar dataKey="CNN" fill={COLORS.CNN} name="CNN" />
+            <Bar dataKey="FOX" fill={COLORS.FOX} name="FOX" />
           </BarChart>
         </div>
       </div>
