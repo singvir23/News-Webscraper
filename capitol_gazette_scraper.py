@@ -17,10 +17,10 @@ logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s [%(levelname)s] %(message)s")
 
 SECTIONS = {
-    "https://www.thebaltimorebanner.com/topic/politics-power/": "politics",
-    "https://www.thebaltimorebanner.com/topic/economy/": "business",
-    "https://www.thebaltimorebanner.com/topic/sports/": "sports",
-    "https://www.thebaltimorebanner.com/topic/education/": "education",
+    "https://www.capitalgazette.com/news/politics/": "politics",
+    "https://www.capitalgazette.com/business/": "business",
+    "https://www.capitalgazette.com/sports/": "sports",
+    "https://www.capitalgazette.com/news/education/": "education",
 }
 
 HEADERS = {
@@ -60,16 +60,8 @@ def get_all_page_links(section_url: str, label: str) -> list[str]:
     links: set[str] = set()
     page_url = section_url
 
-    # 🔥 Dynamically build the regex based on the section label
-    section_prefix = {
-        "politics": "politics-power",
-        "business": "economy",
-        "sports": "sports",
-        "education": "education",
-    }[label]
-
     pattern = re.compile(
-        rf"^https://www\.thebaltimorebanner\.com/{section_prefix}/.+-[A-Z0-9]{{15,}}/$"
+        r"^https://www\.capitalgazette\.com/\d{4}/\d{2}/\d{2}/[^/]+/$"
     )
 
     while page_url:
@@ -78,22 +70,16 @@ def get_all_page_links(section_url: str, label: str) -> list[str]:
             href = a["href"]
             if href.startswith("/"):
                 href = urljoin(section_url, href)
-            if href.startswith("https://www.thebaltimorebanner.com/"):
+            if href.startswith("https://www.capitalgazette.com/"):
                 href = href.split("#")[0]  # remove fragments like #comments-header
-                #print(f"Found link: {href}")
                 if pattern.search(href):
                     links.add(href)
-        # handle pagination
-        nxt = soup.select_one("a[data-cy='load-more']")
-        page_url = urljoin(section_url, nxt["href"]) if nxt else None
+        # no "Load More" button probably, so just exit after first page
+        page_url = None  
         time.sleep(0.8)
-    
-    #print("\n=== Final filtered list of links ===")
-    #for link in sorted(links):
-        #print(link)
-    print(f"=== Total article links collected: {len(links)} ===\n")
-    
+
     return sorted(links)
+
 
 
 
@@ -117,12 +103,12 @@ def parse_article(url: str) -> dict:
     soup = get_soup(url)
 
     # headline
-    headline_tag = soup.select_one("h1.headline strong")
+    headline_tag = soup.select_one("h1.entry-title")
     headline = headline_tag.get_text(strip=True) if headline_tag else ""
-    headline_len = len(headline.split())   
+    headline_len = len(headline.split())
 
     # word count
-    paragraphs = soup.select("div.article-body p[data-testid='text-container']")
+    paragraphs = soup.select("div.body-copy p")
     text = " ".join(p.get_text(strip=True) for p in paragraphs)
     word_count = len(text.split())
 
@@ -131,7 +117,7 @@ def parse_article(url: str) -> dict:
     num_links = len(links_in_body)
 
     # images
-    imgs = soup.select("div.article-body img")
+    imgs = soup.select("div.body-copy img")
     image_info = []
     for img in imgs:
         src = img.get("src")
@@ -145,21 +131,11 @@ def parse_article(url: str) -> dict:
     num_images = len(image_info)
 
     # date
-    date_tag = soup.select_one("span[data-testid='attribution-date__published']")
-    if date_tag:
-        date_text = date_tag.get_text(strip=True)
-        try:
-            pub_date = dt_parser.parse(date_text, fuzzy=True).isoformat()
-        except Exception:
-            pub_date = None
-    else:
-        meta_date = soup.find("meta", attrs={"property": "article:published_time"})
-        pub_date = meta_date["content"] if meta_date else None
+    meta_date = soup.find("meta", attrs={"property": "article:published_time"})
+    pub_date = meta_date["content"] if meta_date else None
 
-    # ads
+    # ads estimate
     ad_count = len(soup.select("div[id^='arcad-feature']"))
-
-    # comments -- SKIPPED (since you don't want it anymore)
 
     return {
         "url": url,
@@ -175,6 +151,7 @@ def parse_article(url: str) -> dict:
 
 
 
+
 # ------------- main -------------------------------------------------------- #
 def main(
     limit_per_section: int | None = None,
@@ -186,7 +163,7 @@ def main(
     cur = conn.cursor()
 
     existing_urls = set()
-    cur.execute("SELECT url FROM baltimore_banner;")
+    cur.execute("SELECT url FROM capitol_gazette;")
     for row in cur.fetchall():
         existing_urls.add(row[0])
 
@@ -206,7 +183,7 @@ def main(
                 data["section"] = label
 
                 insert_query = """
-                INSERT INTO baltimore_banner
+                INSERT INTO capitol_gazette
                 (section, url, pub_date, headline, headline_len,
                  word_count, num_links, num_images, num_ads_est, images)
                 VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
@@ -237,6 +214,5 @@ def main(
 
 
 
-
 if __name__ == "__main__":
-    main(limit_per_section=50)   # remove limit when you’re satisfied
+    main()   # remove limit when you’re satisfied
