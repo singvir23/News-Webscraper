@@ -52,7 +52,7 @@ sections = st.sidebar.multiselect(
 
 # Set default dates in the sidebar
 default_start_date = datetime.date(2025, 4, 20)
-default_end_date = datetime.date.today()
+default_end_date = df["pub_date"].max()
 
 
 date_min, date_max = df["pub_date"].min(), df["pub_date"].max()
