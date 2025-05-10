@@ -38,9 +38,7 @@ You can find the visualization here: https://maryland-news-visualizer.streamlit.
    pip install -r requirements.txt
    ```
 
-3. Configure the PostgreSQL database connection in the `visualization_app.py` file.
-
-4. Run the Streamlit app:
+3. Run the Streamlit app:
    ```bash
    streamlit run article-visualization/visualization_app.py
    ```
@@ -54,5 +52,5 @@ You can find the visualization here: https://maryland-news-visualizer.streamlit.
 ## Notes
 
 - The database is hosted on Neon and requires SSL for connections.
-- The data is updated periodically by running the scrapers (maunally done).
+- We may change sourcing to a different news outlet than The Baltimore Banner due to paywalls and unreliable data.
 
