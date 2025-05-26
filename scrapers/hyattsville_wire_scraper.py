@@ -13,25 +13,31 @@ from io import BytesIO
 from tqdm import tqdm
 import psycopg2
 
+
+
 logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s [%(levelname)s] %(message)s")
 
 SECTIONS = {
-    "https://www.capitalgazette.com/news/politics/": "politics",
-    "https://www.capitalgazette.com/business/": "business",
-    "https://www.capitalgazette.com/sports/": "sports",
-    "https://www.capitalgazette.com/news/education/": "education",
+    #"https://www.hyattsvillewire.com/woodridge/": "woodridge",
+    "https://www.hyattsvillewire.com/riverdale-park/": "riverdale-park",
+    "https://www.hyattsvillewire.com/college-park/": "college-park",
+    "https://www.hyattsvillewire.com/mount-rainier/": "mount-rainier",
+    "https://www.hyattsvillewire.com/brentwood/": "brentwood",
+    "https://www.hyattsvillewire.com/bladensburg/": "bladensburg",
+    "https://www.hyattsvillewire.com/edmonston/": "edmonston",
+    "https://www.hyattsvillewire.com/hyattsville/": "hyattsville",
+    "https://www.hyattsvillewire.com/greenbelt/": "greenbelt",
 }
 
 HEADERS = {
-    # Chrome-ish UA avoids the site’s robots block
     "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/605.1.15 (KHTML, like Gecko) "
+        "Version/15.1 Safari/605.1.15"
+    )
 }
+
 
 SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
@@ -43,25 +49,16 @@ def get_soup(url: str) -> BeautifulSoup:
     resp.raise_for_status()
     return BeautifulSoup(resp.text, "html.parser")
 
-def load_existing_links(csv_path: str) -> set[str]:
-    """Load already scraped article URLs from an existing CSV."""
-    if not Path(csv_path).exists():
-        return set()
-    existing_links = set()
-    with Path(csv_path).open("r", encoding="utf-8") as fp:
-        reader = csv.DictReader(fp)
-        for row in reader:
-            existing_links.add(row["url"])
-    return existing_links
+
 
 
 def get_all_page_links(section_url: str, label: str) -> list[str]:
-    """Collect ONLY real article links from a section page based on section type."""
+    """Collect article links from a Hyattsville Wire section page."""
     links: set[str] = set()
     page_url = section_url
 
     pattern = re.compile(
-        r"^https://www\.capitalgazette\.com/\d{4}/\d{2}/\d{2}/[^/]+/$"
+        r"^https://www\.hyattsvillewire\.com/\d{4}/\d{2}/\d{2}/[^/]+/?$"
     )
 
     while page_url:
@@ -70,21 +67,14 @@ def get_all_page_links(section_url: str, label: str) -> list[str]:
             href = a["href"]
             if href.startswith("/"):
                 href = urljoin(section_url, href)
-            if href.startswith("https://www.capitalgazette.com/"):
-                href = href.split("#")[0]  # remove fragments like #comments-header
-                if pattern.search(href):
-                    links.add(href)
-        # no "Load More" button probably, so just exit after first page
-        page_url = None  
+            href = href.split("#")[0]  # remove URL fragments
+            if pattern.match(href):
+                links.add(href)
+        # The site doesn't paginate visibly, so stop after one page
+        page_url = None
         time.sleep(0.8)
 
     return sorted(links)
-
-
-
-
-
-
 
 
 def get_image_dims(src: str) -> tuple[int | None, int | None]:
@@ -107,8 +97,8 @@ def parse_article(url: str) -> dict:
     headline = headline_tag.get_text(strip=True) if headline_tag else ""
     headline_len = len(headline.split())
 
-    # word count
-    paragraphs = soup.select("div.body-copy p")
+    # content
+    paragraphs = soup.select("div.entry-content p")
     text = " ".join(p.get_text(strip=True) for p in paragraphs)
     word_count = len(text.split())
 
@@ -117,7 +107,7 @@ def parse_article(url: str) -> dict:
     num_links = len(links_in_body)
 
     # images
-    imgs = soup.select("div.body-copy img")
+    imgs = soup.select("div.entry-content img")
     image_info = []
     for img in imgs:
         src = img.get("src")
@@ -130,12 +120,12 @@ def parse_article(url: str) -> dict:
         image_info.append({"src": src, "width": w, "height": h})
     num_images = len(image_info)
 
-    # date
+    # publication date
     meta_date = soup.find("meta", attrs={"property": "article:published_time"})
     pub_date = meta_date["content"] if meta_date else None
 
-    # ads estimate
-    ad_count = len(soup.select("div[id^='arcad-feature']"))
+    # ads (optional placeholder)
+    ad_count = 0
 
     return {
         "url": url,
@@ -147,8 +137,10 @@ def parse_article(url: str) -> dict:
         "num_images": num_images,
         "images": image_info,
         "num_ads_est": ad_count,
-        "text": text,  # Add the article text to the returned data
+        "text": text,
     }
+
+
 
 
 
@@ -164,11 +156,10 @@ def main(
     cur = conn.cursor()
 
     existing_urls = set()
-    cur.execute("SELECT url FROM capitol_gazette;")
+    cur.execute("SELECT url FROM hyattsville_wire;")
     for row in cur.fetchall():
         existing_urls.add(row[0])
 
-    new_articles_count = 0
     for section_url, label in SECTIONS.items():
         logging.info("Scanning section: %s", label)
         article_links = get_all_page_links(section_url, label)
@@ -185,9 +176,9 @@ def main(
                 data["section"] = label
 
                 insert_query = """
-                INSERT INTO capitol_gazette
+                INSERT INTO hyattsville_wire
                 (section, url, pub_date, headline, headline_len,
-                 word_count, num_links, num_images, num_ads_est, images, article_text)
+                word_count, num_links, num_images, num_ads_est, images, text)
                 VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 ON CONFLICT (url) DO NOTHING;
                 """
@@ -206,8 +197,8 @@ def main(
                     data.get("text"),
                 ))
 
+
                 existing_urls.add(url)
-                new_articles_count += 1
             except Exception as exc:
                 logging.warning("Failed %s: %s", url, exc)
             time.sleep(0.6)
@@ -215,9 +206,8 @@ def main(
     cur.close()
     conn.close()
     logging.info("DONE – wrote to Neon database.")
-    print(f"New articles scraped: {new_articles_count}")
 
 
 
 if __name__ == "__main__":
-    main()   # remove limit when you’re satisfied
+    main()   
