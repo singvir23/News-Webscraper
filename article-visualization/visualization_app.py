@@ -72,7 +72,6 @@ filtered = df[
 ]
 
 #---------------MAP Section--------------------
-import pydeck as pdk
 
 # Load geocoded place mentions from the DB
 @st.cache_data(ttl=600)
@@ -88,7 +87,7 @@ place_df = all_place_mentions.merge(
     filtered[["headline"]], on="headline", how="inner"
 )
 
-# Create clickable link for each headline
+# Create clickable link for each headline - need to fix/remove
 place_df["headline_link"] = place_df.apply(
     lambda row: f"<a href='{row.url}' target='_blank'>{row.headline}</a>", axis=1
 )
@@ -120,32 +119,30 @@ for col in ["Baltimore Banner", "Capitol Gazette"]:
     if col not in source_pivot.columns:
         source_pivot[col] = 0
 
-# Rename for consistency
 source_pivot.columns.name = None
 source_pivot = source_pivot.rename(columns={
     "Baltimore Banner": "banner_count",
     "Capitol Gazette": "gazette_count"
 })
 
-# Total mentions and scaled radius
 source_pivot["total_mentions"] = source_pivot["banner_count"] + source_pivot["gazette_count"]
 source_pivot["scaled_radius"] = (source_pivot["total_mentions"] + 20) * 2000
 
 # Assign color based on source mix
 def get_color(row):
     if row["banner_count"] > 0 and row["gazette_count"] > 0:
-        return [160, 32, 240, 200]  # purple
+        return [160, 32, 240, 200]  # purple if both
     elif row["banner_count"] > 0:
-        return [255, 0, 0, 200]      # red
+        return [255, 0, 0, 200]      # red for just baltimore_banner
     else:
-        return [0, 100, 255, 200]    # blue
+        return [0, 100, 255, 200]    # blue for cg
 
 source_pivot["dot_color"] = source_pivot.apply(get_color, axis=1)
 
-# Merge everything
+# merge everything
 map_data = source_pivot.merge(headline_links, on=["place", "latitude", "longitude"], how="left")
 
-# Build map
+# build map
 st.subheader("🗺️ Map of Places Mentioned in Articles")
 st.pydeck_chart(pdk.Deck(
     initial_view_state=pdk.ViewState(
@@ -163,9 +160,9 @@ st.pydeck_chart(pdk.Deck(
             get_radius="scaled_radius",
             get_fill_color="dot_color",
             pickable=True,
-            radius_scale=1,            # Base radius scaling factor
-            radius_min_pixels=2,       # Min size regardless of zoom
-            radius_max_pixels=40,      # Max size regardless of zoom
+            radius_scale=1,            
+            radius_min_pixels=2,       
+            radius_max_pixels=40,      
             auto_highlight=True
         ),  
     ],
