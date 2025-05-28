@@ -6,8 +6,9 @@ import datetime
 
 # Streamlit config
 st.set_page_config(page_title="News Visualizer", layout="wide")
-st.title("📰 Gazette & Hyattsville Wire News Visualization Dashboard")
-
+st.title("Maryland News Articles Visualization Dashboard")
+st.markdown(
+    "This dashboard visualizes articles from the Capitol Gazette, Hyattsville Wire, and Baltimore Banner. Use the filters to explore different sources and date ranges.")
 # Load data from PostgreSQL
 @st.cache_data(ttl=600)
 def load_data():
@@ -97,9 +98,6 @@ st.subheader("🖼️ Image Count Distribution")
 fig_img = px.histogram(filtered, x="num_images", color="source", nbins=15, barmode="group", title="Number of Images per Article")
 st.plotly_chart(fig_img, use_container_width=True)
 
-st.subheader("📢 Number of Ads per Article")
-fig_ads = px.histogram(filtered, x="num_ads_est", color="source", nbins=10, barmode="group", title="Estimated Number of Ads per Article")
-st.plotly_chart(fig_ads, use_container_width=True)
 
 # 📚 Section Popularity Over Time
 st.subheader("📚 Section Popularity Over Time")
@@ -114,6 +112,8 @@ fig_section_time = px.histogram(
 st.plotly_chart(fig_section_time, use_container_width=True)
 
 # 🧮 Average Article Length by Section
+# NEEDS TO BE SEPERATED OUT (Have one for bamtimore banner and capital gazette, and one for hyattsville wire)
+# since they have different section names
 st.subheader("🧮 Average Article Length by Section")
 avg_lengths = (
     filtered.groupby("section")["word_count"]
@@ -152,4 +152,4 @@ st.dataframe(filtered[["pub_date", "source", "section", "headline", "headline_le
 
 # Footer
 st.markdown("---")
-st.markdown("Data sourced from the Capitol Gazette and Hyattsville Wire.")
+st.markdown("Data sourced from the Capitol Gazette, the Baltimore Banner, and the Hyattsville Wire.")
