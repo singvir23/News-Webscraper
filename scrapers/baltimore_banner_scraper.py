@@ -1,3 +1,5 @@
+# Baltimore Banner scraper, we realized that the paywall wasn't allowing us to scrape completely
+# accurate data, so we decided not to use it in the visualization.
 from __future__ import annotations
 import re, json, time, itertools, logging
 from collections import Counter

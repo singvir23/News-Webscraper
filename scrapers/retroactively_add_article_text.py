@@ -23,7 +23,7 @@ def get_soup(url: str) -> BeautifulSoup:
 
 def extract_article_text(url: str) -> str:
     soup = get_soup(url)
-    paragraphs = soup.select("div.body-copy p")
+    paragraphs = soup.select("div.article-body p")
     text = " ".join(p.get_text(strip=True) for p in paragraphs)
     return text
 
@@ -33,22 +33,23 @@ def main():
     cur = conn.cursor()
 
     # Find articles missing article_text or where it's null/empty
-    cur.execute("SELECT url FROM capitol_gazette WHERE article_text IS NULL OR article_text = '';")
+    cur.execute("SELECT url FROM baltimore_banner WHERE article_text IS NULL OR article_text = '';")
     rows = cur.fetchall()
     print(f"Found {len(rows)} articles missing text.")
     updated = 0
-    for (url,) in rows:
+    total = len(rows)
+    for idx, (url,) in enumerate(rows, 1):
         try:
             text = extract_article_text(url)
             cur.execute(
-                "UPDATE capitol_gazette SET article_text = %s WHERE url = %s;",
+                "UPDATE baltimore_banner SET article_text = %s WHERE url = %s;",
                 (text, url)
             )
             updated += 1
-            print(f"Updated: {url}")
+            print(f"[{idx}/{total}] Updated: {url}")
         except Exception as exc:
-            print(f"Failed {url}: {exc}")
-        time.sleep(0.6)
+            print(f"[{idx}/{total}] Failed {url}: {exc}")
+        #time.sleep(0.6)
     cur.close()
     conn.close()
     print(f"Done. Updated {updated} articles.")

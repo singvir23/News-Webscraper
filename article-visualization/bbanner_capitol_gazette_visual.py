@@ -2,11 +2,13 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from sqlalchemy import create_engine
+import pydeck as pdk
 import datetime
+
 
 # Streamlit config
 st.set_page_config(page_title="News Visualizer", layout="wide")
-st.title("📰 Gazette & Hyattsville Wire News Visualization Dashboard")
+st.title("📰 Combined News Articles Visualization Dashboard")
 
 # Load data from PostgreSQL
 @st.cache_data(ttl=600)
@@ -14,31 +16,24 @@ def load_data():
     engine = create_engine(
         "postgresql+psycopg2://scraperdb_owner:npg_mbyWDf3q5rFp@ep-still-snowflake-a4l5opga-pooler.us-east-1.aws.neon.tech/scraperdb?sslmode=require"
     )
-    cg = pd.read_sql_query("SELECT * FROM capitol_gazette;", engine)
-    hw = pd.read_sql_query("SELECT * FROM hyattsville_wire;", engine)
     bb = pd.read_sql_query("SELECT * FROM baltimore_banner;", engine)
-    print(f"Loaded {len(cg)} Capitol Gazette articles, {len(hw)} Hyattsville Wire articles, and {len(bb)} Baltimore Banner articles.")
-    cg["source"] = "Capital Gazette"
-    hw["source"] = "Hyattsville Wire"
-    cg = cg[cg['word_count'] > 30]  # remove paywalled articles from CG
+    cg = pd.read_sql_query("SELECT * FROM capitol_gazette;", engine)
+
     bb["source"] = "Baltimore Banner"
-    # Remove timezone from pub_date if present
-    if hasattr(hw["pub_date"], 'dt'):
-        hw["pub_date"] = hw["pub_date"].dt.tz_localize(None)
-    if hasattr(bb["pub_date"], 'dt'):
-        bb["pub_date"] = bb["pub_date"].dt.tz_localize(None)
-    df = pd.concat([cg, hw, bb], ignore_index=True)
+    cg["source"] = "Capitol Gazette"
+
+    df = pd.concat([bb, cg], ignore_index=True)
+
     df = df.dropna(subset=["headline", "pub_date"])
     df["pub_date"] = pd.to_datetime(df["pub_date"], errors="coerce")
     df = df.dropna(subset=["pub_date"])
+
+    # Filter out invalid entries
     df = df[(df["headline_len"] > 0) & (df["word_count"] > 0)]
+
     return df
 
 df = load_data()
-
-#remove outliers
-df = df[df["word_count"] < 5000]  # Remove articles with excessive word count
-print(f"HW articles after filtering: {len(df[df['source'] == 'Hyattsville Wire'])}")
 
 # Sidebar filters
 st.sidebar.header("🔍 Filters")
@@ -47,6 +42,12 @@ sources = st.sidebar.multiselect(
     "Select News Sources",
     options=df["source"].unique(),
     default=df["source"].unique()
+)
+
+sections = st.sidebar.multiselect(
+    "Select Sections",
+    options=sorted(df["section"].dropna().unique()),
+    default=sorted(df["section"].dropna().unique())
 )
 
 # Set default dates in the sidebar
@@ -65,9 +66,118 @@ date_range = st.sidebar.date_input(
 # Filtered data
 filtered = df[
     (df["source"].isin(sources)) &
+    (df["section"].isin(sections)) &
     (df["pub_date"] >= pd.to_datetime(date_range[0])) &
     (df["pub_date"] <= pd.to_datetime(date_range[1]))
 ]
+
+#---------------MAP Section--------------------
+
+# Load geocoded place mentions from the DB
+@st.cache_data(ttl=600)
+def load_place_mentions():
+    engine = create_engine(
+        "postgresql+psycopg2://scraperdb_owner:npg_mbyWDf3q5rFp@ep-still-snowflake-a4l5opga-pooler.us-east-1.aws.neon.tech/scraperdb?sslmode=require"
+    )
+    return pd.read_sql("SELECT * FROM article_place_mentions", engine)
+
+# Load and filter by sidebar-selected articles
+all_place_mentions = load_place_mentions()
+place_df = all_place_mentions.merge(
+    filtered[["headline"]], on="headline", how="inner"
+)
+
+# Create clickable link for each headline - need to fix/remove
+place_df["headline_link"] = place_df.apply(
+    lambda row: f"<a href='{row.url}' target='_blank'>{row.headline}</a>", axis=1
+)
+
+# Group and join headlines into one per place
+headline_links = (
+    place_df.groupby(["place", "latitude", "longitude"])["headline_link"]
+    .apply(lambda links: "<br>".join(links))
+    .reset_index()
+)
+
+# Count mentions per source
+source_counts = (
+    place_df.groupby(["place", "latitude", "longitude", "source"])
+    .size()
+    .reset_index(name="source_count")
+)
+
+# Pivot source counts into columns
+source_pivot = source_counts.pivot_table(
+    index=["place", "latitude", "longitude"],
+    columns="source",
+    values="source_count",
+    fill_value=0
+).reset_index()
+
+# Ensure expected columns exist even if one source is missing
+for col in ["Baltimore Banner", "Capitol Gazette"]:
+    if col not in source_pivot.columns:
+        source_pivot[col] = 0
+
+source_pivot.columns.name = None
+source_pivot = source_pivot.rename(columns={
+    "Baltimore Banner": "banner_count",
+    "Capitol Gazette": "gazette_count"
+})
+
+source_pivot["total_mentions"] = source_pivot["banner_count"] + source_pivot["gazette_count"]
+source_pivot["scaled_radius"] = (source_pivot["total_mentions"] + 20) * 2000
+
+# Assign color based on source mix
+def get_color(row):
+    if row["banner_count"] > 0 and row["gazette_count"] > 0:
+        return [160, 32, 240, 200]  # purple if both
+    elif row["banner_count"] > 0:
+        return [255, 0, 0, 200]      # red for just baltimore_banner
+    else:
+        return [0, 100, 255, 200]    # blue for cg
+
+source_pivot["dot_color"] = source_pivot.apply(get_color, axis=1)
+
+# merge everything
+map_data = source_pivot.merge(headline_links, on=["place", "latitude", "longitude"], how="left")
+
+# build map
+st.subheader("🗺️ Map of Places Mentioned in Articles")
+st.pydeck_chart(pdk.Deck(
+    initial_view_state=pdk.ViewState(
+        latitude=map_data["latitude"].mean(),
+        longitude=map_data["longitude"].mean(),
+        zoom=3,
+        pitch=0
+    ),
+    map_style="mapbox://styles/mapbox/light-v9",
+    layers=[
+        pdk.Layer(
+            "ScatterplotLayer",
+            data=map_data,
+            get_position='[longitude, latitude]',
+            get_radius="scaled_radius",
+            get_fill_color="dot_color",
+            pickable=True,
+            radius_scale=1,            
+            radius_min_pixels=2,       
+            radius_max_pixels=40,      
+            auto_highlight=True
+        ),  
+    ],
+    tooltip={
+        "html": """
+            <b>{place}</b><br>
+            Baltimore Banner Mentions: {banner_count}<br>
+            Capitol Gazette Mentions: {gazette_count}<br>
+        """,
+        "style": {"color": "white", "maxWidth": "400px"}
+    }
+), height=700)
+
+
+
 
 # Charts
 st.subheader("📅 Articles Over Time")
@@ -130,26 +240,10 @@ fig_avg_length = px.bar(
 )
 st.plotly_chart(fig_avg_length, use_container_width=True)
 
-
-
-# Visualization: Number of articles by day of the week, separated by source
-st.subheader("📆 Articles by Day of the Week (by Source)")
-filtered["weekday"] = filtered["pub_date"].dt.day_name()
-fig_weekday_source = px.histogram(
-    filtered,
-    x="weekday",
-    color="source",
-    category_orders={"weekday": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]},
-    title="Number of Articles by Day of the Week (by Source)",
-    labels={"weekday": "Day of Week", "count": "Number of Articles"},
-    barmode="group"
-)
-st.plotly_chart(fig_weekday_source, use_container_width=True)
-
 # Display data preview
 st.subheader("📄 Filtered Article Data")
 st.dataframe(filtered[["pub_date", "source", "section", "headline", "headline_len", "word_count", "num_images", "num_ads_est"]], use_container_width=True)
 
 # Footer
 st.markdown("---")
-st.markdown("Data sourced from the Capitol Gazette and Hyattsville Wire.")
+st.markdown("Data sourced from the Baltimore Banner and Capitol Gazette.")
