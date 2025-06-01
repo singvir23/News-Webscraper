@@ -98,6 +98,15 @@ st.subheader("🖼️ Image Count Distribution")
 fig_img = px.histogram(filtered, x="num_images", color="source", nbins=15, barmode="group", title="Number of Images per Article")
 st.plotly_chart(fig_img, use_container_width=True)
 
+st.subheader("🔗 Number of Links per Article by Source")
+fig_links = px.box(
+    filtered,
+    x="source",
+    y="num_links",
+    points="all",
+    title="Distribution of Links per Article by News Source",
+)
+st.plotly_chart(fig_links, use_container_width=True)
 
 # 📚 Section Popularity Over Time
 st.subheader("📚 Section Popularity Over Time")
