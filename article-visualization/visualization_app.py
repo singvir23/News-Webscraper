@@ -37,12 +37,14 @@ def load_data():
 
 df = load_data()
 
+
+
 #remove outliers
 df = df[df["word_count"] < 5000]  # Remove articles with excessive word count
 print(f"HW articles after filtering: {len(df[df['source'] == 'Hyattsville Wire'])}")
 
 # Sidebar filters
-st.sidebar.header("🔍 Filters")
+st.sidebar.header("🔎 Filters")
 
 sources = st.sidebar.multiselect(
     "Select News Sources",
@@ -62,6 +64,17 @@ date_range = st.sidebar.date_input(
     min_value=date_min,
     max_value=date_max
 )
+# New: Add text inputs for keyword filters
+# New: Filter by headline keywords (comma-separated list)
+headline_keywords = st.sidebar.text_input(
+    "Headline keywords (comma-separated)",
+    key="headline_keywords"  # New: unique key to avoid duplicate ID
+)
+# New: Filter by article text keywords (comma-separated list)
+article_keywords = st.sidebar.text_area(
+    "Article keywords (comma-separated)",
+    key="article_keywords"  # New: unique key for the text_area
+)
 
 # Filtered data
 filtered = df[
@@ -69,6 +82,29 @@ filtered = df[
     (df["pub_date"] >= pd.to_datetime(date_range[0])) &
     (df["pub_date"] <= pd.to_datetime(date_range[1]))
 ]
+
+# New: Apply headline keyword filter
+if headline_keywords:
+    keywords = [kw.strip() for kw in headline_keywords.split(",") if kw.strip()]
+    filtered = filtered[
+        filtered["headline"].str.contains("|".join(keywords), case=False, na=False)
+    ]
+  
+
+
+# New: Apply article keyword filter
+# Requires 'article_text' column; rename if your DataFrame uses a different name
+# New: Apply article keyword filter
+if article_keywords:
+    keywords = [kw.strip() for kw in article_keywords.split(",") if kw.strip()]
+    filtered = filtered[
+        filtered["article_text"]
+            .str
+            .contains("|".join(keywords), case=False, na=False)
+    ]
+
+
+
 
 # Charts
 st.subheader("📅 Articles Over Time")
