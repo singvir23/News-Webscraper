@@ -179,6 +179,7 @@ st.plotly_chart(fig_avg_length, use_container_width=True)
 
 # Visualization: Number of articles by day of the week, separated by source
 st.subheader("📆 Articles by Day of the Week (by Source)")
+filtered = filtered.copy()  
 filtered["weekday"] = filtered["pub_date"].dt.day_name()
 fig_weekday_source = px.histogram(
     filtered,
