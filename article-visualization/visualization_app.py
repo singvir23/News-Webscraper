@@ -8,7 +8,12 @@ import datetime
 st.set_page_config(page_title="News Visualizer", layout="wide")
 st.title("Maryland News Articles Visualization Dashboard")
 st.markdown(
-    "This dashboard visualizes articles from the Capitol Gazette, Hyattsville Wire, and Baltimore Banner. Use the filters to explore different sources and date ranges.")
+    "This dashboard visualizes articles from the Capital Gazette, Hyattsville Wire, and Baltimore Banner. Use the filters to explore different sources and date ranges.")
+st.markdown("""
+**Developed by the Data Visualization team at the Digital Engagement Lab**  
+**Directed by:** Noah Der Garabedian  
+**Contributors:** Justin Lee, Sivani Dronamraju, Sean Gunshenan  
+""")
 # Load data from PostgreSQL
 @st.cache_data(ttl=600)
 def load_data():
@@ -18,7 +23,6 @@ def load_data():
     cg = pd.read_sql_query("SELECT * FROM capitol_gazette;", engine)
     hw = pd.read_sql_query("SELECT * FROM hyattsville_wire;", engine)
     bb = pd.read_sql_query("SELECT * FROM baltimore_banner;", engine)
-    print(f"Loaded {len(cg)} Capitol Gazette articles, {len(hw)} Hyattsville Wire articles, and {len(bb)} Baltimore Banner articles.")
     cg["source"] = "Capital Gazette"
     hw["source"] = "Hyattsville Wire"
     cg = cg[cg['word_count'] > 30]  # remove paywalled articles from CG
@@ -41,7 +45,7 @@ df = load_data()
 
 #remove outliers
 df = df[df["word_count"] < 5000]  # Remove articles with excessive word count
-print(f"HW articles after filtering: {len(df[df['source'] == 'Hyattsville Wire'])}")
+#print(f"HW articles after filtering: {len(df[df['source'] == 'Hyattsville Wire'])}")
 
 # Sidebar filters
 st.sidebar.header("🔎 Filters")
@@ -53,7 +57,7 @@ sources = st.sidebar.multiselect(
 )
 
 # Set default dates in the sidebar
-default_start_date = datetime.date(2025, 4, 20)
+default_start_date = datetime.date(2025, 4, 23)
 default_end_date = df["pub_date"].max()
 
 
@@ -104,34 +108,74 @@ if article_keywords:
     ]
 
 
+print(f"Filtered articles from hyattsville wire : {len(filtered[filtered['source'] == 'Hyattsville Wire'])}")
 
 
-# Charts
-st.subheader("📅 Articles Over Time")
-fig_time = px.histogram(filtered, x="pub_date", color="source", nbins=40, title="Publication Timeline by Source")
-st.plotly_chart(fig_time, use_container_width=True)
+# 📅 Articles Over Time (Bar Chart, Daily, Side-by-Side)
+st.subheader("📅 Articles Over Time (Bar Chart, Daily)")
+articles_over_time_daily = (
+    filtered.groupby([pd.Grouper(key="pub_date", freq="D"), "source"]).size().reset_index(name="count")
+)
+fig_time_bar_daily = px.bar(
+    articles_over_time_daily,
+    x="pub_date",
+    y="count",
+    color="source",
+    barmode="group",
+    title="Articles Published Over Time (Daily, Side-by-Side)",
+    labels={"pub_date": "Publication Date", "count": "Number of Articles", "source": "News Source"}
+)
+st.plotly_chart(fig_time_bar_daily, use_container_width=True)
 
 st.subheader("✍️ Headline Length Box Plot")
-fig_headline = px.box(filtered, x="source", y="headline_len", points="all", title="Headline Length per Article")
+fig_headline = px.box(
+    filtered,
+    x="source",
+    y="headline_len",
+    points="all",
+    title="Headline Length per Article",
+    labels={"headline_len": "Headline Length", "source": "News Source"}
+)
 st.plotly_chart(fig_headline, use_container_width=True)
 
 st.subheader("📝 Word Count Box Plot")
-fig_word = px.box(filtered, x="source", y="word_count", points="all", title="Word Count per Article")
+fig_word = px.box(
+    filtered,
+    x="source",
+    y="word_count",
+    points="all",
+    title="Word Count per Article",
+    labels={"word_count": "Word Count", "source": "News Source"}
+)
 st.plotly_chart(fig_word, use_container_width=True)
 
-st.subheader("📊 Headline Length vs. Word Count (Scatter)")
-fig_scatter = px.scatter(
-    filtered,
-    x="word_count",
-    y="headline_len",
-    color="source",
-    hover_data=["headline", "section"],
-    title="Headline Length vs. Word Count"
-)
-st.plotly_chart(fig_scatter, use_container_width=True)
+# IMAGE COUNT EXCLUDED UNTIL WE CAN FIX THE DATA COLLECTED FROM CAPITAL GAZETTE (charts shown in the news articles
+# are not picked up as images)
 
+# 🖼️ Image Count Distribution (Excludes Baltimore Banner)
 st.subheader("🖼️ Image Count Distribution")
-fig_img = px.histogram(filtered, x="num_images", color="source", nbins=15, barmode="group", title="Number of Images per Article")
+img_note = (
+    "**Note:** Baltimore Banner articles are excluded from this chart because image data could not be accurately collected for this source."
+)
+img_tip = (
+    "**Tip:** Change date range to start at 2024-01-01 to see more articles from the Hyattsville Wire."
+)
+st.markdown(img_note)
+st.markdown(img_tip)
+img_filtered = filtered[filtered["source"] != "Baltimore Banner"]
+
+# Count number of articles for each num_images value per source
+img_counts = img_filtered.groupby(["num_images", "source"]).size().reset_index(name="count")
+
+fig_img = px.bar(
+    img_counts,
+    x="num_images",
+    y="count",
+    color="source",
+    barmode="group",
+    title="Number of Images per Article (Excludes Baltimore Banner)",
+    labels={"num_images": "Number of Images", "count": "Number of Articles", "source": "News Source"}
+)
 st.plotly_chart(fig_img, use_container_width=True)
 
 st.subheader("🔗 Number of Links per Article by Source")
@@ -141,61 +185,96 @@ fig_links = px.box(
     y="num_links",
     points="all",
     title="Distribution of Links per Article by News Source",
+    labels={"num_links": "Number of Links", "source": "News Source"}
 )
 st.plotly_chart(fig_links, use_container_width=True)
 
-# 📚 Section Popularity Over Time
-st.subheader("📚 Section Popularity Over Time")
-fig_section_time = px.histogram(
-    filtered,
-    x="pub_date",
-    color="section",
-    nbins=40,
-    title="Article Count by Section Over Time",
-    labels={"pub_date": "Publication Date", "count": "Number of Articles"}
-)
-st.plotly_chart(fig_section_time, use_container_width=True)
 
-# 🧮 Average Article Length by Section
-# NEEDS TO BE SEPERATED OUT (Have one for bamtimore banner and capital gazette, and one for hyattsville wire)
-# since they have different section names
-st.subheader("🧮 Average Article Length by Section")
-avg_lengths = (
-    filtered.groupby("section")["word_count"]
+# 📚 Section Popularity Over Time (Excludes Hyattsville Wire)
+st.subheader("📚 Section Popularity Over Time (Line Chart, Daily)")
+section_note = (
+    "**Note:** Hyattsville Wire is excluded from this chart because its section types differ from the other news sources."
+)
+st.markdown(section_note)
+section_filtered = filtered[filtered["source"] != "Hyattsville Wire"].copy()
+section_over_time_daily = (
+    section_filtered.groupby([pd.Grouper(key="pub_date", freq="D"), "section"]).size().reset_index(name="count")
+)
+fig_section_line_daily = px.line(
+    section_over_time_daily,
+    x="pub_date",
+    y="count",
+    color="section",
+    title="Section Popularity Over Time (Daily, Excludes Hyattsville Wire)",
+    labels={"pub_date": "Publication Date", "count": "Number of Articles", "section": "Section"}
+)
+# Make the lines thicker
+fig_section_line_daily.update_traces(line=dict(width=3))
+
+st.plotly_chart(fig_section_line_daily, use_container_width=True)
+
+# 🧮 Average Article Length by Section (Side-by-Side by News Site)
+st.subheader("🧮 Average Article Length by Section (by News Site)")
+
+article_length_by_section_note = (
+    "**Note:** Hyattsville Wire is excluded from this chart because its section types differ from the other news sources."
+)
+st.markdown(article_length_by_section_note)
+# Combine all sources for a grouped bar chart
+avg_lengths_all = (
+    filtered[filtered['source'] != "Hyattsville Wire"].groupby(["source", "section"])["word_count"]
     .mean()
     .reset_index()
-    .sort_values(by="word_count", ascending=False)
 )
-fig_avg_length = px.bar(
-    avg_lengths,
+fig_avg_length_grouped = px.bar(
+    avg_lengths_all,
     x="section",
     y="word_count",
-    title="Average Word Count per Section",
-    labels={"word_count": "Average Word Count"},
+    color="source",
+    barmode="group",
+    title="Average Word Count per Section (Grouped by News Site)",
+    labels={"word_count": "Average Word Count", "section": "Section", "source": "News Site"},
 )
-st.plotly_chart(fig_avg_length, use_container_width=True)
-
-
+st.plotly_chart(fig_avg_length_grouped, use_container_width=True)
 
 # Visualization: Number of articles by day of the week, separated by source
-st.subheader("📆 Articles by Day of the Week (by Source)")
+st.subheader("\U0001F4C6 Articles by Day of the Week (by Source)")
+
+# Add a toggle button for relative/absolute bar chart
+show_relative = st.checkbox("Click Here to Show as Percentage (Relative Bar Chart)", value=False)
+
 filtered = filtered.copy()  
 filtered["weekday"] = filtered["pub_date"].dt.day_name()
-fig_weekday_source = px.histogram(
-    filtered,
-    x="weekday",
-    color="source",
-    category_orders={"weekday": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]},
-    title="Number of Articles by Day of the Week (by Source)",
-    labels={"weekday": "Day of Week", "count": "Number of Articles"},
-    barmode="group"
-)
+
+if show_relative:
+    # Calculate percentage of articles for each source by weekday (relative to total for that source)
+    weekday_counts = filtered.groupby(["source", "weekday"]).size().reset_index(name="count")
+    source_totals = weekday_counts.groupby("source")["count"].transform("sum")
+    weekday_counts["percent"] = 100 * weekday_counts["count"] / source_totals
+    fig_weekday_source = px.bar(
+        weekday_counts,
+        x="weekday",
+        y="percent",
+        color="source",
+        category_orders={"weekday": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]},
+        title="Percentage of Articles by Day of the Week (by Source, Relative to Source Total)",
+        labels={"weekday": "Day of Week", "percent": "Percentage of Articles", "source": "News Source"},
+        barmode="group"
+    )
+else:
+    fig_weekday_source = px.histogram(
+        filtered,
+        x="weekday",
+        color="source",
+        category_orders={"weekday": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]},
+        title="Number of Articles by Day of the Week (by Source, Count of articles)",
+        labels={"weekday": "Day of Week", "count": "Number of Articles"},
+        barmode="group"
+    )
+
 st.plotly_chart(fig_weekday_source, use_container_width=True)
 
-# Display data preview
-st.subheader("📄 Filtered Article Data")
-st.dataframe(filtered[["pub_date", "source", "section", "headline", "headline_len", "word_count", "num_images", "num_ads_est"]], use_container_width=True)
 
 # Footer
 st.markdown("---")
-st.markdown("Data sourced from the Capitol Gazette, the Baltimore Banner, and the Hyattsville Wire.")
+st.markdown("Data sourced from the Capital Gazette, the Baltimore Banner, and the Hyattsville Wire.")
