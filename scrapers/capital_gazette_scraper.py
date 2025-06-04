@@ -116,8 +116,9 @@ def parse_article(url: str) -> dict:
     links_in_body = [a["href"] for p in paragraphs for a in p.find_all("a", href=True)]
     num_links = len(links_in_body)
 
-    # images
+    # images (count <img> and <svg> tags)
     imgs = soup.select("div.body-copy img")
+    svgs = soup.select("div.body-copy svg")
     image_info = []
     for img in imgs:
         src = img.get("src")
@@ -127,7 +128,11 @@ def parse_article(url: str) -> dict:
         h = img.get("height")
         if not (w and h):
             w, h = get_image_dims(src)
-        image_info.append({"src": src, "width": w, "height": h})
+        image_info.append({"src": src, "width": w, "height": h, "type": "img"})
+    for svg in svgs:
+        # For SVGs, we can store the outer HTML as a string for reference
+        svg_html = str(svg)
+        image_info.append({"src": None, "width": None, "height": None, "type": "svg", "svg_html": svg_html})
     num_images = len(image_info)
 
     # date
