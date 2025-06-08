@@ -174,6 +174,9 @@ function ChartImagesPerArticle({ data }) {
               name="Article Index"
               label={{ value: 'Article Index', position: 'bottom', fill: '#ccc' }}
               tick={{ fill: '#ccc' }}
+              tickCount={10}
+              domain={['dataMin', 'dataMax']}
+              tickFormatter={(value) => Math.round(value / 10) * 10}
             />
             <YAxis
               type="number"
@@ -181,7 +184,9 @@ function ChartImagesPerArticle({ data }) {
               name="Number of Images"
               label={{ value: 'Number of Images', angle: -90, position: 'insideLeft', fill: '#ccc' }}
               tick={{ fill: '#ccc' }}
-              domain={['auto', 'auto']}
+              domain={['dataMin', 'dataMax']}
+              tickCount={10}
+              tickFormatter={(value) => Math.round(value / 5) * 5}
             />
             <ZAxis
               type="number"

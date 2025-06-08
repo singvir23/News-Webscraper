@@ -117,6 +117,8 @@ function ChartImageSizes({ data }) {
               label={{ value: 'Width (px)', position: 'bottom', fill: '#ccc' }}
               tick={{ fill: '#ccc' }}
               domain={['dataMin', 'dataMax']}
+              tickCount={10}
+              tickFormatter={(value) => Math.round(value / 200) * 200}
             />
             <YAxis
               type="number"
@@ -125,6 +127,8 @@ function ChartImageSizes({ data }) {
               label={{ value: 'Height (px)', angle: -90, position: 'insideLeft', fill: '#ccc' }}
               tick={{ fill: '#ccc' }}
               domain={['dataMin', 'dataMax']}
+              tickCount={10}
+              tickFormatter={(value) => Math.round(value / 200) * 200}
             />
             <ZAxis
               type="number"

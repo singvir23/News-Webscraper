@@ -95,22 +95,26 @@ function ChartWordsPerArticle({ data }) {
   // Separate by source for the scatter chart
   const sources = useMemo(() => [...new Set(groupedData.map(d => d.source))], [groupedData]);
 
-  // Calculate bar chart data: bin the word counts into 10 bins for FOX and CNN
+  // Calculate bar chart data: bin the word counts into fixed bins of 150 words for FOX and CNN
   const barData = useMemo(() => {
     if (filteredData.length === 0) return [];
     const wordCounts = filteredData.map(article => article.y);
-    const min = Math.min(...wordCounts);
+    const min = 0; // Start from 0
     const max = Math.max(...wordCounts);
-    const numBins = 10;
-    const binWidth = Math.ceil((max - min + 1) / numBins);
+    const binWidth = 150; // Fixed bin width of 150 words
+    const numBins = Math.ceil((max - min) / binWidth);
     const bins = [];
+    
     for (let i = 0; i < numBins; i++) {
+      const binStart = min + i * binWidth;
+      const binEnd = binStart + binWidth - 1;
       bins.push({
-        range: `${min + i * binWidth}-${min + (i + 1) * binWidth - 1}`,
+        range: `${binStart}-${binEnd}`,
         FOX: 0,
         CNN: 0,
       });
     }
+    
     // Only include FOX and CNN articles in the bar chart
     filteredData.forEach(article => {
       if (article.source !== 'FOX' && article.source !== 'CNN') return;
@@ -120,8 +124,14 @@ function ChartWordsPerArticle({ data }) {
         bins[binIndex][article.source] += 1;
       }
     });
-    // Optionally filter out bins with zero articles for both sources
-    return bins.filter(bin => bin.FOX > 0 || bin.CNN > 0);
+    
+    // Filter out empty bins at the end
+    let lastNonEmptyIndex = bins.length - 1;
+    while (lastNonEmptyIndex >= 0 && bins[lastNonEmptyIndex].FOX === 0 && bins[lastNonEmptyIndex].CNN === 0) {
+      lastNonEmptyIndex--;
+    }
+    
+    return bins.slice(0, lastNonEmptyIndex + 1);
   }, [filteredData]);
 
   // Set chart dimensions
@@ -211,6 +221,9 @@ function ChartWordsPerArticle({ data }) {
               name="Article Index"
               label={{ value: 'Article Index', position: 'bottom', fill: '#ccc' }}
               tick={{ fill: '#ccc' }}
+              tickCount={10}
+              domain={['dataMin', 'dataMax']}
+              tickFormatter={(value) => Math.round(value / 10) * 10}
             />
             <YAxis
               type="number"
@@ -218,7 +231,9 @@ function ChartWordsPerArticle({ data }) {
               name="Word Count"
               label={{ value: 'Word Count', angle: -90, position: 'insideLeft', fill: '#ccc' }}
               tick={{ fill: '#ccc' }}
-              domain={['auto', 'auto']}
+              domain={['dataMin', 'dataMax']}
+              tickCount={10}
+              tickFormatter={(value) => Math.round(value / 500) * 500}
             />
             <ZAxis
               type="number"
@@ -261,7 +276,7 @@ function ChartWordsPerArticle({ data }) {
         {/* Bar Chart */}
         <div className="bar-chart-container">
           <BarChart
-            width={chartWidth}
+            width={chartWidth * 1.5} // Make the chart wider to accommodate more bins
             height={chartHeight}
             data={barData}
             margin={{ top: 20, right: 20, bottom: 60, left: 60 }}
@@ -270,7 +285,10 @@ function ChartWordsPerArticle({ data }) {
             <XAxis
               dataKey="range"
               label={{ value: 'Word Count Range', position: 'bottom', fill: '#ccc' }}
-              tick={{ fill: '#ccc' }}
+              tick={{ fill: '#ccc', fontSize: 10 }}
+              angle={-45}
+              textAnchor="end"
+              height={80}
             />
             <YAxis
               label={{ value: 'Articles', angle: -90, position: 'insideLeft', fill: '#ccc' }}
