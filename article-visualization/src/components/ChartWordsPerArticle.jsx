@@ -95,13 +95,13 @@ function ChartWordsPerArticle({ data }) {
   // Separate by source for the scatter chart
   const sources = useMemo(() => [...new Set(groupedData.map(d => d.source))], [groupedData]);
 
-  // Calculate bar chart data: bin the word counts into fixed bins of 150 words for FOX and CNN
+  // Calculate bar chart data: bin the word counts into fixed 250-word increments
   const barData = useMemo(() => {
     if (filteredData.length === 0) return [];
     const wordCounts = filteredData.map(article => article.y);
-    const min = 0; // Start from 0
-    const max = Math.max(...wordCounts);
-    const binWidth = 150; // Fixed bin width of 150 words
+    const min = Math.floor(Math.min(...wordCounts) / 250) * 250;
+    const max = Math.ceil(Math.max(...wordCounts) / 250) * 250;
+    const binWidth = 250;
     const numBins = Math.ceil((max - min) / binWidth);
     const bins = [];
     
@@ -114,7 +114,7 @@ function ChartWordsPerArticle({ data }) {
         CNN: 0,
       });
     }
-    
+
     // Only include FOX and CNN articles in the bar chart
     filteredData.forEach(article => {
       if (article.source !== 'FOX' && article.source !== 'CNN') return;
@@ -124,14 +124,9 @@ function ChartWordsPerArticle({ data }) {
         bins[binIndex][article.source] += 1;
       }
     });
-    
-    // Filter out empty bins at the end
-    let lastNonEmptyIndex = bins.length - 1;
-    while (lastNonEmptyIndex >= 0 && bins[lastNonEmptyIndex].FOX === 0 && bins[lastNonEmptyIndex].CNN === 0) {
-      lastNonEmptyIndex--;
-    }
-    
-    return bins.slice(0, lastNonEmptyIndex + 1);
+
+    // Filter out bins with zero articles for both sources
+    return bins.filter(bin => bin.FOX > 0 || bin.CNN > 0);
   }, [filteredData]);
 
   // Set chart dimensions
@@ -276,7 +271,7 @@ function ChartWordsPerArticle({ data }) {
         {/* Bar Chart */}
         <div className="bar-chart-container">
           <BarChart
-            width={chartWidth * 1.5} // Make the chart wider to accommodate more bins
+            width={chartWidth * 1.5}  // Make the chart wider to accommodate more bins
             height={chartHeight}
             data={barData}
             margin={{ top: 20, right: 20, bottom: 60, left: 60 }}
@@ -286,9 +281,9 @@ function ChartWordsPerArticle({ data }) {
               dataKey="range"
               label={{ value: 'Word Count Range', position: 'bottom', fill: '#ccc' }}
               tick={{ fill: '#ccc', fontSize: 10 }}
-              angle={-45}
-              textAnchor="end"
-              height={80}
+              angle={-45}  // Angle the labels for better readability
+              textAnchor="end"  // Align the angled text
+              height={60}  // Increase space for labels
             />
             <YAxis
               label={{ value: 'Articles', angle: -90, position: 'insideLeft', fill: '#ccc' }}
